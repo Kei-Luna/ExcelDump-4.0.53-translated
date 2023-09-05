@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40101,
@@ -9,7 +9,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40102,
@@ -18,7 +18,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40103,
@@ -27,7 +27,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40104,
@@ -36,7 +36,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40105,
@@ -45,7 +45,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40106,
@@ -54,7 +54,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40107,
@@ -63,7 +63,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40108,
@@ -72,7 +72,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40109,
@@ -81,7 +81,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40110,
@@ -90,7 +90,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40111,
@@ -99,7 +99,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40112,
@@ -108,7 +108,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40113,
@@ -117,7 +117,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40114,
@@ -126,7 +126,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 15,
+    "id": 15,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40115,
@@ -135,7 +135,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 16,
+    "id": 16,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40116,
@@ -144,7 +144,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 17,
+    "id": 17,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40117,
@@ -153,7 +153,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 18,
+    "id": 18,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40118,
@@ -162,7 +162,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 19,
+    "id": 19,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40119,
@@ -171,7 +171,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 20,
+    "id": 20,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40120,
@@ -180,7 +180,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 21,
+    "id": 21,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40121,
@@ -189,7 +189,7 @@
     "MAHNBOMIAPA": "Reliquary"
   },
   {
-    "PGKNKBKHCHM": 22,
+    "id": 22,
     "KMKJJLNPLFN": 3,
     "GJEHPEBILBM": 5,
     "JGIGGNHNJED": 40122,

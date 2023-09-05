@@ -12,7 +12,7 @@
     "ODFPNBBMHLK": 3347469401,
     "HGOJDPCKIKP": "Descaling: Thundering Grief",
     "IPJBKHBOCFN": 3419806477,
-    "NLHEIBGLNIJ": "Crackling Thunder Manifestation",
+    "monsterName": "Crackling Thunder Manifestation",
     "KFONPBMHCGI": [
       {
         "CDOIPGMKDFF": 15135101
@@ -149,7 +149,7 @@
     "ODFPNBBMHLK": 3479942193,
     "HGOJDPCKIKP": "Piety: Calamity of Blazing Steel",
     "IPJBKHBOCFN": 3475757037,
-    "NLHEIBGLNIJ": "Aeonblight Drake (Heavy Assault Pack)",
+    "monsterName": "Aeonblight Drake (Heavy Assault Pack)",
     "KFONPBMHCGI": [
       {
         "CDOIPGMKDFF": 15135201
@@ -286,7 +286,7 @@
     "ODFPNBBMHLK": 1476728073,
     "HGOJDPCKIKP": "Shadow: Twined Dragonheirs",
     "IPJBKHBOCFN": 4228155909,
-    "NLHEIBGLNIJ": "Booming Bathysmal Vishap Herd",
+    "monsterName": "Booming Bathysmal Vishap Herd",
     "KFONPBMHCGI": [
       {
         "CDOIPGMKDFF": 15135301
@@ -423,7 +423,7 @@
     "ODFPNBBMHLK": 408175433,
     "HGOJDPCKIKP": "Three-Realm Banquet of Stillness",
     "IPJBKHBOCFN": 3776579493,
-    "NLHEIBGLNIJ": "",
+    "monsterName": "",
     "KFONPBMHCGI": [
       {
         "CDOIPGMKDFF": 15135401

@@ -1,13 +1,13 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "FBMCNLDFNAF": "ART/UI/Atlas/GCG/BuffIcon/UI_Gcg_Buff_Common_Element_Physics",
     "MNAIKPPPPHK": 1,
     "JADFFJFEKCB": 0,
     "HALHLMDELDK": 0
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "FBMCNLDFNAF": "ART/UI/Atlas/GCG/BuffIcon/UI_Gcg_Buff_Common_Element_Physics",
     "MNAIKPPPPHK": 0.7,
     "JADFFJFEKCB": 20,

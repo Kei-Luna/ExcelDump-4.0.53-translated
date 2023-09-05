@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "ODFPNBBMHLK": 1163999925,
     "HGOJDPCKIKP": "Holding Pot",
     "OGIADIBEKEF": 0,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "ODFPNBBMHLK": 214532285,
     "HGOJDPCKIKP": "Sleight Pot",
     "OGIADIBEKEF": 0,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "ODFPNBBMHLK": 2022008605,
     "HGOJDPCKIKP": "Quaker Pot",
     "OGIADIBEKEF": 0,
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "ODFPNBBMHLK": 2648587397,
     "HGOJDPCKIKP": "Agile Pot",
     "OGIADIBEKEF": 0,
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "ODFPNBBMHLK": 1624761069,
     "HGOJDPCKIKP": "Hiding Pot",
     "OGIADIBEKEF": 0,
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "ODFPNBBMHLK": 4041423661,
     "HGOJDPCKIKP": "Consuming Pot",
     "OGIADIBEKEF": 0,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "ODFPNBBMHLK": 2196316981,
     "HGOJDPCKIKP": "Ring of Rites",
     "OGIADIBEKEF": 1,
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "ODFPNBBMHLK": 2672881965,
     "HGOJDPCKIKP": "Beam of Blocking",
     "OGIADIBEKEF": 1,

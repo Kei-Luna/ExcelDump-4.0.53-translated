@@ -1,13 +1,13 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_XK_01/TeamInterfaceUI_XK_01_Group",
     "AMDPIKOCAIM": [],
-    "JFNIMDOBDHK": 0,
+    "type": 0,
     "ICGBLOEECIB": []
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_MD_01/TeamInterfaceUI_MD_01_Group",
     "AMDPIKOCAIM": [
       {
@@ -32,7 +32,7 @@
         "CDOIPGMKDFF": 1076
       }
     ],
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 1
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 21,
+    "id": 21,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_LY_01/TeamInterfaceUI_LY_01_Group",
     "AMDPIKOCAIM": [
       {
@@ -65,7 +65,7 @@
         "CDOIPGMKDFF": 20130
       }
     ],
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 2
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 31,
+    "id": 31,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_Dq_01/TeamInterfaceUI_Dq_01_Group",
     "AMDPIKOCAIM": [
       {
@@ -92,7 +92,7 @@
         "CDOIPGMKDFF": 1066
       }
     ],
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 3
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 41,
+    "id": 41,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_SL_01/TeamInterfaceUI_SL_01_Group",
     "AMDPIKOCAIM": [
       {
@@ -122,7 +122,7 @@
         "CDOIPGMKDFF": 1079
       }
     ],
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 20
@@ -148,14 +148,14 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 42,
+    "id": 42,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_SM_01/TeamInterfaceUI_SM_01_Group",
     "AMDPIKOCAIM": [
       {
         "CDOIPGMKDFF": 1077
       }
     ],
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 26
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 51,
+    "id": 51,
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_FD_01/TeamInterfaceUI_FD_01_Group",
     "AMDPIKOCAIM": [
       {
@@ -197,7 +197,7 @@
         "CDOIPGMKDFF": 1086
       }
     ],
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "ICGBLOEECIB": [
       {
         "CDOIPGMKDFF": 5

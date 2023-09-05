@@ -5,7 +5,7 @@
     "PMPMKOPBJHA": "FreshmeatRegion",
     "LEDPBEFMONH": 47,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 100,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -16,7 +16,7 @@
     "PMPMKOPBJHA": "GlobalOpenArea4_1",
     "LEDPBEFMONH": 48,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 21,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -27,7 +27,7 @@
     "PMPMKOPBJHA": "BigWorld_AsterArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -38,7 +38,7 @@
     "PMPMKOPBJHA": "BigWorld_CrucibleArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -49,7 +49,7 @@
     "PMPMKOPBJHA": "BigWorld_CryoRegisvineArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -60,7 +60,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Ballon_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -71,7 +71,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Ballon_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -82,7 +82,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Ballon_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -93,7 +93,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Ballon_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -104,7 +104,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Parachute_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -115,7 +115,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Parachute_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -126,7 +126,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Parachute_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -137,7 +137,7 @@
     "PMPMKOPBJHA": "BigWorld_FleurFair_Parachute_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -148,7 +148,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -159,7 +159,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -170,7 +170,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -181,7 +181,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -192,7 +192,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_005",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -203,7 +203,7 @@
     "PMPMKOPBJHA": "BigWorld_WaterSpiritArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -214,7 +214,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_006",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -225,7 +225,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_009",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -236,7 +236,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_011",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -247,7 +247,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_012",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -258,7 +258,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_013",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -269,7 +269,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_015",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -280,7 +280,7 @@
     "PMPMKOPBJHA": "BigWorld_HideandSeekArea_019",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -291,7 +291,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -302,7 +302,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_02",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -313,7 +313,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_03",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -324,7 +324,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_04",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -335,7 +335,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_05",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -346,7 +346,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_09",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -357,7 +357,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_11",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -368,7 +368,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_12",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -379,7 +379,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_QQZ_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -390,7 +390,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_CXJZ_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -401,7 +401,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_QCZTT_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -412,7 +412,7 @@
     "PMPMKOPBJHA": "BigWorld_HideAndSeekArea_V3_LYYJ_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -423,7 +423,7 @@
     "PMPMKOPBJHA": "BigWorld_SeaLamp_V3_BOAT_01",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -434,7 +434,7 @@
     "PMPMKOPBJHA": "BigWorld_SeaLamp_V3_BOAT_02",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -445,7 +445,7 @@
     "PMPMKOPBJHA": "BigWorld_SeaLamp_V3_BOAT_03",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -456,7 +456,7 @@
     "PMPMKOPBJHA": "BigWorld_LIMIT_REGION_WITHERED_FOREST",
     "LEDPBEFMONH": 3003,
     "AABACKCPCLJ": 3,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 99,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -467,7 +467,7 @@
     "PMPMKOPBJHA": "Map_GoldenAppleIsles_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 4,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -478,7 +478,7 @@
     "PMPMKOPBJHA": "BigWorld_AbyssalPalace_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 5,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -489,7 +489,7 @@
     "PMPMKOPBJHA": "BigWorld_MichiaeMatsuri_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 7,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -500,7 +500,7 @@
     "PMPMKOPBJHA": "BigWorld_TheChasm_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 6,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -511,7 +511,7 @@
     "PMPMKOPBJHA": "BigWorld_DreamIsland_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -522,7 +522,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Jump_002A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -533,7 +533,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Raft_002A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -544,7 +544,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Jump_001A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -555,7 +555,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Raft_001A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -566,7 +566,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Skiff_001A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -577,7 +577,7 @@
     "PMPMKOPBJHA": "BigWorld_SocialActivity_Skiff_002A",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 9,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -588,7 +588,7 @@
     "PMPMKOPBJHA": "BigWorld_Penumbra_OpenArea_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 10,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -599,7 +599,7 @@
     "PMPMKOPBJHA": "BigWorld_LIMIT_REGION_Penumbra_01",
     "LEDPBEFMONH": 3800,
     "AABACKCPCLJ": 10,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 99,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -610,7 +610,7 @@
     "PMPMKOPBJHA": "BigWorld_LIMIT_REGION_Penumbra_02",
     "LEDPBEFMONH": 3801,
     "AABACKCPCLJ": 10,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 98,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -621,7 +621,7 @@
     "PMPMKOPBJHA": "BigWorld_LIMIT_REGION_Penumbra_03",
     "LEDPBEFMONH": 3802,
     "AABACKCPCLJ": 10,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 97,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -632,7 +632,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Above_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2001,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -643,7 +643,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Above_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2001,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -654,7 +654,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Above_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2001,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -665,7 +665,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Above_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2001,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -676,7 +676,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Karst_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2002,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -687,7 +687,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Karst_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2002,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -698,7 +698,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Karst_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2002,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -709,7 +709,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Karst_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2002,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -720,7 +720,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Uncharted_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2003,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -731,7 +731,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Uncharted_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2003,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -742,7 +742,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Uncharted_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2003,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -753,7 +753,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Uncharted_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2003,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -764,7 +764,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Ukiyo_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2004,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -775,7 +775,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Ukiyo_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2004,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -786,7 +786,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Ukiyo_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2004,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -797,7 +797,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Ukiyo_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2004,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -808,7 +808,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Sumeru_001",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2005,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -819,7 +819,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Sumeru_002",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2005,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -830,7 +830,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Sumeru_003",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2005,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -841,7 +841,7 @@
     "PMPMKOPBJHA": "Map_Homeworld_Exterior_Sumeru_004",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 2005,
-    "JFNIMDOBDHK": 3,
+    "type": 3,
     "CMCLFNNNLNL": 0,
     "JFHGNKHILGH": 0,
     "CKFBJJOFGKA": false
@@ -852,7 +852,7 @@
     "PMPMKOPBJHA": "MirrorWorld_LimitRegion_AvidyaForest",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 20180,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 99,
     "JFHGNKHILGH": 1111404,
     "CKFBJJOFGKA": true
@@ -863,7 +863,7 @@
     "PMPMKOPBJHA": "MirrorWorld_LimitRegion_Erinnyes",
     "LEDPBEFMONH": 0,
     "AABACKCPCLJ": 20200,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "CMCLFNNNLNL": 99,
     "JFHGNKHILGH": 1111415,
     "CKFBJJOFGKA": true

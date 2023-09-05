@@ -68,7 +68,7 @@
     "AJGMCFNDKEG": "Requirements: Complete <color=#FFCC33FF>\"The Origin of the Lanterns\"</color>",
     "ODFPNBBMHLK": 3021504598,
     "HGOJDPCKIKP": "Lantern Rite Tales I",
-    "FPKEHKLHHDC": 492687217,
+    "nameTextMapHash": 492687217,
     "PMPMKOPBJHA": "We've Only Just Begun"
   },
   {
@@ -140,7 +140,7 @@
     "AJGMCFNDKEG": "Requirements: Reach the <color=#FFCC33FF>\"Guests Flock From Afar\"</color> stage of Festive Fever, complete the quest <color=#FFCC33FF>\"Currents Deep Beneath the Lanterns\"</color>, and complete all requests under \"Lantern Rite Tales I\"",
     "ODFPNBBMHLK": 3497461926,
     "HGOJDPCKIKP": "Lantern Rite Tales II",
-    "FPKEHKLHHDC": 314591881,
+    "nameTextMapHash": 314591881,
     "PMPMKOPBJHA": "Guests Flock From Afar"
   },
   {
@@ -200,7 +200,7 @@
     "AJGMCFNDKEG": "Requirements: Reach the <color=#FFCC33FF>\"Glow of a Thousand Lanterns\"</color> stage of Festive Fever, complete the quest <color=#FFCC33FF>\"Light Upon the Sea\"</color>, and complete all requests under \"Lantern Rite Tales II\"",
     "ODFPNBBMHLK": 3211738134,
     "HGOJDPCKIKP": "Lantern Rite Tales III",
-    "FPKEHKLHHDC": 1125703753,
+    "nameTextMapHash": 1125703753,
     "PMPMKOPBJHA": "Glow of a Thousand Lanterns"
   }
 ]

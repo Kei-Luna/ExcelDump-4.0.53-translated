@@ -6,7 +6,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1980817976,
     "NHIEOOCGJGH": "The location where host player starts the challenge in Co-Op Mode",
-    "PGKNKBKHCHM": 1001,
+    "id": 1001,
     "ADNEGPGLPKN": 1,
     "JONILKNONEM": 2,
     "FAGGPCMKIKE": [
@@ -17,7 +17,7 @@
         "CDOIPGMKDFF": 3
       }
     ],
-    "FPKEHKLHHDC": 2853314470,
+    "nameTextMapHash": 2853314470,
     "PMPMKOPBJHA": "Starting Point",
     "MKNKCBJKNBP": 18132809239187065000,
     "CGKJHJAGGJD": 4,
@@ -38,7 +38,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1504857248,
     "NHIEOOCGJGH": "The location where guest player starts the challenge in Co-Op Mode",
-    "PGKNKBKHCHM": 1002,
+    "id": 1002,
     "ADNEGPGLPKN": 1,
     "JONILKNONEM": 3,
     "FAGGPCMKIKE": [
@@ -49,7 +49,7 @@
         "CDOIPGMKDFF": 3
       }
     ],
-    "FPKEHKLHHDC": 840291910,
+    "nameTextMapHash": 840291910,
     "PMPMKOPBJHA": "Co-Op Starting Point",
     "MKNKCBJKNBP": 15728402358236000000,
     "CGKJHJAGGJD": 4,
@@ -70,7 +70,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 44020304,
     "NHIEOOCGJGH": "Use this location to move on to the next area. If there is a next area, an Exit Point must be set.",
-    "PGKNKBKHCHM": 1003,
+    "id": 1003,
     "ADNEGPGLPKN": 1,
     "JONILKNONEM": 4,
     "FAGGPCMKIKE": [
@@ -81,7 +81,7 @@
         "CDOIPGMKDFF": 5
       }
     ],
-    "FPKEHKLHHDC": 1389341966,
+    "nameTextMapHash": 1389341966,
     "PMPMKOPBJHA": "Exit Point",
     "MKNKCBJKNBP": 49399026889947440,
     "CGKJHJAGGJD": 6,
@@ -102,11 +102,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1598171928,
     "NHIEOOCGJGH": "Can be used as a source for Artificer Points, or as a necessary object for clearing this area.",
-    "PGKNKBKHCHM": 1004,
+    "id": 1004,
     "ADNEGPGLPKN": 1,
     "JONILKNONEM": 1,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 519135590,
+    "nameTextMapHash": 519135590,
     "PMPMKOPBJHA": "Adventure Coin",
     "MKNKCBJKNBP": 5350002537077537000,
     "CGKJHJAGGJD": 4,
@@ -127,11 +127,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 4092148392,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. \"Sticks to Ground\" objects can be mounted here.",
-    "PGKNKBKHCHM": 2001,
+    "id": 2001,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 3377372206,
+    "nameTextMapHash": 3377372206,
     "PMPMKOPBJHA": "Small Platform",
     "MKNKCBJKNBP": 3585462673784129000,
     "CGKJHJAGGJD": 1,
@@ -152,11 +152,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 974696064,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Climbable. \"Sticks to Ground\" objects can be mounted here.",
-    "PGKNKBKHCHM": 2002,
+    "id": 2002,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2545514750,
+    "nameTextMapHash": 2545514750,
     "PMPMKOPBJHA": "Square Paving",
     "MKNKCBJKNBP": 3879873658988341000,
     "CGKJHJAGGJD": 1,
@@ -177,7 +177,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 4258023848,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Cannot be climbed.",
-    "PGKNKBKHCHM": 2003,
+    "id": 2003,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -185,7 +185,7 @@
         "CDOIPGMKDFF": 2
       }
     ],
-    "FPKEHKLHHDC": 3564352302,
+    "nameTextMapHash": 3564352302,
     "PMPMKOPBJHA": "Specialized Square Paving",
     "MKNKCBJKNBP": 8063981098910125000,
     "CGKJHJAGGJD": 1,
@@ -206,11 +206,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 149669816,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Climbable. \"Sticks to Ground\" objects can be mounted here.",
-    "PGKNKBKHCHM": 2004,
+    "id": 2004,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 1497304326,
+    "nameTextMapHash": 1497304326,
     "PMPMKOPBJHA": "Square Paving: Vegetation",
     "MKNKCBJKNBP": 5624593599458120000,
     "CGKJHJAGGJD": 1,
@@ -231,7 +231,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 218149240,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Cannot be climbed.",
-    "PGKNKBKHCHM": 2005,
+    "id": 2005,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -239,7 +239,7 @@
         "CDOIPGMKDFF": 2
       }
     ],
-    "FPKEHKLHHDC": 3895421598,
+    "nameTextMapHash": 3895421598,
     "PMPMKOPBJHA": "Specialized Square Paving: Vegetation",
     "MKNKCBJKNBP": 16142912784092164000,
     "CGKJHJAGGJD": 1,
@@ -260,7 +260,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3518718888,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Cannot be climbed.",
-    "PGKNKBKHCHM": 2006,
+    "id": 2006,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -268,7 +268,7 @@
         "CDOIPGMKDFF": 2
       }
     ],
-    "FPKEHKLHHDC": 830594686,
+    "nameTextMapHash": 830594686,
     "PMPMKOPBJHA": "Wall",
     "MKNKCBJKNBP": 3895313078601993000,
     "CGKJHJAGGJD": 1,
@@ -289,7 +289,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 226996992,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Cannot be climbed.",
-    "PGKNKBKHCHM": 2007,
+    "id": 2007,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -297,7 +297,7 @@
         "CDOIPGMKDFF": 2
       }
     ],
-    "FPKEHKLHHDC": 1633250718,
+    "nameTextMapHash": 1633250718,
     "PMPMKOPBJHA": "Slatted Wall",
     "MKNKCBJKNBP": 10451374809043851000,
     "CGKJHJAGGJD": 1,
@@ -318,11 +318,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3845547960,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Climbable.",
-    "PGKNKBKHCHM": 2008,
+    "id": 2008,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2961407038,
+    "nameTextMapHash": 2961407038,
     "PMPMKOPBJHA": "Gentle Slope",
     "MKNKCBJKNBP": 10747193449472854000,
     "CGKJHJAGGJD": 1,
@@ -343,11 +343,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3467884008,
     "NHIEOOCGJGH": "An artificed object that can be used to build landforms. Climbable.",
-    "PGKNKBKHCHM": 2009,
+    "id": 2009,
     "ADNEGPGLPKN": 2,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2778567638,
+    "nameTextMapHash": 2778567638,
     "PMPMKOPBJHA": "Steep Slope",
     "MKNKCBJKNBP": 7196499916824608000,
     "CGKJHJAGGJD": 1,
@@ -368,7 +368,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3812024336,
     "NHIEOOCGJGH": "An artificed mechanism, can be lit or put out.",
-    "PGKNKBKHCHM": 3001,
+    "id": 3001,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -379,7 +379,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 2464432974,
+    "nameTextMapHash": 2464432974,
     "PMPMKOPBJHA": "Torch",
     "MKNKCBJKNBP": 13920888873770873000,
     "CGKJHJAGGJD": 6,
@@ -400,11 +400,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 597813600,
     "NHIEOOCGJGH": "A wind ring formed from someone's imagination. It has the same properties as the real thing and will grant greater speed to anyone who passes through it with a wind glider.",
-    "PGKNKBKHCHM": 3002,
+    "id": 3002,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 648169470,
+    "nameTextMapHash": 648169470,
     "PMPMKOPBJHA": "Wind Ring",
     "MKNKCBJKNBP": 6011466863444650,
     "CGKJHJAGGJD": 14,
@@ -425,11 +425,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2395311088,
     "NHIEOOCGJGH": "A wind current formed from someone's imagination. It has the same properties as the real thing and will cause anyone who passes through it with a wind glider to ascend.",
-    "PGKNKBKHCHM": 3003,
+    "id": 3003,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 1094393486,
+    "nameTextMapHash": 1094393486,
     "PMPMKOPBJHA": "Wind Current",
     "MKNKCBJKNBP": 12128605550256425000,
     "CGKJHJAGGJD": 4,
@@ -450,7 +450,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 699586168,
     "NHIEOOCGJGH": "An artificed Bouncy Mushroom that looks no different from ordinary Bouncy Mushrooms. You can still jump on top of it to be bounced up to higher heights.",
-    "PGKNKBKHCHM": 3004,
+    "id": 3004,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -461,7 +461,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 1517619766,
+    "nameTextMapHash": 1517619766,
     "PMPMKOPBJHA": "Bouncy Mushroom",
     "MKNKCBJKNBP": 9177327111604441000,
     "CGKJHJAGGJD": 6,
@@ -482,11 +482,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2663480192,
     "NHIEOOCGJGH": "An artificed Four-Leaf Sigil that looks no different from an ordinary Four-Leaf Sigil. When those who can manipulate the elements are facing the sigil, they can use it to move swiftly.",
-    "PGKNKBKHCHM": 3005,
+    "id": 3005,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2638399430,
+    "nameTextMapHash": 2638399430,
     "PMPMKOPBJHA": "Four-Leaf Sigil",
     "MKNKCBJKNBP": 3403414888082280400,
     "CGKJHJAGGJD": 5,
@@ -507,7 +507,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2723326024,
     "NHIEOOCGJGH": "An artificed mechanism. It is very sensitive to changes in the weight it supports.",
-    "PGKNKBKHCHM": 3006,
+    "id": 3006,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -518,7 +518,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 3444001718,
+    "nameTextMapHash": 3444001718,
     "PMPMKOPBJHA": "Pressure Mechanism",
     "MKNKCBJKNBP": 11900278730515706000,
     "CGKJHJAGGJD": 22,
@@ -539,7 +539,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3560210488,
     "NHIEOOCGJGH": "An artificed mechanism that can be interacted with.",
-    "PGKNKBKHCHM": 3007,
+    "id": 3007,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -550,7 +550,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 3847337590,
+    "nameTextMapHash": 3847337590,
     "PMPMKOPBJHA": "Connection Mechanism",
     "MKNKCBJKNBP": 8035415434256266000,
     "CGKJHJAGGJD": 5,
@@ -571,7 +571,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 709084424,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3008,
+    "id": 3008,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -582,7 +582,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 597150318,
+    "nameTextMapHash": 597150318,
     "PMPMKOPBJHA": "Elemental Monument: Pyro",
     "MKNKCBJKNBP": 15758644238189170000,
     "CGKJHJAGGJD": 6,
@@ -603,7 +603,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3774611344,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3009,
+    "id": 3009,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -614,7 +614,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 4188713942,
+    "nameTextMapHash": 4188713942,
     "PMPMKOPBJHA": "Elemental Monument: Cryo",
     "MKNKCBJKNBP": 4517994895164425000,
     "CGKJHJAGGJD": 6,
@@ -635,7 +635,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 31743152,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3010,
+    "id": 3010,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -646,7 +646,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 1079349958,
+    "nameTextMapHash": 1079349958,
     "PMPMKOPBJHA": "Elemental Monument: Hydro",
     "MKNKCBJKNBP": 14038131316220348000,
     "CGKJHJAGGJD": 6,
@@ -667,7 +667,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2648522328,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3011,
+    "id": 3011,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -678,7 +678,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 758520678,
+    "nameTextMapHash": 758520678,
     "PMPMKOPBJHA": "Elemental Monument: Electro",
     "MKNKCBJKNBP": 10225035882764456000,
     "CGKJHJAGGJD": 6,
@@ -699,7 +699,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1509008512,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3012,
+    "id": 3012,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -710,7 +710,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 3699920558,
+    "nameTextMapHash": 3699920558,
     "PMPMKOPBJHA": "Elemental Monument: Geo",
     "MKNKCBJKNBP": 2922408421923746300,
     "CGKJHJAGGJD": 6,
@@ -731,7 +731,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1231536272,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3013,
+    "id": 3013,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -742,7 +742,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 2632269022,
+    "nameTextMapHash": 2632269022,
     "PMPMKOPBJHA": "Elemental Monument: Dendro",
     "MKNKCBJKNBP": 16050543677583178000,
     "CGKJHJAGGJD": 6,
@@ -763,7 +763,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3116650424,
     "NHIEOOCGJGH": "An artificed Elemental Monument that can be activated by the associated element.",
-    "PGKNKBKHCHM": 3014,
+    "id": 3014,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -774,7 +774,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 2964052430,
+    "nameTextMapHash": 2964052430,
     "PMPMKOPBJHA": "Elemental Monument: Anemo",
     "MKNKCBJKNBP": 17596648560853256000,
     "CGKJHJAGGJD": 6,
@@ -795,7 +795,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2043213824,
     "NHIEOOCGJGH": "An artificed board designed to store notes. One can view the information posted on the board after it is set up, and can configure the information that will be displayed by interacting with it.",
-    "PGKNKBKHCHM": 3015,
+    "id": 3015,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 6,
     "FAGGPCMKIKE": [
@@ -806,7 +806,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 430176534,
+    "nameTextMapHash": 430176534,
     "PMPMKOPBJHA": "Notice Board",
     "MKNKCBJKNBP": 18260410138446653000,
     "CGKJHJAGGJD": 3,
@@ -827,7 +827,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2145064568,
     "NHIEOOCGJGH": "An artificed pile of gravel. Can be destroyed.",
-    "PGKNKBKHCHM": 3016,
+    "id": 3016,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -838,7 +838,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 3757473870,
+    "nameTextMapHash": 3757473870,
     "PMPMKOPBJHA": "Gravel Pile",
     "MKNKCBJKNBP": 6806942634901215000,
     "CGKJHJAGGJD": 5,
@@ -859,7 +859,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 4014901624,
     "NHIEOOCGJGH": "An artificed mechanism. When it is stepped on, it will cause a few changes to occur...",
-    "PGKNKBKHCHM": 3017,
+    "id": 3017,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -870,7 +870,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 754579902,
+    "nameTextMapHash": 754579902,
     "PMPMKOPBJHA": "Pressure Switch",
     "MKNKCBJKNBP": 18408434792804030000,
     "CGKJHJAGGJD": 4,
@@ -891,7 +891,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 829528832,
     "NHIEOOCGJGH": "An artificed Monolith. Only opponents can damage this structure after its activation. The challenge fails if it is destroyed.",
-    "PGKNKBKHCHM": 3018,
+    "id": 3018,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 9,
     "FAGGPCMKIKE": [
@@ -902,7 +902,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 642665230,
+    "nameTextMapHash": 642665230,
     "PMPMKOPBJHA": "Defense Monolith",
     "MKNKCBJKNBP": 11096147213272121000,
     "CGKJHJAGGJD": 5,
@@ -923,7 +923,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3943632520,
     "NHIEOOCGJGH": "Artificed opponents will appear here.",
-    "PGKNKBKHCHM": 3019,
+    "id": 3019,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -931,7 +931,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2090306758,
+    "nameTextMapHash": 2090306758,
     "PMPMKOPBJHA": "Opponent Spawn Point",
     "MKNKCBJKNBP": 12328470927425765000,
     "CGKJHJAGGJD": 16,
@@ -952,7 +952,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2199580512,
     "NHIEOOCGJGH": "An artificed object that looks like a normal door, and can be opened or closed.",
-    "PGKNKBKHCHM": 3020,
+    "id": 3020,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -960,7 +960,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 648450734,
+    "nameTextMapHash": 648450734,
     "PMPMKOPBJHA": "Guest Door",
     "MKNKCBJKNBP": 9416484348686225000,
     "CGKJHJAGGJD": 6,
@@ -981,11 +981,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1445053024,
     "NHIEOOCGJGH": "An artificed object designed such that moving in the same direction as the airflow will cause acceleration while moving in the opposite direction as the airflow will result in deceleration.",
-    "PGKNKBKHCHM": 3021,
+    "id": 3021,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2635035390,
+    "nameTextMapHash": 2635035390,
     "PMPMKOPBJHA": "High-Speed Airflow",
     "MKNKCBJKNBP": 17737465955374310000,
     "CGKJHJAGGJD": 6,
@@ -1006,11 +1006,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1523901192,
     "NHIEOOCGJGH": "An artificed mechanism designed to add extra height to jumps performed upon it.",
-    "PGKNKBKHCHM": 3022,
+    "id": 3022,
     "ADNEGPGLPKN": 3,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2903303494,
+    "nameTextMapHash": 2903303494,
     "PMPMKOPBJHA": "Springboard Platform",
     "MKNKCBJKNBP": 472709970989991940,
     "CGKJHJAGGJD": 5,
@@ -1031,7 +1031,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 7862264,
     "NHIEOOCGJGH": "An artificed mechanism. This mechanism will constantly spew flames while continuously spinning.\\nCharacters hit by these flames will lose a fixed amount of Life Points or HP and become affected by the element.\\nCan only be placed on the ground.",
-    "PGKNKBKHCHM": 4001,
+    "id": 4001,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1039,7 +1039,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 527540214,
+    "nameTextMapHash": 527540214,
     "PMPMKOPBJHA": "Flaming Device",
     "MKNKCBJKNBP": 4795444333544677000,
     "CGKJHJAGGJD": 26,
@@ -1060,7 +1060,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 234547672,
     "NHIEOOCGJGH": "An artificed mechanism. This mechanism will periodically fire ring-shaped elemental projectiles.\\nCharacters hit by one of its projectiles will lose a fixed amount of Life Points or HP and become affected by the projectile's element.\\nCan only be placed on the ground.",
-    "PGKNKBKHCHM": 4002,
+    "id": 4002,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1068,7 +1068,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2222527950,
+    "nameTextMapHash": 2222527950,
     "PMPMKOPBJHA": "Round Elemental Projectile Blaster",
     "MKNKCBJKNBP": 6088460849664744000,
     "CGKJHJAGGJD": 53,
@@ -1089,7 +1089,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3336859312,
     "NHIEOOCGJGH": "An artificed mechanism. This mechanism will periodically fire square-shaped elemental projectiles.\\nCharacters hit by one of its projectiles will lose a fixed amount of Life Points or HP and become affected by the projectile's element.\\nCan only be placed on the ground.",
-    "PGKNKBKHCHM": 4003,
+    "id": 4003,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1097,7 +1097,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 937551278,
+    "nameTextMapHash": 937551278,
     "PMPMKOPBJHA": "Square Elemental Projectile Blaster",
     "MKNKCBJKNBP": 13522331442759200000,
     "CGKJHJAGGJD": 52,
@@ -1118,7 +1118,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1384778368,
     "NHIEOOCGJGH": "An artificed mechanism. Sharp spikes will periodically emerge from the ground here.\\nCharacters hit by these spikes will lose a certain amount of Life Points or HP.\\nCan only be placed on the ground.",
-    "PGKNKBKHCHM": 4004,
+    "id": 4004,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1126,7 +1126,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1883547998,
+    "nameTextMapHash": 1883547998,
     "PMPMKOPBJHA": "Large Earth Spikes",
     "MKNKCBJKNBP": 13885238932330412000,
     "CGKJHJAGGJD": 10,
@@ -1147,7 +1147,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1939206056,
     "NHIEOOCGJGH": "An artificed mechanism. Sharp spikes will periodically emerge from the ground here.\\nCharacters hit by these spikes will lose a certain amount of Life Points or HP.\\nCan only be placed on the ground.",
-    "PGKNKBKHCHM": 4005,
+    "id": 4005,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1155,7 +1155,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2644769678,
+    "nameTextMapHash": 2644769678,
     "PMPMKOPBJHA": "Small Earth Spikes",
     "MKNKCBJKNBP": 12703938741446950000,
     "CGKJHJAGGJD": 10,
@@ -1176,11 +1176,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1766819368,
     "NHIEOOCGJGH": "An artificed object. Cannot be climbed.\\nThis surface will periodically release bursts of Hydro Element, applying Hydro to characters within its range.",
-    "PGKNKBKHCHM": 4006,
+    "id": 4006,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 1048558406,
+    "nameTextMapHash": 1048558406,
     "PMPMKOPBJHA": "Stillwater Paving",
     "MKNKCBJKNBP": 4983787851849238000,
     "CGKJHJAGGJD": 3,
@@ -1201,11 +1201,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 77607952,
     "NHIEOOCGJGH": "An artificed object. Cannot be climbed.\\nThis surface will periodically release bursts of Electro Element, applying Electro to characters within its range.",
-    "PGKNKBKHCHM": 4007,
+    "id": 4007,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 3004036878,
+    "nameTextMapHash": 3004036878,
     "PMPMKOPBJHA": "Thunderstruck Paving",
     "MKNKCBJKNBP": 6993634815706158000,
     "CGKJHJAGGJD": 3,
@@ -1226,11 +1226,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3598459520,
     "NHIEOOCGJGH": "An artificed object. Cannot be climbed.\\nThis surface will periodically release bursts of Cryo Element, applying Cryo to characters within its range.",
-    "PGKNKBKHCHM": 4008,
+    "id": 4008,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 756316910,
+    "nameTextMapHash": 756316910,
     "PMPMKOPBJHA": "Glacial Paving",
     "MKNKCBJKNBP": 8028453572886353000,
     "CGKJHJAGGJD": 3,
@@ -1251,11 +1251,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 3144705608,
     "NHIEOOCGJGH": "An artificed object. Cannot be climbed.\\nThis surface will periodically release bursts of Pyro Element, applying Pyro to characters within its range.",
-    "PGKNKBKHCHM": 4009,
+    "id": 4009,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 1104084526,
+    "nameTextMapHash": 1104084526,
     "PMPMKOPBJHA": "Everflame Paving",
     "MKNKCBJKNBP": 16330982573026208000,
     "CGKJHJAGGJD": 3,
@@ -1276,11 +1276,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2888717040,
     "NHIEOOCGJGH": "An artificed object. Cannot be climbed.\\nThis surface will periodically release bursts of Dendro Element, applying Dendro to characters within its range.",
-    "PGKNKBKHCHM": 4010,
+    "id": 4010,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2611079014,
+    "nameTextMapHash": 2611079014,
     "PMPMKOPBJHA": "Verdant Paving",
     "MKNKCBJKNBP": 7922714787806978000,
     "CGKJHJAGGJD": 3,
@@ -1301,11 +1301,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2775668664,
     "NHIEOOCGJGH": "An artificed object designed to produce strange bubbles. These bubbles will move back and forth at moderate speed within a fixed area.\\nCharacters hit by these bubbles will be imprisoned within them for a time.\\nCharacters who come into contact with a bubble will lose a fixed amount of Life Points.",
-    "PGKNKBKHCHM": 4011,
+    "id": 4011,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 2725086462,
+    "nameTextMapHash": 2725086462,
     "PMPMKOPBJHA": "Mist Bubble Device",
     "MKNKCBJKNBP": 11472773287450923000,
     "CGKJHJAGGJD": 4,
@@ -1326,11 +1326,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1372041552,
     "NHIEOOCGJGH": "An artificed object designed to produce strange bubbles. These bubbles will move back and forth quickly within a fixed area.\\nCharacters hit by these bubbles will be imprisoned within them for a time.\\nCharacters who come into contact with a bubble will lose a fixed amount of Life Points.",
-    "PGKNKBKHCHM": 4012,
+    "id": 4012,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 689184982,
+    "nameTextMapHash": 689184982,
     "PMPMKOPBJHA": "High-Speed Mist Bubble Device",
     "MKNKCBJKNBP": 6196167013121875000,
     "CGKJHJAGGJD": 4,
@@ -1351,7 +1351,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 4196322768,
     "NHIEOOCGJGH": "A barrel designed to explode after being attacked.",
-    "PGKNKBKHCHM": 4013,
+    "id": 4013,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1362,7 +1362,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 1603498278,
+    "nameTextMapHash": 1603498278,
     "PMPMKOPBJHA": "Explosive Barrel",
     "MKNKCBJKNBP": 3188761060495496000,
     "CGKJHJAGGJD": 3,
@@ -1383,7 +1383,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2667849848,
     "NHIEOOCGJGH": "A device designed to provide buffs to nearby opponents.",
-    "PGKNKBKHCHM": 4014,
+    "id": 4014,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1394,7 +1394,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "FPKEHKLHHDC": 1124550374,
+    "nameTextMapHash": 1124550374,
     "PMPMKOPBJHA": "Buff Bestower",
     "MKNKCBJKNBP": 5035571966035418000,
     "CGKJHJAGGJD": 36,
@@ -1415,11 +1415,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1219427080,
     "NHIEOOCGJGH": "An artificed group of Anemo Slimes designed to continuously float in a clockwise direction. No idea where the person who imagined this saw such a phenomenon...",
-    "PGKNKBKHCHM": 4015,
+    "id": 4015,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 4187510766,
+    "nameTextMapHash": 4187510766,
     "PMPMKOPBJHA": "Anemo Slimes: Revolving Group",
     "MKNKCBJKNBP": 1994159111746360300,
     "CGKJHJAGGJD": 3,
@@ -1440,11 +1440,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2349137192,
     "NHIEOOCGJGH": "An artificed group of Anemo Slimes designed to continuously float up and down vertically. No idea where the person who imagined this saw such a phenomenon...",
-    "PGKNKBKHCHM": 4016,
+    "id": 4016,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 4290329022,
+    "nameTextMapHash": 4290329022,
     "PMPMKOPBJHA": "Anemo Slime Group: Yo-Yo Group",
     "MKNKCBJKNBP": 17491076031696134000,
     "CGKJHJAGGJD": 5,
@@ -1465,11 +1465,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 533982688,
     "NHIEOOCGJGH": "An artificed platform designed to break apart a short time after being touched.",
-    "PGKNKBKHCHM": 4017,
+    "id": 4017,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 802797630,
+    "nameTextMapHash": 802797630,
     "PMPMKOPBJHA": "Fragile Platform",
     "MKNKCBJKNBP": 481005424072294700,
     "CGKJHJAGGJD": 5,
@@ -1490,11 +1490,11 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 1847146472,
     "NHIEOOCGJGH": "An artificed platform designed to periodically appear and disappear.",
-    "PGKNKBKHCHM": 4018,
+    "id": 4018,
     "ADNEGPGLPKN": 4,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 3140219894,
+    "nameTextMapHash": 3140219894,
     "PMPMKOPBJHA": "Disappearing Platform",
     "MKNKCBJKNBP": 17141434656124885000,
     "CGKJHJAGGJD": 12,
@@ -1515,7 +1515,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2933026352,
     "NHIEOOCGJGH": "An artificed buff designed to recover a certain amount of Stamina for the character that picks it up.",
-    "PGKNKBKHCHM": 5001,
+    "id": 5001,
     "ADNEGPGLPKN": 5,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1523,7 +1523,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 401876518,
+    "nameTextMapHash": 401876518,
     "PMPMKOPBJHA": "Tenacious Buff",
     "MKNKCBJKNBP": 4357238897681256000,
     "CGKJHJAGGJD": 3,
@@ -1544,7 +1544,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 4154225368,
     "NHIEOOCGJGH": "An artificed buff designed to enhance the jumping capabilities of the character that picks it up for a certain duration.",
-    "PGKNKBKHCHM": 5002,
+    "id": 5002,
     "ADNEGPGLPKN": 5,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1552,7 +1552,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 1878542150,
+    "nameTextMapHash": 1878542150,
     "PMPMKOPBJHA": "Lightness Buff",
     "MKNKCBJKNBP": 6276462801383905000,
     "CGKJHJAGGJD": 4,
@@ -1573,7 +1573,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2495417640,
     "NHIEOOCGJGH": "An artificed buff designed to enhance the Movement SPD of the character that picks it up for a certain duration.",
-    "PGKNKBKHCHM": 5003,
+    "id": 5003,
     "ADNEGPGLPKN": 5,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1581,7 +1581,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 527619822,
+    "nameTextMapHash": 527619822,
     "PMPMKOPBJHA": "Sprightly Buff",
     "MKNKCBJKNBP": 12531094236770110000,
     "CGKJHJAGGJD": 5,
@@ -1602,7 +1602,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 2803865480,
     "NHIEOOCGJGH": "An artificed buff designed to restore Life Points or HP to the character that picks it up. Each Healing Buff can only be picked up once.",
-    "PGKNKBKHCHM": 5004,
+    "id": 5004,
     "ADNEGPGLPKN": 5,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -1610,7 +1610,7 @@
         "CDOIPGMKDFF": 7
       }
     ],
-    "FPKEHKLHHDC": 2904976678,
+    "nameTextMapHash": 2904976678,
     "PMPMKOPBJHA": "Healing Buff",
     "MKNKCBJKNBP": 14232075298803425000,
     "CGKJHJAGGJD": 3,
@@ -1631,7 +1631,7 @@
     "BFFPKDCKLDK": 15,
     "HHMPIBGBFPO": 789914944,
     "NHIEOOCGJGH": "An artificed Domain Waypoint that allows one standing nearby to receive all kinds of different Artificer Buffs.",
-    "PGKNKBKHCHM": 8002,
+    "id": 8002,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 5,
     "FAGGPCMKIKE": [
@@ -1639,7 +1639,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 4189375542,
+    "nameTextMapHash": 4189375542,
     "PMPMKOPBJHA": "Buff Station",
     "MKNKCBJKNBP": 13780546085772663000,
     "CGKJHJAGGJD": 9,
@@ -1660,7 +1660,7 @@
     "BFFPKDCKLDK": 10,
     "HHMPIBGBFPO": 2688020680,
     "NHIEOOCGJGH": "An artificed Domain Waypoint designed to invite fellow friends you wish to travel with.",
-    "PGKNKBKHCHM": 8003,
+    "id": 8003,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 5,
     "FAGGPCMKIKE": [
@@ -1671,7 +1671,7 @@
         "CDOIPGMKDFF": 5
       }
     ],
-    "FPKEHKLHHDC": 2790742974,
+    "nameTextMapHash": 2790742974,
     "PMPMKOPBJHA": "Summon Station",
     "MKNKCBJKNBP": 15161415293718217000,
     "CGKJHJAGGJD": 13,
@@ -1692,7 +1692,7 @@
     "BFFPKDCKLDK": 0,
     "HHMPIBGBFPO": 294245400,
     "NHIEOOCGJGH": "A special device on which a Mechanicus can be placed. Bringing a Mechanicus into being and leveling it up requires using Artificer Coins. Each Mechanicus can be removed, but after removal, any coins spent will not be returned. This device can only be placed on the ground.",
-    "PGKNKBKHCHM": 8004,
+    "id": 8004,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 8,
     "FAGGPCMKIKE": [
@@ -1700,7 +1700,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1020890238,
+    "nameTextMapHash": 1020890238,
     "PMPMKOPBJHA": "Mechanicus Fixed Emplacement",
     "MKNKCBJKNBP": 8948400074881552000,
     "CGKJHJAGGJD": 45,
@@ -1721,7 +1721,7 @@
     "BFFPKDCKLDK": 2,
     "HHMPIBGBFPO": 4245537872,
     "NHIEOOCGJGH": "An artificed chest envisaged to look quite normal. Artificer Coins can be set inside, or it can be made to provide Artificer Experience.",
-    "PGKNKBKHCHM": 8005,
+    "id": 8005,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 7,
     "FAGGPCMKIKE": [
@@ -1732,7 +1732,7 @@
         "CDOIPGMKDFF": 5
       }
     ],
-    "FPKEHKLHHDC": 1664722382,
+    "nameTextMapHash": 1664722382,
     "PMPMKOPBJHA": "Common Chest",
     "MKNKCBJKNBP": 1646905118007227100,
     "CGKJHJAGGJD": 3,
@@ -1753,7 +1753,7 @@
     "BFFPKDCKLDK": 8,
     "HHMPIBGBFPO": 2595066496,
     "NHIEOOCGJGH": "An artificed chest envisaged to look quite elegant. A large amount of Artificer Coins can be set inside, or it can be made to provide Artificer Buffs or Artificer Experience.",
-    "PGKNKBKHCHM": 8006,
+    "id": 8006,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 7,
     "FAGGPCMKIKE": [
@@ -1764,7 +1764,7 @@
         "CDOIPGMKDFF": 5
       }
     ],
-    "FPKEHKLHHDC": 1960442678,
+    "nameTextMapHash": 1960442678,
     "PMPMKOPBJHA": "Exquisite Chest",
     "MKNKCBJKNBP": 6215285720622665000,
     "CGKJHJAGGJD": 3,
@@ -1785,7 +1785,7 @@
     "BFFPKDCKLDK": 8,
     "HHMPIBGBFPO": 833178752,
     "NHIEOOCGJGH": "Can be set to offer a large quantity of Artificer Points upon being opened. In addition, a large amount Artificer Coins can still be set inside, or it can be made to provide Artificer Buffs or Artificer Experience.",
-    "PGKNKBKHCHM": 8007,
+    "id": 8007,
     "ADNEGPGLPKN": 8,
     "JONILKNONEM": 7,
     "FAGGPCMKIKE": [
@@ -1796,7 +1796,7 @@
         "CDOIPGMKDFF": 5
       }
     ],
-    "FPKEHKLHHDC": 571477502,
+    "nameTextMapHash": 571477502,
     "PMPMKOPBJHA": "Artificer Chest",
     "MKNKCBJKNBP": 4101160787089502000,
     "CGKJHJAGGJD": 3,

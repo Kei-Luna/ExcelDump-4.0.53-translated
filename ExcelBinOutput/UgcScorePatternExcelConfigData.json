@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "CKAILEJGKNN": [
       "UGC_DUNGEON_SCORE_MONSTER_DIE",
       "UGC_DUNGEON_SCORE_COIN",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "CKAILEJGKNN": [
       "UGC_DUNGEON_SCORE_MONSTER_DIE"
     ],
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "CKAILEJGKNN": [
       "UGC_DUNGEON_SCORE_COIN"
     ],
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "CKAILEJGKNN": [
       "UGC_DUNGEON_SCORE_ROOM_SETTLE"
     ],

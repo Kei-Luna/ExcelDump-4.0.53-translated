@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "KJNIJNGLHDJ": 643725559,
     "KGGEJLPHNKC": "Thunderstrike",
     "KLKEJMPJFPH": 3739025256,
@@ -27,7 +27,7 @@
     "DICOIPCPCLO": "How come! My Onikabuto clearly has an overwhelming power!"
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "KJNIJNGLHDJ": 2842510191,
     "KGGEJLPHNKC": "Mallet the Smasher",
     "KLKEJMPJFPH": 4031651944,
@@ -60,7 +60,7 @@
     "DICOIPCPCLO": "My Onikabuto has done its best. It's a shame that we're not strong enough..."
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "KJNIJNGLHDJ": 2914834487,
     "KGGEJLPHNKC": "Triple-Strike Gunblade Mage",
     "KLKEJMPJFPH": 2800650672,
@@ -93,7 +93,7 @@
     "DICOIPCPCLO": "Embarrassing, weak, useless! I am but a failure!"
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "KJNIJNGLHDJ": 1299630471,
     "KGGEJLPHNKC": "Super-Heavy Defensive Formation",
     "KLKEJMPJFPH": 436176272,
@@ -126,7 +126,7 @@
     "DICOIPCPCLO": "I see... It's true that the beetle battle's never about strength or age, but talent... I accept my defeat."
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "KJNIJNGLHDJ": 2691678831,
     "KGGEJLPHNKC": "Whirling Wrecker-Wheel",
     "KLKEJMPJFPH": 14180704,
@@ -159,7 +159,7 @@
     "DICOIPCPCLO": "What a formidable rival! I admire your enthusiasm and passion, and I accept my defeat!"
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "KJNIJNGLHDJ": 1607467807,
     "KGGEJLPHNKC": "Ironclad Beetle King",
     "KLKEJMPJFPH": 617130024,

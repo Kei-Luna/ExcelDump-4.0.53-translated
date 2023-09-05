@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "LOGBHLAFFJA": 1,
     "GHIHIPPKLMN": 20090301,
     "EIAJBMPNOHH": [
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "LOGBHLAFFJA": 4,
     "GHIHIPPKLMN": 20090302,
     "EIAJBMPNOHH": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "LOGBHLAFFJA": 7,
     "GHIHIPPKLMN": 20090303,
     "EIAJBMPNOHH": [
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "LOGBHLAFFJA": 10,
     "GHIHIPPKLMN": 20090304,
     "EIAJBMPNOHH": [

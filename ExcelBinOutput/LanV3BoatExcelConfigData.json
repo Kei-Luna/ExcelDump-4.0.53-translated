@@ -1,7 +1,7 @@
 [
   {
     "HDBGDHCELAC": 1,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "OKADKMGLKIB": 72275652,
     "LBJJMDHKNAP": "Crossing the Thrumming Waves",
     "DHNCDAPOHFK": 1660864202,
@@ -37,7 +37,7 @@
   },
   {
     "HDBGDHCELAC": 2,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "OKADKMGLKIB": 2502396068,
     "LBJJMDHKNAP": "The Floating Lanterns' Mystique",
     "DHNCDAPOHFK": 3973845738,
@@ -73,7 +73,7 @@
   },
   {
     "HDBGDHCELAC": 3,
-    "JFNIMDOBDHK": 1,
+    "type": 1,
     "OKADKMGLKIB": 2010132836,
     "LBJJMDHKNAP": "Mystical Elevation",
     "DHNCDAPOHFK": 3387723450,
@@ -109,7 +109,7 @@
   },
   {
     "HDBGDHCELAC": 4,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "OKADKMGLKIB": 1886344372,
     "LBJJMDHKNAP": "Crossing the Thrumming Waves",
     "DHNCDAPOHFK": 3204087498,
@@ -142,7 +142,7 @@
   },
   {
     "HDBGDHCELAC": 5,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "OKADKMGLKIB": 2786259148,
     "LBJJMDHKNAP": "The Floating Lanterns' Mystique",
     "DHNCDAPOHFK": 1330555674,
@@ -175,7 +175,7 @@
   },
   {
     "HDBGDHCELAC": 6,
-    "JFNIMDOBDHK": 2,
+    "type": 2,
     "OKADKMGLKIB": 4050507260,
     "LBJJMDHKNAP": "Mystical Elevation",
     "DHNCDAPOHFK": 1083865074,

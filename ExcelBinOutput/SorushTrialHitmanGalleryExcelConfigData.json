@@ -39,7 +39,7 @@
       }
     ],
     "MPALMCLOFEI": 20,
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "BCJEBPNJNLN": 44401,
     "KJNIJNGLHDJ": 3761427615,
     "KGGEJLPHNKC": "Ritual of Dancing Bonfires",
@@ -99,7 +99,7 @@
       }
     ],
     "MPALMCLOFEI": 20,
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "BCJEBPNJNLN": 44402,
     "KJNIJNGLHDJ": 3072325423,
     "KGGEJLPHNKC": "Tales of Uninvited Guests",
@@ -162,7 +162,7 @@
       }
     ],
     "MPALMCLOFEI": 25,
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "BCJEBPNJNLN": 44403,
     "KJNIJNGLHDJ": 2567967615,
     "KGGEJLPHNKC": "Pursuit of Unceasing Serenity",

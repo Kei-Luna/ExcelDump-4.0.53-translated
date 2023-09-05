@@ -1,357 +1,357 @@
 [
   {
-    "PHFHAMLFFIA": 10000021,
-    "FMBMMKCFFGA": 1004,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000021,
+    "recipeId": 1004,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000015,
-    "FMBMMKCFFGA": 1001,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000015,
+    "recipeId": 1001,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000006,
-    "FMBMMKCFFGA": 2001,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000006,
+    "recipeId": 2001,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000014,
-    "FMBMMKCFFGA": 2004,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000014,
+    "recipeId": 2004,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000003,
-    "FMBMMKCFFGA": 3006,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000003,
+    "recipeId": 3006,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000020,
-    "FMBMMKCFFGA": 3007,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000020,
+    "recipeId": 3007,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000016,
-    "FMBMMKCFFGA": 3008,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000016,
+    "recipeId": 3008,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000041,
-    "FMBMMKCFFGA": 2007,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000041,
+    "recipeId": 2007,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000029,
-    "FMBMMKCFFGA": 2008,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000029,
+    "recipeId": 2008,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000032,
-    "FMBMMKCFFGA": 1003,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000032,
+    "recipeId": 1003,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000031,
-    "FMBMMKCFFGA": 3003,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000031,
+    "recipeId": 3003,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000034,
-    "FMBMMKCFFGA": 2005,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000034,
+    "recipeId": 2005,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000022,
-    "FMBMMKCFFGA": 3009,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000022,
+    "recipeId": 3009,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000039,
-    "FMBMMKCFFGA": 1006,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000039,
+    "recipeId": 1006,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000023,
-    "FMBMMKCFFGA": 3102,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000023,
+    "recipeId": 3102,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000025,
-    "FMBMMKCFFGA": 2105,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000025,
+    "recipeId": 2105,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000026,
-    "FMBMMKCFFGA": 2101,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000026,
+    "recipeId": 2101,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000024,
-    "FMBMMKCFFGA": 1102,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000024,
+    "recipeId": 1102,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000027,
-    "FMBMMKCFFGA": 1101,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000027,
+    "recipeId": 1101,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000035,
-    "FMBMMKCFFGA": 3105,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000035,
+    "recipeId": 3105,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000036,
-    "FMBMMKCFFGA": 2108,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000036,
+    "recipeId": 2108,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000043,
-    "FMBMMKCFFGA": 3005,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000043,
+    "recipeId": 3005,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000042,
-    "FMBMMKCFFGA": 1103,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000042,
+    "recipeId": 1103,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000030,
-    "FMBMMKCFFGA": 3106,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000030,
+    "recipeId": 3106,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000044,
-    "FMBMMKCFFGA": 2102,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000044,
+    "recipeId": 2102,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000033,
-    "FMBMMKCFFGA": 3001,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000033,
+    "recipeId": 3001,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000037,
-    "FMBMMKCFFGA": 3109,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000037,
+    "recipeId": 3109,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000038,
-    "FMBMMKCFFGA": 3012,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000038,
+    "recipeId": 3012,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000046,
-    "FMBMMKCFFGA": 2109,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000046,
+    "recipeId": 2109,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000045,
-    "FMBMMKCFFGA": 2002,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000045,
+    "recipeId": 2002,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000048,
-    "FMBMMKCFFGA": 2112,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000048,
+    "recipeId": 2112,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000051,
-    "FMBMMKCFFGA": 4001,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000051,
+    "recipeId": 4001,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000002,
-    "FMBMMKCFFGA": 3205,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000002,
+    "recipeId": 3205,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000047,
-    "FMBMMKCFFGA": 1202,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000047,
+    "recipeId": 1202,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000049,
-    "FMBMMKCFFGA": 3201,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000049,
+    "recipeId": 3201,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000053,
-    "FMBMMKCFFGA": 2202,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000053,
+    "recipeId": 2202,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000062,
-    "FMBMMKCFFGA": 1007,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000062,
+    "recipeId": 1007,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000054,
-    "FMBMMKCFFGA": 1205,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000054,
+    "recipeId": 1205,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000056,
-    "FMBMMKCFFGA": 1201,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000056,
+    "recipeId": 1201,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000050,
-    "FMBMMKCFFGA": 1203,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000050,
+    "recipeId": 1203,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000057,
-    "FMBMMKCFFGA": 2203,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000057,
+    "recipeId": 2203,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000055,
-    "FMBMMKCFFGA": 3202,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000055,
+    "recipeId": 3202,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000063,
-    "FMBMMKCFFGA": 3219,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000063,
+    "recipeId": 3219,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000064,
-    "FMBMMKCFFGA": 2106,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000064,
+    "recipeId": 2106,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000058,
-    "FMBMMKCFFGA": 2210,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000058,
+    "recipeId": 2210,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000066,
-    "FMBMMKCFFGA": 3208,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000066,
+    "recipeId": 3208,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000065,
-    "FMBMMKCFFGA": 3213,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000065,
+    "recipeId": 3213,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000060,
-    "FMBMMKCFFGA": 3114,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000060,
+    "recipeId": 3114,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000059,
-    "FMBMMKCFFGA": 2211,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000059,
+    "recipeId": 2211,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000067,
-    "FMBMMKCFFGA": 3302,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000067,
+    "recipeId": 3302,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000068,
-    "FMBMMKCFFGA": 3301,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000068,
+    "recipeId": 3301,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000069,
-    "FMBMMKCFFGA": 2304,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000069,
+    "recipeId": 2304,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000070,
-    "FMBMMKCFFGA": 3309,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000070,
+    "recipeId": 3309,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000071,
-    "FMBMMKCFFGA": 3303,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000071,
+    "recipeId": 3303,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000072,
-    "FMBMMKCFFGA": 2308,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000072,
+    "recipeId": 2308,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000073,
-    "FMBMMKCFFGA": 3308,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000073,
+    "recipeId": 3308,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000074,
-    "FMBMMKCFFGA": 2309,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000074,
+    "recipeId": 2309,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000075,
-    "FMBMMKCFFGA": 3216,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000075,
+    "recipeId": 3216,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000076,
-    "FMBMMKCFFGA": 3310,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000076,
+    "recipeId": 3310,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000077,
-    "FMBMMKCFFGA": 3104,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000077,
+    "recipeId": 3104,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000078,
-    "FMBMMKCFFGA": 3312,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000078,
+    "recipeId": 3312,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000079,
-    "FMBMMKCFFGA": 3315,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000079,
+    "recipeId": 3315,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000080,
-    "FMBMMKCFFGA": 3010,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000080,
+    "recipeId": 3010,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000081,
-    "FMBMMKCFFGA": 2311,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000081,
+    "recipeId": 2311,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000082,
-    "FMBMMKCFFGA": 3115,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000082,
+    "recipeId": 3115,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000061,
-    "FMBMMKCFFGA": 3212,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000061,
+    "recipeId": 3212,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000085,
-    "FMBMMKCFFGA": 3407,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000085,
+    "recipeId": 3407,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000084,
-    "FMBMMKCFFGA": 3408,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000084,
+    "recipeId": 3408,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000083,
-    "FMBMMKCFFGA": 3409,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000083,
+    "recipeId": 3409,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000086,
-    "FMBMMKCFFGA": 2407,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000086,
+    "recipeId": 2407,
+    "bonusType": "COOK_BONUS_REPLACE"
   },
   {
-    "PHFHAMLFFIA": 10000087,
-    "FMBMMKCFFGA": 3413,
-    "LKHOKKIMABB": 1
+    "avatarId": 10000087,
+    "recipeId": 3413,
+    "bonusType": "COOK_BONUS_REPLACE"
   }
 ]

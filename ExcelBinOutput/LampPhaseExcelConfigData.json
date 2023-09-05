@@ -1,7 +1,7 @@
 [
   {
     "KDHFGJNPIOL": 1,
-    "FPKEHKLHHDC": 1366724247,
+    "nameTextMapHash": 1366724247,
     "PMPMKOPBJHA": "Shaping the Framework",
     "HOMODABGNIA": 16000000,
     "GHJMNALHCCE": [
@@ -20,7 +20,7 @@
   },
   {
     "KDHFGJNPIOL": 2,
-    "FPKEHKLHHDC": 3710451959,
+    "nameTextMapHash": 3710451959,
     "PMPMKOPBJHA": "Covering the Surface",
     "HOMODABGNIA": 48000000,
     "GHJMNALHCCE": [
@@ -39,7 +39,7 @@
   },
   {
     "KDHFGJNPIOL": 3,
-    "FPKEHKLHHDC": 119183415,
+    "nameTextMapHash": 119183415,
     "PMPMKOPBJHA": "Animating the Lantern",
     "HOMODABGNIA": 96000000,
     "GHJMNALHCCE": [
@@ -58,7 +58,7 @@
   },
   {
     "KDHFGJNPIOL": 4,
-    "FPKEHKLHHDC": 3618527783,
+    "nameTextMapHash": 3618527783,
     "PMPMKOPBJHA": "",
     "HOMODABGNIA": 0,
     "GHJMNALHCCE": [

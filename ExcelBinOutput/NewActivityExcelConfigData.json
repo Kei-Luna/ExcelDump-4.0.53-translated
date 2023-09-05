@@ -2,7 +2,7 @@
   {
     "DKFFECEOAKE": 1001,
     "PAFKEMFAANO": 1,
-    "FPKEHKLHHDC": 529458835,
+    "nameTextMapHash": 529458835,
     "PMPMKOPBJHA": "Lantern Rite",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -11,7 +11,7 @@
   {
     "DKFFECEOAKE": 2001,
     "PAFKEMFAANO": 1100,
-    "FPKEHKLHHDC": 1976952875,
+    "nameTextMapHash": 1976952875,
     "PMPMKOPBJHA": "Unreconciled Stars",
     "COAEEEJINMI": [
       {
@@ -30,7 +30,7 @@
   {
     "DKFFECEOAKE": 2002,
     "PAFKEMFAANO": 1302,
-    "FPKEHKLHHDC": 3451329179,
+    "nameTextMapHash": 3451329179,
     "PMPMKOPBJHA": "Lantern Rite",
     "COAEEEJINMI": [
       {
@@ -130,7 +130,7 @@
   {
     "DKFFECEOAKE": 2003,
     "PAFKEMFAANO": 1400,
-    "FPKEHKLHHDC": 3501499515,
+    "nameTextMapHash": 3501499515,
     "PMPMKOPBJHA": "Windblume Festival",
     "COAEEEJINMI": [
       {
@@ -248,7 +248,7 @@
   {
     "DKFFECEOAKE": 2004,
     "PAFKEMFAANO": 1502,
-    "FPKEHKLHHDC": 559253291,
+    "nameTextMapHash": 559253291,
     "PMPMKOPBJHA": "Energy Amplifier",
     "COAEEEJINMI": [
       {
@@ -261,7 +261,7 @@
   {
     "DKFFECEOAKE": 2005,
     "PAFKEMFAANO": 1600,
-    "FPKEHKLHHDC": 2971864563,
+    "nameTextMapHash": 2971864563,
     "PMPMKOPBJHA": "Midsummer Island Adventure",
     "COAEEEJINMI": [
       {
@@ -379,7 +379,7 @@
   {
     "DKFFECEOAKE": 2006,
     "PAFKEMFAANO": 2001,
-    "FPKEHKLHHDC": 1915754211,
+    "nameTextMapHash": 1915754211,
     "PMPMKOPBJHA": "Thunder Sojourn",
     "COAEEEJINMI": [
       {
@@ -485,7 +485,7 @@
   {
     "DKFFECEOAKE": 2007,
     "PAFKEMFAANO": 2101,
-    "FPKEHKLHHDC": 245531851,
+    "nameTextMapHash": 245531851,
     "PMPMKOPBJHA": "Moonlight Merriment",
     "COAEEEJINMI": [
       {
@@ -540,7 +540,7 @@
   {
     "DKFFECEOAKE": 2008,
     "PAFKEMFAANO": 2201,
-    "FPKEHKLHHDC": 3318162875,
+    "nameTextMapHash": 3318162875,
     "PMPMKOPBJHA": "Labyrinth Warriors",
     "COAEEEJINMI": [
       {
@@ -598,7 +598,7 @@
   {
     "DKFFECEOAKE": 2009,
     "PAFKEMFAANO": 2301,
-    "FPKEHKLHHDC": 3220674955,
+    "nameTextMapHash": 3220674955,
     "PMPMKOPBJHA": "Shadows Amidst Snowstorms",
     "COAEEEJINMI": [
       {
@@ -674,7 +674,7 @@
   {
     "DKFFECEOAKE": 2010,
     "PAFKEMFAANO": 2402,
-    "FPKEHKLHHDC": 3214851075,
+    "nameTextMapHash": 3214851075,
     "PMPMKOPBJHA": "Fleeting Colors in Flight",
     "COAEEEJINMI": [
       {
@@ -834,7 +834,7 @@
   {
     "DKFFECEOAKE": 2011,
     "PAFKEMFAANO": 2501,
-    "FPKEHKLHHDC": 3502675515,
+    "nameTextMapHash": 3502675515,
     "PMPMKOPBJHA": "Three Realms Gateway Offering",
     "COAEEEJINMI": [
       {
@@ -907,7 +907,7 @@
   {
     "DKFFECEOAKE": 2012,
     "PAFKEMFAANO": 2600,
-    "FPKEHKLHHDC": 1488200867,
+    "nameTextMapHash": 1488200867,
     "PMPMKOPBJHA": "Hues of the Violet Garden",
     "COAEEEJINMI": [
       {
@@ -1040,7 +1040,7 @@
   {
     "DKFFECEOAKE": 2013,
     "PAFKEMFAANO": 2704,
-    "FPKEHKLHHDC": 3047307139,
+    "nameTextMapHash": 3047307139,
     "PMPMKOPBJHA": "Perilous Trail",
     "COAEEEJINMI": [
       {
@@ -1128,7 +1128,7 @@
   {
     "DKFFECEOAKE": 2014,
     "PAFKEMFAANO": 2801,
-    "FPKEHKLHHDC": 2947634251,
+    "nameTextMapHash": 2947634251,
     "PMPMKOPBJHA": "Summertime Odyssey",
     "COAEEEJINMI": [
       {
@@ -1243,7 +1243,7 @@
   {
     "DKFFECEOAKE": 2015,
     "PAFKEMFAANO": 3000,
-    "FPKEHKLHHDC": 418238347,
+    "nameTextMapHash": 418238347,
     "PMPMKOPBJHA": "Graven Innocence",
     "COAEEEJINMI": [
       {
@@ -1448,7 +1448,7 @@
   {
     "DKFFECEOAKE": 2016,
     "PAFKEMFAANO": 3103,
-    "FPKEHKLHHDC": 3490312651,
+    "nameTextMapHash": 3490312651,
     "PMPMKOPBJHA": "Of Ballads and Brews",
     "COAEEEJINMI": [
       {
@@ -1596,7 +1596,7 @@
   {
     "DKFFECEOAKE": 2017,
     "PAFKEMFAANO": 3201,
-    "FPKEHKLHHDC": 67634323,
+    "nameTextMapHash": 67634323,
     "PMPMKOPBJHA": "Fabulous Fungus Frenzy",
     "COAEEEJINMI": [
       {
@@ -1842,7 +1842,7 @@
   {
     "DKFFECEOAKE": 2018,
     "PAFKEMFAANO": 3300,
-    "FPKEHKLHHDC": 3641770803,
+    "nameTextMapHash": 3641770803,
     "PMPMKOPBJHA": "Akitsu Kimodameshi",
     "COAEEEJINMI": [
       {
@@ -1991,7 +1991,7 @@
   {
     "DKFFECEOAKE": 2019,
     "PAFKEMFAANO": 3401,
-    "FPKEHKLHHDC": 3008276939,
+    "nameTextMapHash": 3008276939,
     "PMPMKOPBJHA": "The Exquisite Night Chimes",
     "COAEEEJINMI": [
       {
@@ -2128,7 +2128,7 @@
   {
     "DKFFECEOAKE": 2020,
     "PAFKEMFAANO": 3500,
-    "FPKEHKLHHDC": 2464374123,
+    "nameTextMapHash": 2464374123,
     "PMPMKOPBJHA": "Windblume's Breath",
     "COAEEEJINMI": [
       {
@@ -2308,7 +2308,7 @@
   {
     "DKFFECEOAKE": 2021,
     "PAFKEMFAANO": 3601,
-    "FPKEHKLHHDC": 4138787091,
+    "nameTextMapHash": 4138787091,
     "PMPMKOPBJHA": "A Parade of Providence",
     "COAEEEJINMI": [
       {
@@ -2494,7 +2494,7 @@
   {
     "DKFFECEOAKE": 2022,
     "PAFKEMFAANO": 3703,
-    "FPKEHKLHHDC": 1115758891,
+    "nameTextMapHash": 1115758891,
     "PMPMKOPBJHA": "Duel! The Summoners' Summit!",
     "COAEEEJINMI": [
       {
@@ -2632,7 +2632,7 @@
   {
     "DKFFECEOAKE": 2023,
     "PAFKEMFAANO": 3800,
-    "FPKEHKLHHDC": 3783138627,
+    "nameTextMapHash": 3783138627,
     "PMPMKOPBJHA": "Secret Summer Paradise",
     "COAEEEJINMI": [
       {
@@ -2857,7 +2857,7 @@
   {
     "DKFFECEOAKE": 2024,
     "PAFKEMFAANO": 4001,
-    "FPKEHKLHHDC": 3573324747,
+    "nameTextMapHash": 3573324747,
     "PMPMKOPBJHA": "Mega Meka Melee",
     "COAEEEJINMI": [
       {
@@ -2982,7 +2982,7 @@
   {
     "DKFFECEOAKE": 2025,
     "PAFKEMFAANO": 4102,
-    "FPKEHKLHHDC": 4111637803,
+    "nameTextMapHash": 4111637803,
     "PMPMKOPBJHA": "Event 1",
     "COAEEEJINMI": [
       {
@@ -3144,7 +3144,7 @@
   {
     "DKFFECEOAKE": 3001,
     "PAFKEMFAANO": 1200,
-    "FPKEHKLHHDC": 2415983595,
+    "nameTextMapHash": 2415983595,
     "PMPMKOPBJHA": "The Chalk Prince and the Dragon",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3153,7 +3153,7 @@
   {
     "DKFFECEOAKE": 5001,
     "PAFKEMFAANO": 2,
-    "FPKEHKLHHDC": 4016903435,
+    "nameTextMapHash": 4016903435,
     "PMPMKOPBJHA": "Elemental Crucible",
     "COAEEEJINMI": [
       {
@@ -3202,7 +3202,7 @@
   {
     "DKFFECEOAKE": 5002,
     "PAFKEMFAANO": 4,
-    "FPKEHKLHHDC": 43085627,
+    "nameTextMapHash": 43085627,
     "PMPMKOPBJHA": "Test Run",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3211,7 +3211,7 @@
   {
     "DKFFECEOAKE": 5003,
     "PAFKEMFAANO": 3,
-    "FPKEHKLHHDC": 3202322827,
+    "nameTextMapHash": 3202322827,
     "PMPMKOPBJHA": "Marvelous Merchandise",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3220,7 +3220,7 @@
   {
     "DKFFECEOAKE": 5004,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3140529491,
+    "nameTextMapHash": 3140529491,
     "PMPMKOPBJHA": "Astrolabos Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3229,7 +3229,7 @@
   {
     "DKFFECEOAKE": 5005,
     "PAFKEMFAANO": 2,
-    "FPKEHKLHHDC": 3680320923,
+    "nameTextMapHash": 3680320923,
     "PMPMKOPBJHA": "Elemental Crucible",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3238,7 +3238,7 @@
   {
     "DKFFECEOAKE": 5006,
     "PAFKEMFAANO": 9,
-    "FPKEHKLHHDC": 1114072299,
+    "nameTextMapHash": 1114072299,
     "PMPMKOPBJHA": "While It's Warm",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3247,7 +3247,7 @@
   {
     "DKFFECEOAKE": 5007,
     "PAFKEMFAANO": 10,
-    "FPKEHKLHHDC": 2916747123,
+    "nameTextMapHash": 2916747123,
     "PMPMKOPBJHA": "Gliding Challenge",
     "COAEEEJINMI": [
       {
@@ -3320,7 +3320,7 @@
   {
     "DKFFECEOAKE": 5008,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3554662043,
+    "nameTextMapHash": 3554662043,
     "PMPMKOPBJHA": "Pristina Nola Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3329,7 +3329,7 @@
   {
     "DKFFECEOAKE": 5009,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2036640027,
+    "nameTextMapHash": 2036640027,
     "PMPMKOPBJHA": "Historia Antiqua Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3338,7 +3338,7 @@
   {
     "DKFFECEOAKE": 5010,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 412965627,
+    "nameTextMapHash": 412965627,
     "PMPMKOPBJHA": "Monoceros Caeli Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3347,7 +3347,7 @@
   {
     "DKFFECEOAKE": 5011,
     "PAFKEMFAANO": 1204,
-    "FPKEHKLHHDC": 1696537731,
+    "nameTextMapHash": 1696537731,
     "PMPMKOPBJHA": "Lost Riches",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3356,7 +3356,7 @@
   {
     "DKFFECEOAKE": 5012,
     "PAFKEMFAANO": 1205,
-    "FPKEHKLHHDC": 642035203,
+    "nameTextMapHash": 642035203,
     "PMPMKOPBJHA": "Marvelous Merchandise",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3365,7 +3365,7 @@
   {
     "DKFFECEOAKE": 5014,
     "PAFKEMFAANO": 1202,
-    "FPKEHKLHHDC": 2213242907,
+    "nameTextMapHash": 2213242907,
     "PMPMKOPBJHA": "Hypostatic Symphony",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3374,7 +3374,7 @@
   {
     "DKFFECEOAKE": 5015,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 574345899,
+    "nameTextMapHash": 574345899,
     "PMPMKOPBJHA": "Sinae Unicornis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3383,7 +3383,7 @@
   {
     "DKFFECEOAKE": 5016,
     "PAFKEMFAANO": 1300,
-    "FPKEHKLHHDC": 2385600771,
+    "nameTextMapHash": 2385600771,
     "PMPMKOPBJHA": "Five Flushes of Fortune",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3392,7 +3392,7 @@
   {
     "DKFFECEOAKE": 5017,
     "PAFKEMFAANO": 1301,
-    "FPKEHKLHHDC": 1776393771,
+    "nameTextMapHash": 1776393771,
     "PMPMKOPBJHA": "Vishaps and Where to Find Them",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3401,7 +3401,7 @@
   {
     "DKFFECEOAKE": 5018,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3005335419,
+    "nameTextMapHash": 3005335419,
     "PMPMKOPBJHA": "Papilio Charontis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3410,7 +3410,7 @@
   {
     "DKFFECEOAKE": 5019,
     "PAFKEMFAANO": 1402,
-    "FPKEHKLHHDC": 2924065171,
+    "nameTextMapHash": 2924065171,
     "PMPMKOPBJHA": "Contending Tides",
     "COAEEEJINMI": [
       {
@@ -3483,7 +3483,7 @@
   {
     "DKFFECEOAKE": 5020,
     "PAFKEMFAANO": 1403,
-    "FPKEHKLHHDC": 2870842467,
+    "nameTextMapHash": 2870842467,
     "PMPMKOPBJHA": "Wishful Drops",
     "COAEEEJINMI": [
       {
@@ -3496,7 +3496,7 @@
   {
     "DKFFECEOAKE": 5021,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 2977233019,
+    "nameTextMapHash": 2977233019,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3505,7 +3505,7 @@
   {
     "DKFFECEOAKE": 5022,
     "PAFKEMFAANO": 1503,
-    "FPKEHKLHHDC": 1338316939,
+    "nameTextMapHash": 1338316939,
     "PMPMKOPBJHA": "Battlefront: Misty Dungeon",
     "COAEEEJINMI": [
       {
@@ -3605,7 +3605,7 @@
   {
     "DKFFECEOAKE": 5023,
     "PAFKEMFAANO": 1504,
-    "FPKEHKLHHDC": 529127795,
+    "nameTextMapHash": 529127795,
     "PMPMKOPBJHA": "Windtrace",
     "COAEEEJINMI": [
       {
@@ -3630,7 +3630,7 @@
   {
     "DKFFECEOAKE": 5024,
     "PAFKEMFAANO": 1505,
-    "FPKEHKLHHDC": 277026539,
+    "nameTextMapHash": 277026539,
     "PMPMKOPBJHA": "Mimi Tomo",
     "COAEEEJINMI": [
       {
@@ -3661,7 +3661,7 @@
   {
     "DKFFECEOAKE": 5025,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2942613467,
+    "nameTextMapHash": 2942613467,
     "PMPMKOPBJHA": "Historia Antiqua Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3670,7 +3670,7 @@
   {
     "DKFFECEOAKE": 5026,
     "PAFKEMFAANO": 1506,
-    "FPKEHKLHHDC": 1220324699,
+    "nameTextMapHash": 1220324699,
     "PMPMKOPBJHA": "Chilled to the Bone",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3679,7 +3679,7 @@
   {
     "DKFFECEOAKE": 5027,
     "PAFKEMFAANO": 1507,
-    "FPKEHKLHHDC": 734691531,
+    "nameTextMapHash": 734691531,
     "PMPMKOPBJHA": "A Teapot to Call Home",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3688,7 +3688,7 @@
   {
     "DKFFECEOAKE": 5028,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 617503499,
+    "nameTextMapHash": 617503499,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3697,7 +3697,7 @@
   {
     "DKFFECEOAKE": 5029,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 4129510835,
+    "nameTextMapHash": 4129510835,
     "PMPMKOPBJHA": "Aphros Delos Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3706,7 +3706,7 @@
   {
     "DKFFECEOAKE": 5030,
     "PAFKEMFAANO": 1601,
-    "FPKEHKLHHDC": 2215348571,
+    "nameTextMapHash": 2215348571,
     "PMPMKOPBJHA": "Never-Ending Battle",
     "COAEEEJINMI": [
       {
@@ -3779,7 +3779,7 @@
   {
     "DKFFECEOAKE": 5031,
     "PAFKEMFAANO": 1202,
-    "FPKEHKLHHDC": 877450419,
+    "nameTextMapHash": 877450419,
     "PMPMKOPBJHA": "Legend of the Vagabond Sword",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3788,7 +3788,7 @@
   {
     "DKFFECEOAKE": 5032,
     "PAFKEMFAANO": 1603,
-    "FPKEHKLHHDC": 1624067579,
+    "nameTextMapHash": 1624067579,
     "PMPMKOPBJHA": "Kaboomball Kombat",
     "COAEEEJINMI": [
       {
@@ -3801,7 +3801,7 @@
   {
     "DKFFECEOAKE": 5033,
     "PAFKEMFAANO": 1602,
-    "FPKEHKLHHDC": 2166831819,
+    "nameTextMapHash": 2166831819,
     "PMPMKOPBJHA": "Echoing Tales",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3810,7 +3810,7 @@
   {
     "DKFFECEOAKE": 5034,
     "PAFKEMFAANO": 1402,
-    "FPKEHKLHHDC": 278299907,
+    "nameTextMapHash": 278299907,
     "PMPMKOPBJHA": "Phantom Flow",
     "COAEEEJINMI": [
       {
@@ -3904,7 +3904,7 @@
   {
     "DKFFECEOAKE": 5035,
     "PAFKEMFAANO": 1204,
-    "FPKEHKLHHDC": 3116720683,
+    "nameTextMapHash": 3116720683,
     "PMPMKOPBJHA": "Lost Riches",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3913,7 +3913,7 @@
   {
     "DKFFECEOAKE": 5036,
     "PAFKEMFAANO": 2003,
-    "FPKEHKLHHDC": 3882544107,
+    "nameTextMapHash": 3882544107,
     "PMPMKOPBJHA": "Bellowing Blaze",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3922,7 +3922,7 @@
   {
     "DKFFECEOAKE": 5037,
     "PAFKEMFAANO": 2002,
-    "FPKEHKLHHDC": 4289843131,
+    "nameTextMapHash": 4289843131,
     "PMPMKOPBJHA": "Theater Mechanicus: Stage of Wonders",
     "COAEEEJINMI": [
       {
@@ -3977,7 +3977,7 @@
   {
     "DKFFECEOAKE": 5038,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3388342515,
+    "nameTextMapHash": 3388342515,
     "PMPMKOPBJHA": "Carassius Auratus Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3986,7 +3986,7 @@
   {
     "DKFFECEOAKE": 5039,
     "PAFKEMFAANO": 2005,
-    "FPKEHKLHHDC": 3878534475,
+    "nameTextMapHash": 3878534475,
     "PMPMKOPBJHA": "Grus Nivis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -3995,7 +3995,7 @@
   {
     "DKFFECEOAKE": 5040,
     "PAFKEMFAANO": 2102,
-    "FPKEHKLHHDC": 1126423235,
+    "nameTextMapHash": 1126423235,
     "PMPMKOPBJHA": "Hyakunin Ikki",
     "COAEEEJINMI": [
       {
@@ -4062,7 +4062,7 @@
   {
     "DKFFECEOAKE": 5041,
     "PAFKEMFAANO": 2103,
-    "FPKEHKLHHDC": 2238740443,
+    "nameTextMapHash": 2238740443,
     "PMPMKOPBJHA": "Lunar Realm",
     "COAEEEJINMI": [
       {
@@ -4117,7 +4117,7 @@
   {
     "DKFFECEOAKE": 5042,
     "PAFKEMFAANO": 2104,
-    "FPKEHKLHHDC": 1501676995,
+    "nameTextMapHash": 1501676995,
     "PMPMKOPBJHA": "Mendacious Waves",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4126,7 +4126,7 @@
   {
     "DKFFECEOAKE": 5043,
     "PAFKEMFAANO": 2105,
-    "FPKEHKLHHDC": 3211416763,
+    "nameTextMapHash": 3211416763,
     "PMPMKOPBJHA": "Distant Storm",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4135,7 +4135,7 @@
   {
     "DKFFECEOAKE": 5044,
     "PAFKEMFAANO": 1301,
-    "FPKEHKLHHDC": 912074019,
+    "nameTextMapHash": 912074019,
     "PMPMKOPBJHA": "Spectral Secrets",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4144,7 +4144,7 @@
   {
     "DKFFECEOAKE": 5045,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3013098219,
+    "nameTextMapHash": 3013098219,
     "PMPMKOPBJHA": "Dracaena Somnolenta Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4153,7 +4153,7 @@
   {
     "DKFFECEOAKE": 5046,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2730288635,
+    "nameTextMapHash": 2730288635,
     "PMPMKOPBJHA": "Imperatrix Umbrosa Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4162,7 +4162,7 @@
   {
     "DKFFECEOAKE": 5047,
     "PAFKEMFAANO": 2200,
-    "FPKEHKLHHDC": 300261811,
+    "nameTextMapHash": 300261811,
     "PMPMKOPBJHA": "Dreams of Bloom",
     "COAEEEJINMI": [
       {
@@ -4199,7 +4199,7 @@
   {
     "DKFFECEOAKE": 5048,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 532312771,
+    "nameTextMapHash": 532312771,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4208,7 +4208,7 @@
   {
     "DKFFECEOAKE": 5049,
     "PAFKEMFAANO": 2203,
-    "FPKEHKLHHDC": 2646716971,
+    "nameTextMapHash": 2646716971,
     "PMPMKOPBJHA": "Shadow of the Ancients",
     "COAEEEJINMI": [
       {
@@ -4266,7 +4266,7 @@
   {
     "DKFFECEOAKE": 5050,
     "PAFKEMFAANO": 2202,
-    "FPKEHKLHHDC": 3002702195,
+    "nameTextMapHash": 3002702195,
     "PMPMKOPBJHA": "Tuned to the World's Sounds",
     "COAEEEJINMI": [
       {
@@ -4339,7 +4339,7 @@
   {
     "DKFFECEOAKE": 5051,
     "PAFKEMFAANO": 2302,
-    "FPKEHKLHHDC": 1664011459,
+    "nameTextMapHash": 1664011459,
     "PMPMKOPBJHA": "Bantan Sango Case Files: The Warrior Dog",
     "COAEEEJINMI": [
       {
@@ -4376,7 +4376,7 @@
   {
     "DKFFECEOAKE": 5052,
     "PAFKEMFAANO": 2204,
-    "FPKEHKLHHDC": 1242349539,
+    "nameTextMapHash": 1242349539,
     "PMPMKOPBJHA": "Exploding Population",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4385,7 +4385,7 @@
   {
     "DKFFECEOAKE": 5053,
     "PAFKEMFAANO": 1502,
-    "FPKEHKLHHDC": 2956151027,
+    "nameTextMapHash": 2956151027,
     "PMPMKOPBJHA": "Energy Amplifier",
     "COAEEEJINMI": [
       {
@@ -4398,7 +4398,7 @@
   {
     "DKFFECEOAKE": 5054,
     "PAFKEMFAANO": 1503,
-    "FPKEHKLHHDC": 1647433307,
+    "nameTextMapHash": 1647433307,
     "PMPMKOPBJHA": "Misty Dungeon: Realm of Light",
     "COAEEEJINMI": [
       {
@@ -4450,7 +4450,7 @@
   {
     "DKFFECEOAKE": 5055,
     "PAFKEMFAANO": 2401,
-    "FPKEHKLHHDC": 2176243643,
+    "nameTextMapHash": 2176243643,
     "PMPMKOPBJHA": "Eight Locales Over Mountains and Seas",
     "COAEEEJINMI": [
       {
@@ -4481,7 +4481,7 @@
   {
     "DKFFECEOAKE": 5056,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 3460017059,
+    "nameTextMapHash": 3460017059,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4490,7 +4490,7 @@
   {
     "DKFFECEOAKE": 5057,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 3133143035,
+    "nameTextMapHash": 3133143035,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4499,7 +4499,7 @@
   {
     "DKFFECEOAKE": 5058,
     "PAFKEMFAANO": 2400,
-    "FPKEHKLHHDC": 43364571,
+    "nameTextMapHash": 43364571,
     "PMPMKOPBJHA": "A Study in Potions",
     "COAEEEJINMI": [
       {
@@ -4572,7 +4572,7 @@
   {
     "DKFFECEOAKE": 5059,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3145484811,
+    "nameTextMapHash": 3145484811,
     "PMPMKOPBJHA": "Taurus Iracundus Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4581,7 +4581,7 @@
   {
     "DKFFECEOAKE": 5060,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2845558683,
+    "nameTextMapHash": 2845558683,
     "PMPMKOPBJHA": "Beastly Rift",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4590,7 +4590,7 @@
   {
     "DKFFECEOAKE": 5061,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3708249347,
+    "nameTextMapHash": 3708249347,
     "PMPMKOPBJHA": "With Sleet and Storm",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4599,7 +4599,7 @@
   {
     "DKFFECEOAKE": 5062,
     "PAFKEMFAANO": 2502,
-    "FPKEHKLHHDC": 2768422339,
+    "nameTextMapHash": 2768422339,
     "PMPMKOPBJHA": "Of Drink A-Dreaming",
     "COAEEEJINMI": [
       {
@@ -4651,7 +4651,7 @@
   {
     "DKFFECEOAKE": 5063,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3505523731,
+    "nameTextMapHash": 3505523731,
     "PMPMKOPBJHA": "The Crane Returns on the Wind",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4660,7 +4660,7 @@
   {
     "DKFFECEOAKE": 5064,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 1829417819,
+    "nameTextMapHash": 1829417819,
     "PMPMKOPBJHA": "Enkanomiya",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4669,7 +4669,7 @@
   {
     "DKFFECEOAKE": 5065,
     "PAFKEMFAANO": 2503,
-    "FPKEHKLHHDC": 2707721555,
+    "nameTextMapHash": 2707721555,
     "PMPMKOPBJHA": "Divine Ingenuity",
     "COAEEEJINMI": [
       {
@@ -4733,7 +4733,7 @@
   {
     "DKFFECEOAKE": 5066,
     "PAFKEMFAANO": 2602,
-    "FPKEHKLHHDC": 3891468923,
+    "nameTextMapHash": 3891468923,
     "PMPMKOPBJHA": "Spices From the West",
     "COAEEEJINMI": [
       {
@@ -4794,7 +4794,7 @@
   {
     "DKFFECEOAKE": 5067,
     "PAFKEMFAANO": 2601,
-    "FPKEHKLHHDC": 1468267971,
+    "nameTextMapHash": 1468267971,
     "PMPMKOPBJHA": "Vibro-Crystal Research",
     "COAEEEJINMI": [
       {
@@ -4858,7 +4858,7 @@
   {
     "DKFFECEOAKE": 5068,
     "PAFKEMFAANO": 2603,
-    "FPKEHKLHHDC": 2688384283,
+    "nameTextMapHash": 2688384283,
     "PMPMKOPBJHA": "Outside the Canvas, Inside the Lens",
     "COAEEEJINMI": [
       {
@@ -4910,7 +4910,7 @@
   {
     "DKFFECEOAKE": 5069,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3756841219,
+    "nameTextMapHash": 3756841219,
     "PMPMKOPBJHA": "Divina Vulpes Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4919,7 +4919,7 @@
   {
     "DKFFECEOAKE": 5070,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2266300651,
+    "nameTextMapHash": 2266300651,
     "PMPMKOPBJHA": "Imperatrix Umbrosa Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4928,7 +4928,7 @@
   {
     "DKFFECEOAKE": 5071,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2534847571,
+    "nameTextMapHash": 2534847571,
     "PMPMKOPBJHA": "Chasmic Serpent",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -4937,7 +4937,7 @@
   {
     "DKFFECEOAKE": 5072,
     "PAFKEMFAANO": 2202,
-    "FPKEHKLHHDC": 1971769931,
+    "nameTextMapHash": 1971769931,
     "PMPMKOPBJHA": "The Almighty Arataki Great and Glorious Drumalong Festival",
     "COAEEEJINMI": [
       {
@@ -5010,7 +5010,7 @@
   {
     "DKFFECEOAKE": 5073,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 3521841691,
+    "nameTextMapHash": 3521841691,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5019,7 +5019,7 @@
   {
     "DKFFECEOAKE": 5074,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 3627521587,
+    "nameTextMapHash": 3627521587,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5028,7 +5028,7 @@
   {
     "DKFFECEOAKE": 5075,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 1768512867,
+    "nameTextMapHash": 1768512867,
     "PMPMKOPBJHA": "The Chasm",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5037,7 +5037,7 @@
   {
     "DKFFECEOAKE": 5076,
     "PAFKEMFAANO": 2102,
-    "FPKEHKLHHDC": 1338793387,
+    "nameTextMapHash": 1338793387,
     "PMPMKOPBJHA": "Hyakunin Ikki",
     "COAEEEJINMI": [
       {
@@ -5101,7 +5101,7 @@
   {
     "DKFFECEOAKE": 5077,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3105165395,
+    "nameTextMapHash": 3105165395,
     "PMPMKOPBJHA": "Requiem of the Echoing Depths",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5110,7 +5110,7 @@
   {
     "DKFFECEOAKE": 5078,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 3901007963,
+    "nameTextMapHash": 3901007963,
     "PMPMKOPBJHA": "Cypressus Custos Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5119,7 +5119,7 @@
   {
     "DKFFECEOAKE": 5079,
     "PAFKEMFAANO": 2702,
-    "FPKEHKLHHDC": 1597753651,
+    "nameTextMapHash": 1597753651,
     "PMPMKOPBJHA": "A Muddy Bizarre Adventure",
     "COAEEEJINMI": [
       {
@@ -5150,7 +5150,7 @@
   {
     "DKFFECEOAKE": 5080,
     "PAFKEMFAANO": 2703,
-    "FPKEHKLHHDC": 1032428627,
+    "nameTextMapHash": 1032428627,
     "PMPMKOPBJHA": "Core of the Apparatus",
     "COAEEEJINMI": [
       {
@@ -5184,7 +5184,7 @@
   {
     "DKFFECEOAKE": 5081,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2696249099,
+    "nameTextMapHash": 2696249099,
     "PMPMKOPBJHA": "Umbrabilis Orchis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5193,7 +5193,7 @@
   {
     "DKFFECEOAKE": 5082,
     "PAFKEMFAANO": 2802,
-    "FPKEHKLHHDC": 3676486099,
+    "nameTextMapHash": 3676486099,
     "PMPMKOPBJHA": "Evermotion Mechanical Painting",
     "COAEEEJINMI": [
       {
@@ -5221,7 +5221,7 @@
   {
     "DKFFECEOAKE": 5083,
     "PAFKEMFAANO": 2803,
-    "FPKEHKLHHDC": 2618971707,
+    "nameTextMapHash": 2618971707,
     "PMPMKOPBJHA": "Reminiscent Regimen",
     "COAEEEJINMI": [
       {
@@ -5285,7 +5285,7 @@
   {
     "DKFFECEOAKE": 5084,
     "PAFKEMFAANO": 1602,
-    "FPKEHKLHHDC": 97430259,
+    "nameTextMapHash": 97430259,
     "PMPMKOPBJHA": "Resonating Visions",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5294,7 +5294,7 @@
   {
     "DKFFECEOAKE": 5085,
     "PAFKEMFAANO": 1402,
-    "FPKEHKLHHDC": 1863926515,
+    "nameTextMapHash": 1863926515,
     "PMPMKOPBJHA": "Hidden Strife",
     "COAEEEJINMI": [
       {
@@ -5388,7 +5388,7 @@
   {
     "DKFFECEOAKE": 5086,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2833055627,
+    "nameTextMapHash": 2833055627,
     "PMPMKOPBJHA": "Murkwood Fungal Raptor",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5397,7 +5397,7 @@
   {
     "DKFFECEOAKE": 5087,
     "PAFKEMFAANO": 3001,
-    "FPKEHKLHHDC": 1011803683,
+    "nameTextMapHash": 1011803683,
     "PMPMKOPBJHA": "Tablet Analytics",
     "COAEEEJINMI": [
       {
@@ -5443,7 +5443,7 @@
   {
     "DKFFECEOAKE": 5088,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2691440459,
+    "nameTextMapHash": 2691440459,
     "PMPMKOPBJHA": "Acer Palmatum Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5452,7 +5452,7 @@
   {
     "DKFFECEOAKE": 5089,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2979958955,
+    "nameTextMapHash": 2979958955,
     "PMPMKOPBJHA": "Rumbleflower",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5461,7 +5461,7 @@
   {
     "DKFFECEOAKE": 5090,
     "PAFKEMFAANO": 3002,
-    "FPKEHKLHHDC": 2048292451,
+    "nameTextMapHash": 2048292451,
     "PMPMKOPBJHA": "Fayz Trials",
     "COAEEEJINMI": [
       {
@@ -5534,7 +5534,7 @@
   {
     "DKFFECEOAKE": 5091,
     "PAFKEMFAANO": 3003,
-    "FPKEHKLHHDC": 3613320683,
+    "nameTextMapHash": 3613320683,
     "PMPMKOPBJHA": "Lost Riches",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5543,7 +5543,7 @@
   {
     "DKFFECEOAKE": 5092,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 1677600611,
+    "nameTextMapHash": 1677600611,
     "PMPMKOPBJHA": "Vulpes Zerda Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5552,7 +5552,7 @@
   {
     "DKFFECEOAKE": 5093,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2299651155,
+    "nameTextMapHash": 2299651155,
     "PMPMKOPBJHA": "Dharma Forest",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5561,7 +5561,7 @@
   {
     "DKFFECEOAKE": 5094,
     "PAFKEMFAANO": 2102,
-    "FPKEHKLHHDC": 2164069291,
+    "nameTextMapHash": 2164069291,
     "PMPMKOPBJHA": "Hyakunin Ikki",
     "COAEEEJINMI": [
       {
@@ -5625,7 +5625,7 @@
   {
     "DKFFECEOAKE": 5095,
     "PAFKEMFAANO": 3101,
-    "FPKEHKLHHDC": 4276620915,
+    "nameTextMapHash": 4276620915,
     "PMPMKOPBJHA": "Wind Chaser",
     "COAEEEJINMI": [
       {
@@ -5680,7 +5680,7 @@
   {
     "DKFFECEOAKE": 5096,
     "PAFKEMFAANO": 3102,
-    "FPKEHKLHHDC": 4119252379,
+    "nameTextMapHash": 4119252379,
     "PMPMKOPBJHA": "Star-Seeker's Sojourn",
     "COAEEEJINMI": [
       {
@@ -5708,7 +5708,7 @@
   {
     "DKFFECEOAKE": 5097,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 1986254139,
+    "nameTextMapHash": 1986254139,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5717,7 +5717,7 @@
   {
     "DKFFECEOAKE": 5098,
     "PAFKEMFAANO": 3201,
-    "FPKEHKLHHDC": 4034801971,
+    "nameTextMapHash": 4034801971,
     "PMPMKOPBJHA": "",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5726,7 +5726,7 @@
   {
     "DKFFECEOAKE": 5099,
     "PAFKEMFAANO": 3202,
-    "FPKEHKLHHDC": 681831027,
+    "nameTextMapHash": 681831027,
     "PMPMKOPBJHA": "Adventurer's Trials",
     "COAEEEJINMI": [
       {
@@ -5761,7 +5761,7 @@
   {
     "DKFFECEOAKE": 5100,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2217998283,
+    "nameTextMapHash": 2217998283,
     "PMPMKOPBJHA": "Lupus Aureus Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5770,7 +5770,7 @@
   {
     "DKFFECEOAKE": 5101,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 549869123,
+    "nameTextMapHash": 549869123,
     "PMPMKOPBJHA": "Lotos Somno Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5779,7 +5779,7 @@
   {
     "DKFFECEOAKE": 5102,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2339550643,
+    "nameTextMapHash": 2339550643,
     "PMPMKOPBJHA": "Searing Dreams in the Sea of Sand",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5788,7 +5788,7 @@
   {
     "DKFFECEOAKE": 5103,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3064032339,
+    "nameTextMapHash": 3064032339,
     "PMPMKOPBJHA": "Perpetual Motion Dragon",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5797,7 +5797,7 @@
   {
     "DKFFECEOAKE": 5104,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3028644827,
+    "nameTextMapHash": 3028644827,
     "PMPMKOPBJHA": "Matrix of Overseer Network",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5806,7 +5806,7 @@
   {
     "DKFFECEOAKE": 5105,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2379916235,
+    "nameTextMapHash": 2379916235,
     "PMPMKOPBJHA": "Dreams, Emptiness, Deception",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5815,7 +5815,7 @@
   {
     "DKFFECEOAKE": 5106,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 899881235,
+    "nameTextMapHash": 899881235,
     "PMPMKOPBJHA": "The Verdant Takeover",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -5824,7 +5824,7 @@
   {
     "DKFFECEOAKE": 5107,
     "PAFKEMFAANO": 3203,
-    "FPKEHKLHHDC": 546551763,
+    "nameTextMapHash": 546551763,
     "PMPMKOPBJHA": "Hypostatic Symphony: Dissonant Verse",
     "COAEEEJINMI": [
       {
@@ -5947,7 +5947,7 @@
   {
     "DKFFECEOAKE": 5108,
     "PAFKEMFAANO": 2603,
-    "FPKEHKLHHDC": 98751835,
+    "nameTextMapHash": 98751835,
     "PMPMKOPBJHA": "Outside the Canvas, Inside the Lens: Greenery Chapter",
     "COAEEEJINMI": [
       {
@@ -5999,7 +5999,7 @@
   {
     "DKFFECEOAKE": 5109,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 1603677411,
+    "nameTextMapHash": 1603677411,
     "PMPMKOPBJHA": "Akasha Pulses, the Kalpa Flame Rises",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6008,7 +6008,7 @@
   {
     "DKFFECEOAKE": 5110,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3352224371,
+    "nameTextMapHash": 3352224371,
     "PMPMKOPBJHA": "Battlefield of Dice, Cats, and Cards",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6017,7 +6017,7 @@
   {
     "DKFFECEOAKE": 5111,
     "PAFKEMFAANO": 1504,
-    "FPKEHKLHHDC": 3750535811,
+    "nameTextMapHash": 3750535811,
     "PMPMKOPBJHA": "Windtrace",
     "COAEEEJINMI": [
       {
@@ -6042,7 +6042,7 @@
   {
     "DKFFECEOAKE": 5112,
     "PAFKEMFAANO": 3301,
-    "FPKEHKLHHDC": 611080843,
+    "nameTextMapHash": 611080843,
     "PMPMKOPBJHA": "Across the Wilderness",
     "COAEEEJINMI": [
       {
@@ -6097,7 +6097,7 @@
   {
     "DKFFECEOAKE": 5113,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2814175875,
+    "nameTextMapHash": 2814175875,
     "PMPMKOPBJHA": "Sapientia Oromasdis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6106,7 +6106,7 @@
   {
     "DKFFECEOAKE": 5114,
     "PAFKEMFAANO": 1503,
-    "FPKEHKLHHDC": 2929557955,
+    "nameTextMapHash": 2929557955,
     "PMPMKOPBJHA": "Misty Dungeon: Realm of Sand",
     "COAEEEJINMI": [
       {
@@ -6180,7 +6180,7 @@
   {
     "DKFFECEOAKE": 5115,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2324205827,
+    "nameTextMapHash": 2324205827,
     "PMPMKOPBJHA": "Inversion of Genesis",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6189,7 +6189,7 @@
   {
     "DKFFECEOAKE": 5116,
     "PAFKEMFAANO": 3403,
-    "FPKEHKLHHDC": 2790748027,
+    "nameTextMapHash": 2790748027,
     "PMPMKOPBJHA": "Second Blooming",
     "COAEEEJINMI": [
       {
@@ -6266,7 +6266,7 @@
   {
     "DKFFECEOAKE": 5117,
     "PAFKEMFAANO": 3400,
-    "FPKEHKLHHDC": 4014444667,
+    "nameTextMapHash": 4014444667,
     "PMPMKOPBJHA": "Warrior's Spirit",
     "COAEEEJINMI": [
       {
@@ -6370,7 +6370,7 @@
   {
     "DKFFECEOAKE": 5118,
     "PAFKEMFAANO": 3402,
-    "FPKEHKLHHDC": 555810803,
+    "nameTextMapHash": 555810803,
     "PMPMKOPBJHA": "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl",
     "COAEEEJINMI": [
       {
@@ -6425,7 +6425,7 @@
   {
     "DKFFECEOAKE": 5119,
     "PAFKEMFAANO": 3404,
-    "FPKEHKLHHDC": 152700147,
+    "nameTextMapHash": 152700147,
     "PMPMKOPBJHA": "Heated Battle Mode: Reinforcements",
     "COAEEEJINMI": [
       {
@@ -6444,7 +6444,7 @@
   {
     "DKFFECEOAKE": 5120,
     "PAFKEMFAANO": 3501,
-    "FPKEHKLHHDC": 2271138211,
+    "nameTextMapHash": 2271138211,
     "PMPMKOPBJHA": "Fungus Mechanicus",
     "COAEEEJINMI": [
       {
@@ -6545,7 +6545,7 @@
   {
     "DKFFECEOAKE": 5121,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2992802131,
+    "nameTextMapHash": 2992802131,
     "PMPMKOPBJHA": "Vultur Volans Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6554,7 +6554,7 @@
   {
     "DKFFECEOAKE": 5122,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 4244893579,
+    "nameTextMapHash": 4244893579,
     "PMPMKOPBJHA": "Lord of the Desert",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6563,7 +6563,7 @@
   {
     "DKFFECEOAKE": 5123,
     "PAFKEMFAANO": 2601,
-    "FPKEHKLHHDC": 865228531,
+    "nameTextMapHash": 865228531,
     "PMPMKOPBJHA": "Vibro-Crystal Verification",
     "COAEEEJINMI": [
       {
@@ -6646,7 +6646,7 @@
   {
     "DKFFECEOAKE": 5124,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3116820539,
+    "nameTextMapHash": 3116820539,
     "PMPMKOPBJHA": "Caribert",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6655,7 +6655,7 @@
   {
     "DKFFECEOAKE": 5125,
     "PAFKEMFAANO": 2602,
-    "FPKEHKLHHDC": 2266987395,
+    "nameTextMapHash": 2266987395,
     "PMPMKOPBJHA": "Spices From the West: Northerly Search",
     "COAEEEJINMI": [
       {
@@ -6716,7 +6716,7 @@
   {
     "DKFFECEOAKE": 5126,
     "PAFKEMFAANO": 3405,
-    "FPKEHKLHHDC": 1540739499,
+    "nameTextMapHash": 1540739499,
     "PMPMKOPBJHA": "Desert of Hadramaveth",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6725,7 +6725,7 @@
   {
     "DKFFECEOAKE": 5127,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 3475818987,
+    "nameTextMapHash": 3475818987,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6734,7 +6734,7 @@
   {
     "DKFFECEOAKE": 5128,
     "PAFKEMFAANO": 3600,
-    "FPKEHKLHHDC": 1269929195,
+    "nameTextMapHash": 1269929195,
     "PMPMKOPBJHA": "Fulminating Sandstorm",
     "COAEEEJINMI": [
       {
@@ -6765,7 +6765,7 @@
   {
     "DKFFECEOAKE": 5129,
     "PAFKEMFAANO": 3001,
-    "FPKEHKLHHDC": 2761064411,
+    "nameTextMapHash": 2761064411,
     "PMPMKOPBJHA": "Brewing Developments",
     "COAEEEJINMI": [
       {
@@ -6824,7 +6824,7 @@
   {
     "DKFFECEOAKE": 5130,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 1783579371,
+    "nameTextMapHash": 1783579371,
     "PMPMKOPBJHA": "Mantichora Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6833,7 +6833,7 @@
   {
     "DKFFECEOAKE": 5131,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3666005627,
+    "nameTextMapHash": 3666005627,
     "PMPMKOPBJHA": "Girdle of the Sands",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6842,7 +6842,7 @@
   {
     "DKFFECEOAKE": 5132,
     "PAFKEMFAANO": 3602,
-    "FPKEHKLHHDC": 1801851923,
+    "nameTextMapHash": 1801851923,
     "PMPMKOPBJHA": "The Recollector's Path",
     "COAEEEJINMI": [
       {
@@ -6906,7 +6906,7 @@
   {
     "DKFFECEOAKE": 5133,
     "PAFKEMFAANO": 3701,
-    "FPKEHKLHHDC": 667170459,
+    "nameTextMapHash": 667170459,
     "PMPMKOPBJHA": "Divine Ingenuity: Collector's Chapter",
     "COAEEEJINMI": [
       {
@@ -6971,7 +6971,7 @@
   {
     "DKFFECEOAKE": 5134,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 1155701179,
+    "nameTextMapHash": 1155701179,
     "PMPMKOPBJHA": "Cleansing of Sin",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -6980,7 +6980,7 @@
   {
     "DKFFECEOAKE": 5135,
     "PAFKEMFAANO": 3702,
-    "FPKEHKLHHDC": 2830593339,
+    "nameTextMapHash": 2830593339,
     "PMPMKOPBJHA": "Feast of the Departed Warriors",
     "COAEEEJINMI": [
       {
@@ -7063,7 +7063,7 @@
   {
     "DKFFECEOAKE": 5136,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 333901115,
+    "nameTextMapHash": 333901115,
     "PMPMKOPBJHA": "Lagenaria Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7072,7 +7072,7 @@
   {
     "DKFFECEOAKE": 5137,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2659905379,
+    "nameTextMapHash": 2659905379,
     "PMPMKOPBJHA": "Carassius Auratus Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7081,7 +7081,7 @@
   {
     "DKFFECEOAKE": 5138,
     "PAFKEMFAANO": 3002,
-    "FPKEHKLHHDC": 423878123,
+    "nameTextMapHash": 423878123,
     "PMPMKOPBJHA": "Fayz Trials: Hypothesis",
     "COAEEEJINMI": [
       {
@@ -7176,7 +7176,7 @@
   {
     "DKFFECEOAKE": 5139,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 2526708675,
+    "nameTextMapHash": 2526708675,
     "PMPMKOPBJHA": "Sapientia Oromasdis Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7185,7 +7185,7 @@
   {
     "DKFFECEOAKE": 5140,
     "PAFKEMFAANO": 3801,
-    "FPKEHKLHHDC": 2282628195,
+    "nameTextMapHash": 2282628195,
     "PMPMKOPBJHA": "Perilous Expedition",
     "COAEEEJINMI": [
       {
@@ -7316,7 +7316,7 @@
   {
     "DKFFECEOAKE": 5141,
     "PAFKEMFAANO": 3202,
-    "FPKEHKLHHDC": 1775497515,
+    "nameTextMapHash": 1775497515,
     "PMPMKOPBJHA": "Adventurer's Trials: Advanced",
     "COAEEEJINMI": [
       {
@@ -7345,7 +7345,7 @@
   {
     "DKFFECEOAKE": 5142,
     "PAFKEMFAANO": 3802,
-    "FPKEHKLHHDC": 3358102651,
+    "nameTextMapHash": 3358102651,
     "PMPMKOPBJHA": "Shared Sight",
     "COAEEEJINMI": [
       {
@@ -7373,7 +7373,7 @@
   {
     "DKFFECEOAKE": 5143,
     "PAFKEMFAANO": 3705,
-    "FPKEHKLHHDC": 2923535955,
+    "nameTextMapHash": 2923535955,
     "PMPMKOPBJHA": "The Forge Realm's Temper: Clever Strategems",
     "COAEEEJINMI": [
       {
@@ -7419,7 +7419,7 @@
   {
     "DKFFECEOAKE": 5144,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 2474214227,
+    "nameTextMapHash": 2474214227,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7428,7 +7428,7 @@
   {
     "DKFFECEOAKE": 5145,
     "PAFKEMFAANO": 1405,
-    "FPKEHKLHHDC": 1925853179,
+    "nameTextMapHash": 1925853179,
     "PMPMKOPBJHA": "Hangout Event",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7437,7 +7437,7 @@
   {
     "DKFFECEOAKE": 5146,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 194238187,
+    "nameTextMapHash": 194238187,
     "PMPMKOPBJHA": "Genius Invokation TCG: Radiant Secrets",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7446,7 +7446,7 @@
   {
     "DKFFECEOAKE": 5147,
     "PAFKEMFAANO": 4000,
-    "FPKEHKLHHDC": 2081253275,
+    "nameTextMapHash": 2081253275,
     "PMPMKOPBJHA": "Studies in Light and Shadow: A Fontaine of Enchantment",
     "COAEEEJINMI": [
       {
@@ -7492,7 +7492,7 @@
   {
     "DKFFECEOAKE": 5148,
     "PAFKEMFAANO": 3803,
-    "FPKEHKLHHDC": 1110878027,
+    "nameTextMapHash": 1110878027,
     "PMPMKOPBJHA": "The Forge Realm's Temper: Endless Swarm",
     "COAEEEJINMI": [
       {
@@ -7538,7 +7538,7 @@
   {
     "DKFFECEOAKE": 5149,
     "PAFKEMFAANO": 8,
-    "FPKEHKLHHDC": 1153696035,
+    "nameTextMapHash": 1153696035,
     "PMPMKOPBJHA": "Felis Fuscus Chapter",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7547,7 +7547,7 @@
   {
     "DKFFECEOAKE": 5150,
     "PAFKEMFAANO": 4002,
-    "FPKEHKLHHDC": 186052187,
+    "nameTextMapHash": 186052187,
     "PMPMKOPBJHA": "Relic Records: Creations of the Hydro Nation",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7556,7 +7556,7 @@
   {
     "DKFFECEOAKE": 5151,
     "PAFKEMFAANO": 1402,
-    "FPKEHKLHHDC": 976828243,
+    "nameTextMapHash": 976828243,
     "PMPMKOPBJHA": "Verdict of Blades",
     "COAEEEJINMI": [
       {
@@ -7638,7 +7638,7 @@
   {
     "DKFFECEOAKE": 5152,
     "PAFKEMFAANO": 4003,
-    "FPKEHKLHHDC": 330701459,
+    "nameTextMapHash": 330701459,
     "PMPMKOPBJHA": "The Forge Realm's Temper: Game of Wits",
     "COAEEEJINMI": [
       {
@@ -7660,7 +7660,7 @@
   {
     "DKFFECEOAKE": 5153,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 1079883683,
+    "nameTextMapHash": 1079883683,
     "PMPMKOPBJHA": "Lone Suzerain of Land and Sea",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7669,7 +7669,7 @@
   {
     "DKFFECEOAKE": 5154,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 529312387,
+    "nameTextMapHash": 529312387,
     "PMPMKOPBJHA": "Gear and Clockwork Roundelay",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7678,7 +7678,7 @@
   {
     "DKFFECEOAKE": 5155,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 3639502275,
+    "nameTextMapHash": 3639502275,
     "PMPMKOPBJHA": "Gravity Field",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7687,7 +7687,7 @@
   {
     "DKFFECEOAKE": 5156,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 363973795,
+    "nameTextMapHash": 363973795,
     "PMPMKOPBJHA": "Chasm Seahorse",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7696,7 +7696,7 @@
   {
     "DKFFECEOAKE": 5157,
     "PAFKEMFAANO": 4100,
-    "FPKEHKLHHDC": 1215543219,
+    "nameTextMapHash": 1215543219,
     "PMPMKOPBJHA": "Radiant Harvest",
     "COAEEEJINMI": [
       {
@@ -7727,7 +7727,7 @@
   {
     "DKFFECEOAKE": 5158,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2174109715,
+    "nameTextMapHash": 2174109715,
     "PMPMKOPBJHA": "The Terrestrial Sea, Origin of All Waters",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7736,7 +7736,7 @@
   {
     "DKFFECEOAKE": 5159,
     "PAFKEMFAANO": 4101,
-    "FPKEHKLHHDC": 2404304571,
+    "nameTextMapHash": 2404304571,
     "PMPMKOPBJHA": "The Peaks and Troughs of Life",
     "COAEEEJINMI": [
       {
@@ -7822,7 +7822,7 @@
   {
     "DKFFECEOAKE": 5160,
     "PAFKEMFAANO": 4103,
-    "FPKEHKLHHDC": 3901303163,
+    "nameTextMapHash": 3901303163,
     "PMPMKOPBJHA": "Dodoco's Bomb-Tastic Adventure",
     "COAEEEJINMI": [
       {
@@ -7886,7 +7886,7 @@
   {
     "DKFFECEOAKE": 5163,
     "PAFKEMFAANO": 2100,
-    "FPKEHKLHHDC": 2350449587,
+    "nameTextMapHash": 2350449587,
     "PMPMKOPBJHA": "Variation on Debris and Metal",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7895,7 +7895,7 @@
   {
     "DKFFECEOAKE": 6002,
     "PAFKEMFAANO": 1501,
-    "FPKEHKLHHDC": 2829736099,
+    "nameTextMapHash": 2829736099,
     "PMPMKOPBJHA": "Even Mountains Tremble",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7904,7 +7904,7 @@
   {
     "DKFFECEOAKE": 6003,
     "PAFKEMFAANO": 1404,
-    "FPKEHKLHHDC": 1256784235,
+    "nameTextMapHash": 1256784235,
     "PMPMKOPBJHA": "Outland Gastronomy",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7913,7 +7913,7 @@
   {
     "DKFFECEOAKE": 6005,
     "PAFKEMFAANO": 1604,
-    "FPKEHKLHHDC": 1014579235,
+    "nameTextMapHash": 1014579235,
     "PMPMKOPBJHA": "Autumn Winds, Scarlet Leaves",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],
@@ -7922,7 +7922,7 @@
   {
     "DKFFECEOAKE": 6006,
     "PAFKEMFAANO": 2004,
-    "FPKEHKLHHDC": 2699446819,
+    "nameTextMapHash": 2699446819,
     "PMPMKOPBJHA": "Machine Battlefront",
     "COAEEEJINMI": [],
     "CMBGGOAHFMP": [],

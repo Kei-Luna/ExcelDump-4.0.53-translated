@@ -46,7 +46,7 @@
       }
     ],
     "PEFKPMHOCNN": "1",
-    "PGKNKBKHCHM": 7000,
+    "id": 7000,
     "ADNEGPGLPKN": 7,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -54,7 +54,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1470959720,
+    "nameTextMapHash": 1470959720,
     "PMPMKOPBJHA": "Hilichurl Group",
     "MKNKCBJKNBP": 3008027338640663600,
     "CGKJHJAGGJD": 250,
@@ -112,7 +112,7 @@
       }
     ],
     "PEFKPMHOCNN": "1",
-    "PGKNKBKHCHM": 7001,
+    "id": 7001,
     "ADNEGPGLPKN": 7,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -120,7 +120,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2244389512,
+    "nameTextMapHash": 2244389512,
     "PMPMKOPBJHA": "Concentrated Elemental Energy Group",
     "MKNKCBJKNBP": 9595274494906403000,
     "CGKJHJAGGJD": 250,
@@ -178,7 +178,7 @@
       }
     ],
     "PEFKPMHOCNN": "1",
-    "PGKNKBKHCHM": 7002,
+    "id": 7002,
     "ADNEGPGLPKN": 7,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -186,7 +186,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 4079241488,
+    "nameTextMapHash": 4079241488,
     "PMPMKOPBJHA": "Automaton Group",
     "MKNKCBJKNBP": 4871374298702394000,
     "CGKJHJAGGJD": 180,
@@ -250,7 +250,7 @@
       }
     ],
     "PEFKPMHOCNN": "1",
-    "PGKNKBKHCHM": 7003,
+    "id": 7003,
     "ADNEGPGLPKN": 7,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -258,7 +258,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 989635672,
+    "nameTextMapHash": 989635672,
     "PMPMKOPBJHA": "Mischief-Maker Group",
     "MKNKCBJKNBP": 14216390869601910000,
     "CGKJHJAGGJD": 250,
@@ -316,7 +316,7 @@
       }
     ],
     "PEFKPMHOCNN": "1",
-    "PGKNKBKHCHM": 7005,
+    "id": 7005,
     "ADNEGPGLPKN": 7,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -324,7 +324,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1931387336,
+    "nameTextMapHash": 1931387336,
     "PMPMKOPBJHA": "Strange Mystical Beast Group",
     "MKNKCBJKNBP": 18088448450075787000,
     "CGKJHJAGGJD": 250,

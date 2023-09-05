@@ -1,7 +1,7 @@
 [
   {
     "DCKCMKGGIKM": 70100001,
-    "FPKEHKLHHDC": 2353223730,
+    "nameTextMapHash": 2353223730,
     "PMPMKOPBJHA": "The Marsh of Celestial Guardians",
     "OCHCPNIBIPF": 3310659544,
     "AJGMCFNDKEG": "A poem says that a star once fell to the earth, forming this lake. But other tales say that even the stars would descend to apprehend this sight, which shines as brightly as the Anemo Archon's eyes.",
@@ -14,7 +14,7 @@
   },
   {
     "DCKCMKGGIKM": 70100002,
-    "FPKEHKLHHDC": 216945066,
+    "nameTextMapHash": 216945066,
     "PMPMKOPBJHA": "The City of Wind",
     "OCHCPNIBIPF": 2599824320,
     "AJGMCFNDKEG": "The wind will carry Dandelion Seeds, songs, and stories far afield, and it also guides gentle Travelers to its realm. Welcome to Mondstadt.",
@@ -27,7 +27,7 @@
   },
   {
     "DCKCMKGGIKM": 70100003,
-    "FPKEHKLHHDC": 4115420738,
+    "nameTextMapHash": 4115420738,
     "PMPMKOPBJHA": "Knights of Favonius - Library",
     "OCHCPNIBIPF": 4072865360,
     "AJGMCFNDKEG": "The library with the most books in all the northern lands. Other than those collected in the restricted section, all the books here are open for public reading.",
@@ -40,7 +40,7 @@
   },
   {
     "DCKCMKGGIKM": 70100004,
-    "FPKEHKLHHDC": 2048195146,
+    "nameTextMapHash": 2048195146,
     "PMPMKOPBJHA": "Favonius Cathedral",
     "OCHCPNIBIPF": 1282699872,
     "AJGMCFNDKEG": "A holy place managed by the devoted adherents of the Anemo Archon.\\nIt was once a palatial estate from which the aristocracy flaunted their authority.",
@@ -53,7 +53,7 @@
   },
   {
     "DCKCMKGGIKM": 70100005,
-    "FPKEHKLHHDC": 4021624194,
+    "nameTextMapHash": 4021624194,
     "PMPMKOPBJHA": "Windswept Wilderness",
     "OCHCPNIBIPF": 3057705296,
     "AJGMCFNDKEG": "This plain bathes in an everlasting breeze. An ancient, monumental tree left behind by an ancient heroine speaks softly amidst the winds.",
@@ -66,7 +66,7 @@
   },
   {
     "DCKCMKGGIKM": 70100006,
-    "FPKEHKLHHDC": 1166070674,
+    "nameTextMapHash": 1166070674,
     "PMPMKOPBJHA": "Forgotten Sword Cemetery",
     "OCHCPNIBIPF": 251755736,
     "AJGMCFNDKEG": "Hundreds of years have passed, and the world is once again at peace. This forest of blades stands as testament to the song of clashing swords, the battle-hymns of warriors, the thundering footfalls of monsters, and the crimson sky, as red as blood.",
@@ -79,7 +79,7 @@
   },
   {
     "DCKCMKGGIKM": 70100007,
-    "FPKEHKLHHDC": 1829447954,
+    "nameTextMapHash": 1829447954,
     "PMPMKOPBJHA": "Land of Clear Springs",
     "OCHCPNIBIPF": 42631968,
     "AJGMCFNDKEG": "A peaceful and idyllic suburban town. It has a long history of hunting, of sweet spring water, and of passing down the legend of a beneficent spirit dwelling within the waters.",
@@ -92,7 +92,7 @@
   },
   {
     "DCKCMKGGIKM": 70100008,
-    "FPKEHKLHHDC": 3118460402,
+    "nameTextMapHash": 3118460402,
     "PMPMKOPBJHA": "Manor of Daybreak",
     "OCHCPNIBIPF": 644487928,
     "AJGMCFNDKEG": "Filled with the fragrance of grapes and wine, this is the estate of one of Mondstadt's distinguished houses. It has conquered drinkers the city over with its unmatched wines, and is in some ways the holy land to which all who love the bottle must make pilgrimage.",
@@ -105,7 +105,7 @@
   },
   {
     "DCKCMKGGIKM": 70100009,
-    "FPKEHKLHHDC": 1387999306,
+    "nameTextMapHash": 1387999306,
     "PMPMKOPBJHA": "Ancient Thousand Winds Temple",
     "OCHCPNIBIPF": 806442960,
     "AJGMCFNDKEG": "The ruins of an ancient amphitheater. A thousand melodious winds gather here, bringing with them countless tales, and carrying those tales far and wide.",
@@ -118,7 +118,7 @@
   },
   {
     "DCKCMKGGIKM": 70100010,
-    "FPKEHKLHHDC": 2648310170,
+    "nameTextMapHash": 2648310170,
     "PMPMKOPBJHA": "Abandoned Capital of Howling Winds",
     "OCHCPNIBIPF": 3608033048,
     "AJGMCFNDKEG": "The one who once dwelt in that lonely tower is no more. The murmuring winds that shroud the desolate city tell of that most ancient of stories, which no mortal now remembers: they tell of their erstwhile master, the nameless wind sprite, and the chorus that caused the tower to quail...",
@@ -131,7 +131,7 @@
   },
   {
     "DCKCMKGGIKM": 70200001,
-    "FPKEHKLHHDC": 611102818,
+    "nameTextMapHash": 611102818,
     "PMPMKOPBJHA": "Vigilant Guardians' Vantage Point",
     "OCHCPNIBIPF": 447517912,
     "AJGMCFNDKEG": "The inn that stands at the southern end of Dihua Marsh seems to serve as something other than a resting place for guests. They say that Wangshu Inn is a haven for lovers' moonlit rendezvous. Folk stories also have it that even ones as august as the adepti sometimes bask in the moonlight here.",
@@ -144,7 +144,7 @@
   },
   {
     "DCKCMKGGIKM": 70200002,
-    "FPKEHKLHHDC": 3473357522,
+    "nameTextMapHash": 3473357522,
     "PMPMKOPBJHA": "A Home in the Hills",
     "OCHCPNIBIPF": 1001462880,
     "AJGMCFNDKEG": "Mighty Mt. Qingce gently cradles this peaceful village, silently protecting the old, the young, and the abundant croplands within its embrace. The legend of the ancient threat subdued beneath the mountain has been consigned to legend along with those who know of it, never again to return.",
@@ -157,7 +157,7 @@
   },
   {
     "DCKCMKGGIKM": 70200003,
-    "FPKEHKLHHDC": 159926634,
+    "nameTextMapHash": 159926634,
     "PMPMKOPBJHA": "Marsh of Rustling Reeds",
     "OCHCPNIBIPF": 1096244856,
     "AJGMCFNDKEG": "This is where the sifting of the wavy silvergrass and the croaking of frogs join in song, and it is also the final resting place of many a martial nomad.",
@@ -170,7 +170,7 @@
   },
   {
     "DCKCMKGGIKM": 70200004,
-    "FPKEHKLHHDC": 2971099122,
+    "nameTextMapHash": 2971099122,
     "PMPMKOPBJHA": "Where Mountains Peak Beyond the Clouds",
     "OCHCPNIBIPF": 4016414384,
     "AJGMCFNDKEG": "They say that the adepti dwell somewhere within these countless towering, cloud-ringed peaks. Few mortals may set foot here.",
@@ -183,7 +183,7 @@
   },
   {
     "DCKCMKGGIKM": 70200005,
-    "FPKEHKLHHDC": 2970232042,
+    "nameTextMapHash": 2970232042,
     "PMPMKOPBJHA": "Mist-Veiled Stone Forest",
     "OCHCPNIBIPF": 4273841744,
     "AJGMCFNDKEG": "These stone spires poke out of the clouds like great pavilions. Though this place is forbidden to mortal steps, such a beauteous sight is bound to attract the eyes of those who yearn for the sky, and for those who dwell in adepti realms.",
@@ -196,7 +196,7 @@
   },
   {
     "DCKCMKGGIKM": 70200006,
-    "FPKEHKLHHDC": 2476272202,
+    "nameTextMapHash": 2476272202,
     "PMPMKOPBJHA": "Moonlit Tree",
     "OCHCPNIBIPF": 1265677040,
     "AJGMCFNDKEG": "A strange tree whose branches flow with clear, cold moonlight. Perhaps its roots, which reach deep into the heart of the earth, are connected to something that awaits an opportunity to once again emerge and bask in the moon's light.",
@@ -209,7 +209,7 @@
   },
   {
     "DCKCMKGGIKM": 70200007,
-    "FPKEHKLHHDC": 2418522178,
+    "nameTextMapHash": 2418522178,
     "PMPMKOPBJHA": "Ruins of Guili",
     "OCHCPNIBIPF": 2212112896,
     "AJGMCFNDKEG": "Once, this was a thriving city where a certain flower bloomed in abundance. But all dreams must turn to waking. This earthly paradise was consumed by war, and those who gathered here were once again scattered.",
@@ -222,7 +222,7 @@
   },
   {
     "DCKCMKGGIKM": 70200008,
-    "FPKEHKLHHDC": 2029729250,
+    "nameTextMapHash": 2029729250,
     "PMPMKOPBJHA": "Weeping Garden",
     "OCHCPNIBIPF": 2841318176,
     "AJGMCFNDKEG": "Legend has it that a deep, pure affection filled this ancient garden, creating the Luhua Pool as it is known today.",
@@ -235,7 +235,7 @@
   },
   {
     "DCKCMKGGIKM": 70200009,
-    "FPKEHKLHHDC": 3065532530,
+    "nameTextMapHash": 3065532530,
     "PMPMKOPBJHA": "Nine Pillars of Peace",
     "OCHCPNIBIPF": 2052972616,
     "AJGMCFNDKEG": "Nine shackles of stone were said to have been laid down deep in the valleys of Cuijue Slope to drive off evil and cleanse the world.",
@@ -248,7 +248,7 @@
   },
   {
     "DCKCMKGGIKM": 70200010,
-    "FPKEHKLHHDC": 2952565074,
+    "nameTextMapHash": 2952565074,
     "PMPMKOPBJHA": "Qingxu's Forsaken Tower",
     "OCHCPNIBIPF": 1140277248,
     "AJGMCFNDKEG": "A ruined tower amid a verdant field. It still stands, defending a bygone age long returned to dust.",
@@ -261,7 +261,7 @@
   },
   {
     "DCKCMKGGIKM": 70200011,
-    "FPKEHKLHHDC": 1349181618,
+    "nameTextMapHash": 1349181618,
     "PMPMKOPBJHA": "Dunyu Ruins",
     "OCHCPNIBIPF": 3526196336,
     "AJGMCFNDKEG": "The Land of Hidden Jade. But the war of ages past is long over, and the mounds of glittering jade have long been destroyed. Now, only the whisper of flowing water remains.",
@@ -274,7 +274,7 @@
   },
   {
     "DCKCMKGGIKM": 70200012,
-    "FPKEHKLHHDC": 3842069610,
+    "nameTextMapHash": 3842069610,
     "PMPMKOPBJHA": "Beyond the Chasm",
     "OCHCPNIBIPF": 554290032,
     "AJGMCFNDKEG": "The junction between Liyue Harbor and the great mines of the Chasm. Work has ceased here as of late due a shift deep within the Chasm.",
@@ -287,7 +287,7 @@
   },
   {
     "DCKCMKGGIKM": 70200013,
-    "FPKEHKLHHDC": 196791970,
+    "nameTextMapHash": 196791970,
     "PMPMKOPBJHA": "Where Merchants Flock And All Ships Dock",
     "OCHCPNIBIPF": 213971424,
     "AJGMCFNDKEG": "A prosperous port city where a thousand ships drop anchor. Under the aegis of countless contracts and regulations, innumerable goods change hands and grace the seven nations with their presence. Welcome to Liyue, wayfaring Traveler.",
@@ -300,7 +300,7 @@
   },
   {
     "DCKCMKGGIKM": 70200014,
-    "FPKEHKLHHDC": 2184411626,
+    "nameTextMapHash": 2184411626,
     "PMPMKOPBJHA": "Yujing Terrace",
     "OCHCPNIBIPF": 352145712,
     "AJGMCFNDKEG": "Far from the bustling harbor, the Yujing Terrace rises along with Mt. Tianheng. Here, the Qixing and the leaders of many enterprises tirelessly drive Liyue's prosperity and stability.",
@@ -313,7 +313,7 @@
   },
   {
     "DCKCMKGGIKM": 70200015,
-    "FPKEHKLHHDC": 3667892050,
+    "nameTextMapHash": 3667892050,
     "PMPMKOPBJHA": "Chihu Rock",
     "OCHCPNIBIPF": 3433367952,
     "AJGMCFNDKEG": "The ever-pulsating heart of Liyue Harbor that pumps lifeblood into its veins. The lively city scene here is the source of Liyue Harbor's limitless vitality.",
@@ -326,7 +326,7 @@
   },
   {
     "DCKCMKGGIKM": 70200016,
-    "FPKEHKLHHDC": 3607590626,
+    "nameTextMapHash": 3607590626,
     "PMPMKOPBJHA": "Feiyun Slope",
     "OCHCPNIBIPF": 325052640,
     "AJGMCFNDKEG": "Here live those merchants who have made it. Here, the residents are prosperous and carefree. Here, the lights are bright and never go out.",
@@ -339,7 +339,7 @@
   },
   {
     "DCKCMKGGIKM": 70200017,
-    "FPKEHKLHHDC": 4160038722,
+    "nameTextMapHash": 4160038722,
     "PMPMKOPBJHA": "A Drop in the Ocean",
     "OCHCPNIBIPF": 3937819992,
     "AJGMCFNDKEG": "The proud, lonely stone mountains here are said to have been the place where Rex Lapis subdued a great sea monster. They say that those sensitive of heart can sometimes hear a strange, stirring rhythm emanating from deep within the oceanic abyss.",
@@ -352,7 +352,7 @@
   },
   {
     "DCKCMKGGIKM": 70200018,
-    "FPKEHKLHHDC": 4058529930,
+    "nameTextMapHash": 4058529930,
     "PMPMKOPBJHA": "View from The Chasm's Surface",
     "OCHCPNIBIPF": 1611822128,
     "AJGMCFNDKEG": "\"When I first came here, the miraculous, terrifying geography silenced me... I have never forgotten the sense of utter awe and respect that I felt.\"\\n\"But even such wondrous visions became monotonous after too much hustle and bustle on behalf of the Ministry of Civil Affairs...\"\\n\"Speaking of which, I must thank the Traveler for helping me continue with my own adventure...\"",
@@ -365,7 +365,7 @@
   },
   {
     "DCKCMKGGIKM": 70200019,
-    "FPKEHKLHHDC": 4044979234,
+    "nameTextMapHash": 4044979234,
     "PMPMKOPBJHA": "Mouth of the Great Mine",
     "OCHCPNIBIPF": 3496111632,
     "AJGMCFNDKEG": "\"The entrance to The Chasm's mines, known to the miners as 'The Chasm's Maw.' Since the latest earthquake, the tunnels, which were already sealed by the Qixing, have been even more treacherous and inscrutable than ever...\"\\n\"But with the Traveler's help, the array sealing the opening has been broken. Let's just hope that the Qixing don't come down too hard on us...\"",
@@ -378,7 +378,7 @@
   },
   {
     "DCKCMKGGIKM": 70200020,
-    "FPKEHKLHHDC": 4177362234,
+    "nameTextMapHash": 4177362234,
     "PMPMKOPBJHA": "The Ancient Battlefield of Fuao Vale",
     "OCHCPNIBIPF": 3100731832,
     "AJGMCFNDKEG": "\"This is the site of the deadly battle between Azhdaha and Rex Lapis. I'm just a young and inexperienced adventurer, and writing is not my forte... But I cannot help but stand in awe of this place.\"\\n\"How small we mortals are before time, which respects neither night nor day, or gods, who can shake heaven and earth...\"",
@@ -391,7 +391,7 @@
   },
   {
     "DCKCMKGGIKM": 70200021,
-    "FPKEHKLHHDC": 2829702346,
+    "nameTextMapHash": 2829702346,
     "PMPMKOPBJHA": "The Underground Mines",
     "OCHCPNIBIPF": 1458836688,
     "AJGMCFNDKEG": "\"I once grew up at the mines of Mingyun Village. The miners' rowdy labor, their joys and sorrows... Those encompassed my entire childhood.\"\\n\"Looking upon these underground tunnels, far more vast yet silent and deserted, these memories of yesteryear resurface in my mind... albeit sadder and more lonesome.\"",
@@ -404,7 +404,7 @@
   },
   {
     "DCKCMKGGIKM": 70200022,
-    "FPKEHKLHHDC": 1162615194,
+    "nameTextMapHash": 1162615194,
     "PMPMKOPBJHA": "The Blocked Path",
     "OCHCPNIBIPF": 3460739272,
     "AJGMCFNDKEG": "\"The miners sealed the tunnels that led further within when they dispersed, but they did leave one 'Mountainator' here.\"\\n\"Perhaps it was the orders of the higher-ups... It's not as if it would be practical to separate Liyue's mercantile pursuits from Glazed Sand Crystal for too long.\"",
@@ -417,7 +417,7 @@
   },
   {
     "DCKCMKGGIKM": 70200023,
-    "FPKEHKLHHDC": 1570712938,
+    "nameTextMapHash": 1570712938,
     "PMPMKOPBJHA": "Underground Waterway",
     "OCHCPNIBIPF": 726800928,
     "AJGMCFNDKEG": "\"As I was exploring by myself, I discovered this waterway. The waters here are clean and cool, perfect for taking a break and wash all the ill-fortune accumulated on the way off.\"\\n\"There are some gentle elemental creatures nearby who move most slowly, rare beings who have no quarrel with the rest of the world... I drew the waterway on the map. I hope the Traveler can follow it and find this place.\"",
@@ -430,7 +430,7 @@
   },
   {
     "DCKCMKGGIKM": 70200024,
-    "FPKEHKLHHDC": 4108628810,
+    "nameTextMapHash": 4108628810,
     "PMPMKOPBJHA": "Crystal Fragment",
     "OCHCPNIBIPF": 513486960,
     "AJGMCFNDKEG": "\"The crystal that was once here was the very same 'culprit' that caused the closure of The Chasm back then. Its strange movements have again caused the Ministry of Civil Affairs much distress.\"\\n\"Fortunately, the Traveler was on hand to return it to a place deeper below, leaving us with nothing but this empty, grim hall of stone.\"",
@@ -443,7 +443,7 @@
   },
   {
     "DCKCMKGGIKM": 70200025,
-    "FPKEHKLHHDC": 670005202,
+    "nameTextMapHash": 670005202,
     "PMPMKOPBJHA": "The Inverted City",
     "OCHCPNIBIPF": 181134168,
     "AJGMCFNDKEG": "\"As I was traveling alone, I discovered this vast and terrible ruin. Perhaps this is all that remains of an ancient civilization that was punished and destroyed. This ancient city seems to resist the presence of any outsiders... It might even have something to do with those purple-black crystals, or that mud-like substance.\"\\n\"I stayed for a time, but I had to leave its ominous, upended silhouette behind.\"",
@@ -456,7 +456,7 @@
   },
   {
     "DCKCMKGGIKM": 70200026,
-    "FPKEHKLHHDC": 479551770,
+    "nameTextMapHash": 479551770,
     "PMPMKOPBJHA": "The Great Mushroom's Place",
     "OCHCPNIBIPF": 2850439248,
     "AJGMCFNDKEG": "\"An underground cavern where a strange, gigantic mushroom grows. I could've sworn that I heard something strange calling to me. Perhaps it is just an illusion — or a hallucination, in which case this place must be full of poisonous gas, and I must leave as soon as possible.\"",
@@ -469,7 +469,7 @@
   },
   {
     "DCKCMKGGIKM": 70200027,
-    "FPKEHKLHHDC": 3428898466,
+    "nameTextMapHash": 3428898466,
     "PMPMKOPBJHA": "The Court of Pillars",
     "OCHCPNIBIPF": 1308767112,
     "AJGMCFNDKEG": "\"Despite the Traveler's warnings, I still followed in her footsteps to arrive at this place.\"\\n\"I can barely comprehend the sight of this huge sky-blue crystal pillar before me. It cannot be from this continent — only the heavens, with which it shares its shade, could have been its home.\"\\n\"I have decided to explore deeper within through secret paths to uncover its secrets... I wonder how far I can press on, and what further records I shall leave behind...\"",
@@ -482,7 +482,7 @@
   },
   {
     "DCKCMKGGIKM": 70300001,
-    "FPKEHKLHHDC": 1890708882,
+    "nameTextMapHash": 1890708882,
     "PMPMKOPBJHA": "Ritou, Narukami Island",
     "OCHCPNIBIPF": 1730436488,
     "AJGMCFNDKEG": "Legend has it that hundreds of years ago, Lord Hiiragi Hiroshi of the Kanjou Commission miraculously built a prosperous trade center from a deserted island, and greatly impressed the Shogun. In the days when the Sakoku Decree was in force, the headquarters of the Kanjou Commission still flourished. However, the merchants from faraway nations languished, and the streets were no longer the bustling appearance of a century ago. Perhaps this is the best reflection of the business of mortals: those who become successful overnight will also lose everything in a day.",
@@ -495,7 +495,7 @@
   },
   {
     "DCKCMKGGIKM": 70300002,
-    "FPKEHKLHHDC": 204273402,
+    "nameTextMapHash": 204273402,
     "PMPMKOPBJHA": "The Sacred Forest in the Moonlight",
     "OCHCPNIBIPF": 1222683200,
     "AJGMCFNDKEG": "Legend has it that in the past, this sacred forest was once home to many demons. To this day, the legend of the \"tanuki-bayashi\" still surrounds this tranquil woodland.",
@@ -508,7 +508,7 @@
   },
   {
     "DCKCMKGGIKM": 70300003,
-    "FPKEHKLHHDC": 3910750034,
+    "nameTextMapHash": 3910750034,
     "PMPMKOPBJHA": "Tenryou, Inazuma City",
     "OCHCPNIBIPF": 4293946376,
     "AJGMCFNDKEG": "The many streets and lanes of Tenryou intersect and cross paths, and finally gather in front of the Tenshukaku - the undisputed center of power in Inazuma. Under the eternal and silent gaze of Her Highness, the Ogosho Shogun, the people living in the hustle and bustle of the city will finally be free from the worries of obsession, and move to a paradise where they no longer need to chase and compete for their aspirations — but what is the view of the eternal paradise that the Shogun sees?",
@@ -521,7 +521,7 @@
   },
   {
     "DCKCMKGGIKM": 70300004,
-    "FPKEHKLHHDC": 609538346,
+    "nameTextMapHash": 609538346,
     "PMPMKOPBJHA": "Suburbs, Inazuma City",
     "OCHCPNIBIPF": 3057387976,
     "AJGMCFNDKEG": "The outskirts of Inazuma City exude a time-worn and leisurely atmosphere as you make your way up the old paths. It seems that the prosperity of the city has not influenced the scenery here. The power and grace of the Shogun can also be observed here, bringing a quiet and different kind of vitality.",
@@ -534,7 +534,7 @@
   },
   {
     "DCKCMKGGIKM": 70300005,
-    "FPKEHKLHHDC": 3380660410,
+    "nameTextMapHash": 3380660410,
     "PMPMKOPBJHA": "Grand Narukami Shrine, Mt. Yougou",
     "OCHCPNIBIPF": 25874200,
     "AJGMCFNDKEG": "The Grand Narukami Shrine is located at the peak of Mt. Yougou and is the largest shrine in Inazuma, guarding the Sacred Sakura. It provides much-needed comfort and peace to the people of Inazuma in these unsettling times.",
@@ -547,7 +547,7 @@
   },
   {
     "DCKCMKGGIKM": 70300006,
-    "FPKEHKLHHDC": 2107281466,
+    "nameTextMapHash": 2107281466,
     "PMPMKOPBJHA": "Tatara Islands' Vantage Point",
     "OCHCPNIBIPF": 3526210448,
     "AJGMCFNDKEG": "This ring of islands surrounded by jagged, rocky terrain.is the perfect topographic barrier to the Shogunate's smelting facilities. The magnificent giant Blast Furnace here is used to produce a steady stream of high-quality Jade Steel for Inazuma. Recently, however, due to the war, the Mikage Furnace that drove the production has been damaged.",
@@ -560,7 +560,7 @@
   },
   {
     "DCKCMKGGIKM": 70300007,
-    "FPKEHKLHHDC": 1330942794,
+    "nameTextMapHash": 1330942794,
     "PMPMKOPBJHA": "Front Line, Kannazuka",
     "OCHCPNIBIPF": 3185413456,
     "AJGMCFNDKEG": "Legend has it that during a disaster hundreds of years ago, Kujou Shigeyori, a mortal general whom Her Highness valued greatly, built a battlefront fortress in just one night and fought valiantly against the forces of darkness, flying the banner of the Electro Mitsudomoe high. Hundreds of years later, the descendants of the Kujou family have also inherited outstanding military engineering skills.",
@@ -573,7 +573,7 @@
   },
   {
     "DCKCMKGGIKM": 70300008,
-    "FPKEHKLHHDC": 10260962,
+    "nameTextMapHash": 10260962,
     "PMPMKOPBJHA": "Overlooking Serpent Head",
     "OCHCPNIBIPF": 2855148192,
     "AJGMCFNDKEG": "According to legend, the giant serpent that once ventured into the deep sea was finally slain on Yashiori Island. It is also said that when the sea breeze passes through the eyes and sharp fangs of the giant snake, sounds of a whistle will ring in the wind. That is the requiem it composed for itself. Now, this requiem also provides repose for those who have fallen or were displaced in the war.",
@@ -586,7 +586,7 @@
   },
   {
     "DCKCMKGGIKM": 70300009,
-    "FPKEHKLHHDC": 2767940322,
+    "nameTextMapHash": 2767940322,
     "PMPMKOPBJHA": "Tidal Flat Amidst the Flames of War",
     "OCHCPNIBIPF": 463052624,
     "AJGMCFNDKEG": "In the ancient language of the Inazuma ancestors, \"Nazuchi\" means \"to be tenderly caressed by the hands of the gods.\" Ironically, Nazuchi Beach has been ravaged by war since a thousand years ago and has become a place for scavengers and pirates, with few inhabitants.",
@@ -599,7 +599,7 @@
   },
   {
     "DCKCMKGGIKM": 70300010,
-    "FPKEHKLHHDC": 247547074,
+    "nameTextMapHash": 247547074,
     "PMPMKOPBJHA": "Rift Valley, Yashiori Island",
     "OCHCPNIBIPF": 484619336,
     "AJGMCFNDKEG": "According to legend, the blow that brought an end to the serpent god was struck right here. Even to this day, the remnant reverberations of lightning continue to ring across this deep canyon in Yashiori Island, as if the spirits of thunder still chatter about the legendary scene that tore through the sky and the earth thousands of years ago...",
@@ -612,7 +612,7 @@
   },
   {
     "DCKCMKGGIKM": 70300011,
-    "FPKEHKLHHDC": 1382399130,
+    "nameTextMapHash": 1382399130,
     "PMPMKOPBJHA": "The Pearlescent Palace",
     "OCHCPNIBIPF": 1400138376,
     "AJGMCFNDKEG": "This is the center of government and religion alike on Watatsumi Island. Shells and skerries flank the palace in which lie the relics of the serpent god.",
@@ -625,7 +625,7 @@
   },
   {
     "DCKCMKGGIKM": 70300012,
-    "FPKEHKLHHDC": 2032030058,
+    "nameTextMapHash": 2032030058,
     "PMPMKOPBJHA": "The Moon-Bathed Deep",
     "OCHCPNIBIPF": 733613024,
     "AJGMCFNDKEG": "The entrance to Enkanomiya. The water in this pool shine year in and year out with light akin to that of the moon, hence the name \"Moon-Bathed.\"",
@@ -638,7 +638,7 @@
   },
   {
     "DCKCMKGGIKM": 70300013,
-    "FPKEHKLHHDC": 3754518930,
+    "nameTextMapHash": 3754518930,
     "PMPMKOPBJHA": "Village of the People of the Deep",
     "OCHCPNIBIPF": 1832252336,
     "AJGMCFNDKEG": "An ancient village on Watatsumi Island. It is said that the ancestors of its people came from deep beneath the waves.\\nIt is also an important rallying point for those who are opposed to the Vision Hunt Decree.",
@@ -651,7 +651,7 @@
   },
   {
     "DCKCMKGGIKM": 70300014,
-    "FPKEHKLHHDC": 621251642,
+    "nameTextMapHash": 621251642,
     "PMPMKOPBJHA": "Where Swirling Storm Clouds Gather",
     "OCHCPNIBIPF": 3253423560,
     "AJGMCFNDKEG": "The great battle where the sea and sky changed color have become lost to time, but the vast storms that were called upon at this time still remain.",
@@ -664,7 +664,7 @@
   },
   {
     "DCKCMKGGIKM": 70300015,
-    "FPKEHKLHHDC": 290438058,
+    "nameTextMapHash": 290438058,
     "PMPMKOPBJHA": "The Stranded Flagship",
     "OCHCPNIBIPF": 1325463888,
     "AJGMCFNDKEG": "This rundown atakebune warship was mighty once upon a time. In its remains, marked by starlit tears, one can still vaguely see the image of a vessel proudly sailing, blessed by the shrine maidens and villagers of a bygone age.",
@@ -677,7 +677,7 @@
   },
   {
     "DCKCMKGGIKM": 70300016,
-    "FPKEHKLHHDC": 2730275658,
+    "nameTextMapHash": 2730275658,
     "PMPMKOPBJHA": "The Silent Fishing Village",
     "OCHCPNIBIPF": 2017335016,
     "AJGMCFNDKEG": "The laughter of the old days and the cries of cicadas were at last lost to the thunder. The people of today only remember that this place was abandoned due to the furious, unchecked storms.",
@@ -690,7 +690,7 @@
   },
   {
     "DCKCMKGGIKM": 70300017,
-    "FPKEHKLHHDC": 1453372970,
+    "nameTextMapHash": 1453372970,
     "PMPMKOPBJHA": "Where the Provisional Head Priestess Lives",
     "OCHCPNIBIPF": 263340248,
     "AJGMCFNDKEG": "\"Hibiki will return.\"\\n\"The shrine looks wonderful now, thanks to you. She will return very soon.\"",
@@ -703,7 +703,7 @@
   },
   {
     "DCKCMKGGIKM": 70300018,
-    "FPKEHKLHHDC": 3877160914,
+    "nameTextMapHash": 3877160914,
     "PMPMKOPBJHA": "Tsurumi Island",
     "OCHCPNIBIPF": 3711045272,
     "AJGMCFNDKEG": "\"Pirka chikappo! Kapatcir kamuy!\"\\n\"We slumber together in a spider-silk nest of fog.\"",
@@ -716,7 +716,7 @@
   },
   {
     "DCKCMKGGIKM": 70400001,
-    "FPKEHKLHHDC": 1788951970,
+    "nameTextMapHash": 1788951970,
     "PMPMKOPBJHA": "The City Where All Wisdom Resides",
     "OCHCPNIBIPF": 699219968,
     "AJGMCFNDKEG": "The root of all wisdom on earth. Under the luxuriant Divine Tree, the sages of the academy city have accumulated all the knowledge there is to be gathered. Welcome to Sumeru, O Traveler seeking answers.",
@@ -729,7 +729,7 @@
   },
   {
     "DCKCMKGGIKM": 70400002,
-    "FPKEHKLHHDC": 3215199306,
+    "nameTextMapHash": 3215199306,
     "PMPMKOPBJHA": "The City Above the Forest",
     "OCHCPNIBIPF": 3930612776,
     "AJGMCFNDKEG": "\"The city of wisdom is ours, as is the forest of ignorance. Atop the tree lies the remnants of the kingdom of lost dreams.\"",
@@ -742,7 +742,7 @@
   },
   {
     "DCKCMKGGIKM": 70400003,
-    "FPKEHKLHHDC": 2921663922,
+    "nameTextMapHash": 2921663922,
     "PMPMKOPBJHA": "The Village by the River",
     "OCHCPNIBIPF": 708467784,
     "AJGMCFNDKEG": "There is nothing to Vimara Village apart from a tranquil life. Come, exhausted traveler, rest here awhile.",
@@ -755,7 +755,7 @@
   },
   {
     "DCKCMKGGIKM": 70400004,
-    "FPKEHKLHHDC": 1080820698,
+    "nameTextMapHash": 1080820698,
     "PMPMKOPBJHA": "The Harbor Betwixt the Two Trees",
     "OCHCPNIBIPF": 433574384,
     "AJGMCFNDKEG": "\"Bah! The lectures of the sages are beyond boring. Why don't we get ourselves some fine wine garnished with floral honey and set out on a journey across the seven seas?\"",
@@ -768,7 +768,7 @@
   },
   {
     "DCKCMKGGIKM": 70400005,
-    "FPKEHKLHHDC": 4077031826,
+    "nameTextMapHash": 4077031826,
     "PMPMKOPBJHA": "Memory of Alcazarzaray",
     "OCHCPNIBIPF": 4135153752,
     "AJGMCFNDKEG": "A purple garden lies before the palace in the depths of the woods. The flowers dance and the warblers sing — a more fitting scene for a lovely encounter one could not find.",
@@ -781,7 +781,7 @@
   },
   {
     "DCKCMKGGIKM": 70400006,
-    "FPKEHKLHHDC": 3838545411,
+    "nameTextMapHash": 3838545411,
     "PMPMKOPBJHA": "The Garden of Deep Thought",
     "OCHCPNIBIPF": 869930920,
     "AJGMCFNDKEG": "Countless flowers lie within the garden, each more lovely than the most beautiful crystalfly. This is the paradise of people of goodwill.",
@@ -794,7 +794,7 @@
   },
   {
     "DCKCMKGGIKM": 70400007,
-    "FPKEHKLHHDC": 2794421034,
+    "nameTextMapHash": 2794421034,
     "PMPMKOPBJHA": "The Frontier Beneath the High Wall",
     "OCHCPNIBIPF": 3512963976,
     "AJGMCFNDKEG": "The mighty wall defends against the searing sandstorms but has also blocked the spread of wisdom's blessing. Is divine wisdom not meant to shine on all people?",
@@ -807,7 +807,7 @@
   },
   {
     "DCKCMKGGIKM": 70400008,
-    "FPKEHKLHHDC": 3539497674,
+    "nameTextMapHash": 3539497674,
     "PMPMKOPBJHA": "The Colossus Watching Devantaka",
     "OCHCPNIBIPF": 3851714048,
     "AJGMCFNDKEG": "\"Behold. Thousands of years of ancient Khaenri'ah history lie before us!\"",
@@ -820,7 +820,7 @@
   },
   {
     "DCKCMKGGIKM": 70400009,
-    "FPKEHKLHHDC": 2379329690,
+    "nameTextMapHash": 2379329690,
     "PMPMKOPBJHA": "Varunastra",
     "OCHCPNIBIPF": 51409704,
     "AJGMCFNDKEG": "The Varuna Contraption shows forth its power, bringing forth the water of life and turning Valuka into Vana, turning the barren lands into a land full of life.",
@@ -833,7 +833,7 @@
   },
   {
     "DCKCMKGGIKM": 70400010,
-    "FPKEHKLHHDC": 987144690,
+    "nameTextMapHash": 987144690,
     "PMPMKOPBJHA": "The Rain's End",
     "OCHCPNIBIPF": 3977114408,
     "AJGMCFNDKEG": "\"There is no rain here, and yet it is the birthplace of rain. The purification of Vana rains begins — and ends — here.\"",
@@ -846,7 +846,7 @@
   },
   {
     "DCKCMKGGIKM": 70400011,
-    "FPKEHKLHHDC": 3549133754,
+    "nameTextMapHash": 3549133754,
     "PMPMKOPBJHA": "The Land of Mawtiyima",
     "OCHCPNIBIPF": 1309423000,
     "AJGMCFNDKEG": "This is where the memories and dreams of the forest gather. It seems to have its own consciousness.",
@@ -859,7 +859,7 @@
   },
   {
     "DCKCMKGGIKM": 70400012,
-    "FPKEHKLHHDC": 1189377626,
+    "nameTextMapHash": 1189377626,
     "PMPMKOPBJHA": "Aranaga's Little Garden",
     "OCHCPNIBIPF": 2662330728,
     "AJGMCFNDKEG": "Here, the pomegranate sings and the apples clap.",
@@ -872,7 +872,7 @@
   },
   {
     "DCKCMKGGIKM": 70400013,
-    "FPKEHKLHHDC": 2329495562,
+    "nameTextMapHash": 2329495562,
     "PMPMKOPBJHA": "The World of the Aranara",
     "OCHCPNIBIPF": 290112200,
     "AJGMCFNDKEG": "\"No matter how dark the sky and land may get, as long as your spirit emits warmth like a golden sun, there will always be hope.\"",
@@ -885,7 +885,7 @@
   },
   {
     "DCKCMKGGIKM": 70400014,
-    "FPKEHKLHHDC": 4191265370,
+    "nameTextMapHash": 4191265370,
     "PMPMKOPBJHA": "Nursery of Lost Dreams",
     "OCHCPNIBIPF": 604059080,
     "AJGMCFNDKEG": "\"Friends will stroll through the forest again. That which is good will return, and the painful memories will vanish. Just like a stream purifying itself or a withered tree sprouting once more.\"",
@@ -898,7 +898,7 @@
   },
   {
     "DCKCMKGGIKM": 70400015,
-    "FPKEHKLHHDC": 2972067642,
+    "nameTextMapHash": 2972067642,
     "PMPMKOPBJHA": "The Littlest Dream",
     "OCHCPNIBIPF": 3973912192,
     "AJGMCFNDKEG": "They might have done so clumsily, but they made many preparations to welcome their Nara friend nonetheless.",
@@ -911,7 +911,7 @@
   },
   {
     "DCKCMKGGIKM": 70400016,
-    "FPKEHKLHHDC": 844853570,
+    "nameTextMapHash": 844853570,
     "PMPMKOPBJHA": "The Garden's New Sprouts",
     "OCHCPNIBIPF": 1963534688,
     "AJGMCFNDKEG": "The forest will remember.",
@@ -924,7 +924,7 @@
   },
   {
     "DCKCMKGGIKM": 70400017,
-    "FPKEHKLHHDC": 2762914450,
+    "nameTextMapHash": 2762914450,
     "PMPMKOPBJHA": "The Barren Land Where Sand Dances",
     "OCHCPNIBIPF": 3349062824,
     "AJGMCFNDKEG": "Once, a god resided to the west of the Wall of Samiel. Perhaps the desert was also a paradise for all living beings and a place where wisdom gathered at that time. It is indeed a shame that nothing but endless sandstorms and bleak ruins remain to be seen here today.",
@@ -937,7 +937,7 @@
   },
   {
     "DCKCMKGGIKM": 70400018,
-    "FPKEHKLHHDC": 864320098,
+    "nameTextMapHash": 864320098,
     "PMPMKOPBJHA": "Towers of Betrayal",
     "OCHCPNIBIPF": 1930512664,
     "AJGMCFNDKEG": "These huge obelisks have been standing here since the death of King Deshret. The desert dwellers call them the \"Towers of Betrayal\" and regard them as symbols of shame that serve as constant reminders of the fact that the desert kings had broken their oath with King Deshret...\\nThe obelisks' true history could date back to a period preceding that of those short-lived desert kingdoms, but it has unfortunately long been forgotten.",
@@ -950,7 +950,7 @@
   },
   {
     "DCKCMKGGIKM": 70400019,
-    "FPKEHKLHHDC": 2263691970,
+    "nameTextMapHash": 2263691970,
     "PMPMKOPBJHA": "Refugee Shelters",
     "OCHCPNIBIPF": 1664995584,
     "AJGMCFNDKEG": "The well-versed poets of Tulaytullah, \"the city of sapphire,\" Thamudian gladiators with golden eyes in Saleh, Jinn in Ay-Khanoum... Countless kingdoms that rose and fell after the great kingdom of King Deshret collapsed, together with their heroes and legends, were all immortalized in ancient nursery rhymes in this village, echoing around the children's beds...\\nAfter all those years, the remnants of King Deshret have long muddled the boundaries between histories and myths, blending them all seamlessly into their memories...",
@@ -963,7 +963,7 @@
   },
   {
     "DCKCMKGGIKM": 70400020,
-    "FPKEHKLHHDC": 1045683626,
+    "nameTextMapHash": 1045683626,
     "PMPMKOPBJHA": "Thamud Oasis",
     "OCHCPNIBIPF": 795642392,
     "AJGMCFNDKEG": "The golden-eyed Thamudians and the seven walls of their magnificent city-state rose up over the corpses of ancient kingdoms, and would itself be sucked down into the vortex of wars between nations and obliterated...\\nThe short-lived kingdom has been lost for a long time, but the oases are still like gems that adorn the sea of sand, accommodating caravans and wanderers with springs and plants alike.",
@@ -976,7 +976,7 @@
   },
   {
     "DCKCMKGGIKM": 70400021,
-    "FPKEHKLHHDC": 2317802794,
+    "nameTextMapHash": 2317802794,
     "PMPMKOPBJHA": "The Mausoleum of King Deshret",
     "OCHCPNIBIPF": 4059551496,
     "AJGMCFNDKEG": "The huge cone is like a supporting pillar between the high sky and the yellow sands that has stood in the middle of the desert since time immemorial. Standing in front of it, be you a commoner, a wealthy man, or a well-informed researcher, you shall feel that you are but a few grains of sand all the same.",
@@ -989,7 +989,7 @@
   },
   {
     "DCKCMKGGIKM": 70400022,
-    "FPKEHKLHHDC": 1441976386,
+    "nameTextMapHash": 1441976386,
     "PMPMKOPBJHA": "The Thousands of Entombed Chambers",
     "OCHCPNIBIPF": 2452058808,
     "AJGMCFNDKEG": "In dark places where the sands do not ravage, countless chambers and statues slumber, waiting for the time when their master shall visit them again...",
@@ -1002,7 +1002,7 @@
   },
   {
     "DCKCMKGGIKM": 70400023,
-    "FPKEHKLHHDC": 3763667842,
+    "nameTextMapHash": 3763667842,
     "PMPMKOPBJHA": "Khaj-Nisut",
     "OCHCPNIBIPF": 1410879488,
     "AJGMCFNDKEG": "\"Yon golden slumber summons thee, wandering sand. Drink not that bitter salt water, for the sorrows of tomorrow have gone away.\"",
@@ -1015,7 +1015,7 @@
   },
   {
     "DCKCMKGGIKM": 70400024,
-    "FPKEHKLHHDC": 2515215578,
+    "nameTextMapHash": 2515215578,
     "PMPMKOPBJHA": "The Bottomless Hall",
     "OCHCPNIBIPF": 841132224,
     "AJGMCFNDKEG": "Legend has it that in the depths of the desert, an ancient god tried to recreate the underworld and the heavens, so that sinners would fall into the underworld and the ones favored by him would live in paradise.",
@@ -1028,7 +1028,7 @@
   },
   {
     "DCKCMKGGIKM": 70400025,
-    "FPKEHKLHHDC": 3397191826,
+    "nameTextMapHash": 3397191826,
     "PMPMKOPBJHA": "Aaru's Shut",
     "OCHCPNIBIPF": 3185571776,
     "AJGMCFNDKEG": "There are neither coveted treasures nor gem-laden chambers at the pinnacle of the Mausoleum of King Deshret — only the desolation and decay of the desert, and the shreds of a grand dream.",
@@ -1041,7 +1041,7 @@
   },
   {
     "DCKCMKGGIKM": 70400026,
-    "FPKEHKLHHDC": 2162918354,
+    "nameTextMapHash": 2162918354,
     "PMPMKOPBJHA": "The Giant of the Wind-Eroded Valley",
     "OCHCPNIBIPF": 2468342664,
     "AJGMCFNDKEG": "The giant lies silent in the valley, and the demonic swarms from the abyss now seem almost like poetic exaggerations. Only a power great enough to destroy mountains serves as the best proof that what the researchers say is nothing but the truth.",
@@ -1054,7 +1054,7 @@
   },
   {
     "DCKCMKGGIKM": 70400027,
-    "FPKEHKLHHDC": 354098882,
+    "nameTextMapHash": 354098882,
     "PMPMKOPBJHA": "Lifeless Dar al-Shifa",
     "OCHCPNIBIPF": 2221226936,
     "AJGMCFNDKEG": "The hospital, named after a prayer for patients, is now missing the busy figures of the doctors and the glad songs of those who have recovered, leaving naught but dilapidated remains.",
@@ -1067,7 +1067,7 @@
   },
   {
     "DCKCMKGGIKM": 70400028,
-    "FPKEHKLHHDC": 1170111906,
+    "nameTextMapHash": 1170111906,
     "PMPMKOPBJHA": "Verdant Fields' Vantage Point",
     "OCHCPNIBIPF": 474373232,
     "AJGMCFNDKEG": "From the barren desert, you can behold the forest realm of hidden wisdom, its verdant silhouette secure behind the mighty wall that blocks out the sandstorms, coldly looking down its nose at the desert realm swept by searing winds...\\nSurely, the vassal lords whose fragmented kingdoms survived King Deshret's fall must also have looked upon that land of plenty with bitter jealousy...",
@@ -1080,7 +1080,7 @@
   },
   {
     "DCKCMKGGIKM": 70400029,
-    "FPKEHKLHHDC": 1633080730,
+    "nameTextMapHash": 1633080730,
     "PMPMKOPBJHA": "Mt. Damavand, Where Sandstorms Never Cease",
     "OCHCPNIBIPF": 3787822768,
     "AJGMCFNDKEG": "An unending sandstorm swirls at the heart of Mt. Damavand.\\nThe desert people say that this sandstorm hides the location of the Eternal Oasis.",
@@ -1093,7 +1093,7 @@
   },
   {
     "DCKCMKGGIKM": 70400030,
-    "FPKEHKLHHDC": 3884917522,
+    "nameTextMapHash": 3884917522,
     "PMPMKOPBJHA": "The Moonblue Canals",
     "OCHCPNIBIPF": 1484598416,
     "AJGMCFNDKEG": "The ancient tales of the desert people tell of this place being the site where three canals met, nourishing fertile fields and rich gardens.\\nBut nothing remains now of those halcyon days, only the dulled shades of a dream...",
@@ -1106,7 +1106,7 @@
   },
   {
     "DCKCMKGGIKM": 70400031,
-    "FPKEHKLHHDC": 3358831786,
+    "nameTextMapHash": 3358831786,
     "PMPMKOPBJHA": "The Tanit Encampment",
     "OCHCPNIBIPF": 3297520960,
     "AJGMCFNDKEG": "Part of an ancient structure's ruins, once home to the ghosts of people of old...\\nNow, it is the home of a desert tribe known as the Tanit.",
@@ -1119,7 +1119,7 @@
   },
   {
     "DCKCMKGGIKM": 70400032,
-    "FPKEHKLHHDC": 4257674098,
+    "nameTextMapHash": 4257674098,
     "PMPMKOPBJHA": "The Palace Abandoned by the Gods",
     "OCHCPNIBIPF": 1374289416,
     "AJGMCFNDKEG": "The ruins of the temple of Gurabad. The desert songs say that long-lived giants once dwelled here.\\nBut they were cast down into a rift in the earth within a single night, never to be seen again... and so did the great temple also become some ruins in a valley rift.",
@@ -1132,7 +1132,7 @@
   },
   {
     "DCKCMKGGIKM": 70400033,
-    "FPKEHKLHHDC": 610266322,
+    "nameTextMapHash": 610266322,
     "PMPMKOPBJHA": "The Temple of Buried Dominion",
     "OCHCPNIBIPF": 2848639864,
     "AJGMCFNDKEG": "The ancient people of Gurabad used to worship their God King of the desert in these long halls and grand courts. But forgetting caused the gulf between the noble and the base to lose its meaning...",
@@ -1145,7 +1145,7 @@
   },
   {
     "DCKCMKGGIKM": 70400034,
-    "FPKEHKLHHDC": 3458568858,
+    "nameTextMapHash": 3458568858,
     "PMPMKOPBJHA": "Wenut Tunnels",
     "OCHCPNIBIPF": 1447422920,
     "AJGMCFNDKEG": "The mortal palaces have long fallen, and the Wenut rule here now, transforming it into a court and garden more to their liking.",
@@ -1158,7 +1158,7 @@
   },
   {
     "DCKCMKGGIKM": 70400035,
-    "FPKEHKLHHDC": 1230724618,
+    "nameTextMapHash": 1230724618,
     "PMPMKOPBJHA": "The Lost Hermitage",
     "OCHCPNIBIPF": 1532217568,
     "AJGMCFNDKEG": "It is said that a friend of King Deshret once built their court in a great cavern beneath the dunes.\\nWenut served here as court officials, and flying serpents as companions. But today, both creatures have lost their noble wit and vigor.",
@@ -1171,7 +1171,7 @@
   },
   {
     "DCKCMKGGIKM": 70400036,
-    "FPKEHKLHHDC": 3275173722,
+    "nameTextMapHash": 3275173722,
     "PMPMKOPBJHA": "The Forgotten River Valley",
     "OCHCPNIBIPF": 2096354088,
     "AJGMCFNDKEG": "This great river valley once irrigated Panjvahe. Here, the nobles of Gurabad once sailed in ornate boats, releasing their sleek hunting falcons...\\nBut even those proud hawks would devolve into the wild red vultures of the desert.",
@@ -1184,7 +1184,7 @@
   },
   {
     "DCKCMKGGIKM": 70400037,
-    "FPKEHKLHHDC": 1298009658,
+    "nameTextMapHash": 1298009658,
     "PMPMKOPBJHA": "The Gap of the Hidden Ruins",
     "OCHCPNIBIPF": 1932144504,
     "AJGMCFNDKEG": "Mighty Gurabad and the monumental buildings raised in its heyday could not, in the end, escape falling into the dark valley rift.\\nAnd as if their destruction was not humiliation enough, their mansions and estates would come to be nests for roving bandits...",
@@ -1197,7 +1197,7 @@
   },
   {
     "DCKCMKGGIKM": 70400038,
-    "FPKEHKLHHDC": 1594636954,
+    "nameTextMapHash": 1594636954,
     "PMPMKOPBJHA": "The Court of Dried Springs",
     "OCHCPNIBIPF": 3374188656,
     "AJGMCFNDKEG": "The ancient people of Gurabad memorialized the years of the gardens with wine, song, and dance. But forgetting caused all joys to wither and crumble to dust...",
@@ -1210,7 +1210,7 @@
   },
   {
     "DCKCMKGGIKM": 70400039,
-    "FPKEHKLHHDC": 4285107154,
+    "nameTextMapHash": 4285107154,
     "PMPMKOPBJHA": "The Court of Withered Life",
     "OCHCPNIBIPF": 3013746320,
     "AJGMCFNDKEG": "The ancient people of Gurabad once planted many-hued plants and succulent fungi along these halls and courts, but forgetting caused all life here to become barren...",
@@ -1223,7 +1223,7 @@
   },
   {
     "DCKCMKGGIKM": 70400040,
-    "FPKEHKLHHDC": 2133065378,
+    "nameTextMapHash": 2133065378,
     "PMPMKOPBJHA": "Where a Titan's Shins Were Broken",
     "OCHCPNIBIPF": 1417684656,
     "AJGMCFNDKEG": "Wounded Shin Valley has been its moniker for a long time, but now that an iron giant has lost its footing in this place, its name surely bears some extra weight now, no?",
@@ -1236,7 +1236,7 @@
   },
   {
     "DCKCMKGGIKM": 70400041,
-    "FPKEHKLHHDC": 2209869410,
+    "nameTextMapHash": 2209869410,
     "PMPMKOPBJHA": "Safhe Shatranj",
     "OCHCPNIBIPF": 413838896,
     "AJGMCFNDKEG": "To the desert tribes, this abandoned, ruined square goes by the name \"Safhe Shatranj.\"\\nResearchers believe that this was once a \"training field\" for ancient war machines.",
@@ -1249,7 +1249,7 @@
   },
   {
     "DCKCMKGGIKM": 70400042,
-    "FPKEHKLHHDC": 3739537170,
+    "nameTextMapHash": 3739537170,
     "PMPMKOPBJHA": "Liloupar's Gaol",
     "OCHCPNIBIPF": 889400448,
     "AJGMCFNDKEG": "What sort of dire criminal did this prison that has now become an oasis once hold?\\nAnd what changes will her awakening bring to the lonesome desert tribes?",
@@ -1262,7 +1262,7 @@
   },
   {
     "DCKCMKGGIKM": 70400043,
-    "FPKEHKLHHDC": 3308660218,
+    "nameTextMapHash": 3308660218,
     "PMPMKOPBJHA": "Remnants of the Ancient Orchard",
     "OCHCPNIBIPF": 3996841024,
     "AJGMCFNDKEG": "Before it fell into the dark valley rift, the great gate of Gurabad was once a place where poetry and beauty gathered.\\nOnly the cream of the crop had the privilege of standing here and beholding the noble mortal lord...",
@@ -1275,7 +1275,7 @@
   },
   {
     "DCKCMKGGIKM": 70400044,
-    "FPKEHKLHHDC": 29413722,
+    "nameTextMapHash": 29413722,
     "PMPMKOPBJHA": "Ad-Hoc Headquarters of the Fatui Expeditionary Force",
     "OCHCPNIBIPF": 388751160,
     "AJGMCFNDKEG": "A vanguard troop from the snowy land in the far north has set up camp here amidst the whispers of ancient shrines.",
@@ -1288,7 +1288,7 @@
   },
   {
     "DCKCMKGGIKM": 70400045,
-    "FPKEHKLHHDC": 562508218,
+    "nameTextMapHash": 562508218,
     "PMPMKOPBJHA": "The Paradise of Eternal Peace",
     "OCHCPNIBIPF": 726848352,
     "AJGMCFNDKEG": "\"...Its leaves shall not be seized by autumn's arms, and the circles of time shall not avail to subject its newborn spring-joy to the curse of years...\"",
@@ -1301,7 +1301,7 @@
   },
   {
     "DCKCMKGGIKM": 70400046,
-    "FPKEHKLHHDC": 871222114,
+    "nameTextMapHash": 871222114,
     "PMPMKOPBJHA": "Cave-Engulfed Palace",
     "OCHCPNIBIPF": 665840624,
     "AJGMCFNDKEG": "The underground kingdom once relied on the ancient ruins in the caves to build secret chambers that serve as a guide for those who no longer professed faith in the gods.\\nThough the godless nation has long been destroyed, wandering guides yet linger here, preaching a path that leads toward the discordant tunes of the abyss...",
@@ -1314,7 +1314,7 @@
   },
   {
     "DCKCMKGGIKM": 70400047,
-    "FPKEHKLHHDC": 3218293946,
+    "nameTextMapHash": 3218293946,
     "PMPMKOPBJHA": "Elder Pine Atop the Wastes",
     "OCHCPNIBIPF": 552746920,
     "AJGMCFNDKEG": "The kind spirit residing within the towering Barsom has sheltered a great many warriors returning from their trials. But now none remember the details of that ancient compact...",
@@ -1327,7 +1327,7 @@
   },
   {
     "DCKCMKGGIKM": 70400048,
-    "FPKEHKLHHDC": 2366953090,
+    "nameTextMapHash": 2366953090,
     "PMPMKOPBJHA": "Forge of the Abandoned Foundry",
     "OCHCPNIBIPF": 3281545720,
     "AJGMCFNDKEG": "In the past, there were humans that yearned to use their own might to surpass the gods. This massive furnace stands as some manner of symbol relating to that desire.\\nAlthough the ancient foundry has long been abandoned, the sparks within the forge yet flicker still.",
@@ -1340,7 +1340,7 @@
   },
   {
     "DCKCMKGGIKM": 70400049,
-    "FPKEHKLHHDC": 4229154162,
+    "nameTextMapHash": 4229154162,
     "PMPMKOPBJHA": "Gate of Everlasting Mourning",
     "OCHCPNIBIPF": 4192958504,
     "AJGMCFNDKEG": "A grand and majestic gate leading to a world beneath the soil. It is sealed tight as of the present, and the once prosperous kingdom that lay behind the door has also long since turned to rubble.",
@@ -1353,7 +1353,7 @@
   },
   {
     "DCKCMKGGIKM": 70400050,
-    "FPKEHKLHHDC": 134489786,
+    "nameTextMapHash": 134489786,
     "PMPMKOPBJHA": "Valley of the Unsullied",
     "OCHCPNIBIPF": 2050369816,
     "AJGMCFNDKEG": "\"...The filth pouring out from the abyss will eventually recede and the lost descendants of the Dahri will be shocked into uprightness. As a chorus of thousands sing their song, there will come a lull to the rains.\"",
@@ -1366,7 +1366,7 @@
   },
   {
     "DCKCMKGGIKM": 70400051,
-    "FPKEHKLHHDC": 1364452930,
+    "nameTextMapHash": 1364452930,
     "PMPMKOPBJHA": "Amrita-Nourished Nest",
     "OCHCPNIBIPF": 3250009984,
     "AJGMCFNDKEG": "The purest Amrita nourishes the homeland of the Pari, with only unbesmirched warriors allowed entry into these forbidden grounds. The countless scattered kindred of the Khvarena are fated to converge here in eventuality.",
@@ -1379,7 +1379,7 @@
   },
   {
     "DCKCMKGGIKM": 70400052,
-    "FPKEHKLHHDC": 1881352450,
+    "nameTextMapHash": 1881352450,
     "PMPMKOPBJHA": "Harvisptokhm",
     "OCHCPNIBIPF": 357281632,
     "AJGMCFNDKEG": "\"Praise be the Harvisptokhm, extinguisher of the flaming sign searing the sky, and caller of the timely rains that will cleanse the land of its filth. The days that bask in the Khvarena's resplendence are as dawn rising through the murky fog crowning the mountains.\"",
@@ -1392,7 +1392,7 @@
   },
   {
     "DCKCMKGGIKM": 70400053,
-    "FPKEHKLHHDC": 3790620042,
+    "nameTextMapHash": 3790620042,
     "PMPMKOPBJHA": "Sourcewater Nation",
     "OCHCPNIBIPF": 810265232,
     "AJGMCFNDKEG": "Justice reveals the truth. Evil shall be punished, good shall be rewarded. You and I are but drops of water within the sourcewater, our original wishes carried into the depths on the rapid currents, buried alongside forgotten notes and codes.",
@@ -1405,7 +1405,7 @@
   },
   {
     "DCKCMKGGIKM": 70400054,
-    "FPKEHKLHHDC": 3520610170,
+    "nameTextMapHash": 3520610170,
     "PMPMKOPBJHA": "Scenery Within Elynas' Depths",
     "OCHCPNIBIPF": 3430477376,
     "AJGMCFNDKEG": "The heart that was nearly awakened has now gone silent once more.",
@@ -1418,7 +1418,7 @@
   },
   {
     "DCKCMKGGIKM": 70400055,
-    "FPKEHKLHHDC": 3718880842,
+    "nameTextMapHash": 3718880842,
     "PMPMKOPBJHA": "Scenery Within Elynas' Deepest Depths",
     "OCHCPNIBIPF": 2360543632,
     "AJGMCFNDKEG": "\"Nice to meet you!\"",
@@ -1431,7 +1431,7 @@
   },
   {
     "DCKCMKGGIKM": 70400056,
-    "FPKEHKLHHDC": 3506485146,
+    "nameTextMapHash": 3506485146,
     "PMPMKOPBJHA": "\"Oratrice Mecanique d'Analyse Cardinale\"",
     "OCHCPNIBIPF": 2689570480,
     "AJGMCFNDKEG": "\"Before there was law, sins already ran rampant above the waters. But without law, how can sins be forgiven in the name of sin?\"",
@@ -1444,7 +1444,7 @@
   },
   {
     "DCKCMKGGIKM": 70400057,
-    "FPKEHKLHHDC": 1265908802,
+    "nameTextMapHash": 1265908802,
     "PMPMKOPBJHA": "Foamy Home",
     "OCHCPNIBIPF": 3489938376,
     "AJGMCFNDKEG": "Beneath the verdant Beryl Mountains is the welcoming home of the Melusines. Little homes of fantastic and odd design are omnipresent, leaving a deep impression. Though, just who taught them these unique architectural styles?",
@@ -1457,7 +1457,7 @@
   },
   {
     "DCKCMKGGIKM": 70400058,
-    "FPKEHKLHHDC": 3326722874,
+    "nameTextMapHash": 3326722874,
     "PMPMKOPBJHA": "Ancient Conch Melody of Yore",
     "OCHCPNIBIPF": 3166489544,
     "AJGMCFNDKEG": "\"Of the once-great empire of Remuria, today there remains but a lonely melody. Once heard by multitudes, but long lost to mortal ears...\"",
@@ -1470,7 +1470,7 @@
   },
   {
     "DCKCMKGGIKM": 70400059,
-    "FPKEHKLHHDC": 3681359690,
+    "nameTextMapHash": 3681359690,
     "PMPMKOPBJHA": "Where Dark Tides Echo",
     "OCHCPNIBIPF": 1545015592,
     "AJGMCFNDKEG": "Where the Spina di Rosula was born. Just as a tiny chick that will one day become a soaring eagle is hatched from an egg, so are grand and radiant ambitions hatched in a dark and cramped place.\\nThe people of Poisson are like the residents of the Fleuve Cendre, and from the history of these places they understand that some things are worth being, and indeed must be, fought for and bought by blood.",
@@ -1483,7 +1483,7 @@
   },
   {
     "DCKCMKGGIKM": 70400060,
-    "FPKEHKLHHDC": 824091474,
+    "nameTextMapHash": 824091474,
     "PMPMKOPBJHA": "Sunken Glory",
     "OCHCPNIBIPF": 1369486056,
     "AJGMCFNDKEG": "The once-prosperous avenues and alleys have now vanished into the depths along with all that was worthy of praise. Now, only schools of fish parade through the promenades, along with the lonely sound of the tides.",
@@ -1496,7 +1496,7 @@
   },
   {
     "DCKCMKGGIKM": 70400061,
-    "FPKEHKLHHDC": 3658509234,
+    "nameTextMapHash": 3658509234,
     "PMPMKOPBJHA": "Court of Dew and Springs",
     "OCHCPNIBIPF": 1454357456,
     "AJGMCFNDKEG": "\"This city alone stands above all waters.\"",
@@ -1509,7 +1509,7 @@
   },
   {
     "DCKCMKGGIKM": 70400062,
-    "FPKEHKLHHDC": 375760226,
+    "nameTextMapHash": 375760226,
     "PMPMKOPBJHA": "Land of Corroded Shadows and Tainted Currents",
     "OCHCPNIBIPF": 1642552648,
     "AJGMCFNDKEG": "A tainted shadow hidden beneath the clear waters of Fontaine, a place of rest for outcasts.\\n\"Even the ashes and the dregs cast off by the sifting of the law all return to the same river.\"",
@@ -1522,7 +1522,7 @@
   },
   {
     "DCKCMKGGIKM": 70400063,
-    "FPKEHKLHHDC": 1132152930,
+    "nameTextMapHash": 1132152930,
     "PMPMKOPBJHA": "Seaworn Cavern",
     "OCHCPNIBIPF": 3964581768,
     "AJGMCFNDKEG": "A jawbone as massive as a mountain, that could seemingly drink in and spew forth the tides. It is difficult to imagine such a massive creature ever walking this world.",
@@ -1535,7 +1535,7 @@
   },
   {
     "DCKCMKGGIKM": 70400064,
-    "FPKEHKLHHDC": 2559416282,
+    "nameTextMapHash": 2559416282,
     "PMPMKOPBJHA": "\"Narzissenkreuz Kingdom\"",
     "OCHCPNIBIPF": 2784266120,
     "AJGMCFNDKEG": "\"A long, long time in the future, in a place far, far away... There was the beautiful Narzissenkreuz Kingdom...\"",
@@ -1548,7 +1548,7 @@
   },
   {
     "DCKCMKGGIKM": 70400065,
-    "FPKEHKLHHDC": 1785795946,
+    "nameTextMapHash": 1785795946,
     "PMPMKOPBJHA": "Erinnyes' Whirling Dance",
     "OCHCPNIBIPF": 2755343296,
     "AJGMCFNDKEG": "In this ancient ballad, the knight searching for water most pure encountered the spirit here, and they embarked upon a journey of redemption together. A thousand years pass like a dewy dawn, and whether laughter or tears, joy or sorrow, it all turns into a whirling illusory dance, disappearing into a sea of applause.",
@@ -1561,7 +1561,7 @@
   },
   {
     "DCKCMKGGIKM": 70400066,
-    "FPKEHKLHHDC": 128080866,
+    "nameTextMapHash": 128080866,
     "PMPMKOPBJHA": "\"Memories of Mont Esus\"",
     "OCHCPNIBIPF": 3112799176,
     "AJGMCFNDKEG": "Salsa once painted the scenery here.\\nThe gentle breeze winds through the flowery meadows in Mont Esus, setting the creaking arms of the windmill turning lazily. The peaceful and relaxed atmosphere here causes people to naturally find themselves dwelling on their most pleasant memories.",
@@ -1574,7 +1574,7 @@
   },
   {
     "DCKCMKGGIKM": 70400067,
-    "FPKEHKLHHDC": 2368563810,
+    "nameTextMapHash": 2368563810,
     "PMPMKOPBJHA": "\"View From Mont Automnequi\"",
     "OCHCPNIBIPF": 2399661880,
     "AJGMCFNDKEG": "Salsa once painted the scenery here.\\nFrom Mont Automnequi, one can see the ridge of Elynas. Beneath the peaks and lakes, the homeland of the Melusines is hidden.",
@@ -1587,7 +1587,7 @@
   },
   {
     "DCKCMKGGIKM": 70400068,
-    "FPKEHKLHHDC": 2699769034,
+    "nameTextMapHash": 2699769034,
     "PMPMKOPBJHA": "\"Fontaine Hot Springs\"",
     "OCHCPNIBIPF": 3594112232,
     "AJGMCFNDKEG": "Salsa once painted the scenery here.\\nThrough the mist steaming upwards from the hot springs, towering Mont Automnequi rises into the clouds, with the Clementine Line piercing through its base.",
@@ -1600,7 +1600,7 @@
   },
   {
     "DCKCMKGGIKM": 70400069,
-    "FPKEHKLHHDC": 819293722,
+    "nameTextMapHash": 819293722,
     "PMPMKOPBJHA": "\"Morning in the Beryl Mountains, Clear Weather\"",
     "OCHCPNIBIPF": 3034863632,
     "AJGMCFNDKEG": "Salsa once painted the scenery here.\\nA clear morning in the Beryl Mountains, the dew left by the previous night's autumn winds has not yet evaporated...",
@@ -1613,7 +1613,7 @@
   },
   {
     "DCKCMKGGIKM": 70400070,
-    "FPKEHKLHHDC": 315340090,
+    "nameTextMapHash": 315340090,
     "PMPMKOPBJHA": "\"The Seaside Village\"",
     "OCHCPNIBIPF": 1001098472,
     "AJGMCFNDKEG": "Salsa once painted the scenery here.\\nA beautiful seaside village whose peace and serenity evoke yearning for such a tranquil life in those who see it.",
@@ -1626,7 +1626,7 @@
   },
   {
     "DCKCMKGGIKM": 70400071,
-    "FPKEHKLHHDC": 1163284994,
+    "nameTextMapHash": 1163284994,
     "PMPMKOPBJHA": "Graveyard of Ships",
     "OCHCPNIBIPF": 4210911744,
     "AJGMCFNDKEG": "Following the white ironclad flagship, like tiny shimmering stars scattered through the velvet night, the battleships of the armada sank into the bowels of the trench in their clash with the great beast. The surface and depths are haunted by ghostly legends, but this makes it the perfect place to hide for those who seek secrecy.",
@@ -1639,7 +1639,7 @@
   },
   {
     "DCKCMKGGIKM": 70500001,
-    "FPKEHKLHHDC": 3596204034,
+    "nameTextMapHash": 3596204034,
     "PMPMKOPBJHA": "The Remnants of Brilliant Wisdom",
     "OCHCPNIBIPF": 872750664,
     "AJGMCFNDKEG": "When excess intelligence and passion came together, research brought about results in a manner that surpassed everyone's expectations. Now, however, there remains no one to applaud that achievement.",
@@ -1652,7 +1652,7 @@
   },
   {
     "DCKCMKGGIKM": 70500002,
-    "FPKEHKLHHDC": 3685938802,
+    "nameTextMapHash": 3685938802,
     "PMPMKOPBJHA": "The Wrack of Shattered Dreams",
     "OCHCPNIBIPF": 2985871136,
     "AJGMCFNDKEG": "When an ideal is destroyed, its most important responsibility is to hold its peace.\\nHowever, some seem to believe that this burning energy serves some other purpose...",
@@ -1665,7 +1665,7 @@
   },
   {
     "DCKCMKGGIKM": 70500003,
-    "FPKEHKLHHDC": 2412601658,
+    "nameTextMapHash": 2412601658,
     "PMPMKOPBJHA": "A Sea of Exile",
     "OCHCPNIBIPF": 1919928408,
     "AJGMCFNDKEG": "\"No matter what the sin, it shall eventually be lost to the waves like sand.\"",
@@ -1678,7 +1678,7 @@
   },
   {
     "DCKCMKGGIKM": 70500004,
-    "FPKEHKLHHDC": 4208357730,
+    "nameTextMapHash": 4208357730,
     "PMPMKOPBJHA": "The Copper Keep",
     "OCHCPNIBIPF": 2881486184,
     "AJGMCFNDKEG": "\"A fastness of bronze and iron will collapse one day, but a city of law and justice will never fall.\"",
@@ -1691,7 +1691,7 @@
   },
   {
     "DCKCMKGGIKM": 70500005,
-    "FPKEHKLHHDC": 1935965450,
+    "nameTextMapHash": 1935965450,
     "PMPMKOPBJHA": "Scattered References",
     "OCHCPNIBIPF": 513594944,
     "AJGMCFNDKEG": "The aftershocks of that incident could not completely destroy it, and it would continue to exist in a form contrary to its original design. Perhaps this might be considered a form of continuation as well.",

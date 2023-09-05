@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_01",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01a_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01a_City",
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_02",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01b_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01b_City",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_03",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01c_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01c_City",
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_04",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01d_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01d_City",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_05",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01e_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01e_City",
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_06",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01f_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01f_City",
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "HADEKKDJOMM": "SceneObj_UGC_V2_Config_07",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01g_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01g_City",

@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 45001001,
-    "DEOOGNEJGAK": "UI_Buff_Skiff",
+    "id": 45001001,
+    "iconName": "UI_Buff_Skiff",
     "BMDCCIHHLBC": "",
     "EHDCEPFOFLL": "",
     "NEIJHKDLODA": 0.8,
@@ -12,8 +12,8 @@
     "NOLPDDFLOGB": "Btn_Vehicle_Skiff_Sprint"
   },
   {
-    "PGKNKBKHCHM": 45001002,
-    "DEOOGNEJGAK": "UI_Buff_Skiff",
+    "id": 45001002,
+    "iconName": "UI_Buff_Skiff",
     "BMDCCIHHLBC": "",
     "EHDCEPFOFLL": "",
     "NEIJHKDLODA": 0.8,
@@ -24,8 +24,8 @@
     "NOLPDDFLOGB": "Btn_Vehicle_Skiff_Sprint"
   },
   {
-    "PGKNKBKHCHM": 45002001,
-    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "id": 45002001,
+    "iconName": "UI_Buff_Sorush",
     "BMDCCIHHLBC": "",
     "EHDCEPFOFLL": "",
     "NEIJHKDLODA": 0.2,
@@ -36,8 +36,8 @@
     "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
   },
   {
-    "PGKNKBKHCHM": 45002002,
-    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "id": 45002002,
+    "iconName": "UI_Buff_Sorush",
     "BMDCCIHHLBC": "",
     "EHDCEPFOFLL": "",
     "NEIJHKDLODA": 0.2,
@@ -48,8 +48,8 @@
     "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
   },
   {
-    "PGKNKBKHCHM": 45002003,
-    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "id": 45002003,
+    "iconName": "UI_Buff_Sorush",
     "BMDCCIHHLBC": "",
     "EHDCEPFOFLL": "",
     "NEIJHKDLODA": 0.2,
@@ -60,8 +60,8 @@
     "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
   },
   {
-    "PGKNKBKHCHM": 45002011,
-    "DEOOGNEJGAK": "UI_Buff_Penumbra_Flightgear",
+    "id": 45002011,
+    "iconName": "UI_Buff_Penumbra_Flightgear",
     "BMDCCIHHLBC": "PenAdvFlightgearAcceleration",
     "EHDCEPFOFLL": "AccelerationSpeed",
     "NEIJHKDLODA": 0.2,

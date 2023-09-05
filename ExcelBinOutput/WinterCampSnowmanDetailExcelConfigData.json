@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "GIGMHINKJDB": 3361307018,
     "HIADIMJBCKB": "Snowman Mark One",
     "EDNBBALNICO": 2682298146,
@@ -11,7 +11,7 @@
     "COAEEEJINMI": 12009301
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "GIGMHINKJDB": 448335202,
     "HIADIMJBCKB": "Of Twin Snows",
     "EDNBBALNICO": 215106042,
@@ -22,7 +22,7 @@
     "COAEEEJINMI": 12009302
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "GIGMHINKJDB": 3272227162,
     "HIADIMJBCKB": "Three Little Snowmen",
     "EDNBBALNICO": 186927370,
@@ -33,7 +33,7 @@
     "COAEEEJINMI": 12009303
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "GIGMHINKJDB": 540284906,
     "HIADIMJBCKB": "Task Force Snowman",
     "EDNBBALNICO": 1040976106,

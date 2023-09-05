@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 9001,
+    "id": 9001,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -8,7 +8,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1301146430,
+    "nameTextMapHash": 1301146430,
     "PMPMKOPBJHA": "Adaptive Combat",
     "MKNKCBJKNBP": 770867944247672700,
     "CGKJHJAGGJD": 298,
@@ -23,7 +23,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9002,
+    "id": 9002,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -31,7 +31,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 3939980046,
+    "nameTextMapHash": 3939980046,
     "PMPMKOPBJHA": "Rising Winds",
     "MKNKCBJKNBP": 15721294291519003000,
     "CGKJHJAGGJD": 223,
@@ -46,7 +46,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9003,
+    "id": 9003,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -54,7 +54,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 662064798,
+    "nameTextMapHash": 662064798,
     "PMPMKOPBJHA": "Burnout Plan",
     "MKNKCBJKNBP": 2587862452393107000,
     "CGKJHJAGGJD": 29,
@@ -69,7 +69,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9004,
+    "id": 9004,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -77,7 +77,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2013365494,
+    "nameTextMapHash": 2013365494,
     "PMPMKOPBJHA": "Hostile Contact",
     "MKNKCBJKNBP": 1965662258241534000,
     "CGKJHJAGGJD": 173,
@@ -92,7 +92,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9005,
+    "id": 9005,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -100,7 +100,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 3282217038,
+    "nameTextMapHash": 3282217038,
     "PMPMKOPBJHA": "Defensive Combat",
     "MKNKCBJKNBP": 16598610183850568000,
     "CGKJHJAGGJD": 364,
@@ -115,7 +115,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9006,
+    "id": 9006,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -123,7 +123,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 1122003454,
+    "nameTextMapHash": 1122003454,
     "PMPMKOPBJHA": "Treasure Seeker",
     "MKNKCBJKNBP": 16874630325558718000,
     "CGKJHJAGGJD": 51,
@@ -138,7 +138,7 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9007,
+    "id": 9007,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [
@@ -146,7 +146,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "FPKEHKLHHDC": 2325781566,
+    "nameTextMapHash": 2325781566,
     "PMPMKOPBJHA": "A Minor Threat",
     "MKNKCBJKNBP": 16022779631873733000,
     "CGKJHJAGGJD": 213,
@@ -161,11 +161,11 @@
     "JIPGLICHHJL": false
   },
   {
-    "PGKNKBKHCHM": 9008,
+    "id": 9008,
     "ADNEGPGLPKN": 9,
     "JONILKNONEM": 0,
     "FAGGPCMKIKE": [],
-    "FPKEHKLHHDC": 3220483502,
+    "nameTextMapHash": 3220483502,
     "PMPMKOPBJHA": "Cluster of Riches",
     "MKNKCBJKNBP": 4939270206828372000,
     "CGKJHJAGGJD": 56,

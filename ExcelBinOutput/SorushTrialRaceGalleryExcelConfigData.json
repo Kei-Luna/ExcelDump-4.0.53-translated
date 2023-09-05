@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "BCJEBPNJNLN": 44101,
     "KJNIJNGLHDJ": 2393469993,
     "KGGEJLPHNKC": "Thundering Action",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "BCJEBPNJNLN": 44102,
     "KJNIJNGLHDJ": 3103008073,
     "KGGEJLPHNKC": "Swift Maneuver",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "BCJEBPNJNLN": 44103,
     "KJNIJNGLHDJ": 2436647697,
     "KGGEJLPHNKC": "Absolute Agility",
