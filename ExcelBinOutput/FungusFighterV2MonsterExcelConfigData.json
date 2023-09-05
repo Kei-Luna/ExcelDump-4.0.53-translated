@@ -1,0 +1,232 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "FEBBCDEGNDN": 1,
+    "PBMBNKJJEGN": 1,
+    "CPFMHDIIILE": 36090191,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Gamma_Water",
+    "FPKEHKLHHDC": 2317913440,
+    "PMPMKOPBJHA": "Bongo-Head",
+    "HHMPIBGBFPO": 1809608805,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Bongo-Head, the partner of the Golden Comet and Silver Companion. It was part of the team that won the original Nilotpala Cup Beast Tamers Tournament. Specializes in using Hydro to perform large AoE attacks, and can heal exceedingly well, enough to turn things around in a pinch.",
+    "COCDOOGMHAC": 1432519381,
+    "KHDCPKCNEBG": "Healing Support",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Recovery_HpAdd",
+    "PBDHCCGLDDK": 3,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "FEBBCDEGNDN": 8,
+    "PBMBNKJJEGN": 4,
+    "CPFMHDIIILE": 36090291,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
+    "FPKEHKLHHDC": 641978648,
+    "PMPMKOPBJHA": "Magishroom",
+    "HHMPIBGBFPO": 260731581,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Magishroom, the partner of Ajilenakh Dash. It specializes in fighting single opponents and attacking them from far away. It is also capable of some limited healing.",
+    "COCDOOGMHAC": 2297909333,
+    "KHDCPKCNEBG": "High Impact",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "PBDHCCGLDDK": 6,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 5
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "FEBBCDEGNDN": 3,
+    "PBMBNKJJEGN": 2,
+    "CPFMHDIIILE": 36090391,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
+    "FPKEHKLHHDC": 3194781656,
+    "PMPMKOPBJHA": "Twirly-Whirly",
+    "HHMPIBGBFPO": 1628491629,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Twirly-Whirly, who teamed up with Layla and won second runner-up in the previous tournament. It specializes in using large AoE Anemo attacks and in decreasing opponents' Elemental RES. It is something of a keystone in battles.",
+    "COCDOOGMHAC": 3489302629,
+    "KHDCPKCNEBG": "Combat Buffer",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Other_SPRise",
+    "PBDHCCGLDDK": 9,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 8
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "FEBBCDEGNDN": 4,
+    "PBMBNKJJEGN": 2,
+    "CPFMHDIIILE": 36090491,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Epsilon_Electric",
+    "FPKEHKLHHDC": 3075579696,
+    "PMPMKOPBJHA": "Blitzara",
+    "HHMPIBGBFPO": 542637197,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Blitzara, who teamed up with a certain \"Fried Tofu With All the Frills\" and won third place in the previous tournament. It specializes in dealing Electro DMG and in decreasing opponents' DEF. It will prove a worthy spearhead in your battles.",
+    "COCDOOGMHAC": 938894445,
+    "KHDCPKCNEBG": "High Impact",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "PBDHCCGLDDK": 12,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 11
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "FEBBCDEGNDN": 7,
+    "PBMBNKJJEGN": 4,
+    "CPFMHDIIILE": 36090591,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
+    "FPKEHKLHHDC": 2245677168,
+    "PMPMKOPBJHA": "Gusto-Frosto",
+    "HHMPIBGBFPO": 3508915477,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Gusto-Frosto, the partner of Baron Bigfoot in the previous tournament. It specializes in dealing AoE Cryo DMG and can take a fair amount of damage. It can serve as the central pillar of a formation.",
+    "COCDOOGMHAC": 1695398181,
+    "KHDCPKCNEBG": "Formation Fulcrum",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Def_Add",
+    "PBDHCCGLDDK": 15,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 13
+      },
+      {
+        "CDOIPGMKDFF": 14
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "FEBBCDEGNDN": 6,
+    "PBMBNKJJEGN": 3,
+    "CPFMHDIIILE": 36090691,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
+    "FPKEHKLHHDC": 3238277336,
+    "PMPMKOPBJHA": "Kindlejoy",
+    "HHMPIBGBFPO": 1327743365,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Kindlejoy, the partner of Haniyyah and the runner-up of the previous tournament. It specializes in dealing AoE Pyro DMG and can decrease its targets' ATK. It can serve as the core support for a formation.",
+    "COCDOOGMHAC": 1071198541,
+    "KHDCPKCNEBG": "Formation Fulcrum",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Def_Add",
+    "PBDHCCGLDDK": 18,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 16
+      },
+      {
+        "CDOIPGMKDFF": 17
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "FEBBCDEGNDN": 2,
+    "PBMBNKJJEGN": 1,
+    "CPFMHDIIILE": 36090791,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Alpha_Fire",
+    "FPKEHKLHHDC": 2395478832,
+    "PMPMKOPBJHA": "Duelblaze",
+    "HHMPIBGBFPO": 4093794797,
+    "NHIEOOCGJGH": "A Lil' Fungus named by Souka, one of the organizing staff. It specializes in buffing itself and increasing its combat power, allowing it to deal immense damage at critical moments.",
+    "COCDOOGMHAC": 2803801845,
+    "KHDCPKCNEBG": "High Impact",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "PBDHCCGLDDK": 21,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 19
+      },
+      {
+        "CDOIPGMKDFF": 20
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "FEBBCDEGNDN": 9,
+    "PBMBNKJJEGN": 5,
+    "CPFMHDIIILE": 36090891,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
+    "FPKEHKLHHDC": 1590777368,
+    "PMPMKOPBJHA": "Stormstress",
+    "HHMPIBGBFPO": 795392197,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Stormstress, Souka's partner in the previous tournament. It specializes in attacking opponents at medium range and can heal and dispel Elemental Applications on other Lil' Fungi, thus preventing harmful Elemental Reactions.",
+    "COCDOOGMHAC": 1038002829,
+    "KHDCPKCNEBG": "Healing Support",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Recovery_HpAdd",
+    "PBDHCCGLDDK": 24,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 22
+      },
+      {
+        "CDOIPGMKDFF": 23
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "FEBBCDEGNDN": 5,
+    "PBMBNKJJEGN": 2,
+    "CPFMHDIIILE": 36090991,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
+    "FPKEHKLHHDC": 384790352,
+    "PMPMKOPBJHA": "Rocksteady",
+    "HHMPIBGBFPO": 1875404789,
+    "NHIEOOCGJGH": "A Lil' Fungus based on Rocksteady, the partner of Hardy Two-Blades during the previous tournament. It is good at directly engaging opponents and protecting the other Lil' Fungi. It is a reliable frontline fighter.",
+    "COCDOOGMHAC": 305482765,
+    "KHDCPKCNEBG": "Formation Fulcrum",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Def_Add",
+    "PBDHCCGLDDK": 27,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 25
+      },
+      {
+        "CDOIPGMKDFF": 26
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "FEBBCDEGNDN": 10,
+    "PBMBNKJJEGN": 5,
+    "CPFMHDIIILE": 36091091,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Delta_Electric",
+    "FPKEHKLHHDC": 213991928,
+    "PMPMKOPBJHA": "Stormsage",
+    "HHMPIBGBFPO": 3993952597,
+    "NHIEOOCGJGH": "A Lil' Fungus named by Souka, one of the organizing staff. It specializes in using Electro to fire off continuous long-range attacks and also support other Lil' Fungi in combat.",
+    "COCDOOGMHAC": 1629678325,
+    "KHDCPKCNEBG": "Combat Buffer",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Other_SPRise",
+    "PBDHCCGLDDK": 30,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 28
+      },
+      {
+        "CDOIPGMKDFF": 29
+      }
+    ]
+  }
+]

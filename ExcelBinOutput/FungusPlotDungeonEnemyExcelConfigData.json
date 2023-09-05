@@ -1,0 +1,162 @@
+[
+  {
+    "NFCCICAOHFA": 1,
+    "KNANHBCCANF": 535542856,
+    "FFOKIPPCKBE": "Floating Hydro Fungus",
+    "JKNBCFNHCBM": 3766120217,
+    "GLACKKAELAM": "A Floating Hydro Fungus that has had its elemental potential awakened. It is very good at healing its allies and imprisoning opponents.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Gamma_Water",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Gamma_Water",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Un_Gamma_Water"
+  },
+  {
+    "NFCCICAOHFA": 2,
+    "KNANHBCCANF": 1941669888,
+    "FFOKIPPCKBE": "Floating Dendro Fungus",
+    "JKNBCFNHCBM": 971216881,
+    "GLACKKAELAM": "A Floating Dendro Fungus that has had its elemental potential awakened. It specializes in dealing with a single target, and can both attack from long range and heal its teammates.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Grass",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Un_Delta_Grass"
+  },
+  {
+    "NFCCICAOHFA": 3,
+    "KNANHBCCANF": 3066193992,
+    "FFOKIPPCKBE": "Floating Anemo Fungus",
+    "JKNBCFNHCBM": 464391033,
+    "GLACKKAELAM": "A Floating Anemo Fungus that has had its elemental potential awakened. It can use mysterious Anemo techniques to attract and pull opponents in a certain area.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Wind",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Un_Delta_Wind"
+  },
+  {
+    "NFCCICAOHFA": 4,
+    "KNANHBCCANF": 1865628160,
+    "FFOKIPPCKBE": "Whirling Electro Fungus",
+    "JKNBCFNHCBM": 3875538081,
+    "GLACKKAELAM": "A Whirling Electro Fungus that has had its elemental potential awakened. Swiftly closing gaps to perform frequent Electro-DMG-dealing attacks and then leaving its opponent's attack range — that's this creature's combat style.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Epsilon_Electric",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Epsilon_Electric",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Trois_Epsilon_Electric"
+  },
+  {
+    "NFCCICAOHFA": 5,
+    "KNANHBCCANF": 329664608,
+    "FFOKIPPCKBE": "Whirling Cryo Fungus",
+    "JKNBCFNHCBM": 3755092041,
+    "GLACKKAELAM": "A Whirling Cryo Fungus that has had its elemental potential awakened. Its unique technique is to close with its opponents very quickly, then unleash strong attacks to interrupt opposing moves.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Alpha_Ice",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Trois_Alpha_Ice"
+  },
+  {
+    "NFCCICAOHFA": 6,
+    "KNANHBCCANF": 851883504,
+    "FFOKIPPCKBE": "Whirling Pyro Fungus",
+    "JKNBCFNHCBM": 3964389217,
+    "GLACKKAELAM": "A Whirling Pyro Fungus that has had its elemental potential awakened. Its behavior in battle is akin to a bomb packed with extra powder that can suppress nearby opponents brutally. It has the ability to gather and lower its opponents' resistances.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Gamma_Fire",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Trois_Gamma_Fire"
+  },
+  {
+    "NFCCICAOHFA": 7,
+    "KNANHBCCANF": 55173920,
+    "FFOKIPPCKBE": "Stretchy Pyro Fungus",
+    "JKNBCFNHCBM": 541280425,
+    "GLACKKAELAM": "A Stretchy Pyro Fungus that has had its elemental potential awakened. It specializes in closing the distance and using a constant stream of fire to grill its opponents.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Alpha_Fire",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Alpha_Fire",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Alpha_Fire"
+  },
+  {
+    "NFCCICAOHFA": 8,
+    "KNANHBCCANF": 2973576936,
+    "FFOKIPPCKBE": "Stretchy Anemo Fungus",
+    "JKNBCFNHCBM": 3666684193,
+    "GLACKKAELAM": "A Stretchy Anemo Fungus that has had its elemental potential awakened. It leans towards attacking foes at medium range, and it can also clear harmful elements.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Epsilon_Wind",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Epsilon_Wind"
+  },
+  {
+    "NFCCICAOHFA": 9,
+    "KNANHBCCANF": 4059648176,
+    "FFOKIPPCKBE": "Stretchy Geo Fungus",
+    "JKNBCFNHCBM": 881023497,
+    "GLACKKAELAM": "A Stretchy Geo Fungus that has had its elemental potential awakened. It leans towards melee combat and uses powerful attacks to crush the opposing line.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Beta_Rock",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Beta_Rock"
+  },
+  {
+    "NFCCICAOHFA": 10,
+    "KNANHBCCANF": 1444426624,
+    "FFOKIPPCKBE": "Stretchy Electro Fungus",
+    "JKNBCFNHCBM": 1138526217,
+    "GLACKKAELAM": "A Stretchy Electro Fungus that has had its elemental potential awakened. It can attack opponents from afar using Electro and increase the damage output of its party members.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Delta_Electric",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Delta_Electric",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Delta_Electric"
+  },
+  {
+    "NFCCICAOHFA": 11,
+    "KNANHBCCANF": 282183912,
+    "FFOKIPPCKBE": "Magishroom",
+    "JKNBCFNHCBM": 4006806689,
+    "GLACKKAELAM": "Ajilenakh Dash's trump card. It can use mysterious Dendro powers to pair up with its teammates and trigger many Elemental Reaction types on the field.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Grass",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Un_Delta_Grass"
+  },
+  {
+    "NFCCICAOHFA": 12,
+    "KNANHBCCANF": 1827703048,
+    "FFOKIPPCKBE": "Stormstress",
+    "JKNBCFNHCBM": 1884910889,
+    "GLACKKAELAM": "Souka's trump card. This Fungus specializes in launching Anemo explosives and attacking from further away. It can also provide healing and Anemo application to its teammates.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Epsilon_Wind",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Epsilon_Wind"
+  },
+  {
+    "NFCCICAOHFA": 13,
+    "KNANHBCCANF": 2009127688,
+    "FFOKIPPCKBE": "Gusto-Frosto",
+    "JKNBCFNHCBM": 4019853273,
+    "GLACKKAELAM": "Baron Bigfoot's trump card. This Fungus is able to quickly close the gap and liberally spread the influence of Cryo. It is capable of controlling the entire battlefield with the aid of a Hydro Fungus.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Alpha_Ice",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Trois_Alpha_Ice"
+  },
+  {
+    "NFCCICAOHFA": 14,
+    "KNANHBCCANF": 344764048,
+    "FFOKIPPCKBE": "Rocksteady",
+    "JKNBCFNHCBM": 277545873,
+    "GLACKKAELAM": "Hardy Two-Blades' trump card. This Fungus has immense destructive power and can hit tightly packed opposition very hard indeed.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Beta_Rock",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Deux_Beta_Rock"
+  },
+  {
+    "NFCCICAOHFA": 15,
+    "KNANHBCCANF": 4214404048,
+    "FFOKIPPCKBE": "Twirly-Whirly",
+    "JKNBCFNHCBM": 2577313777,
+    "GLACKKAELAM": "Layla's trump card. This Fungus is exceedingly agile and hard to hit, and can use its powerful Anemo cannon shots to suppress its opponents. It is also capable of creating a large Anemo vortex that has a wide-AoE pull.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Wind",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Un_Delta_Wind"
+  },
+  {
+    "NFCCICAOHFA": 16,
+    "KNANHBCCANF": 3921587384,
+    "FFOKIPPCKBE": "Pyro-1",
+    "JKNBCFNHCBM": 1245224993,
+    "GLACKKAELAM": "Haniyyah's trump card. This Fungus is capable of hitting multiple targets within a certain area even when using its most normal attacks. When it gets serious, it can even suck multiple opponents to its side before causing an intense explosion to seriously wound them.",
+    "JCKBPKGNKMJ": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
+    "DHGEBLBONGP": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Gamma_Fire",
+    "LDKCLOKICAK": "ART/UI/Atlas/Activity/FungusFighter/UI_Pic_Fungus_Partner_Trois_Gamma_Fire"
+  }
+]

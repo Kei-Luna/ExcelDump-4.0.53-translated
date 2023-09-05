@@ -1,0 +1,32 @@
+[
+  {
+    "ADNEGPGLPKN": 1,
+    "EPJADNLGJGH": 3402260500,
+    "GOPDBAOJGHM": "Basic Items"
+  },
+  {
+    "ADNEGPGLPKN": 2,
+    "EPJADNLGJGH": 584631308,
+    "GOPDBAOJGHM": "Terrain"
+  },
+  {
+    "ADNEGPGLPKN": 3,
+    "EPJADNLGJGH": 2766931596,
+    "GOPDBAOJGHM": "Mechanisms"
+  },
+  {
+    "ADNEGPGLPKN": 4,
+    "EPJADNLGJGH": 2659426892,
+    "GOPDBAOJGHM": "Traps"
+  },
+  {
+    "ADNEGPGLPKN": 5,
+    "EPJADNLGJGH": 1785168652,
+    "GOPDBAOJGHM": "Blessings"
+  },
+  {
+    "ADNEGPGLPKN": 6,
+    "EPJADNLGJGH": 1031607076,
+    "GOPDBAOJGHM": "Usable Materials"
+  }
+]

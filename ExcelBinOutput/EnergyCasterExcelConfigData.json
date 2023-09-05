@@ -1,0 +1,58 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_QRCode",
+    "FCADLJHGIDE": 1,
+    "CPDACDAAFJA": 2,
+    "IGFMOFMLIJI": 1,
+    "EFDNKMHMJJN": ""
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_Camera",
+    "FCADLJHGIDE": 1,
+    "CPDACDAAFJA": 2,
+    "IGFMOFMLIJI": 2,
+    "EFDNKMHMJJN": ""
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_Camera",
+    "FCADLJHGIDE": 1,
+    "CPDACDAAFJA": 2,
+    "IGFMOFMLIJI": 4,
+    "EFDNKMHMJJN": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CameraAim_Ability"
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_Cell",
+    "FCADLJHGIDE": 3,
+    "CPDACDAAFJA": 0,
+    "IGFMOFMLIJI": 4,
+    "EFDNKMHMJJN": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellClick_Ability"
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_Cell",
+    "FCADLJHGIDE": 2,
+    "CPDACDAAFJA": 0,
+    "IGFMOFMLIJI": 4,
+    "EFDNKMHMJJN": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellAim_Ability"
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_Cell",
+    "FCADLJHGIDE": 4,
+    "CPDACDAAFJA": 0,
+    "IGFMOFMLIJI": 4,
+    "EFDNKMHMJJN": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellExit_Ability"
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "CFDLPNNIHOP": "SGV_EnergyCaster_QRCode",
+    "FCADLJHGIDE": 1,
+    "CPDACDAAFJA": 2,
+    "IGFMOFMLIJI": 4,
+    "EFDNKMHMJJN": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_QRCode_Ability"
+  }
+]

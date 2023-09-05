@@ -1,0 +1,1130 @@
+[
+  {
+    "KMCCILDHOKJ": 1,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3526716202,
+    "PMPMKOPBJHA": "Bubble Strike",
+    "HHMPIBGBFPO": 3281430,
+    "NHIEOOCGJGH": "Unleashes a Precision Bubble that deals Hydro DMG.",
+    "LGCIKEEPCLM": [
+      204478295,
+      4187875794,
+      1319038036
+    ],
+    "KAFCODBMEGL": [
+      "Hydro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 2,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2134116858,
+    "PMPMKOPBJHA": "Misty Surge",
+    "HHMPIBGBFPO": 3422568206,
+    "NHIEOOCGJGH": "After casting 2 Precision Bubbles, the next Normal Attack will become a Charged Attack that releases a Mist Bubble, dealing AoE Hydro DMG upon hitting its target.",
+    "LGCIKEEPCLM": [
+      478757143,
+      3012667946,
+      3681524164
+    ],
+    "KAFCODBMEGL": [
+      "Hydro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 3,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Gamma_Water",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Un_Gamma_Water",
+    "FPKEHKLHHDC": 901651738,
+    "PMPMKOPBJHA": "Piercing Waterdrop",
+    "HHMPIBGBFPO": 4226340350,
+    "NHIEOOCGJGH": "Condenses the power of Hydro to unleash a Piercing Waterdrop that deals AoE Hydro DMG while healing the Lil' Fungi within the party.",
+    "LGCIKEEPCLM": [
+      2972701783,
+      3485218722,
+      539536100
+    ],
+    "KAFCODBMEGL": [
+      "Hydro DMG",
+      "AoE DMG",
+      "AoE Healing"
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 4,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2935349826,
+    "PMPMKOPBJHA": "Spore Bullet",
+    "HHMPIBGBFPO": 2651394374,
+    "NHIEOOCGJGH": "Fires a Wildgrass Bullet, dealing Dendro DMG.",
+    "LGCIKEEPCLM": [
+      733378159,
+      522387194,
+      3637147164
+    ],
+    "KAFCODBMEGL": [
+      "Dendro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 5,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2385341722,
+    "PMPMKOPBJHA": "Flourishing Vitality",
+    "HHMPIBGBFPO": 240264966,
+    "NHIEOOCGJGH": "For every 3 Wildgrass Bullets fired, heals the Lil' Fungus with the lowest HP in the party.",
+    "LGCIKEEPCLM": [
+      3345259327,
+      253526194,
+      3421175436
+    ],
+    "KAFCODBMEGL": [
+      "Healing Effect",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 6,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Grass",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 2,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Un_Delta_Grass",
+    "FPKEHKLHHDC": 1979897194,
+    "PMPMKOPBJHA": "Flowery Flechettes",
+    "HHMPIBGBFPO": 2520610798,
+    "NHIEOOCGJGH": "Fires 5 enhanced Wildgrass Bullets consecutively.",
+    "LGCIKEEPCLM": [
+      276127479,
+      4292127946,
+      2137415228
+    ],
+    "KAFCODBMEGL": [
+      "Targeting Skill",
+      "Dendro DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 7,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2443633354,
+    "PMPMKOPBJHA": "Galeforce Shot",
+    "HHMPIBGBFPO": 480049414,
+    "NHIEOOCGJGH": "Releases a honed wind projectile that deals Anemo DMG.",
+    "LGCIKEEPCLM": [
+      1388191127,
+      1799620898,
+      2778017300
+    ],
+    "KAFCODBMEGL": [
+      "Anemo DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 8,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 421893642,
+    "PMPMKOPBJHA": "Corrosive Winds",
+    "HHMPIBGBFPO": 87023358,
+    "NHIEOOCGJGH": "When a Swirl Reaction is triggered on a Mechanicus, decreases its corresponding Elemental RES.",
+    "LGCIKEEPCLM": [
+      339162799,
+      3164216874,
+      635027028
+    ],
+    "KAFCODBMEGL": [
+      "Weakening opposing units",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 9,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Wind",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 2,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Un_Delta_Wind",
+    "FPKEHKLHHDC": 2372574930,
+    "PMPMKOPBJHA": "Whirlwind Slash",
+    "HHMPIBGBFPO": 1343519158,
+    "NHIEOOCGJGH": "Unleashes an Anemo Vortex at the target location. While the Anemo Vortex remains on the field, it will continuously deal Anemo DMG to nearby opponents.",
+    "LGCIKEEPCLM": [
+      1049127799,
+      4052986394,
+      4208926452
+    ],
+    "KAFCODBMEGL": [
+      "Targeting Skill",
+      "Anemo DMG",
+      "AoE DMG"
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 10,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3790199882,
+    "PMPMKOPBJHA": "Thundering Double Strike",
+    "HHMPIBGBFPO": 2748132030,
+    "NHIEOOCGJGH": "Unleashes two swift melee strikes, dealing Electro DMG.",
+    "LGCIKEEPCLM": [
+      1094617535,
+      3298206322,
+      2997136580
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 11,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1094974818,
+    "PMPMKOPBJHA": "Thunder Ambush",
+    "HHMPIBGBFPO": 846795134,
+    "NHIEOOCGJGH": "When a Normal Attack hits a target, the target's DEF will be decreased for a certain period of time.",
+    "LGCIKEEPCLM": [
+      612088927,
+      2434528386,
+      3075563220
+    ],
+    "KAFCODBMEGL": [
+      "Weakening opposing units",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 12,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Epsilon_Electric",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Trois_Epsilon_Electric",
+    "FPKEHKLHHDC": 435546026,
+    "PMPMKOPBJHA": "Thunderbolt Twister",
+    "HHMPIBGBFPO": 1727520798,
+    "NHIEOOCGJGH": "Rapidly spins around, dealing Electro DMG to nearby opponents a total of 8 times.",
+    "LGCIKEEPCLM": [
+      1621793375,
+      2989041130,
+      1019981684
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 13,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3289984002,
+    "PMPMKOPBJHA": "Icy Strike",
+    "HHMPIBGBFPO": 1527212030,
+    "NHIEOOCGJGH": "Unleashes 2 swift melee strikes, dealing Cryo DMG.",
+    "LGCIKEEPCLM": [
+      290156383,
+      881779074,
+      2028288204
+    ],
+    "KAFCODBMEGL": [
+      "Cryo DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 14,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2253281778,
+    "PMPMKOPBJHA": "Delayed Freezing",
+    "HHMPIBGBFPO": 405731710,
+    "NHIEOOCGJGH": "When attacked, restores a certain amount of HP to self.",
+    "LGCIKEEPCLM": [
+      1029973279,
+      1829026474,
+      2665128052
+    ],
+    "KAFCODBMEGL": [
+      "Healing Effect",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 15,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Alpha_Ice",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Trois_Alpha_Ice",
+    "FPKEHKLHHDC": 2974712378,
+    "PMPMKOPBJHA": "Frosty Vortex",
+    "HHMPIBGBFPO": 375959558,
+    "NHIEOOCGJGH": "Condenses the power of Cryo to unleash an Ice Vortex. While the Ice Vortex remains on the field, it will continuously deal Cryo DMG to nearby opponents.",
+    "LGCIKEEPCLM": [
+      738629631,
+      400099954,
+      3800210796
+    ],
+    "KAFCODBMEGL": [
+      "Cryo DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 16,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1401280162,
+    "PMPMKOPBJHA": "Searing Shockwave",
+    "HHMPIBGBFPO": 2043952302,
+    "NHIEOOCGJGH": "Unleashes a Blazing Flame, dealing Pyro DMG to nearby opponents.",
+    "LGCIKEEPCLM": [
+      4212175263,
+      3701263978,
+      3299561700
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 17,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2051336426,
+    "PMPMKOPBJHA": "Suppressive Heatwave",
+    "HHMPIBGBFPO": 3233640102,
+    "NHIEOOCGJGH": "Reduces the target's ATK for a certain period of time upon hit.",
+    "LGCIKEEPCLM": [
+      4000316975,
+      4132582066,
+      1444599012
+    ],
+    "KAFCODBMEGL": [
+      "Weakening opposing units",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 18,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Gamma_Fire",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 1,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Trois_Gamma_Fire",
+    "FPKEHKLHHDC": 509623562,
+    "PMPMKOPBJHA": "Incinerating Field",
+    "HHMPIBGBFPO": 3928717734,
+    "NHIEOOCGJGH": "Condenses the power of Pyro and enters the Incineration state, continuously dealing Pyro DMG to nearby opponents. Normal Attacks cannot be performed while in this state, but its movement is not affected.",
+    "LGCIKEEPCLM": [
+      982240951,
+      4034656546,
+      27698476
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 19,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1010599690,
+    "PMPMKOPBJHA": "Flaming Breath",
+    "HHMPIBGBFPO": 617175222,
+    "NHIEOOCGJGH": "Unleashes cone-shaped flames, dealing Pyro DMG to opponents hit.",
+    "LGCIKEEPCLM": [
+      356110183,
+      3280692762,
+      168256268
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 20,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3108187266,
+    "PMPMKOPBJHA": "Raging Flames",
+    "HHMPIBGBFPO": 1541130398,
+    "NHIEOOCGJGH": "Gains an ATK boost with each Normal Attack performed, for a max of 5 stacks. The ATK boost effect will be removed after a skill is used.",
+    "LGCIKEEPCLM": [
+      3627871167,
+      248249098,
+      3442152932
+    ],
+    "KAFCODBMEGL": [
+      "Self-Enhancing",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 21,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Alpha_Fire",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 2,
+    "PLICEOIDABF": 2,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Deux_Alpha_Fire",
+    "FPKEHKLHHDC": 3696460042,
+    "PMPMKOPBJHA": "Explosive Embers",
+    "HHMPIBGBFPO": 3911015950,
+    "NHIEOOCGJGH": "Deploys Explosive Embers at the target location, dealing AoE Pyro DMG to nearby opponents upon explosion.",
+    "LGCIKEEPCLM": [
+      477684495,
+      3978573850,
+      1480194652
+    ],
+    "KAFCODBMEGL": [
+      "Targeting Skill",
+      "Pyro DMG",
+      "AoE DMG"
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 22,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 146290298,
+    "PMPMKOPBJHA": "Rapid-Fire Cyclone",
+    "HHMPIBGBFPO": 375629030,
+    "NHIEOOCGJGH": "Rapidly fires 3 times, dealing Anemo DMG.",
+    "LGCIKEEPCLM": [
+      4188754495,
+      4088740706,
+      521138372
+    ],
+    "KAFCODBMEGL": [
+      "Anemo DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 23,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 424317970,
+    "PMPMKOPBJHA": "Tailwind Assault",
+    "HHMPIBGBFPO": 562319182,
+    "NHIEOOCGJGH": "Increases the Elemental Mastery and Movement SPD of all Lil' Fungi on the team.",
+    "LGCIKEEPCLM": [
+      814966423,
+      145806138,
+      1184911556
+    ],
+    "KAFCODBMEGL": [
+      "Enhancing friendly units",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 24,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Epsilon_Wind",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 1,
+    "LBNMBAKNCEG": 5,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Deux_Epsilon_Wind",
+    "FPKEHKLHHDC": 1004583370,
+    "PMPMKOPBJHA": "Balmy Breeze",
+    "HHMPIBGBFPO": 1371534974,
+    "NHIEOOCGJGH": "Unleashes a Breeze Field at the location of the Lil' Fungus with the lowest HP. The Breeze Field will continuously heal all Lil' Fungi in its AoE for a certain period of time and clear all Elemental Applications.",
+    "LGCIKEEPCLM": [
+      2331640231,
+      2499344474,
+      660710052
+    ],
+    "KAFCODBMEGL": [
+      "AoE Healing",
+      "Elemental Application Removal",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 25,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1590570474,
+    "PMPMKOPBJHA": "Fierce Strike",
+    "HHMPIBGBFPO": 2573188358,
+    "NHIEOOCGJGH": "Performs 1 rapid melee strike, dealing Physical DMG.",
+    "LGCIKEEPCLM": [
+      1233239743,
+      2108468986,
+      695474332
+    ],
+    "KAFCODBMEGL": [
+      "Physical DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 26,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1431275458,
+    "PMPMKOPBJHA": "Crystal Condensate",
+    "HHMPIBGBFPO": 1727219854,
+    "NHIEOOCGJGH": "Its Physical RES and all Elemental RES are increased.",
+    "LGCIKEEPCLM": [
+      3878886031,
+      1110152858,
+      1419810404
+    ],
+    "KAFCODBMEGL": [
+      "Self-Enhancing",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 27,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Beta_Rock",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 1,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Deux_Beta_Rock",
+    "FPKEHKLHHDC": 1602069290,
+    "PMPMKOPBJHA": "Bedrock Line",
+    "HHMPIBGBFPO": 3995001094,
+    "NHIEOOCGJGH": "Grants a shield to all Lil' Fungi on the team. While the shield persists, it will absorb all incoming DMG. The shield will be removed after a certain period of time.",
+    "LGCIKEEPCLM": [
+      1293252487,
+      299556530,
+      2254875340
+    ],
+    "KAFCODBMEGL": [
+      "Enhancing friendly units",
+      "Shield",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 28,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 809579778,
+    "PMPMKOPBJHA": "Lightning Destructor",
+    "HHMPIBGBFPO": 1232823350,
+    "NHIEOOCGJGH": "Unleashes a Lightning Bullet, dealing Electro DMG.",
+    "LGCIKEEPCLM": [
+      80569439,
+      2422083522,
+      2221605852
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 29,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2912206082,
+    "PMPMKOPBJHA": "Swift Response",
+    "HHMPIBGBFPO": 3612265830,
+    "NHIEOOCGJGH": "Increases its Elemental Mastery.",
+    "LGCIKEEPCLM": [
+      3081244023,
+      2849799074,
+      3519864580
+    ],
+    "KAFCODBMEGL": [
+      "Self-Enhancing",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 30,
+    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Delta_Electric",
+    "JMENAKMIMJI": 5,
+    "CGKJHJAGGJD": 3,
+    "IJDIIBNCGLD": 1,
+    "PLICEOIDABF": 1,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_Partner_Deux_Delta_Electric",
+    "FPKEHKLHHDC": 3661942186,
+    "PMPMKOPBJHA": "Conductive Amplifier",
+    "HHMPIBGBFPO": 381803198,
+    "NHIEOOCGJGH": "Applies the Conductive Amplifier effect to all friendly Lil' Fungi: While the Amplifier remains on the field, when a Lil' Fungus hits a target, a lightning strike will be unleashed, dealing Electro DMG to the same target. This lightning strike can be triggered 4 times.",
+    "LGCIKEEPCLM": [
+      1426831079,
+      937452074,
+      2434808516
+    ],
+    "KAFCODBMEGL": [
+      "Enhancing friendly units",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 31,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2714601682,
+    "PMPMKOPBJHA": "Interception: Cleansing Flame",
+    "HHMPIBGBFPO": 629294518,
+    "NHIEOOCGJGH": "Fires off Blazing Sparks, dealing Pyro DMG.",
+    "LGCIKEEPCLM": [
+      2568078919,
+      3458780658,
+      3836906084
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 32,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerFireV2_01",
+    "FPKEHKLHHDC": 41975298,
+    "PMPMKOPBJHA": "Flaming Burst",
+    "HHMPIBGBFPO": 947500286,
+    "NHIEOOCGJGH": "Explodes after a short casting time, dealing AoE Pyro DMG and applying Pyro to any Lil' Fungus hit. The Lil' Fungus will continuously take Pyro DMG until the Pyro element is removed.",
+    "LGCIKEEPCLM": [
+      3428504679,
+      1199330682,
+      3947062532
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 33,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3852922922,
+    "PMPMKOPBJHA": "Interception: Wicked Waves",
+    "HHMPIBGBFPO": 3876848670,
+    "NHIEOOCGJGH": "Fires off Mist Bubbles, dealing Hydro DMG.",
+    "LGCIKEEPCLM": [
+      3370514487,
+      703454002,
+      2950376564
+    ],
+    "KAFCODBMEGL": [
+      "Hydro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 34,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerWaterV2_01",
+    "FPKEHKLHHDC": 3680108506,
+    "PMPMKOPBJHA": "Reflection Screen",
+    "HHMPIBGBFPO": 2796424822,
+    "NHIEOOCGJGH": "Grants a Hydro shield to nearby Mechanici.",
+    "LGCIKEEPCLM": [
+      3696908047,
+      2718351162,
+      1544444604
+    ],
+    "KAFCODBMEGL": [
+      "Enhancing friendly units",
+      "Shield",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 35,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3463168314,
+    "PMPMKOPBJHA": "Interception: Thunderflash",
+    "HHMPIBGBFPO": 3599919686,
+    "NHIEOOCGJGH": "Fires off Electric Arcs, dealing Electro DMG.",
+    "LGCIKEEPCLM": [
+      778206367,
+      187500578,
+      3183541740
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 36,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerElectric_01",
+    "FPKEHKLHHDC": 4237237314,
+    "PMPMKOPBJHA": "Thunder Condensation",
+    "HHMPIBGBFPO": 3163705286,
+    "NHIEOOCGJGH": "Unleashes an Electro projectile that tracks nearby Lil' Fungi and explodes upon impact, dealing AoE Electro DMG.",
+    "LGCIKEEPCLM": [
+      1436036615,
+      431627818,
+      537068780
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 37,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 3248826186,
+    "PMPMKOPBJHA": "Interception: Frostcaller",
+    "HHMPIBGBFPO": 1650254350,
+    "NHIEOOCGJGH": "Fires off Icy Orbs, dealing Cryo DMG.",
+    "LGCIKEEPCLM": [
+      2497101799,
+      1742797034,
+      3069663708
+    ],
+    "KAFCODBMEGL": [
+      "Cryo DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 38,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerIceV2_01",
+    "FPKEHKLHHDC": 367171554,
+    "PMPMKOPBJHA": "Frost Barriers",
+    "HHMPIBGBFPO": 1352281542,
+    "NHIEOOCGJGH": "Creates Frost Barriers, and deals Cryo DMG to any Lil' Fungus hit. While Frost Barriers remain on the field, they will block the movement and certain attacks of the Lil' Fungi.",
+    "LGCIKEEPCLM": [
+      2827073047,
+      3269927250,
+      2037412228
+    ],
+    "KAFCODBMEGL": [
+      "Cryo DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 39,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2060968738,
+    "PMPMKOPBJHA": "Interception: Windblade",
+    "HHMPIBGBFPO": 2191087742,
+    "NHIEOOCGJGH": "Fires off Wind Blades, dealing Anemo DMG.",
+    "LGCIKEEPCLM": [
+      1723567783,
+      733167730,
+      4040443164
+    ],
+    "KAFCODBMEGL": [
+      "Anemo DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 40,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerWind_01",
+    "FPKEHKLHHDC": 1338031706,
+    "PMPMKOPBJHA": "Wild Winds",
+    "HHMPIBGBFPO": 3299546294,
+    "NHIEOOCGJGH": "Tracks a nearby Lil' Fungus and launches an enhanced Wind Blade after a short casting time, dealing Anemo DMG to all Lil' Fungi in its path.",
+    "LGCIKEEPCLM": [
+      3588651135,
+      3938887658,
+      2414599244
+    ],
+    "KAFCODBMEGL": [
+      "Anemo DMG",
+      "AoE DMG",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 41,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2138202186,
+    "PMPMKOPBJHA": "Interception: Ironbreach",
+    "HHMPIBGBFPO": 1919535334,
+    "NHIEOOCGJGH": "Fires off Intercepting Projectiles, dealing Physical DMG.",
+    "LGCIKEEPCLM": [
+      2114667687,
+      2308539250,
+      685573132
+    ],
+    "KAFCODBMEGL": [
+      "Physical DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 42,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Img_FungusFighterV2_TowerPhysics_01",
+    "FPKEHKLHHDC": 845418826,
+    "PMPMKOPBJHA": "Pressurized Projectile",
+    "HHMPIBGBFPO": 902567166,
+    "NHIEOOCGJGH": "Fires off a Heavy Intercepting Projectile, dealing Physical DMG. The further it flies, the higher DMG it deals.",
+    "LGCIKEEPCLM": [
+      2725763935,
+      990990954,
+      1406563476
+    ],
+    "KAFCODBMEGL": [
+      "Physical DMG",
+      "",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 43,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 4176896858,
+    "PMPMKOPBJHA": "Ambush: Resonant Formation",
+    "HHMPIBGBFPO": 357984654,
+    "NHIEOOCGJGH": "Grants buffs to other Mechanici and enhances their power. When a Lil' Fungus hovers above this Mechanicus, the Mechanicus will be deactivated and you will obtain more Marvelous Gels.",
+    "LGCIKEEPCLM": [
+      2899549159,
+      3626399986,
+      2101998028
+    ],
+    "KAFCODBMEGL": [
+      "Enhancing opposing units",
+      "Enhancing friendly units",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 44,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 1121957458,
+    "PMPMKOPBJHA": "Ambush: Pyro",
+    "HHMPIBGBFPO": 1795608590,
+    "NHIEOOCGJGH": "When a Lil' Fungus hovers above this Mechanicus, continuous Pyro DMG will be dealt to nearby Mechanici.",
+    "LGCIKEEPCLM": [
+      435303103,
+      22932130,
+      2278851092
+    ],
+    "KAFCODBMEGL": [
+      "Pyro DMG",
+      "Weakening opposing units",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 45,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2786735194,
+    "PMPMKOPBJHA": "Ambush: Hydro",
+    "HHMPIBGBFPO": 1418843046,
+    "NHIEOOCGJGH": "When a Lil' Fungus hovers above this Mechanicus, continuous Hydro DMG will be dealt to nearby Mechanici.",
+    "LGCIKEEPCLM": [
+      1099104631,
+      2629979234,
+      1733828244
+    ],
+    "KAFCODBMEGL": [
+      "Hydro DMG",
+      "Weakening opposing units",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 46,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2374170730,
+    "PMPMKOPBJHA": "Ambush: Cryo",
+    "HHMPIBGBFPO": 2580604566,
+    "NHIEOOCGJGH": "When a Lil' Fungus hovers above this Mechanicus, continuous Cryo DMG will be dealt to nearby Mechanici.",
+    "LGCIKEEPCLM": [
+      4069647727,
+      1083799530,
+      2769795900
+    ],
+    "KAFCODBMEGL": [
+      "Cryo DMG",
+      "Weakening opposing units",
+      ""
+    ]
+  },
+  {
+    "KMCCILDHOKJ": 47,
+    "HHKNLMAHBAO": "",
+    "JMENAKMIMJI": 0,
+    "CGKJHJAGGJD": 0,
+    "IJDIIBNCGLD": 0,
+    "PLICEOIDABF": 0,
+    "LBNMBAKNCEG": 0,
+    "EJIMCDDNNKM": "",
+    "FPKEHKLHHDC": 2085972634,
+    "PMPMKOPBJHA": "Ambush: Electro",
+    "HHMPIBGBFPO": 2681804686,
+    "NHIEOOCGJGH": "When a Lil' Fungus hovers above this Mechanicus, continuous Electro DMG will be dealt to nearby Mechanici.",
+    "LGCIKEEPCLM": [
+      1507809463,
+      4029425114,
+      1864612556
+    ],
+    "KAFCODBMEGL": [
+      "Electro DMG",
+      "Weakening opposing units",
+      ""
+    ]
+  }
+]

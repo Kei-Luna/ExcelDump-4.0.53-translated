@@ -1,0 +1,302 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_01",
+    "BJOOJJHDEMH": 1895625643,
+    "OKANGBAGFDL": "Swirling Scented Winds",
+    "AJBFMGELKOK": 4009400060,
+    "ACMKINKCHFC": "All party members' Swirl Reaction DMG is increased by <color=#ffcc33>{0}%</color>.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_02",
+    "BJOOJJHDEMH": 3289239291,
+    "OKANGBAGFDL": "Poem of the Freezing Night",
+    "AJBFMGELKOK": 3061728028,
+    "ACMKINKCHFC": "All party members deal <color=#ffcc33>{0}%</color> more DMG to Frozen opponents.",
+    "DAMDLNBPLCK": [
+      "40",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_03",
+    "BJOOJJHDEMH": 3278972355,
+    "OKANGBAGFDL": "Dulcet Refreshment",
+    "AJBFMGELKOK": 2285524068,
+    "ACMKINKCHFC": "All party members' Elemental Burst DMG is increased by <color=#ffcc33>{1}%</color> with a <color=#ffcc33>{0}%</color> cooldown reduction.",
+    "DAMDLNBPLCK": [
+      "15",
+      "40",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_04",
+    "BJOOJJHDEMH": 3961812107,
+    "OKANGBAGFDL": "Vigorous Vitality",
+    "AJBFMGELKOK": 2076397796,
+    "ACMKINKCHFC": "For <color=#ffcc33>{2}</color>s after a character uses an Elemental Burst, regenerate <color=#ffcc33>{1}</color> Energy for themselves every <color=#ffcc33>{0}</color>s.",
+    "DAMDLNBPLCK": [
+      "2",
+      "5",
+      "8",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_05",
+    "BJOOJJHDEMH": 580670227,
+    "OKANGBAGFDL": "Luxuriant Rhythm",
+    "AJBFMGELKOK": 3157890196,
+    "ACMKINKCHFC": "After you trigger a Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reaction, all party members' Elemental Mastery is increased by <color=#ffcc33>{0}</color> for <color=#ffcc33>{1}</color>s. This effect can be triggered once every <color=#ffcc33>{3}</color>s and can stack up to <color=#ffcc33>{2}</color> times.",
+    "DAMDLNBPLCK": [
+      "100",
+      "12",
+      "3",
+      "0.1",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_06",
+    "BJOOJJHDEMH": 212676947,
+    "OKANGBAGFDL": "Intertwined Roots",
+    "AJBFMGELKOK": 1537724340,
+    "ACMKINKCHFC": "All party members' Normal Attack DMG is increased by <color=#ffcc33>{0}%</color> and their Elemental Skill DMG increased by <color=#ffcc33>{1}%</color>.",
+    "DAMDLNBPLCK": [
+      "40",
+      "40",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_07",
+    "BJOOJJHDEMH": 4097950891,
+    "OKANGBAGFDL": "Song of Rolling Clouds",
+    "AJBFMGELKOK": 3241733380,
+    "ACMKINKCHFC": "The current active character's Plunging Attack DMG is increased by <color=#ffcc33>{0}%</color>. Hitting an opponent with a Plunging Attack will create a vortex lasting <color=#ffcc33>{1}</color>s that keeps pulling opponents in. This effect can be triggered once every <color=#ffcc33>{2}</color>s.",
+    "DAMDLNBPLCK": [
+      "40",
+      "1.5",
+      "2",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_08",
+    "BJOOJJHDEMH": 2875413635,
+    "OKANGBAGFDL": "Drifting Weeds",
+    "AJBFMGELKOK": 1205671092,
+    "ACMKINKCHFC": "After you trigger a Swirl reaction, all party members will deal <color=#ffcc33>{0}%</color> more DMG for <color=#ffcc33>{1}</color>s.",
+    "DAMDLNBPLCK": [
+      "40",
+      "8",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_09",
+    "BJOOJJHDEMH": 544432083,
+    "OKANGBAGFDL": "Swaying Surge",
+    "AJBFMGELKOK": 4232842260,
+    "ACMKINKCHFC": "Character's Normal Attack SPD is increased by <color=#ffcc33>{0}%</color> and CRIT Rate is increased by <color=#ffcc33>{1}%</color>.",
+    "DAMDLNBPLCK": [
+      "20",
+      "20",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_10",
+    "BJOOJJHDEMH": 3485070787,
+    "OKANGBAGFDL": "Crawling Thorns",
+    "AJBFMGELKOK": 18623868,
+    "ACMKINKCHFC": "All party members' Normal Attack DMG is increased by <color=#ffcc33>{0}%</color>.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_11",
+    "BJOOJJHDEMH": 2584693771,
+    "OKANGBAGFDL": "Bright Broken Branch",
+    "AJBFMGELKOK": 3201535940,
+    "ACMKINKCHFC": "All party members' ATK is increased by <color=#ffcc33>{0}%</color>.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 12,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_12",
+    "BJOOJJHDEMH": 3415742939,
+    "OKANGBAGFDL": "Keen Edges",
+    "AJBFMGELKOK": 2702812292,
+    "ACMKINKCHFC": "All party members' CRIT DMG is increased by <color=#ffcc33>{0}%</color>.",
+    "DAMDLNBPLCK": [
+      "80",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 13,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_13",
+    "BJOOJJHDEMH": 695851491,
+    "OKANGBAGFDL": "Tender Immersion",
+    "AJBFMGELKOK": 2165913924,
+    "ACMKINKCHFC": "All party members' Elemental Mastery is increased by <color=#ffcc33>{0}</color>.",
+    "DAMDLNBPLCK": [
+      "200",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 14,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_14",
+    "BJOOJJHDEMH": 1744091275,
+    "OKANGBAGFDL": "Mellow Fragrance",
+    "AJBFMGELKOK": 1181709060,
+    "ACMKINKCHFC": "All party members' Elemental Burst DMG is increased by <color=#ffcc33>{0}%</color>.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 15,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_15",
+    "BJOOJJHDEMH": 3093267947,
+    "OKANGBAGFDL": "Sharpened Breeze",
+    "AJBFMGELKOK": 1988220940,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Anemo DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 16,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_16",
+    "BJOOJJHDEMH": 2471849027,
+    "OKANGBAGFDL": "Boiling Flame",
+    "AJBFMGELKOK": 3259315380,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Pyro DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 17,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_17",
+    "BJOOJJHDEMH": 1648425139,
+    "OKANGBAGFDL": "Awakening Thunderbolts",
+    "AJBFMGELKOK": 2241259892,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Electro DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 18,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_18",
+    "BJOOJJHDEMH": 2663750907,
+    "OKANGBAGFDL": "Misty Clouds",
+    "AJBFMGELKOK": 4088038492,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Hydro DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 19,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_19",
+    "BJOOJJHDEMH": 2849139731,
+    "OKANGBAGFDL": "Jagged Leaves",
+    "AJBFMGELKOK": 611348740,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Dendro DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 20,
+    "ADLKHHCGHAH": "UI_Icon_TeamChain_20",
+    "BJOOJJHDEMH": 2207813691,
+    "OKANGBAGFDL": "Solemn Frosts",
+    "AJBFMGELKOK": 2228131300,
+    "ACMKINKCHFC": "All party members receive a <color=#ffcc33>{0}%</color> Cryo DMG Bonus.",
+    "DAMDLNBPLCK": [
+      "60",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

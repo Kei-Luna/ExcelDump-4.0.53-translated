@@ -1,0 +1,362 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 1342129575,
+    "BMIOAFDIIJG": "Condensed Phlogiston",
+    "HJKAFCLMKJN": 1816599717,
+    "BBBNPEBPDBM": "When a character deals Pyro DMG to an opponent, all party members' Elemental Mastery is increased by <color=#d47202>{0}</color> for <color=#d47202>{1}</color>s. Max <color=#d47202>{2}</color> stacks.",
+    "JBKMEGNFDGH": [
+      "50",
+      "4",
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 4291359591,
+    "BMIOAFDIIJG": "Aggressive Deflection",
+    "HJKAFCLMKJN": 3780336933,
+    "BBBNPEBPDBM": "When a character takes DMG, their ATK is increased by <color=#d47202>{0}%</color> for <color=#d47202>{1}</color>s. This effect can occur even when the character is not active.",
+    "JBKMEGNFDGH": [
+      "60",
+      "8",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 2826437151,
+    "BMIOAFDIIJG": "Energetic Medium",
+    "HJKAFCLMKJN": 2877004485,
+    "BBBNPEBPDBM": "All party members' Energy Recharge is increased by <color=#d47202>{0}%</color>.",
+    "JBKMEGNFDGH": [
+      "100",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 2446367207,
+    "BMIOAFDIIJG": "Focusing Swirl",
+    "HJKAFCLMKJN": 2752365205,
+    "BBBNPEBPDBM": "Greatly enhances the characters' jumping ability. Characters' Plunging Attacks generate a Vortex at their position upon hitting opponents, attracting ones that are nearby. This effect can be triggered once every <color=#d47202>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 104417447,
+    "BMIOAFDIIJG": "Sturdy Morale",
+    "HJKAFCLMKJN": 1496024941,
+    "BBBNPEBPDBM": "When the character's HP is higher than <color=#d47202>{0}%</color>, their Elemental Mastery is increased by <color=#d47202>{1}</color>.",
+    "JBKMEGNFDGH": [
+      "70",
+      "200",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 2029771335,
+    "BMIOAFDIIJG": "Robust Rebuilding",
+    "HJKAFCLMKJN": 1562231421,
+    "BBBNPEBPDBM": "All party members' Healing Bonus is increased by <color=#d47202>{0}%</color>. When a character is healed, their ATK is increased by <color=#d47202>{1}%</color> for <color=#d47202>{2}</color>s.",
+    "JBKMEGNFDGH": [
+      "50",
+      "60",
+      "8",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 1995020087,
+    "BMIOAFDIIJG": "Defensive Counterattack",
+    "HJKAFCLMKJN": 2184281429,
+    "BBBNPEBPDBM": "All party members' Shield Strength is increased by <color=#d47202>{0}%</color>. When a character is protected by a shield, a shockwave will be unleashed at the character's position every <color=#d47202>{1}</color>s and deal True DMG to nearby opponents.",
+    "JBKMEGNFDGH": [
+      "50",
+      "2",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 1703871951,
+    "BMIOAFDIIJG": "Thriving Vitality",
+    "HJKAFCLMKJN": 824247013,
+    "BBBNPEBPDBM": "After a character triggers Quicken, Spread, Aggravate, Burning, Bloom, Hyperbloom, or Burgeon reaction, the character will regain <color=#d47202>{0}</color> Elemental Energy. This effect can be triggered once every <color=#d47202>{1}</color>s.",
+    "JBKMEGNFDGH": [
+      "5",
+      "3",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 3772300271,
+    "BMIOAFDIIJG": "Pressurizing Vortex",
+    "HJKAFCLMKJN": 3183420013,
+    "BBBNPEBPDBM": "When an active character's attack hits an opponent, a Cyclone will be generated at the position hit that will pull nearby opponents in. This effect can be triggered once every <color=#d47202>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 2637046159,
+    "BMIOAFDIIJG": "Lone Warrior",
+    "HJKAFCLMKJN": 4260693365,
+    "BBBNPEBPDBM": "When there are less than <color=#d47202>{0}</color> opponents near the character, the character's ATK will be increased by <color=#d47202>{1}%</color>.",
+    "JBKMEGNFDGH": [
+      "2",
+      "75",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 1863682959,
+    "BMIOAFDIIJG": "Major Strike",
+    "HJKAFCLMKJN": 4199373933,
+    "BBBNPEBPDBM": "When a character's attack hits a Linchpin opponent, an extra True DMG instance will be dealt. This effect can be triggered once every <color=#d47202>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      "6",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 12,
+    "GAENBPHLPIK": 1,
+    "DEIOBNCDBHK": 1298223927,
+    "BMIOAFDIIJG": "Inexorable Barrage",
+    "HJKAFCLMKJN": 4184179629,
+    "BBBNPEBPDBM": "When a Normal opponent is defeated, a shockwave will be unleashed at their position and deal DMG to opponents nearby.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 101,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 4282415831,
+    "BMIOAFDIIJG": "Enter the Supremo",
+    "HJKAFCLMKJN": 493465597,
+    "BBBNPEBPDBM": "When there are Linchpin opponents on the field, all Normal opponents' Physical and All Elemental RES is increased by <color=#ffcc33>{0}%</color>.",
+    "JBKMEGNFDGH": [
+      "50",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 102,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 608903895,
+    "BMIOAFDIIJG": "Tough Defense",
+    "HJKAFCLMKJN": 3308222309,
+    "BBBNPEBPDBM": "Normal opponents' HP will be increased by <color=#ffcc33>{0}%</color>.",
+    "JBKMEGNFDGH": [
+      "100",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 103,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 3706433831,
+    "BMIOAFDIIJG": "Spherical Iceberg",
+    "HJKAFCLMKJN": 802388709,
+    "BBBNPEBPDBM": "Normal opponent \"Whirling Cryo Fungus\" will be replaced by Linchpin opponent \"Large Cryo Slime.\"",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 104,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 4274891527,
+    "BMIOAFDIIJG": "Bitter Cold",
+    "HJKAFCLMKJN": 2732605805,
+    "BBBNPEBPDBM": "The Elemental Node in the challenge will apply a Cryo buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Cryo buff can be removed through Elemental Reactions.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 105,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 3856761639,
+    "BMIOAFDIIJG": "Organized Offense",
+    "HJKAFCLMKJN": 2113366237,
+    "BBBNPEBPDBM": "Each Normal opponent on the field will increase the Linchpin opponents' Physical and All Elemental RES by <color=#ffcc33>{0}%</color>.",
+    "JBKMEGNFDGH": [
+      "15",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 106,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 1504369015,
+    "BMIOAFDIIJG": "Rapid Raid",
+    "HJKAFCLMKJN": 719243837,
+    "BBBNPEBPDBM": "The Linchpin opponents \"Eremite Scorching Loremaster\" and \"Eremite Floral Ring-Dancer\" can unleash their Spirits of Omen immediately when taking the field.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 107,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 1484155639,
+    "BMIOAFDIIJG": "All-Round Assault",
+    "HJKAFCLMKJN": 3463461493,
+    "BBBNPEBPDBM": "Opposing reinforcements have been deployed. Eremite Axe Vanguard, Eremite Ravenbeak Halberdier, and Treasure Hoarders: Pyro Potioneer (Normal opponents) will take the field.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 108,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 4136490447,
+    "BMIOAFDIIJG": "Clinging Combustion",
+    "HJKAFCLMKJN": 2336216309,
+    "BBBNPEBPDBM": "Your active character will be periodically inflicted with Smoldering Flames, causing them to take Pyro DMG until the inflicted Pyro element is removed.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 109,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 1257824775,
+    "BMIOAFDIIJG": "Stern Hostility",
+    "HJKAFCLMKJN": 4183021661,
+    "BBBNPEBPDBM": "Linchpin opponents' HP will be increased by <color=#ffcc33>{0}%</color>.",
+    "JBKMEGNFDGH": [
+      "150",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 110,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 3497302119,
+    "BMIOAFDIIJG": "Sustained Aggression",
+    "HJKAFCLMKJN": 1638442413,
+    "BBBNPEBPDBM": "Linchpin opponents' HP will regenerate by <color=#ffcc33>{1}%</color> for each Normal opponent on the field every <color=#ffcc33>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      "10",
+      "15",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 111,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 4086571575,
+    "BMIOAFDIIJG": "Rolling Reinforcements",
+    "HJKAFCLMKJN": 3287263181,
+    "BBBNPEBPDBM": "Opposing reinforcements have been deployed. Hilichurl Berserker, Hilichurl Shooter, Pyro Hilichurl Shooter, Cryo Hilichurl Shooter, Dendro Samachurl, and Blazing Axe Mitachurl (Normal opponents) will take the field.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 112,
+    "GAENBPHLPIK": 2,
+    "DEIOBNCDBHK": 4169488175,
+    "BMIOAFDIIJG": "Terrain Constraints",
+    "HJKAFCLMKJN": 2530711829,
+    "BBBNPEBPDBM": "Linchpin opponents can unleash Geo waves that deal DMG to characters hit.",
+    "JBKMEGNFDGH": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

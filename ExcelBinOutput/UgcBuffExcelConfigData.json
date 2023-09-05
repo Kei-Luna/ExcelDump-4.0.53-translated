@@ -1,0 +1,350 @@
+[
+  {
+    "BMLOHGDMIEM": 20001,
+    "BJOOJJHDEMH": 1418230526,
+    "OKANGBAGFDL": "Stormwrath",
+    "AJBFMGELKOK": 1071085548,
+    "ACMKINKCHFC": "Anemo DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20002,
+    "BJOOJJHDEMH": 669547246,
+    "OKANGBAGFDL": "Tidewrath",
+    "AJBFMGELKOK": 390356196,
+    "ACMKINKCHFC": "Hydro DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20003,
+    "BJOOJJHDEMH": 533131422,
+    "OKANGBAGFDL": "Stonewrath",
+    "AJBFMGELKOK": 2559216796,
+    "ACMKINKCHFC": "Geo DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20004,
+    "BJOOJJHDEMH": 1035196526,
+    "OKANGBAGFDL": "Rimewrath",
+    "AJBFMGELKOK": 3889174260,
+    "ACMKINKCHFC": "Cryo DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20005,
+    "BJOOJJHDEMH": 408811846,
+    "OKANGBAGFDL": "Flamewrath",
+    "AJBFMGELKOK": 885584436,
+    "ACMKINKCHFC": "Pyro DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20006,
+    "BJOOJJHDEMH": 307935286,
+    "OKANGBAGFDL": "Thunderwrath",
+    "AJBFMGELKOK": 3230515028,
+    "ACMKINKCHFC": "Electro DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20007,
+    "BJOOJJHDEMH": 2942632318,
+    "OKANGBAGFDL": "Vinewrath",
+    "AJBFMGELKOK": 817942364,
+    "ACMKINKCHFC": "Dendro DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20008,
+    "BJOOJJHDEMH": 42543926,
+    "OKANGBAGFDL": "Bladewrath",
+    "AJBFMGELKOK": 1964146276,
+    "ACMKINKCHFC": "Physical DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "37.5",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20009,
+    "BJOOJJHDEMH": 538875182,
+    "OKANGBAGFDL": "Precision Tactics",
+    "AJBFMGELKOK": 3209796612,
+    "ACMKINKCHFC": "All your party members' CRIT Rate is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20010,
+    "BJOOJJHDEMH": 981944374,
+    "OKANGBAGFDL": "Brutal Tactics",
+    "AJBFMGELKOK": 3540782748,
+    "ACMKINKCHFC": "CRIT DMG dealt by all your party members is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "40",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20011,
+    "BJOOJJHDEMH": 2035696790,
+    "OKANGBAGFDL": "Informed Tactics",
+    "AJBFMGELKOK": 3907673684,
+    "ACMKINKCHFC": "All your party members' Elemental Mastery is increased by {0} after configuration.",
+    "JBKMEGNFDGH": [
+      "120",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20012,
+    "BJOOJJHDEMH": 4001243862,
+    "OKANGBAGFDL": "Harmonious Tactics",
+    "AJBFMGELKOK": 160846332,
+    "ACMKINKCHFC": "All your party members' Energy Recharge is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "33",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20013,
+    "BJOOJJHDEMH": 698117662,
+    "OKANGBAGFDL": "Defensive Tactics",
+    "AJBFMGELKOK": 623688196,
+    "ACMKINKCHFC": "All your party members' DEF is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "37.5",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20014,
+    "BJOOJJHDEMH": 3364215790,
+    "OKANGBAGFDL": "Assault Tactics",
+    "AJBFMGELKOK": 413687460,
+    "ACMKINKCHFC": "All your party members' ATK is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20015,
+    "BJOOJJHDEMH": 911398766,
+    "OKANGBAGFDL": "Obliterating Tactics",
+    "AJBFMGELKOK": 1222415324,
+    "ACMKINKCHFC": "All your party members' Elemental Burst DMG is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20016,
+    "BJOOJJHDEMH": 1655063230,
+    "OKANGBAGFDL": "Controlled Blasting",
+    "AJBFMGELKOK": 325047932,
+    "ACMKINKCHFC": "Explosive barrels deal {0}% increased DMG against opponents. Your party members are immune to DMG from explosive barrels after configuration.",
+    "JBKMEGNFDGH": [
+      "1000",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20017,
+    "BJOOJJHDEMH": 1138074078,
+    "OKANGBAGFDL": "Well-Rounded Tactics",
+    "AJBFMGELKOK": 3623796716,
+    "ACMKINKCHFC": "DMG from all your party members' Normal, Charged, and Plunging Attacks is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20018,
+    "BJOOJJHDEMH": 2515482654,
+    "OKANGBAGFDL": "Fortified Physique",
+    "AJBFMGELKOK": 658154412,
+    "ACMKINKCHFC": "All your party members' Max HP is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "30",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20019,
+    "BJOOJJHDEMH": 2335300766,
+    "OKANGBAGFDL": "Protracted Battle Tactics",
+    "AJBFMGELKOK": 1562951500,
+    "ACMKINKCHFC": "When an opponent is defeated, all your party members will regenerate {0} HP and {1} Elemental Energy. This effect can be triggered once every {2}s after configuration.",
+    "JBKMEGNFDGH": [
+      "3000",
+      "10",
+      "1"
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20020,
+    "BJOOJJHDEMH": 3214695278,
+    "OKANGBAGFDL": "Double Time",
+    "AJBFMGELKOK": 1258663036,
+    "ACMKINKCHFC": "All your party members' Movement SPD is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "20",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20021,
+    "BJOOJJHDEMH": 937111902,
+    "OKANGBAGFDL": "Shield Wall",
+    "AJBFMGELKOK": 1291156596,
+    "ACMKINKCHFC": "All your party members' Shield Strength is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "50",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20022,
+    "BJOOJJHDEMH": 687531294,
+    "OKANGBAGFDL": "Rigid Body Collision",
+    "AJBFMGELKOK": 306077060,
+    "ACMKINKCHFC": "After configuration, when your characters' attacks deal DMG to an opponent with less than {0}% HP, Rigid Body Collision will be triggered, dealing True DMG. This effect can be triggered once every {1}s.",
+    "JBKMEGNFDGH": [
+      "50",
+      "8",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20023,
+    "BJOOJJHDEMH": 2819375942,
+    "OKANGBAGFDL": "Vacuum Vortex",
+    "AJBFMGELKOK": 1370632676,
+    "ACMKINKCHFC": "When your active character's attack hits an opponent, a Vacuum Field will be created at the enemy's position after configuration, pulling in nearby opponents and dealing True DMG to opponents in it. A Vacuum Field can be triggered in this way once every {0}s.",
+    "JBKMEGNFDGH": [
+      "8",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20024,
+    "BJOOJJHDEMH": 3641041942,
+    "OKANGBAGFDL": "Suppression Shockwave",
+    "AJBFMGELKOK": 2236954900,
+    "ACMKINKCHFC": "When a character's Normal, Charged, or Plunging Attacks hit an opponent, they will unleash a shockwave at the opponent's location that deals True DMG. This effect can be triggered once every {0}s.",
+    "JBKMEGNFDGH": [
+      "5",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20025,
+    "BJOOJJHDEMH": 3079485118,
+    "OKANGBAGFDL": "Elemental Tactics",
+    "AJBFMGELKOK": 1410366428,
+    "ACMKINKCHFC": "After configuration, after one of your own party members uses their Elemental Burst, all of your party members' Elemental Mastery will be increased by {0} for {1}s. Triggering this effect multiple times resets the duration.",
+    "JBKMEGNFDGH": [
+      "150",
+      "8",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20026,
+    "BJOOJJHDEMH": 2165454622,
+    "OKANGBAGFDL": "Overwhelming Force",
+    "AJBFMGELKOK": 2315264196,
+    "ACMKINKCHFC": "After configuration, for characters with a CRIT Rate higher than {0}% in your own party, each {1}% of their CRIT Rate over {0}% increases their CRIT DMG by {2}%.",
+    "JBKMEGNFDGH": [
+      "30",
+      "1",
+      "2"
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20027,
+    "BJOOJJHDEMH": 3379697566,
+    "OKANGBAGFDL": "Endurance Training",
+    "AJBFMGELKOK": 502729796,
+    "ACMKINKCHFC": "Decreases your party members' Stamina Consumption by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "25",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20028,
+    "BJOOJJHDEMH": 456541966,
+    "OKANGBAGFDL": "Rapid Suppression",
+    "AJBFMGELKOK": 101940172,
+    "ACMKINKCHFC": "After configuration, when your party member sprints, they will unleash a shockwave at their own position that deals True DMG to opponents nearby. This effect can be triggered once every {0}s.",
+    "JBKMEGNFDGH": [
+      "3",
+      "",
+      ""
+    ]
+  },
+  {
+    "BMLOHGDMIEM": 20029,
+    "BJOOJJHDEMH": 82414390,
+    "OKANGBAGFDL": "Art of Suppression",
+    "AJBFMGELKOK": 1561024524,
+    "ACMKINKCHFC": "DMG dealt by all your party members' shockwaves from Artificer Buffs is increased by {0}% after configuration.",
+    "JBKMEGNFDGH": [
+      "150",
+      "",
+      ""
+    ]
+  }
+]

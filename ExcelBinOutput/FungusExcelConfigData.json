@@ -1,0 +1,502 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "BBCCMGKPICI": 26090191,
+    "KOBPPHINEHC": 36090190,
+    "CDNLMIDOINA": 10,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 11
+      },
+      {
+        "CDOIPGMKDFF": 12
+      },
+      {
+        "CDOIPGMKDFF": 13
+      }
+    ],
+    "HGKMGBBBKJB": 20,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Un_Gamma_Water",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Gamma_Water",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Gamma_Water",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Recovery_HpAdd",
+    "KICMGKADBKP": 2425774475,
+    "HNAPEDOMMHK": "Healing Support",
+    "CHGGGLOEEBK": [
+      768447910,
+      2759587173,
+      3790687436
+    ],
+    "BOFPMDOIANH": [
+      "Aqua Strike",
+      "Bubbly Prison",
+      "<color=#f39000>Skill</color>: Water Bomb"
+    ],
+    "AEDNGHHCFMJ": [
+      1534533746,
+      2184427094,
+      1470403961
+    ],
+    "OKGLEJPDALE": [
+      "Unleashes a small bubble that deals Hydro DMG.",
+      "Unleashes a medium-sized bubble that deals Hydro DMG and traps smaller opponents within.",
+      "Unleashes a fantastical bubble that deals Hydro DMG to its target and nearby opponents while healing Fungi within the party.\\n<i>Paimon can always think of a new nickname for every one of these seemingly harmless skills...</i>"
+    ],
+    "BKJDCABFDKJ": 3955528592,
+    "CIFNEMGGGKC": "A very intelligent Fungus that you and Paimon met first but have not yet really gotten to know. It is said that this species can be used as an emergency water source...",
+    "BPBABABGBEB": 391638292,
+    "IDDAAMAODCJ": "A Floating Hydro Fungus that has had its elemental potential awakened. It is very good at healing its allies and imprisoning opponents — a rather unfamiliar style of combat as far as you and Paimon are concerned.",
+    "JGHDFDHNCKD": 1759306193,
+    "MKOEEHGPFDE": "Huh... Didn't we meet this sort of Fungus a long while back? Well, let's make sure to give it a nice name!"
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "BBCCMGKPICI": 26090291,
+    "KOBPPHINEHC": 36090290,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 21
+      },
+      {
+        "CDOIPGMKDFF": 22
+      },
+      {
+        "CDOIPGMKDFF": 23
+      }
+    ],
+    "HGKMGBBBKJB": 15,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Un_Delta_Grass",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Grass",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "KICMGKADBKP": 3915725003,
+    "HNAPEDOMMHK": "High Impact",
+    "CHGGGLOEEBK": [
+      4185318134,
+      50141317,
+      2988505668
+    ],
+    "BOFPMDOIANH": [
+      "Spore Cannon",
+      "Overgrowth",
+      "<color=#f39000>Skill</color>: Flowery Flechettes"
+    ],
+    "AEDNGHHCFMJ": [
+      229571106,
+      1553453038,
+      3795227753
+    ],
+    "OKGLEJPDALE": [
+      "Fires a Wildgrass Bullet, dealing Dendro DMG to opponents.",
+      "Heals the Fungus with the lowest HP in the party.",
+      "Goes all out and fires 6 consecutive Wildgrass Bullets.\\n<i>Paimon sometimes considers questions like this: \"Does the grass grow thicker where a Dendro Fungus's Bullets land?\"</i>"
+    ],
+    "BKJDCABFDKJ": 866972920,
+    "CIFNEMGGGKC": "This lightweight Fungus is a more common sight in the forests, but it has still been conferred rather creative descriptions in various researchers' works.",
+    "BPBABABGBEB": 1868971380,
+    "IDDAAMAODCJ": "A Floating Dendro Fungus that has had its elemental potential awakened. It specializes in dealing with a single target, and can both attack from long range and heal its teammates.",
+    "JGHDFDHNCKD": 1143883825,
+    "MKOEEHGPFDE": "Now this is a pretty ordinary-looking Fungus, but let's give it a nice name all the same!"
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "BBCCMGKPICI": 26090391,
+    "KOBPPHINEHC": 36090390,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 31
+      },
+      {
+        "CDOIPGMKDFF": 32
+      },
+      {
+        "CDOIPGMKDFF": 33
+      }
+    ],
+    "HGKMGBBBKJB": 20,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Un_Delta_Wind",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Un_Delta_Wind",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Other_SPRise",
+    "KICMGKADBKP": 2151887411,
+    "HNAPEDOMMHK": "Combat Buff",
+    "CHGGGLOEEBK": [
+      2977947238,
+      1086238229,
+      3582324796
+    ],
+    "BOFPMDOIANH": [
+      "Galeforce Shot",
+      "Honed Whirlwind",
+      "<color=#f39000>Skill</color>: Vortex of Blades"
+    ],
+    "AEDNGHHCFMJ": [
+      4072825386,
+      1097336318,
+      2748393345
+    ],
+    "OKGLEJPDALE": [
+      "Releases a honed wind projectile that deals Anemo DMG.",
+      "Fires off a honed wind bullet that deals Anemo DMG to nearby opponents and pulls nearby opponents slightly.",
+      "Unleashes a wind vortex in front of itself and continuously pulls in enemies within a wide area for a set duration. Will deal Anemo DMG to enemies within the vortex's range when the vortex disappears.\\n<i>If the vortex weren't a battle skill, Paimon would probably use it to cool down...</i>"
+    ],
+    "BKJDCABFDKJ": 4251462424,
+    "CIFNEMGGGKC": "A light Fungus with a fluffy, light cap. It is said it's springy to the touch, much like jelly.",
+    "BPBABABGBEB": 2579696932,
+    "IDDAAMAODCJ": "A Floating Anemo Fungus that has had its elemental potential awakened. It can use mysterious Anemo techniques to attract and pull opponents in a certain area.",
+    "JGHDFDHNCKD": 3407411649,
+    "MKOEEHGPFDE": "Ooh, this one's just like Twirly-Whirly! Paimon's got a new idea coming on..."
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "BBCCMGKPICI": 26090491,
+    "KOBPPHINEHC": 36090490,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 41
+      },
+      {
+        "CDOIPGMKDFF": 42
+      },
+      {
+        "CDOIPGMKDFF": 43
+      }
+    ],
+    "HGKMGBBBKJB": 15,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Trois_Epsilon_Electric",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Epsilon_Electric",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Epsilon_Electric",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "KICMGKADBKP": 200052859,
+    "HNAPEDOMMHK": "High Impact",
+    "CHGGGLOEEBK": [
+      1804134766,
+      2364601925,
+      2750275300
+    ],
+    "BOFPMDOIANH": [
+      "Thundering Lashes",
+      "Glaring Bolt",
+      "<color=#f39000>Skill</color>: Thunderous Cry"
+    ],
+    "AEDNGHHCFMJ": [
+      1796501282,
+      2911710982,
+      1007499633
+    ],
+    "OKGLEJPDALE": [
+      "Rushes at nearby opponents, swiveling around and performing another return slash after it hits and passes one target by, thus dealing 2 instances of Electro DMG.",
+      "Charges up Elemental energy and causes its next Thundering Lash to have bonus Electro DMG. Additionally, the first opponent hit by this Skill will have their DEF decreased for a time.",
+      "Unleashes an Electro shockwave that deals a small amount Electro DMG to nearby opponents, entering a temporary Activated state in the process. In this Activated state, its Thundering Lashes will deal more DMG and attack more often.\\n<i>How can you spin around so fast without getting dizzy? Paimon really wants to know...</i>"
+    ],
+    "BKJDCABFDKJ": 2015190264,
+    "CIFNEMGGGKC": "An agile Fungus that possesses currents whose flow cannot be easily read. It is valued both for study and use amongst researchers.",
+    "BPBABABGBEB": 842419724,
+    "IDDAAMAODCJ": "A Whirling Electro Fungus that has had its elemental potential awakened. Swiftly closing gaps to perform frequent Electro-DMG-dealing attacks and then leaving its opponent's attack range — that's this creature's combat style.",
+    "JGHDFDHNCKD": 587538193,
+    "MKOEEHGPFDE": "This Fungus is really dangerous. It even leaves Electro behind when it runs off. What should we call it..."
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "BBCCMGKPICI": 26090591,
+    "KOBPPHINEHC": 36090590,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 51
+      },
+      {
+        "CDOIPGMKDFF": 52
+      },
+      {
+        "CDOIPGMKDFF": 53
+      }
+    ],
+    "HGKMGBBBKJB": 15,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Trois_Alpha_Ice",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Alpha_Ice",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "KICMGKADBKP": 4252639307,
+    "HNAPEDOMMHK": "High Impact",
+    "CHGGGLOEEBK": [
+      531136302,
+      2879645821,
+      4257621484
+    ],
+    "BOFPMDOIANH": [
+      "Icy Strike",
+      "Rime Shock",
+      "<color=#f39000>Skill</color>: Frost Stream"
+    ],
+    "AEDNGHHCFMJ": [
+      3239057842,
+      400171622,
+      2419942209
+    ],
+    "OKGLEJPDALE": [
+      "Dives into ice and moves rapidly in the form of a glacial current, dealing Cryo DMG to nearby enemies when re-emerging.",
+      "Quickly jumps up and initiates 3 attacks, dealing Cryo DMG to nearby opponents.",
+      "Fires a solid icicle forward that deals Cryo DMG to opponents along its path.\\n<i>What would the icicle taste like with jam? Paimon is really curious...</i>"
+    ],
+    "BKJDCABFDKJ": 3367376720,
+    "CIFNEMGGGKC": "A fast and agile Fungus. Has the added benefit of sparing its Tamer from worrying about hot weather.",
+    "BPBABABGBEB": 979842860,
+    "IDDAAMAODCJ": "A Whirling Cryo Fungus that has had its elemental potential awakened. Its unique technique is to close with its opponents very quickly, then unleash strong attacks to interrupt opposing moves.",
+    "JGHDFDHNCKD": 1425386481,
+    "MKOEEHGPFDE": "This sort's pretty hard to catch, huh? Let's figure out what to call it, shall we?"
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "BBCCMGKPICI": 26090691,
+    "KOBPPHINEHC": 36090690,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 61
+      },
+      {
+        "CDOIPGMKDFF": 62
+      },
+      {
+        "CDOIPGMKDFF": 63
+      }
+    ],
+    "HGKMGBBBKJB": 20,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Trois_Gamma_Fire",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Trois_Gamma_Fire",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Def_Add",
+    "KICMGKADBKP": 1585594075,
+    "HNAPEDOMMHK": "Formation Fulcrum",
+    "CHGGGLOEEBK": [
+      3764169278,
+      4145155669,
+      3989556692
+    ],
+    "BOFPMDOIANH": [
+      "Searing Shockwave",
+      "Ember Cordon",
+      "<color=#f39000>Skill</color>: Meltdown Blast"
+    ],
+    "AEDNGHHCFMJ": [
+      2239612210,
+      3148780326,
+      2345375137
+    ],
+    "OKGLEJPDALE": [
+      "Fires off a blazing shockwave that deals Pyro DMG to nearby opponents.",
+      "Releases a heated ring that raises its own DEF, continuously deals Pyro DMG to nearby opponents for a period of time, and continuously taunts nearby opponents that have been attacked by it.",
+      "Charges Pyro energy and pulls opponents in before unleashing a blazing explosion that deals Pyro DMG to all nearby opponents and decreasing All Elemental RES of the injured targets.\\n<i>After seeing this skill, Paimon thought: If you put a pile of fireworks next to the Fungus, maybe they'll all light up at once!</i>"
+    ],
+    "BKJDCABFDKJ": 60581816,
+    "CIFNEMGGGKC": "A speedy and agile Fungus that is brimming with Pyro energy. It has the dubious distinction of being a massive fire hazard and has an equally explosive temper.",
+    "BPBABABGBEB": 657605988,
+    "IDDAAMAODCJ": "A Whirling Pyro Fungus that has had its elemental potential awakened. Its behavior in battle is akin to a bomb packed with extra powder that can suppress nearby opponents brutally. It has the ability to gather and lower its opponents' resistances.",
+    "JGHDFDHNCKD": 2985916641,
+    "MKOEEHGPFDE": "Huh, isn't this guy pretty similar to Haniyyah's Pyro-1? Let's be sure to give it a cool-sounding name!"
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "BBCCMGKPICI": 26090791,
+    "KOBPPHINEHC": 36090790,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 71
+      },
+      {
+        "CDOIPGMKDFF": 72
+      },
+      {
+        "CDOIPGMKDFF": 73
+      }
+    ],
+    "HGKMGBBBKJB": 15,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Deux_Alpha_Fire",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Alpha_Fire",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Alpha_Fire",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Atk_Nomal",
+    "KICMGKADBKP": 3846312307,
+    "HNAPEDOMMHK": "High Impact",
+    "CHGGGLOEEBK": [
+      1698586942,
+      542758021,
+      3621815692
+    ],
+    "BOFPMDOIANH": [
+      "Blazing Impact",
+      "High-Temperature Field",
+      "<color=#f39000>Skill</color>: Delayed Deflagration"
+    ],
+    "AEDNGHHCFMJ": [
+      3410101130,
+      1055945126,
+      2986761697
+    ],
+    "OKGLEJPDALE": [
+      "Rushes at nearby opponents, stops charging when it hits an opponent and deals Pyro DMG.",
+      "Releases a heated shockwave that deals Pyro DMG to nearby opponents.",
+      "Unleashes a searing wave that deals Pyro DMG to nearby opponents and causes them to take continuous Pyro DMG for a certain period of time.\\n<i>After discovering this Fungus's special skill, Paimon wants it to come along the next time we pay a visit to Dragonspine...</i>"
+    ],
+    "BKJDCABFDKJ": 1373774536,
+    "CIFNEMGGGKC": "A tall and strong Fungus. Though it uses Pyro, it has a rather gentle personality. As long as a prospective Tamer does not lift them up and raise them high, there should be no danger from this quarter at all.",
+    "BPBABABGBEB": 3087584868,
+    "IDDAAMAODCJ": "A Stretchy Pyro Fungus that has had its elemental potential awakened. It specializes in closing the distance and using a constant stream of fire to grill its opponents.",
+    "JGHDFDHNCKD": 993391217,
+    "MKOEEHGPFDE": "This is also a Pyro Fungus, but it's super long. Let Paimon think..."
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "BBCCMGKPICI": 26090891,
+    "KOBPPHINEHC": 36090890,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 81
+      },
+      {
+        "CDOIPGMKDFF": 82
+      },
+      {
+        "CDOIPGMKDFF": 83
+      }
+    ],
+    "HGKMGBBBKJB": 20,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Deux_Epsilon_Wind",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Epsilon_Wind",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Recovery_HpAdd",
+    "KICMGKADBKP": 2329329491,
+    "HNAPEDOMMHK": "Healing Support",
+    "CHGGGLOEEBK": [
+      1333636302,
+      2516632357,
+      3329351052
+    ],
+    "BOFPMDOIANH": [
+      "Rushing Wind",
+      "Mournful Shot",
+      "<color=#f39000>Skill</color>: Rising Wind"
+    ],
+    "AEDNGHHCFMJ": [
+      1920819010,
+      2337967846,
+      1366749617
+    ],
+    "OKGLEJPDALE": [
+      "Releases a powerful wind projectile that deals Anemo DMG.",
+      "Fires off 4 wind projectiles consecutively, dealing Anemo DMG.",
+      "Unleashes a field of rising winds that deals Anemo DMG to nearby opponents throughout its duration and also heals all its allies. It will also use Anemo to clear Elements applied to its party members.\\n<i>Paimon wants to see if other Fungi friends would bounce away if they jumped on the top of this Fungus' head, but it's too tall, so the other Fungi would struggle to get up there...</i>"
+    ],
+    "BKJDCABFDKJ": 2735503408,
+    "CIFNEMGGGKC": "A strong and tall Fungus that has a strong awareness of its surroundings and whose cap can react to changes in the wind direction.",
+    "BPBABABGBEB": 1541131628,
+    "IDDAAMAODCJ": "A Stretchy Anemo Fungus that has had its elemental potential awakened. It leans towards attacking foes at medium range, and it can also clear harmful elements.",
+    "JGHDFDHNCKD": 3687196673,
+    "MKOEEHGPFDE": "A jumpy Fungus that uses Anemo... Feels kinda familiar, don't you think?"
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "BBCCMGKPICI": 26090991,
+    "KOBPPHINEHC": 36090990,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 91
+      },
+      {
+        "CDOIPGMKDFF": 92
+      },
+      {
+        "CDOIPGMKDFF": 93
+      }
+    ],
+    "HGKMGBBBKJB": 15,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Deux_Beta_Rock",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Beta_Rock",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Def_Add",
+    "KICMGKADBKP": 4108039739,
+    "HNAPEDOMMHK": "Formation Fulcrum",
+    "CHGGGLOEEBK": [
+      1188822150,
+      3923378845,
+      2635151036
+    ],
+    "BOFPMDOIANH": [
+      "Hard Knock",
+      "Bedrock Line",
+      "<color=#f39000>Skill</color>: Rocks Fall"
+    ],
+    "AEDNGHHCFMJ": [
+      3632123474,
+      3696743430,
+      2084439761
+    ],
+    "OKGLEJPDALE": [
+      "Deals Physical DMG to nearby opponents using its flapping cap. If it hits targets affected by Geo, it will drain a small amount of their Geo element.",
+      "Strengthens its own resistance to attacks, and will taunt nearby opponents for a period of time. However, it may not be able to draw enemy fire to itself if other Fungi in the team are attacking the enemies very frequently.",
+      "Leaps high up and initiates a devastating Plunging Attack that deals Physical DMG to nearby opponents and knocks them back. If it hits targets affected by Geo, it will drain a great amount of their Geo element.\\n<i>\"This kind of Fungus seems to be a natural-born mining master,\" Paimon theorizes...</i>"
+    ],
+    "BKJDCABFDKJ": 3816517032,
+    "CIFNEMGGGKC": "A strong and tall Fungus whose slender yet powerful body supports its powerful head, which it can wield like a heavy hammer.",
+    "BPBABABGBEB": 4260569468,
+    "IDDAAMAODCJ": "A Stretchy Geo Fungus that has had its elemental potential awakened. It leans towards melee combat and uses powerful attacks to crush the opposing line.",
+    "JGHDFDHNCKD": 2663020561,
+    "MKOEEHGPFDE": "This Fungus has such a big head, but it's more agile than it looks! Let's give it a unique name, shall we?"
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "BBCCMGKPICI": 26091091,
+    "KOBPPHINEHC": 36091090,
+    "CDNLMIDOINA": 0,
+    "GLMHFNJPBHN": [
+      {
+        "CDOIPGMKDFF": 101
+      },
+      {
+        "CDOIPGMKDFF": 102
+      },
+      {
+        "CDOIPGMKDFF": 103
+      }
+    ],
+    "HGKMGBBBKJB": 20,
+    "GCPOHNKEHFK": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Deux_Delta_Electric",
+    "NJBLGAHPDLO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Delta_Electric",
+    "JAMNBPMDOBJ": "ART/UI/Atlas/Activity/FungusFighter/UI_SmallIcon_Fungus_Partner_Deux_Delta_Electric",
+    "MKHEBNCMJOO": "ART/UI/Atlas/BuffElement/UI_Buff_Item_Other_SPRise",
+    "KICMGKADBKP": 1493708283,
+    "HNAPEDOMMHK": "Combat Buff",
+    "CHGGGLOEEBK": [
+      2439369518,
+      4196515285,
+      1140024028
+    ],
+    "BOFPMDOIANH": [
+      "Lightning Sphere",
+      "Flashing Bolt",
+      "<color=#f39000>Skill</color>: Resonator"
+    ],
+    "AEDNGHHCFMJ": [
+      1055845122,
+      892934334,
+      473376577
+    ],
+    "OKGLEJPDALE": [
+      "Unleashes a ball-shaped charge that deals Electro DMG.",
+      "Unleashes a blast of lightning that deals Electro DMG to its target.",
+      "Inspires other Fungi friends and increases the ATK of all Fungi on the team for a set period.\\n<i>With this skill's amazing effects, Paimon thinks it's \"probably the crackling thunder that jolts other Fungi into action!\"</i>"
+    ],
+    "BKJDCABFDKJ": 3116763680,
+    "CIFNEMGGGKC": "A strong, tall Fungus that has a shining feeler on its head that has proved exceedingly attractive to curious children.",
+    "BPBABABGBEB": 245042972,
+    "IDDAAMAODCJ": "A Stretchy Electro Fungus that has had its elemental potential awakened. It can attack opponents from afar using Electro and increase the damage output of its party members.",
+    "JGHDFDHNCKD": 2515088121,
+    "MKOEEHGPFDE": "This Fungus is super tall and can use Electro. Now, what shall we call it...?"
+  }
+]

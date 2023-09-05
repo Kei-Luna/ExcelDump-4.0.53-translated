@@ -1,0 +1,162 @@
+[
+  {
+    "AODPMHOCMJN": 1,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 9
+      },
+      {
+        "CDOIPGMKDFF": 11
+      },
+      {
+        "CDOIPGMKDFF": 13
+      }
+    ],
+    "ELNMEKONEEN": 1,
+    "AANALLLBMJC": 2246554330,
+    "PFOENKJGKLG": "Sequential Trial: I"
+  },
+  {
+    "AODPMHOCMJN": 2,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 15
+      }
+    ],
+    "ELNMEKONEEN": 2,
+    "AANALLLBMJC": 1467929026,
+    "PFOENKJGKLG": "Sequential Trial: II"
+  },
+  {
+    "AODPMHOCMJN": 3,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 12
+      },
+      {
+        "CDOIPGMKDFF": 17
+      }
+    ],
+    "ELNMEKONEEN": 3,
+    "AANALLLBMJC": 4185100154,
+    "PFOENKJGKLG": "Sequential Trial: III"
+  },
+  {
+    "AODPMHOCMJN": 4,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 6
+      }
+    ],
+    "ELNMEKONEEN": 4,
+    "AANALLLBMJC": 1973797482,
+    "PFOENKJGKLG": "Sequential Trial: IV"
+  },
+  {
+    "AODPMHOCMJN": 5,
+    "BCOCAAFBJOD": 2,
+    "PAIBJFGOPGF": [],
+    "ELNMEKONEEN": 5,
+    "AANALLLBMJC": 2184004626,
+    "PFOENKJGKLG": "Fortuitous Trial"
+  },
+  {
+    "AODPMHOCMJN": 6,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 37
+      },
+      {
+        "CDOIPGMKDFF": 40
+      },
+      {
+        "CDOIPGMKDFF": 31
+      }
+    ],
+    "ELNMEKONEEN": 1,
+    "AANALLLBMJC": 891489362,
+    "PFOENKJGKLG": "Sequential Trial: I"
+  },
+  {
+    "AODPMHOCMJN": 7,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 35
+      },
+      {
+        "CDOIPGMKDFF": 39
+      },
+      {
+        "CDOIPGMKDFF": 30
+      }
+    ],
+    "ELNMEKONEEN": 2,
+    "AANALLLBMJC": 1923852442,
+    "PFOENKJGKLG": "Sequential Trial: II"
+  },
+  {
+    "AODPMHOCMJN": 8,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 38
+      },
+      {
+        "CDOIPGMKDFF": 19
+      },
+      {
+        "CDOIPGMKDFF": 25
+      }
+    ],
+    "ELNMEKONEEN": 3,
+    "AANALLLBMJC": 3647809002,
+    "PFOENKJGKLG": "Sequential Trial: III"
+  },
+  {
+    "AODPMHOCMJN": 9,
+    "BCOCAAFBJOD": 1,
+    "PAIBJFGOPGF": [
+      {
+        "CDOIPGMKDFF": 36
+      },
+      {
+        "CDOIPGMKDFF": 27
+      },
+      {
+        "CDOIPGMKDFF": 23
+      }
+    ],
+    "ELNMEKONEEN": 4,
+    "AANALLLBMJC": 430863634,
+    "PFOENKJGKLG": "Sequential Trial: IV"
+  },
+  {
+    "AODPMHOCMJN": 10,
+    "BCOCAAFBJOD": 2,
+    "PAIBJFGOPGF": [],
+    "ELNMEKONEEN": 5,
+    "AANALLLBMJC": 697140114,
+    "PFOENKJGKLG": "Fortuitous Trial"
+  }
+]

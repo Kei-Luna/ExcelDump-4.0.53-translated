@@ -1,0 +1,127 @@
+[
+  {
+    "DCKCMKGGIKM": 1,
+    "EJKEODMJGOO": true,
+    "PPHLFGKHBJM": 1478493845,
+    "GFEEAJGOLDA": "",
+    "MNICDIPMBKJ": 2001,
+    "LJPEHMPDJOP": 1843410581,
+    "MMFEFPEJMLF": "Floating Abode",
+    "HIKPONMOFPI": 182060131,
+    "FJAONPBHOLA": "An island cluster suspended in mid-air. A typical feature of many adepti realms.\\nA boundless world featuring nothing besides a cluster of islands.",
+    "DADAAPOHFIF": [
+      "Map_Homeworld_Exterior_Above_001",
+      "Map_Homeworld_Exterior_Above_002",
+      "Map_Homeworld_Exterior_Above_003",
+      "Map_Homeworld_Exterior_Above_004"
+    ],
+    "BBMCPJAHGIP": [
+      "825.7461,0,123.5733",
+      "761.4891,0,364.6011",
+      "525.3538,0,589.5408",
+      "218.1062,0,825.1384"
+    ],
+    "NIOBCLMHJIE": "UI_HomeworldModule_2",
+    "MGIDFHMAGMK": "UI_HomeworldModule_2_Pic"
+  },
+  {
+    "DCKCMKGGIKM": 2,
+    "EJKEODMJGOO": true,
+    "PPHLFGKHBJM": 2390342453,
+    "GFEEAJGOLDA": "",
+    "MNICDIPMBKJ": 2002,
+    "LJPEHMPDJOP": 2743796149,
+    "MMFEFPEJMLF": "Emerald Peak",
+    "HIKPONMOFPI": 4014705795,
+    "FJAONPBHOLA": "A cloud-piercing mountain peak.\\nWell, that's how it looks, at least. But being inside a teapot and all, the highest mountain probably reaches no higher than the stalk of a tea leaf.",
+    "DADAAPOHFIF": [
+      "Map_Homeworld_Exterior_Karst_001",
+      "Map_Homeworld_Exterior_Karst_002",
+      "Map_Homeworld_Exterior_Karst_003",
+      "Map_Homeworld_Exterior_Karst_004"
+    ],
+    "BBMCPJAHGIP": [
+      "337.2328,0,770.5031",
+      "349.0688,0,586.0258",
+      "563.4695,0,589.3153",
+      "522.3098,0,475.8359"
+    ],
+    "NIOBCLMHJIE": "UI_HomeworldModule_1",
+    "MGIDFHMAGMK": "UI_HomeworldModule_1_Pic"
+  },
+  {
+    "DCKCMKGGIKM": 3,
+    "EJKEODMJGOO": true,
+    "PPHLFGKHBJM": 658184325,
+    "GFEEAJGOLDA": "",
+    "MNICDIPMBKJ": 2003,
+    "LJPEHMPDJOP": 2044643413,
+    "MMFEFPEJMLF": "Cool Isle",
+    "HIKPONMOFPI": 1200772483,
+    "FJAONPBHOLA": "An island cluster surrounded by water.\\nOne wonders how many cups of tea can be brewed from this vast ocean.",
+    "DADAAPOHFIF": [
+      "Map_Homeworld_Exterior_Uncharted_001",
+      "Map_Homeworld_Exterior_Uncharted_002",
+      "Map_Homeworld_Exterior_Uncharted_003",
+      "Map_Homeworld_Exterior_Uncharted_004"
+    ],
+    "BBMCPJAHGIP": [
+      "497.3904,0,616.4855",
+      "314.7899,0,521.4933",
+      "801.0367,0,635.1414",
+      "742.6815,0,361.0927"
+    ],
+    "NIOBCLMHJIE": "UI_HomeworldModule_3",
+    "MGIDFHMAGMK": "UI_HomeworldModule_3_Pic"
+  },
+  {
+    "DCKCMKGGIKM": 4,
+    "EJKEODMJGOO": false,
+    "PPHLFGKHBJM": 772321565,
+    "GFEEAJGOLDA": "Obtain \"Silken Print\" to unlock\\nReach Level 40 in Sacred Sakura's Favor to obtain",
+    "MNICDIPMBKJ": 2004,
+    "LJPEHMPDJOP": 2023252765,
+    "MMFEFPEJMLF": "Silken Courtyard",
+    "HIKPONMOFPI": 1069777739,
+    "FJAONPBHOLA": "This island has a unique charm that comes from its overlapping patchwork of mountains and waters, and from the elegant scent of tea that wafts through the air.",
+    "DADAAPOHFIF": [
+      "Map_Homeworld_Exterior_Ukiyo_001",
+      "Map_Homeworld_Exterior_Ukiyo_002",
+      "Map_Homeworld_Exterior_Ukiyo_003",
+      "Map_Homeworld_Exterior_Ukiyo_004"
+    ],
+    "BBMCPJAHGIP": [
+      "245.73,186,560.9",
+      "326.29,205.513,359.74",
+      "542.8,192.043,508.7",
+      "718.7,203.45,702.6"
+    ],
+    "NIOBCLMHJIE": "UI_HomeworldModule_4",
+    "MGIDFHMAGMK": "UI_HomeworldModule_4_Pic"
+  },
+  {
+    "DCKCMKGGIKM": 5,
+    "EJKEODMJGOO": false,
+    "PPHLFGKHBJM": 581409709,
+    "GFEEAJGOLDA": "Obtain Nature's True Fruit to unlock\\nPurchased from Riches of the Realm",
+    "MNICDIPMBKJ": 2005,
+    "LJPEHMPDJOP": 3370611461,
+    "MMFEFPEJMLF": "Sublime Spicewood",
+    "HIKPONMOFPI": 3098122091,
+    "FJAONPBHOLA": "The branches and leaves extending from the towering tree hang high above the sea of clouds, immensely and sturdily, with that wondrous floral fragrance lingering evermore.",
+    "DADAAPOHFIF": [
+      "Map_Homeworld_Exterior_Sumeru_001",
+      "Map_Homeworld_Exterior_Sumeru_002",
+      "Map_Homeworld_Exterior_Sumeru_003",
+      "Map_Homeworld_Exterior_Sumeru_004"
+    ],
+    "BBMCPJAHGIP": [
+      "556,383,218",
+      "389,342,335",
+      "576,364,566",
+      "424,385,713"
+    ],
+    "NIOBCLMHJIE": "UI_HomeworldModule_5",
+    "MGIDFHMAGMK": "UI_HomeworldModule_5_Pic"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "IGFMOFMLIJI": 1,
+    "NENGCLLGOLH": 2853685270,
+    "KBNPPLNEIAP": "Change object status"
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "IGFMOFMLIJI": 2,
+    "NENGCLLGOLH": 47054750,
+    "KBNPPLNEIAP": "Display object"
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "IGFMOFMLIJI": 3,
+    "NENGCLLGOLH": 765441582,
+    "KBNPPLNEIAP": "Hide object"
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "IGFMOFMLIJI": 4,
+    "NENGCLLGOLH": 1658861022,
+    "KBNPPLNEIAP": "Display opponent(s)"
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "IGFMOFMLIJI": 5,
+    "NENGCLLGOLH": 3878994950,
+    "KBNPPLNEIAP": "Display opponent group"
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "IGFMOFMLIJI": 6,
+    "NENGCLLGOLH": 1851362454,
+    "KBNPPLNEIAP": "Eliminate remaining artificed opponents"
+  }
+]

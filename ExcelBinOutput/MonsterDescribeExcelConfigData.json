@@ -1,0 +1,1940 @@
+[
+  {
+    "PGKNKBKHCHM": 101,
+    "FPKEHKLHHDC": 2173510696,
+    "PMPMKOPBJHA": "Dendro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Grass_02"
+  },
+  {
+    "PGKNKBKHCHM": 102,
+    "FPKEHKLHHDC": 220962224,
+    "PMPMKOPBJHA": "Large Dendro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Grass_03"
+  },
+  {
+    "PGKNKBKHCHM": 103,
+    "FPKEHKLHHDC": 1511587408,
+    "PMPMKOPBJHA": "Anemo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Wind_02"
+  },
+  {
+    "PGKNKBKHCHM": 104,
+    "FPKEHKLHHDC": 1527751472,
+    "PMPMKOPBJHA": "Large Anemo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Wind_03"
+  },
+  {
+    "PGKNKBKHCHM": 105,
+    "FPKEHKLHHDC": 960731328,
+    "PMPMKOPBJHA": "Electro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Electric_02"
+  },
+  {
+    "PGKNKBKHCHM": 106,
+    "FPKEHKLHHDC": 2835495304,
+    "PMPMKOPBJHA": "Large Electro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Electric_03"
+  },
+  {
+    "PGKNKBKHCHM": 107,
+    "FPKEHKLHHDC": 3389920104,
+    "PMPMKOPBJHA": "Mutant Electro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Electric_03_Positive"
+  },
+  {
+    "PGKNKBKHCHM": 108,
+    "FPKEHKLHHDC": 678013664,
+    "PMPMKOPBJHA": "Cryo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Ice_02"
+  },
+  {
+    "PGKNKBKHCHM": 109,
+    "FPKEHKLHHDC": 2368926680,
+    "PMPMKOPBJHA": "Large Cryo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Ice_03"
+  },
+  {
+    "PGKNKBKHCHM": 110,
+    "FPKEHKLHHDC": 1266302080,
+    "PMPMKOPBJHA": "Hydro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Water_02"
+  },
+  {
+    "PGKNKBKHCHM": 111,
+    "FPKEHKLHHDC": 1883787496,
+    "PMPMKOPBJHA": "Large Hydro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Water_03"
+  },
+  {
+    "PGKNKBKHCHM": 112,
+    "FPKEHKLHHDC": 3113209704,
+    "PMPMKOPBJHA": "Pyro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Fire_02"
+  },
+  {
+    "PGKNKBKHCHM": 113,
+    "FPKEHKLHHDC": 3104668424,
+    "PMPMKOPBJHA": "Large Pyro Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Fire_03"
+  },
+  {
+    "PGKNKBKHCHM": 114,
+    "FPKEHKLHHDC": 1304425088,
+    "PMPMKOPBJHA": "Geo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Rock_02"
+  },
+  {
+    "PGKNKBKHCHM": 115,
+    "FPKEHKLHHDC": 2254956112,
+    "PMPMKOPBJHA": "Large Geo Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Rock_03"
+  },
+  {
+    "PGKNKBKHCHM": 116,
+    "FPKEHKLHHDC": 544132088,
+    "PMPMKOPBJHA": "Hydro Hypostasis Summon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Fire_02"
+  },
+  {
+    "PGKNKBKHCHM": 117,
+    "FPKEHKLHHDC": 1415099112,
+    "PMPMKOPBJHA": "Hydro Hypostasis Summon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Fire_03"
+  },
+  {
+    "PGKNKBKHCHM": 118,
+    "FPKEHKLHHDC": 3935438856,
+    "PMPMKOPBJHA": "Hydro Hypostasis Summon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Rock_02"
+  },
+  {
+    "PGKNKBKHCHM": 119,
+    "FPKEHKLHHDC": 2540711056,
+    "PMPMKOPBJHA": "Hydro Hypostasis Summon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Rock_03"
+  },
+  {
+    "PGKNKBKHCHM": 201,
+    "FPKEHKLHHDC": 352893312,
+    "PMPMKOPBJHA": "Eye of the Storm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Elemental_Wind_01"
+  },
+  {
+    "PGKNKBKHCHM": 401,
+    "FPKEHKLHHDC": 2576416432,
+    "PMPMKOPBJHA": "Electro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 402,
+    "FPKEHKLHHDC": 1388893264,
+    "PMPMKOPBJHA": "Anemo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 403,
+    "FPKEHKLHHDC": 1590609280,
+    "PMPMKOPBJHA": "Geo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 404,
+    "FPKEHKLHHDC": 2176969488,
+    "PMPMKOPBJHA": "Hydro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Water"
+  },
+  {
+    "PGKNKBKHCHM": 405,
+    "FPKEHKLHHDC": 937574560,
+    "PMPMKOPBJHA": "Cryo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 406,
+    "FPKEHKLHHDC": 374969768,
+    "PMPMKOPBJHA": "Pyro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 407,
+    "FPKEHKLHHDC": 2841278344,
+    "PMPMKOPBJHA": "Dendro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Grass"
+  },
+  {
+    "PGKNKBKHCHM": 501,
+    "FPKEHKLHHDC": 1194478280,
+    "PMPMKOPBJHA": "Oceanid",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid"
+  },
+  {
+    "PGKNKBKHCHM": 502,
+    "FPKEHKLHHDC": 3750306112,
+    "PMPMKOPBJHA": "Hydro Mimic Boar",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 503,
+    "FPKEHKLHHDC": 1411333056,
+    "PMPMKOPBJHA": "Hydro Mimic Crane",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 504,
+    "FPKEHKLHHDC": 3859189664,
+    "PMPMKOPBJHA": "Hydro Mimic Crab",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 505,
+    "FPKEHKLHHDC": 1517871784,
+    "PMPMKOPBJHA": "Hydro Mimic Finch",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 506,
+    "FPKEHKLHHDC": 2454508744,
+    "PMPMKOPBJHA": "Hydro Mimic Mallard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 507,
+    "FPKEHKLHHDC": 2695145104,
+    "PMPMKOPBJHA": "Hydro Mimic Squirrel",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 508,
+    "FPKEHKLHHDC": 2270056128,
+    "PMPMKOPBJHA": "Hydro Mimic Frog",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 509,
+    "FPKEHKLHHDC": 1727202056,
+    "PMPMKOPBJHA": "Hydro Mimic Raptor",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid_Underling"
+  },
+  {
+    "PGKNKBKHCHM": 510,
+    "FPKEHKLHHDC": 453148552,
+    "PMPMKOPBJHA": "Tainted Water-Splitting Phantasm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Necalevia_Normal"
+  },
+  {
+    "PGKNKBKHCHM": 511,
+    "FPKEHKLHHDC": 3501806728,
+    "PMPMKOPBJHA": "Tainted Water-Spouting Phantasm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Necalevia_Big"
+  },
+  {
+    "PGKNKBKHCHM": 514,
+    "FPKEHKLHHDC": 2970448672,
+    "PMPMKOPBJHA": "Local Legend: Tainted Water-Splitting Phantasm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Necalevia_Normal"
+  },
+  {
+    "PGKNKBKHCHM": 515,
+    "FPKEHKLHHDC": 3144622032,
+    "PMPMKOPBJHA": "Local Legend: Tainted Water-Spouting Phantasm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Necalevia_Big"
+  },
+  {
+    "PGKNKBKHCHM": 601,
+    "FPKEHKLHHDC": 3055427504,
+    "PMPMKOPBJHA": "Hydro Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 602,
+    "FPKEHKLHHDC": 1129726256,
+    "PMPMKOPBJHA": "Geo Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Rock_01"
+  },
+  {
+    "PGKNKBKHCHM": 603,
+    "FPKEHKLHHDC": 1685659344,
+    "PMPMKOPBJHA": "Anemo Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Wind_01"
+  },
+  {
+    "PGKNKBKHCHM": 604,
+    "FPKEHKLHHDC": 1061667664,
+    "PMPMKOPBJHA": "Cryo Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 605,
+    "FPKEHKLHHDC": 4056559040,
+    "PMPMKOPBJHA": "Electro Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 606,
+    "FPKEHKLHHDC": 3663897528,
+    "PMPMKOPBJHA": "Pyro Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Fire_01"
+  },
+  {
+    "PGKNKBKHCHM": 607,
+    "FPKEHKLHHDC": 2872478496,
+    "PMPMKOPBJHA": "Dendro Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Grass_01"
+  },
+  {
+    "PGKNKBKHCHM": 701,
+    "FPKEHKLHHDC": 3258515928,
+    "PMPMKOPBJHA": "Thunder Manifestation",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Raijin"
+  },
+  {
+    "PGKNKBKHCHM": 10101,
+    "FPKEHKLHHDC": 2823299104,
+    "PMPMKOPBJHA": "Hilichurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10102,
+    "FPKEHKLHHDC": 1502883680,
+    "PMPMKOPBJHA": "Hilichurl Fighter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10103,
+    "FPKEHKLHHDC": 2491960152,
+    "PMPMKOPBJHA": "Wooden Shield Hilichurl Guard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10104,
+    "FPKEHKLHHDC": 3261111696,
+    "PMPMKOPBJHA": "Hilichurl Shooter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10105,
+    "FPKEHKLHHDC": 41061376,
+    "PMPMKOPBJHA": "Pyro Hilichurl Shooter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Fire_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10106,
+    "FPKEHKLHHDC": 4024598056,
+    "PMPMKOPBJHA": "Hilichurl Grenadier",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Fire_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10107,
+    "FPKEHKLHHDC": 3251673344,
+    "PMPMKOPBJHA": "Hilichurl Berserker",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Fire_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10109,
+    "FPKEHKLHHDC": 2598026680,
+    "PMPMKOPBJHA": "Cryo Hilichurl Shooter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Ice_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10110,
+    "FPKEHKLHHDC": 2963928784,
+    "PMPMKOPBJHA": "Electro Hilichurl Shooter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Electric_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10112,
+    "FPKEHKLHHDC": 1779087448,
+    "PMPMKOPBJHA": "Rock Shield Hilichurl Guard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10113,
+    "FPKEHKLHHDC": 2456790112,
+    "PMPMKOPBJHA": "Cryo Hilichurl Grenadier",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Ice_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10114,
+    "FPKEHKLHHDC": 3034104928,
+    "PMPMKOPBJHA": "Ice Shield Hilichurl Guard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10115,
+    "FPKEHKLHHDC": 1868726720,
+    "PMPMKOPBJHA": "Unusual Hilichurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Wei"
+  },
+  {
+    "PGKNKBKHCHM": 10116,
+    "FPKEHKLHHDC": 2167729272,
+    "PMPMKOPBJHA": "Electro Hilichurl Grenadier",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Electric_Range"
+  },
+  {
+    "PGKNKBKHCHM": 10201,
+    "FPKEHKLHHDC": 2998946096,
+    "PMPMKOPBJHA": "Wooden Shieldwall Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10202,
+    "FPKEHKLHHDC": 2414837496,
+    "PMPMKOPBJHA": "Blazing Axe Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10203,
+    "FPKEHKLHHDC": 1611076776,
+    "PMPMKOPBJHA": "Rock Shieldwall Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10204,
+    "FPKEHKLHHDC": 3926747992,
+    "PMPMKOPBJHA": "Frostarm Lawachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 10205,
+    "FPKEHKLHHDC": 1204583624,
+    "PMPMKOPBJHA": "Stonehide Lawachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_Rock_None"
+  },
+  {
+    "PGKNKBKHCHM": 10206,
+    "FPKEHKLHHDC": 3749655912,
+    "PMPMKOPBJHA": "Ice Shieldwall Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10207,
+    "FPKEHKLHHDC": 3382922248,
+    "PMPMKOPBJHA": "Crackling Axe Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 10208,
+    "FPKEHKLHHDC": 805439664,
+    "PMPMKOPBJHA": "Thunderhelm Lawachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 10301,
+    "FPKEHKLHHDC": 1980056728,
+    "PMPMKOPBJHA": "Hydro Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 10302,
+    "FPKEHKLHHDC": 1473826984,
+    "PMPMKOPBJHA": "Dendro Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Grass_01"
+  },
+  {
+    "PGKNKBKHCHM": 10303,
+    "FPKEHKLHHDC": 10553112,
+    "PMPMKOPBJHA": "Anemo Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Wind_01"
+  },
+  {
+    "PGKNKBKHCHM": 10304,
+    "FPKEHKLHHDC": 3338079384,
+    "PMPMKOPBJHA": "Geo Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Rock_01"
+  },
+  {
+    "PGKNKBKHCHM": 10305,
+    "FPKEHKLHHDC": 1785924728,
+    "PMPMKOPBJHA": "Cryo Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 10306,
+    "FPKEHKLHHDC": 1596748696,
+    "PMPMKOPBJHA": "Electro Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 10401,
+    "FPKEHKLHHDC": 3952856048,
+    "PMPMKOPBJHA": "Anemo Hilichurl Rogue",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hilistray_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 10402,
+    "FPKEHKLHHDC": 2508757576,
+    "PMPMKOPBJHA": "Hydro Hilichurl Rogue",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hilistray_Water"
+  },
+  {
+    "PGKNKBKHCHM": 20101,
+    "FPKEHKLHHDC": 2415438104,
+    "PMPMKOPBJHA": "Pyro Abyss Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Abyss_Fire_01"
+  },
+  {
+    "PGKNKBKHCHM": 20102,
+    "FPKEHKLHHDC": 1321463096,
+    "PMPMKOPBJHA": "Cryo Abyss Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Abyss_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 20103,
+    "FPKEHKLHHDC": 2267848368,
+    "PMPMKOPBJHA": "Hydro Abyss Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Abyss_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 20104,
+    "FPKEHKLHHDC": 1299643312,
+    "PMPMKOPBJHA": "Electro Abyss Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Abyss_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 20201,
+    "FPKEHKLHHDC": 2159496136,
+    "PMPMKOPBJHA": "Abyss Herald: Wicked Torrents",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Herald_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 20202,
+    "FPKEHKLHHDC": 1561834088,
+    "PMPMKOPBJHA": "Abyss Herald: Frost Fall",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Herald_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 20301,
+    "FPKEHKLHHDC": 626343048,
+    "PMPMKOPBJHA": "Abyss Lector: Violet Lightning",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Deacon_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 20302,
+    "FPKEHKLHHDC": 1167557096,
+    "PMPMKOPBJHA": "Abyss Lector: Fathomless Flames",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Deacon_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 20401,
+    "FPKEHKLHHDC": 4040204456,
+    "PMPMKOPBJHA": "Rockfond Rifthound Whelp",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Kanis_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 20402,
+    "FPKEHKLHHDC": 717375112,
+    "PMPMKOPBJHA": "Thundercraven Rifthound Whelp",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Kanis_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 20501,
+    "FPKEHKLHHDC": 2930642328,
+    "PMPMKOPBJHA": "Rockfond Rifthound",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 20502,
+    "FPKEHKLHHDC": 2530429496,
+    "PMPMKOPBJHA": "Thundercraven Rifthound",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Riftstalker_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 20601,
+    "FPKEHKLHHDC": 2218442544,
+    "PMPMKOPBJHA": "Golden Wolflord",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Planelurker"
+  },
+  {
+    "PGKNKBKHCHM": 20701,
+    "FPKEHKLHHDC": 3775538896,
+    "PMPMKOPBJHA": "Shadowy Husk: Standard Bearer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 20702,
+    "FPKEHKLHHDC": 1930273248,
+    "PMPMKOPBJHA": "Shadowy Husk: Line Breaker",
+    "ADLKHHCGHAH": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water"
+  },
+  {
+    "PGKNKBKHCHM": 20703,
+    "FPKEHKLHHDC": 784327392,
+    "PMPMKOPBJHA": "Shadowy Husk: Defender",
+    "ADLKHHCGHAH": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 20801,
+    "FPKEHKLHHDC": 3259944648,
+    "PMPMKOPBJHA": "Black Serpent Knight: Windcutter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Darkwraith_Strong_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 20802,
+    "FPKEHKLHHDC": 2575257792,
+    "PMPMKOPBJHA": "Black Serpent Knight: Rockbreaker Ax",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Darkwraith_Fat_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 20901,
+    "FPKEHKLHHDC": 4127518744,
+    "PMPMKOPBJHA": "",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Darkwraith_Strong_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 21001,
+    "FPKEHKLHHDC": 1414866248,
+    "PMPMKOPBJHA": "Iniquitous Baptist - Invoker of Fire, Frost, and Fulmination",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon"
+  },
+  {
+    "PGKNKBKHCHM": 21002,
+    "FPKEHKLHHDC": 1373576872,
+    "PMPMKOPBJHA": "Iniquitous Baptist - Bringer of Flood, Flame, and Frost",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon"
+  },
+  {
+    "PGKNKBKHCHM": 21003,
+    "FPKEHKLHHDC": 3745350432,
+    "PMPMKOPBJHA": "Iniquitous Baptist - Caller of Flood, Flame, and Fulmination",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon"
+  },
+  {
+    "PGKNKBKHCHM": 21004,
+    "FPKEHKLHHDC": 3477599544,
+    "PMPMKOPBJHA": "Iniquitous Baptist - Summoner of Flood, Frost, and Fulmination",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon"
+  },
+  {
+    "PGKNKBKHCHM": 21005,
+    "FPKEHKLHHDC": 1840128168,
+    "PMPMKOPBJHA": "Iniquitous Baptist",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon"
+  },
+  {
+    "PGKNKBKHCHM": 21101,
+    "FPKEHKLHHDC": 3303466144,
+    "PMPMKOPBJHA": "Large Shatterstone Breacher Primus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Ovacua_Order_01"
+  },
+  {
+    "PGKNKBKHCHM": 21102,
+    "FPKEHKLHHDC": 3351302096,
+    "PMPMKOPBJHA": "Shatterstone Breacher Primus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Ovacua_Order_02"
+  },
+  {
+    "PGKNKBKHCHM": 21103,
+    "FPKEHKLHHDC": 1920243392,
+    "PMPMKOPBJHA": "Large Overgrown Breacher Primus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Ovacua_Chaos_01"
+  },
+  {
+    "PGKNKBKHCHM": 21104,
+    "FPKEHKLHHDC": 3120151760,
+    "PMPMKOPBJHA": "Overgrown Breacher Primus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Ovacua_Chaos_02"
+  },
+  {
+    "PGKNKBKHCHM": 30101,
+    "FPKEHKLHHDC": 995929064,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Cryogunner Legionnaire",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 30102,
+    "FPKEHKLHHDC": 12762888,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Hydrogunner Legionnaire",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 30103,
+    "FPKEHKLHHDC": 1919409584,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Electrohammer Vanguard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 30104,
+    "FPKEHKLHHDC": 3627495392,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Geochanter Bracer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01"
+  },
+  {
+    "PGKNKBKHCHM": 30105,
+    "FPKEHKLHHDC": 1426306032,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Anemoboxer Vanguard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01"
+  },
+  {
+    "PGKNKBKHCHM": 30106,
+    "FPKEHKLHHDC": 1434878968,
+    "PMPMKOPBJHA": "Fatui Skirmisher - Pyroslinger Bracer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+  },
+  {
+    "PGKNKBKHCHM": 30201,
+    "FPKEHKLHHDC": 3750143024,
+    "PMPMKOPBJHA": "Fatui Pyro Agent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Fire_01"
+  },
+  {
+    "PGKNKBKHCHM": 30301,
+    "FPKEHKLHHDC": 1010609776,
+    "PMPMKOPBJHA": "Fatui Electro Cicin Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Summoner_01"
+  },
+  {
+    "PGKNKBKHCHM": 30401,
+    "FPKEHKLHHDC": 4010466472,
+    "PMPMKOPBJHA": "Fatui Cryo Cicin Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Mage_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 30501,
+    "FPKEHKLHHDC": 1709717640,
+    "PMPMKOPBJHA": "Mirror Maiden",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Maiden_Water"
+  },
+  {
+    "PGKNKBKHCHM": 30601,
+    "FPKEHKLHHDC": 2059788056,
+    "PMPMKOPBJHA": "Frost Operative",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 30602,
+    "FPKEHKLHHDC": 3887106408,
+    "PMPMKOPBJHA": "Wind Operative",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Escadron_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 30603,
+    "FPKEHKLHHDC": 544837160,
+    "PMPMKOPBJHA": "Local Legend: Frost Operative",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Escadron_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 30604,
+    "FPKEHKLHHDC": 3448422640,
+    "PMPMKOPBJHA": "Local Legend: Wind Operative",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Escadron_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 40101,
+    "FPKEHKLHHDC": 1418628360,
+    "PMPMKOPBJHA": "Ruin Guard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Defender_Noner_01"
+  },
+  {
+    "PGKNKBKHCHM": 40102,
+    "FPKEHKLHHDC": 4243053360,
+    "PMPMKOPBJHA": "Ruin Hunter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Formathr_None"
+  },
+  {
+    "PGKNKBKHCHM": 40103,
+    "FPKEHKLHHDC": 399632552,
+    "PMPMKOPBJHA": "Ruin Grader",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Konungmathr"
+  },
+  {
+    "PGKNKBKHCHM": 40104,
+    "FPKEHKLHHDC": 2345695136,
+    "PMPMKOPBJHA": "Ruin Serpent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Nithhoggr_None"
+  },
+  {
+    "PGKNKBKHCHM": 40201,
+    "FPKEHKLHHDC": 2360166000,
+    "PMPMKOPBJHA": "Ruin Cruiser",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone"
+  },
+  {
+    "PGKNKBKHCHM": 40202,
+    "FPKEHKLHHDC": 2106038440,
+    "PMPMKOPBJHA": "Ruin Destroyer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora"
+  },
+  {
+    "PGKNKBKHCHM": 40203,
+    "FPKEHKLHHDC": 2390298952,
+    "PMPMKOPBJHA": "Ruin Defender",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+  },
+  {
+    "PGKNKBKHCHM": 40204,
+    "FPKEHKLHHDC": 545245072,
+    "PMPMKOPBJHA": "Ruin Scout",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler"
+  },
+  {
+    "PGKNKBKHCHM": 40211,
+    "FPKEHKLHHDC": 4062249480,
+    "PMPMKOPBJHA": "Perpetual Mechanical Array",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Perpetual"
+  },
+  {
+    "PGKNKBKHCHM": 40301,
+    "FPKEHKLHHDC": 1874960408,
+    "PMPMKOPBJHA": "Ruin Drake: Skywatch",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gargoyle"
+  },
+  {
+    "PGKNKBKHCHM": 40302,
+    "FPKEHKLHHDC": 745177296,
+    "PMPMKOPBJHA": "Ruin Drake: Earthguard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gargoyle"
+  },
+  {
+    "PGKNKBKHCHM": 40303,
+    "FPKEHKLHHDC": 392391024,
+    "PMPMKOPBJHA": "Aeonblight Drake",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gargoyle_Fafnir"
+  },
+  {
+    "PGKNKBKHCHM": 40401,
+    "FPKEHKLHHDC": 3640705344,
+    "PMPMKOPBJHA": "Primal Construct: Repulsor",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 40402,
+    "FPKEHKLHHDC": 3433160376,
+    "PMPMKOPBJHA": "Primal Construct: Reshaper",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 40403,
+    "FPKEHKLHHDC": 960036488,
+    "PMPMKOPBJHA": "Primal Construct: Prospector",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 40501,
+    "FPKEHKLHHDC": 1856265352,
+    "PMPMKOPBJHA": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Starchild"
+  },
+  {
+    "PGKNKBKHCHM": 40601,
+    "FPKEHKLHHDC": 4140776160,
+    "PMPMKOPBJHA": "Recon Log Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Sentry"
+  },
+  {
+    "PGKNKBKHCHM": 40602,
+    "FPKEHKLHHDC": 2485261272,
+    "PMPMKOPBJHA": "Arithmetic Enhancer Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Pylon"
+  },
+  {
+    "PGKNKBKHCHM": 40603,
+    "FPKEHKLHHDC": 1066803048,
+    "PMPMKOPBJHA": "Underwater Survey Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Recon"
+  },
+  {
+    "PGKNKBKHCHM": 40604,
+    "FPKEHKLHHDC": 1094395920,
+    "PMPMKOPBJHA": "Geological Survey Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Probe"
+  },
+  {
+    "PGKNKBKHCHM": 40605,
+    "FPKEHKLHHDC": 1238666064,
+    "PMPMKOPBJHA": "Underwater Patrol Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nautilus"
+  },
+  {
+    "PGKNKBKHCHM": 40606,
+    "FPKEHKLHHDC": 3995797928,
+    "PMPMKOPBJHA": "Deepwater Assault Mek: Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Frigate"
+  },
+  {
+    "PGKNKBKHCHM": 40607,
+    "FPKEHKLHHDC": 1747337896,
+    "PMPMKOPBJHA": "Nimble Harvester Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Assimilator"
+  },
+  {
+    "PGKNKBKHCHM": 40608,
+    "FPKEHKLHHDC": 4158727312,
+    "PMPMKOPBJHA": "Assault Specialist Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+  },
+  {
+    "PGKNKBKHCHM": 40609,
+    "FPKEHKLHHDC": 630223608,
+    "PMPMKOPBJHA": "Suppression Specialist Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
+  },
+  {
+    "PGKNKBKHCHM": 40610,
+    "FPKEHKLHHDC": 1470451960,
+    "PMPMKOPBJHA": "Annihilation Specialist Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Bradamante"
+  },
+  {
+    "PGKNKBKHCHM": 40611,
+    "FPKEHKLHHDC": 3919209288,
+    "PMPMKOPBJHA": "Area Alert Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
+  },
+  {
+    "PGKNKBKHCHM": 40612,
+    "FPKEHKLHHDC": 892435448,
+    "PMPMKOPBJHA": "Construction Specialist Mek - Ousia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Excavator"
+  },
+  {
+    "PGKNKBKHCHM": 40613,
+    "FPKEHKLHHDC": 381672496,
+    "PMPMKOPBJHA": "Local Legend: Arithmetic Enhancer Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Pylon"
+  },
+  {
+    "PGKNKBKHCHM": 40651,
+    "FPKEHKLHHDC": 1256769200,
+    "PMPMKOPBJHA": "Recon Log Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Sentry"
+  },
+  {
+    "PGKNKBKHCHM": 40652,
+    "FPKEHKLHHDC": 269023824,
+    "PMPMKOPBJHA": "Arithmetic Enhancer Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Pylon"
+  },
+  {
+    "PGKNKBKHCHM": 40653,
+    "FPKEHKLHHDC": 4205809176,
+    "PMPMKOPBJHA": "Underwater Survey Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Recon"
+  },
+  {
+    "PGKNKBKHCHM": 40654,
+    "FPKEHKLHHDC": 193809824,
+    "PMPMKOPBJHA": "Geological Survey Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Probe"
+  },
+  {
+    "PGKNKBKHCHM": 40655,
+    "FPKEHKLHHDC": 1420341400,
+    "PMPMKOPBJHA": "Underwater Patrol Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nautilus"
+  },
+  {
+    "PGKNKBKHCHM": 40656,
+    "FPKEHKLHHDC": 3444415920,
+    "PMPMKOPBJHA": "Deepwater Assault Mek: Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Frigate"
+  },
+  {
+    "PGKNKBKHCHM": 40657,
+    "FPKEHKLHHDC": 3703841120,
+    "PMPMKOPBJHA": "Nimble Harvester Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Assimilator"
+  },
+  {
+    "PGKNKBKHCHM": 40658,
+    "FPKEHKLHHDC": 3334344744,
+    "PMPMKOPBJHA": "Assault Specialist Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+  },
+  {
+    "PGKNKBKHCHM": 40659,
+    "FPKEHKLHHDC": 564435304,
+    "PMPMKOPBJHA": "Suppression Specialist Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
+  },
+  {
+    "PGKNKBKHCHM": 40660,
+    "FPKEHKLHHDC": 4102663072,
+    "PMPMKOPBJHA": "Annihilation Specialist Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Bradamante"
+  },
+  {
+    "PGKNKBKHCHM": 40661,
+    "FPKEHKLHHDC": 2677499600,
+    "PMPMKOPBJHA": "Area Alert Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
+  },
+  {
+    "PGKNKBKHCHM": 40662,
+    "FPKEHKLHHDC": 2909631760,
+    "PMPMKOPBJHA": "Construction Specialist Mek - Pneuma",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Excavator"
+  },
+  {
+    "PGKNKBKHCHM": 40681,
+    "FPKEHKLHHDC": 2479279968,
+    "PMPMKOPBJHA": "Recon Log Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Sentry"
+  },
+  {
+    "PGKNKBKHCHM": 40682,
+    "FPKEHKLHHDC": 1945068152,
+    "PMPMKOPBJHA": "Arithmetic Enhancer Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Pylon"
+  },
+  {
+    "PGKNKBKHCHM": 40683,
+    "FPKEHKLHHDC": 2641906440,
+    "PMPMKOPBJHA": "Underwater Survey Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Recon"
+  },
+  {
+    "PGKNKBKHCHM": 40684,
+    "FPKEHKLHHDC": 1822391752,
+    "PMPMKOPBJHA": "Geological Survey Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Probe"
+  },
+  {
+    "PGKNKBKHCHM": 40685,
+    "FPKEHKLHHDC": 723416032,
+    "PMPMKOPBJHA": "Underwater Patrol Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nautilus"
+  },
+  {
+    "PGKNKBKHCHM": 40686,
+    "FPKEHKLHHDC": 3481979704,
+    "PMPMKOPBJHA": "Deepwater Assault Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Frigate"
+  },
+  {
+    "PGKNKBKHCHM": 40687,
+    "FPKEHKLHHDC": 2198763648,
+    "PMPMKOPBJHA": "Nimble Harvester Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Assimilator"
+  },
+  {
+    "PGKNKBKHCHM": 40688,
+    "FPKEHKLHHDC": 68049912,
+    "PMPMKOPBJHA": "Assault Specialist Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
+  },
+  {
+    "PGKNKBKHCHM": 40689,
+    "FPKEHKLHHDC": 1387101112,
+    "PMPMKOPBJHA": "Suppression Specialist Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
+  },
+  {
+    "PGKNKBKHCHM": 40690,
+    "FPKEHKLHHDC": 1733932512,
+    "PMPMKOPBJHA": "Annihilation Specialist Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Bradamante"
+  },
+  {
+    "PGKNKBKHCHM": 40691,
+    "FPKEHKLHHDC": 3720326080,
+    "PMPMKOPBJHA": "Area Alert Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
+  },
+  {
+    "PGKNKBKHCHM": 40692,
+    "FPKEHKLHHDC": 3581880152,
+    "PMPMKOPBJHA": "Construction Specialist Mek",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Excavator"
+  },
+  {
+    "PGKNKBKHCHM": 40701,
+    "FPKEHKLHHDC": 2001226544,
+    "PMPMKOPBJHA": "Icewind Suite: Nemesis of Coppelius",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
+  },
+  {
+    "PGKNKBKHCHM": 40702,
+    "FPKEHKLHHDC": 1043672848,
+    "PMPMKOPBJHA": "Icewind Suite: Dirge of Coppelia",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
+  },
+  {
+    "PGKNKBKHCHM": 40703,
+    "FPKEHKLHHDC": 242731664,
+    "PMPMKOPBJHA": "Icewind Suite",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
+  },
+  {
+    "PGKNKBKHCHM": 40801,
+    "FPKEHKLHHDC": 3214543168,
+    "PMPMKOPBJHA": "Experimental Field Generator",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Gravitas"
+  },
+  {
+    "PGKNKBKHCHM": 48101,
+    "FPKEHKLHHDC": 3995841000,
+    "PMPMKOPBJHA": "Basic Defensive Pyro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48102,
+    "FPKEHKLHHDC": 1952925880,
+    "PMPMKOPBJHA": "Advanced Defensive Pyro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48103,
+    "FPKEHKLHHDC": 2001019136,
+    "PMPMKOPBJHA": "Basic Defensive Electro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48104,
+    "FPKEHKLHHDC": 973459312,
+    "PMPMKOPBJHA": "Advanced Defensive Electro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48105,
+    "FPKEHKLHHDC": 391056656,
+    "PMPMKOPBJHA": "Basic Defensive Hydro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48106,
+    "FPKEHKLHHDC": 693132112,
+    "PMPMKOPBJHA": "Advanced Defensive Hydro Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48107,
+    "FPKEHKLHHDC": 706010336,
+    "PMPMKOPBJHA": "Basic Defensive Cryo Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48108,
+    "FPKEHKLHHDC": 3289322152,
+    "PMPMKOPBJHA": "Advanced Defensive Cryo Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48109,
+    "FPKEHKLHHDC": 4171513648,
+    "PMPMKOPBJHA": "Basic Defensive Anemo Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48110,
+    "FPKEHKLHHDC": 146399424,
+    "PMPMKOPBJHA": "Advanced Defensive Anemo Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 48111,
+    "FPKEHKLHHDC": 444889392,
+    "PMPMKOPBJHA": "Defensive Physical Tower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 49201,
+    "FPKEHKLHHDC": 1647913616,
+    "PMPMKOPBJHA": "Automaton: Small Slime Balloon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 49202,
+    "FPKEHKLHHDC": 2117269760,
+    "PMPMKOPBJHA": "Automaton: Large Slime Balloon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 49203,
+    "FPKEHKLHHDC": 652910120,
+    "PMPMKOPBJHA": "Automaton: Fungus Balloon",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 49901,
+    "FPKEHKLHHDC": 1390139448,
+    "PMPMKOPBJHA": "",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator"
+  },
+  {
+    "PGKNKBKHCHM": 50101,
+    "FPKEHKLHHDC": 2720944320,
+    "PMPMKOPBJHA": "Treasure Hoarders: Liuliu",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01"
+  },
+  {
+    "PGKNKBKHCHM": 50102,
+    "FPKEHKLHHDC": 3059200712,
+    "PMPMKOPBJHA": "Treasure Hoarders: Scout",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+  },
+  {
+    "PGKNKBKHCHM": 50103,
+    "FPKEHKLHHDC": 1087023424,
+    "PMPMKOPBJHA": "Treasure Hoarders: Pyro Potioneer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01"
+  },
+  {
+    "PGKNKBKHCHM": 50104,
+    "FPKEHKLHHDC": 3798548888,
+    "PMPMKOPBJHA": "Treasure Hoarders: Hydro Potioneer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 50105,
+    "FPKEHKLHHDC": 1521590128,
+    "PMPMKOPBJHA": "Treasure Hoarders: Electro Potioneer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01"
+  },
+  {
+    "PGKNKBKHCHM": 50106,
+    "FPKEHKLHHDC": 361009392,
+    "PMPMKOPBJHA": "Treasure Hoarders: Cryo Potioneer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 50107,
+    "FPKEHKLHHDC": 3123684272,
+    "PMPMKOPBJHA": "Treasure Hoarders: Handyman",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01"
+  },
+  {
+    "PGKNKBKHCHM": 50201,
+    "FPKEHKLHHDC": 3627181320,
+    "PMPMKOPBJHA": "Treasure Hoarders: Raptor",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Crossbow_01"
+  },
+  {
+    "PGKNKBKHCHM": 50202,
+    "FPKEHKLHHDC": 3413949720,
+    "PMPMKOPBJHA": "Treasure Hoarders: Marksman",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Hunter_01"
+  },
+  {
+    "PGKNKBKHCHM": 50301,
+    "FPKEHKLHHDC": 531388104,
+    "PMPMKOPBJHA": "Treasure Hoarders: Carmen",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Shovel_01"
+  },
+  {
+    "PGKNKBKHCHM": 50302,
+    "FPKEHKLHHDC": 28706096,
+    "PMPMKOPBJHA": "Treasure Hoarders: Gravedigger",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02"
+  },
+  {
+    "PGKNKBKHCHM": 50303,
+    "FPKEHKLHHDC": 1603081168,
+    "PMPMKOPBJHA": "Treasure Hoarders: Seaman",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Sailor_01"
+  },
+  {
+    "PGKNKBKHCHM": 50401,
+    "FPKEHKLHHDC": 1914087968,
+    "PMPMKOPBJHA": "Treasure Hoarders: Boss",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Female_Hatchet_01"
+  },
+  {
+    "PGKNKBKHCHM": 50501,
+    "FPKEHKLHHDC": 1541768712,
+    "PMPMKOPBJHA": "Millelith Soldier",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Millelith_Male_01"
+  },
+  {
+    "PGKNKBKHCHM": 50502,
+    "FPKEHKLHHDC": 4161693360,
+    "PMPMKOPBJHA": "Millelith Sergeant",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Millelith_Male_02"
+  },
+  {
+    "PGKNKBKHCHM": 50503,
+    "FPKEHKLHHDC": 1175126584,
+    "PMPMKOPBJHA": "Shogunate Infantry",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Aahigaru_Male_01"
+  },
+  {
+    "PGKNKBKHCHM": 50504,
+    "FPKEHKLHHDC": 1300846616,
+    "PMPMKOPBJHA": "Shogunate Infantry Captain",
+    "ADLKHHCGHAH": "UI_MonsterIcon_AahigaruTaisho_Male_01"
+  },
+  {
+    "PGKNKBKHCHM": 50505,
+    "FPKEHKLHHDC": 2581117880,
+    "PMPMKOPBJHA": "Sangonomiya Cohort",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Millelith_Male_02"
+  },
+  {
+    "PGKNKBKHCHM": 50601,
+    "FPKEHKLHHDC": 557874744,
+    "PMPMKOPBJHA": "Treasure Hoarders: Pugilist",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01"
+  },
+  {
+    "PGKNKBKHCHM": 50701,
+    "FPKEHKLHHDC": 2325739152,
+    "PMPMKOPBJHA": "Treasure Hoarders: Crusher",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
+  },
+  {
+    "PGKNKBKHCHM": 50702,
+    "FPKEHKLHHDC": 4260216696,
+    "PMPMKOPBJHA": "Treasure Hoarders: Wallenstein",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
+  },
+  {
+    "PGKNKBKHCHM": 50801,
+    "FPKEHKLHHDC": 2854295616,
+    "PMPMKOPBJHA": "Nobushi: Jintouban",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ronin_01"
+  },
+  {
+    "PGKNKBKHCHM": 50802,
+    "FPKEHKLHHDC": 2410706536,
+    "PMPMKOPBJHA": "Nobushi: Hitsukeban",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ronin_02"
+  },
+  {
+    "PGKNKBKHCHM": 50803,
+    "FPKEHKLHHDC": 628782592,
+    "PMPMKOPBJHA": "Nobushi: Kikouban",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ronin_03"
+  },
+  {
+    "PGKNKBKHCHM": 50804,
+    "FPKEHKLHHDC": 2183303536,
+    "PMPMKOPBJHA": "Yoriki Samurai",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Hatamoto_01"
+  },
+  {
+    "PGKNKBKHCHM": 50901,
+    "FPKEHKLHHDC": 1759704776,
+    "PMPMKOPBJHA": "Maguu Kenki",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ningyo"
+  },
+  {
+    "PGKNKBKHCHM": 50902,
+    "FPKEHKLHHDC": 1312052256,
+    "PMPMKOPBJHA": "Maguu Kenki: Lone Gale",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ningyo_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 50903,
+    "FPKEHKLHHDC": 2743685832,
+    "PMPMKOPBJHA": "Maguu Kenki: Galloping Frost",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ningyo_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 50904,
+    "FPKEHKLHHDC": 2823011544,
+    "PMPMKOPBJHA": "Maguu Kenki: Mask of Terror",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ningyo_Mask"
+  },
+  {
+    "PGKNKBKHCHM": 51001,
+    "FPKEHKLHHDC": 756201560,
+    "PMPMKOPBJHA": "Kairagi: Dancing Thunder",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_01"
+  },
+  {
+    "PGKNKBKHCHM": 51002,
+    "FPKEHKLHHDC": 2117605600,
+    "PMPMKOPBJHA": "Kairagi: Fiery Might",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_02"
+  },
+  {
+    "PGKNKBKHCHM": 51003,
+    "FPKEHKLHHDC": 3213672968,
+    "PMPMKOPBJHA": "Ochimusha: Ensorcelled Thunder",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_01"
+  },
+  {
+    "PGKNKBKHCHM": 51004,
+    "FPKEHKLHHDC": 3794652600,
+    "PMPMKOPBJHA": "Ochimusha: Cankered Flame",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_02"
+  },
+  {
+    "PGKNKBKHCHM": 51101,
+    "FPKEHKLHHDC": 1974811384,
+    "PMPMKOPBJHA": "Spirit of Omen: Stone Drake",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
+  },
+  {
+    "PGKNKBKHCHM": 51102,
+    "FPKEHKLHHDC": 212096752,
+    "PMPMKOPBJHA": "Spirit of Omen: Wind Glede",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Standard_Longbow"
+  },
+  {
+    "PGKNKBKHCHM": 51103,
+    "FPKEHKLHHDC": 1475388712,
+    "PMPMKOPBJHA": "Spirit of Omen: Pyro Scorpion",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_05"
+  },
+  {
+    "PGKNKBKHCHM": 51104,
+    "FPKEHKLHHDC": 2282634880,
+    "PMPMKOPBJHA": "Spirit of Omen: Dendro Spirit-Serpent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_05"
+  },
+  {
+    "PGKNKBKHCHM": 52101,
+    "FPKEHKLHHDC": 4033438760,
+    "PMPMKOPBJHA": "Eremite Axe Vanguard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Hatchet"
+  },
+  {
+    "PGKNKBKHCHM": 52102,
+    "FPKEHKLHHDC": 570914008,
+    "PMPMKOPBJHA": "Eremite Crossbow",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow"
+  },
+  {
+    "PGKNKBKHCHM": 52103,
+    "FPKEHKLHHDC": 208498888,
+    "PMPMKOPBJHA": "Eremite Ravenbeak Halberdier",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Standard_Pole"
+  },
+  {
+    "PGKNKBKHCHM": 52104,
+    "FPKEHKLHHDC": 941545672,
+    "PMPMKOPBJHA": "Eremite Linebreaker",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_MuscleMan_Gloves"
+  },
+  {
+    "PGKNKBKHCHM": 52105,
+    "FPKEHKLHHDC": 2346894216,
+    "PMPMKOPBJHA": "Eremite Sword-Dancer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_MuscleMan_Simitar"
+  },
+  {
+    "PGKNKBKHCHM": 52106,
+    "FPKEHKLHHDC": 2817463448,
+    "PMPMKOPBJHA": "",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+  },
+  {
+    "PGKNKBKHCHM": 53101,
+    "FPKEHKLHHDC": 2370874928,
+    "PMPMKOPBJHA": "Eremite Desert Clearwater",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger"
+  },
+  {
+    "PGKNKBKHCHM": 53102,
+    "FPKEHKLHHDC": 3916342008,
+    "PMPMKOPBJHA": "Eremite Sunfrost",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
+  },
+  {
+    "PGKNKBKHCHM": 53103,
+    "FPKEHKLHHDC": 3814441896,
+    "PMPMKOPBJHA": "Eremite Daythunder",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Standard_Polearm"
+  },
+  {
+    "PGKNKBKHCHM": 54101,
+    "FPKEHKLHHDC": 3908443880,
+    "PMPMKOPBJHA": "Eremite Stone Enchanter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
+  },
+  {
+    "PGKNKBKHCHM": 54102,
+    "FPKEHKLHHDC": 4217422888,
+    "PMPMKOPBJHA": "Eremite Galehunter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Standard_Longbow"
+  },
+  {
+    "PGKNKBKHCHM": 54103,
+    "FPKEHKLHHDC": 2089267960,
+    "PMPMKOPBJHA": "Eremite Scorching Loremaster",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Standard_Oracle"
+  },
+  {
+    "PGKNKBKHCHM": 54104,
+    "FPKEHKLHHDC": 1917817184,
+    "PMPMKOPBJHA": "Eremite Floral Ring-Dancer",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Female_Standard_Dancer"
+  },
+  {
+    "PGKNKBKHCHM": 60101,
+    "FPKEHKLHHDC": 883066616,
+    "PMPMKOPBJHA": "Cryo Whopperflower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Mimik_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 60102,
+    "FPKEHKLHHDC": 516009168,
+    "PMPMKOPBJHA": "Pyro Whopperflower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Mimik_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 60103,
+    "FPKEHKLHHDC": 235094848,
+    "PMPMKOPBJHA": "Electro Whopperflower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Mimik_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 60201,
+    "FPKEHKLHHDC": 1058177408,
+    "PMPMKOPBJHA": "Cryo Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 60202,
+    "FPKEHKLHHDC": 184117072,
+    "PMPMKOPBJHA": "Pyro Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 60203,
+    "FPKEHKLHHDC": 3366866392,
+    "PMPMKOPBJHA": "Electro Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 60301,
+    "FPKEHKLHHDC": 2176598456,
+    "PMPMKOPBJHA": "Geovishap Hatchling",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Wyrm_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60401,
+    "FPKEHKLHHDC": 94524776,
+    "PMPMKOPBJHA": "Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60501,
+    "FPKEHKLHHDC": 1057217072,
+    "PMPMKOPBJHA": "Primo Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60502,
+    "FPKEHKLHHDC": 2889994600,
+    "PMPMKOPBJHA": "Primo Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60503,
+    "FPKEHKLHHDC": 2849885272,
+    "PMPMKOPBJHA": "Primo Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60504,
+    "FPKEHKLHHDC": 118494128,
+    "PMPMKOPBJHA": "Primo Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60506,
+    "FPKEHKLHHDC": 2607892752,
+    "PMPMKOPBJHA": "Primordial Bathysmal Vishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Water"
+  },
+  {
+    "PGKNKBKHCHM": 60507,
+    "FPKEHKLHHDC": 1409593464,
+    "PMPMKOPBJHA": "Rimebiter Bathysmal Vishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 60508,
+    "FPKEHKLHHDC": 780741856,
+    "PMPMKOPBJHA": "Bolteater Bathysmal Vishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 60509,
+    "FPKEHKLHHDC": 3368753712,
+    "PMPMKOPBJHA": "Primordial Bathysmal Vishap Hatchling",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Water"
+  },
+  {
+    "PGKNKBKHCHM": 60510,
+    "FPKEHKLHHDC": 2861452928,
+    "PMPMKOPBJHA": "Rimebiter Bathysmal Vishap Hatchling",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 60511,
+    "FPKEHKLHHDC": 3992097400,
+    "PMPMKOPBJHA": "Bolteater Bathysmal Vishap Hatchling",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 60601,
+    "FPKEHKLHHDC": 2662118744,
+    "PMPMKOPBJHA": "Electro Cicin",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Cicin_Thunder_01"
+  },
+  {
+    "PGKNKBKHCHM": 60602,
+    "FPKEHKLHHDC": 5464472,
+    "PMPMKOPBJHA": "Hydro Cicin",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Cicin_Water_01"
+  },
+  {
+    "PGKNKBKHCHM": 60603,
+    "FPKEHKLHHDC": 1902456384,
+    "PMPMKOPBJHA": "Cryo Cicin",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Cicin_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 60801,
+    "FPKEHKLHHDC": 4026370056,
+    "PMPMKOPBJHA": "Beisht",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Cicin_Ice_01"
+  },
+  {
+    "PGKNKBKHCHM": 60901,
+    "FPKEHKLHHDC": 2148393144,
+    "PMPMKOPBJHA": "Floating Hydro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+  },
+  {
+    "PGKNKBKHCHM": 60902,
+    "FPKEHKLHHDC": 1307880752,
+    "PMPMKOPBJHA": "Floating Dendro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Un_Delta_Grass"
+  },
+  {
+    "PGKNKBKHCHM": 60903,
+    "FPKEHKLHHDC": 3688247560,
+    "PMPMKOPBJHA": "Floating Anemo Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Un_Delta_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 60904,
+    "FPKEHKLHHDC": 4191543160,
+    "PMPMKOPBJHA": "Whirling Electro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 60905,
+    "FPKEHKLHHDC": 4127966472,
+    "PMPMKOPBJHA": "Whirling Cryo Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 60906,
+    "FPKEHKLHHDC": 1899331960,
+    "PMPMKOPBJHA": "Whirling Pyro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 60907,
+    "FPKEHKLHHDC": 3502126912,
+    "PMPMKOPBJHA": "Stretchy Pyro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 60908,
+    "FPKEHKLHHDC": 2124724528,
+    "PMPMKOPBJHA": "Stretchy Anemo Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 60909,
+    "FPKEHKLHHDC": 2193662336,
+    "PMPMKOPBJHA": "Stretchy Geo Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Deux_Beta_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 60910,
+    "FPKEHKLHHDC": 3419745752,
+    "PMPMKOPBJHA": "Stretchy Electro Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Deux_Delta_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 61001,
+    "FPKEHKLHHDC": 2762852304,
+    "PMPMKOPBJHA": "Consecrated Horned Crocodile",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gator_Sacred_Water"
+  },
+  {
+    "PGKNKBKHCHM": 61002,
+    "FPKEHKLHHDC": 3698647272,
+    "PMPMKOPBJHA": "Consecrated Fanged Beast",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Panther_Sacred_Grass"
+  },
+  {
+    "PGKNKBKHCHM": 61003,
+    "FPKEHKLHHDC": 471079112,
+    "PMPMKOPBJHA": "Consecrated Red Vulture",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Vulture_Sacred_Fire"
+  },
+  {
+    "PGKNKBKHCHM": 61004,
+    "FPKEHKLHHDC": 2093292568,
+    "PMPMKOPBJHA": "Consecrated Scorpion",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Scorpion_Sacred_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 61005,
+    "FPKEHKLHHDC": 2495079336,
+    "PMPMKOPBJHA": "Consecrated Flying Serpent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Chrysopelea_Sacred_Wind"
+  },
+  {
+    "PGKNKBKHCHM": 61101,
+    "FPKEHKLHHDC": 1551254368,
+    "PMPMKOPBJHA": "Jadeplume Terrorshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Raptor"
+  },
+  {
+    "PGKNKBKHCHM": 61201,
+    "FPKEHKLHHDC": 3206484936,
+    "PMPMKOPBJHA": "Winged Dendroshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass"
+  },
+  {
+    "PGKNKBKHCHM": 61202,
+    "FPKEHKLHHDC": 3547346360,
+    "PMPMKOPBJHA": "Winged Cryoshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice"
+  },
+  {
+    "PGKNKBKHCHM": 61203,
+    "FPKEHKLHHDC": 3396957208,
+    "PMPMKOPBJHA": "Grounded Hydroshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water"
+  },
+  {
+    "PGKNKBKHCHM": 61204,
+    "FPKEHKLHHDC": 46325200,
+    "PMPMKOPBJHA": "Grounded Geoshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock"
+  },
+  {
+    "PGKNKBKHCHM": 61301,
+    "FPKEHKLHHDC": 4140228680,
+    "PMPMKOPBJHA": "Setekh Wenut",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sandworm"
+  },
+  {
+    "PGKNKBKHCHM": 61510,
+    "FPKEHKLHHDC": 1540072464,
+    "PMPMKOPBJHA": "Hunter's Ray",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MantaRay_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61511,
+    "FPKEHKLHHDC": 406666840,
+    "PMPMKOPBJHA": "Hunter's Ray",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MantaRay_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61521,
+    "FPKEHKLHHDC": 1684159544,
+    "PMPMKOPBJHA": "Armored Crab",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61522,
+    "FPKEHKLHHDC": 1876836496,
+    "PMPMKOPBJHA": "Armored Crab",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61531,
+    "FPKEHKLHHDC": 1164130192,
+    "PMPMKOPBJHA": "Blubberbeast",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Seal_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61541,
+    "FPKEHKLHHDC": 2955045776,
+    "PMPMKOPBJHA": "Hat Jellyfish",
+    "ADLKHHCGHAH": "UI_MonsterIcon_JellyFish_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61542,
+    "FPKEHKLHHDC": 2145912744,
+    "PMPMKOPBJHA": "Hat Jellyfish",
+    "ADLKHHCGHAH": "UI_MonsterIcon_JellyFish_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61551,
+    "FPKEHKLHHDC": 2552310592,
+    "PMPMKOPBJHA": "Bubbly Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61552,
+    "FPKEHKLHHDC": 2493399008,
+    "PMPMKOPBJHA": "Bubbly Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61553,
+    "FPKEHKLHHDC": 297536392,
+    "PMPMKOPBJHA": "Bubbly Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Larva_03"
+  },
+  {
+    "PGKNKBKHCHM": 61561,
+    "FPKEHKLHHDC": 2667392352,
+    "PMPMKOPBJHA": "Ball Octopus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Octopus_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61562,
+    "FPKEHKLHHDC": 2227292832,
+    "PMPMKOPBJHA": "Ball Octopus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Octopus_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61571,
+    "FPKEHKLHHDC": 3467903536,
+    "PMPMKOPBJHA": "Angelic Sea Hare",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Aplysia_Larva_01"
+  },
+  {
+    "PGKNKBKHCHM": 61572,
+    "FPKEHKLHHDC": 2979417520,
+    "PMPMKOPBJHA": "Angelic Sea Hare",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Aplysia_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61601,
+    "FPKEHKLHHDC": 654631136,
+    "PMPMKOPBJHA": "Sternshield Crab",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Mature"
+  },
+  {
+    "PGKNKBKHCHM": 61602,
+    "FPKEHKLHHDC": 4031845888,
+    "PMPMKOPBJHA": "Cherubic Sea Hare",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Aplysia_Mature"
+  },
+  {
+    "PGKNKBKHCHM": 61603,
+    "FPKEHKLHHDC": 597164232,
+    "PMPMKOPBJHA": "Bubbler Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Mature"
+  },
+  {
+    "PGKNKBKHCHM": 61621,
+    "FPKEHKLHHDC": 1008315040,
+    "PMPMKOPBJHA": "Local Legend: Armored Crab",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Mature_02"
+  },
+  {
+    "PGKNKBKHCHM": 61622,
+    "FPKEHKLHHDC": 2197390984,
+    "PMPMKOPBJHA": "Local Legend: Hunter's Ray",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MantaRay_Larva_03"
+  },
+  {
+    "PGKNKBKHCHM": 61623,
+    "FPKEHKLHHDC": 3222616904,
+    "PMPMKOPBJHA": "Local Legend: Blubberbeast",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Seal_Larva_02"
+  },
+  {
+    "PGKNKBKHCHM": 61624,
+    "FPKEHKLHHDC": 2597609624,
+    "PMPMKOPBJHA": "Local Legend: Cherubic Sea Hare",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Aplysia_Mature"
+  },
+  {
+    "PGKNKBKHCHM": 61701,
+    "FPKEHKLHHDC": 2025251152,
+    "PMPMKOPBJHA": "Emperor of Fire and Iron",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Primo"
+  },
+  {
+    "PGKNKBKHCHM": 61801,
+    "FPKEHKLHHDC": 1979419840,
+    "PMPMKOPBJHA": "Millennial Pearl Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Primo_Electric"
+  },
+  {
+    "PGKNKBKHCHM": 90101,
+    "FPKEHKLHHDC": 390703016,
+    "PMPMKOPBJHA": "Stormterror",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Dvalin"
+  },
+  {
+    "PGKNKBKHCHM": 90201,
+    "FPKEHKLHHDC": 1869267944,
+    "PMPMKOPBJHA": "Lupus Boreas, Dominator of Wolves",
+    "ADLKHHCGHAH": "UI_MonsterIcon_LupiBoreas"
+  },
+  {
+    "PGKNKBKHCHM": 90301,
+    "FPKEHKLHHDC": 2530909488,
+    "PMPMKOPBJHA": "Childe",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Tartaglia"
+  },
+  {
+    "PGKNKBKHCHM": 90401,
+    "FPKEHKLHHDC": 3423290768,
+    "PMPMKOPBJHA": "Azhdaha",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Dahaka"
+  },
+  {
+    "PGKNKBKHCHM": 90501,
+    "FPKEHKLHHDC": 1726738920,
+    "PMPMKOPBJHA": "La Signora",
+    "ADLKHHCGHAH": "UI_MonsterIcon_LaSignora"
+  },
+  {
+    "PGKNKBKHCHM": 90601,
+    "FPKEHKLHHDC": 1928397248,
+    "PMPMKOPBJHA": "Raiden Shogun",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  {
+    "PGKNKBKHCHM": 90602,
+    "FPKEHKLHHDC": 976885856,
+    "PMPMKOPBJHA": "Magatsu Mitake Narukami no Mikoto",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  {
+    "PGKNKBKHCHM": 90701,
+    "FPKEHKLHHDC": 2221926632,
+    "PMPMKOPBJHA": "Shouki no Kami, the Prodigal",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Nada"
+  },
+  {
+    "PGKNKBKHCHM": 90801,
+    "FPKEHKLHHDC": 3115382544,
+    "PMPMKOPBJHA": "Guardian of Apep's Oasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apep"
+  },
+  {
+    "PGKNKBKHCHM": 90802,
+    "FPKEHKLHHDC": 1638498832,
+    "PMPMKOPBJHA": "Preliminary Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 90803,
+    "FPKEHKLHHDC": 1151284056,
+    "PMPMKOPBJHA": "Predatory Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 90804,
+    "FPKEHKLHHDC": 1258525040,
+    "PMPMKOPBJHA": "Protective Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 90805,
+    "FPKEHKLHHDC": 1663159512,
+    "PMPMKOPBJHA": "Provender Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 90806,
+    "FPKEHKLHHDC": 4179505856,
+    "PMPMKOPBJHA": "Pernicious Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  },
+  {
+    "PGKNKBKHCHM": 90807,
+    "FPKEHKLHHDC": 1154097192,
+    "PMPMKOPBJHA": "Perch Proliferating Organism",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01"
+  }
+]

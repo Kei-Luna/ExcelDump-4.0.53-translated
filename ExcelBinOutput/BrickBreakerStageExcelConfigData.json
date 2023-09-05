@@ -1,0 +1,200 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "KAEJCCKHPIN": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      }
+    ],
+    "LPDLOOIPJJB": 100301,
+    "LOGBHLAFFJA": 1,
+    "ENFLGIGKCGL": [
+      [
+        {
+          "CDOIPGMKDFF": 1201801
+        },
+        {
+          "CDOIPGMKDFF": 1201828
+        },
+        {
+          "CDOIPGMKDFF": 1201803
+        },
+        {
+          "CDOIPGMKDFF": 1201829
+        },
+        {
+          "CDOIPGMKDFF": 1201830
+        }
+      ],
+      [
+        {
+          "CDOIPGMKDFF": 1201804
+        },
+        {
+          "CDOIPGMKDFF": 1201831
+        },
+        {
+          "CDOIPGMKDFF": 1201806
+        },
+        {
+          "CDOIPGMKDFF": 1201832
+        },
+        {
+          "CDOIPGMKDFF": 1201833
+        }
+      ]
+    ],
+    "ANBGKDAHELN": [
+      {
+        "CDOIPGMKDFF": 1201819
+      },
+      {
+        "CDOIPGMKDFF": 1201820
+      },
+      {
+        "CDOIPGMKDFF": 1201821
+      },
+      {
+        "CDOIPGMKDFF": 1201842
+      },
+      {
+        "CDOIPGMKDFF": 1201843
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "KAEJCCKHPIN": [
+      {
+        "CDOIPGMKDFF": 2001
+      },
+      {
+        "CDOIPGMKDFF": 2002
+      }
+    ],
+    "LPDLOOIPJJB": 200301,
+    "LOGBHLAFFJA": 3,
+    "ENFLGIGKCGL": [
+      [
+        {
+          "CDOIPGMKDFF": 1201807
+        },
+        {
+          "CDOIPGMKDFF": 1201808
+        },
+        {
+          "CDOIPGMKDFF": 1201809
+        },
+        {
+          "CDOIPGMKDFF": 1201834
+        },
+        {
+          "CDOIPGMKDFF": 1201835
+        }
+      ],
+      [
+        {
+          "CDOIPGMKDFF": 1201810
+        },
+        {
+          "CDOIPGMKDFF": 1201811
+        },
+        {
+          "CDOIPGMKDFF": 1201812
+        },
+        {
+          "CDOIPGMKDFF": 1201836
+        },
+        {
+          "CDOIPGMKDFF": 1201837
+        }
+      ]
+    ],
+    "ANBGKDAHELN": [
+      {
+        "CDOIPGMKDFF": 1201822
+      },
+      {
+        "CDOIPGMKDFF": 1201823
+      },
+      {
+        "CDOIPGMKDFF": 1201824
+      },
+      {
+        "CDOIPGMKDFF": 1201844
+      },
+      {
+        "CDOIPGMKDFF": 1201845
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "KAEJCCKHPIN": [
+      {
+        "CDOIPGMKDFF": 3001
+      },
+      {
+        "CDOIPGMKDFF": 3002
+      }
+    ],
+    "LPDLOOIPJJB": 300301,
+    "LOGBHLAFFJA": 5,
+    "ENFLGIGKCGL": [
+      [
+        {
+          "CDOIPGMKDFF": 1201813
+        },
+        {
+          "CDOIPGMKDFF": 1201814
+        },
+        {
+          "CDOIPGMKDFF": 1201815
+        },
+        {
+          "CDOIPGMKDFF": 1201838
+        },
+        {
+          "CDOIPGMKDFF": 1201839
+        }
+      ],
+      [
+        {
+          "CDOIPGMKDFF": 1201816
+        },
+        {
+          "CDOIPGMKDFF": 1201817
+        },
+        {
+          "CDOIPGMKDFF": 1201818
+        },
+        {
+          "CDOIPGMKDFF": 1201840
+        },
+        {
+          "CDOIPGMKDFF": 1201841
+        }
+      ]
+    ],
+    "ANBGKDAHELN": [
+      {
+        "CDOIPGMKDFF": 1201825
+      },
+      {
+        "CDOIPGMKDFF": 1201826
+      },
+      {
+        "CDOIPGMKDFF": 1201827
+      },
+      {
+        "CDOIPGMKDFF": 1201846
+      },
+      {
+        "CDOIPGMKDFF": 1201847
+      }
+    ]
+  }
+]

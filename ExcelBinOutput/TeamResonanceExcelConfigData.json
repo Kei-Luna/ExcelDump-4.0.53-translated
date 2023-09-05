@@ -1,0 +1,410 @@
+[
+  {
+    "POGKEOJGBAJ": 10101,
+    "AEKGHILPENM": 2,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 2012776706,
+    "PMPMKOPBJHA": "Fervent Flames",
+    "OCHCPNIBIPF": 3981421851,
+    "AJGMCFNDKEG": "Affected by Cryo for 40% less time. Increases ATK by 25%.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Fire_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0.25
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10201,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 2,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 2733620714,
+    "PMPMKOPBJHA": "Soothing Water",
+    "OCHCPNIBIPF": 740980787,
+    "AJGMCFNDKEG": "Affected by Pyro for 40% less time. Increases Max HP by 25%.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Water_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0.25
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10301,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 2,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 166087994,
+    "PMPMKOPBJHA": "Impetuous Winds",
+    "OCHCPNIBIPF": 170982675,
+    "AJGMCFNDKEG": "Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Wind_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": -0.15
+      },
+      {
+        "CDOIPGMKDFF": 0.1
+      },
+      {
+        "CDOIPGMKDFF": 0.05
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10401,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 2,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 2331327954,
+    "PMPMKOPBJHA": "High Voltage",
+    "OCHCPNIBIPF": 1982396323,
+    "AJGMCFNDKEG": "Affected by Hydro for 40% less time. Superconduct, Overloaded, Electro-Charged, Quicken, Aggravate, or Hyperbloom have a 100% chance to generate an Electro Elemental Particle (CD: 5s).",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Electric_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10501,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 2,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 1292621586,
+    "PMPMKOPBJHA": "Sprawling Greenery",
+    "OCHCPNIBIPF": 2900013027,
+    "AJGMCFNDKEG": "Elemental Mastery increased by 50. After triggering Burning, Quicken, or Bloom reactions, all nearby party members gain 30 Elemental Mastery for 6s. After triggering Aggravate, Spread, Hyperbloom, or Burgeon reactions, all nearby party members gain 20 Elemental Mastery for 6s. The durations of the aforementioned effects will be counted independently.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Grass_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10601,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 2,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 1853529306,
+    "PMPMKOPBJHA": "Shattering Ice",
+    "OCHCPNIBIPF": 2601161539,
+    "AJGMCFNDKEG": "Affected by Electro for 40% less time. Increases CRIT Rate against opponents that are Frozen or affected by Cryo by 15%.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Ice_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0.15
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10701,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 2,
+    "NOJCHCMJGBL": 0,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 3018382842,
+    "PMPMKOPBJHA": "Enduring Rock",
+    "OCHCPNIBIPF": 1707021043,
+    "AJGMCFNDKEG": "Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_Rock_Lv2",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0.15
+      },
+      {
+        "CDOIPGMKDFF": 0.15
+      },
+      {
+        "CDOIPGMKDFF": 15
+      },
+      {
+        "CDOIPGMKDFF": -0.2
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  },
+  {
+    "POGKEOJGBAJ": 10801,
+    "AEKGHILPENM": 0,
+    "HLKNBPABLKP": 0,
+    "KLBJNEJHFOD": 0,
+    "FCAGHFIEPGF": 0,
+    "JNLGLGCGNPJ": 0,
+    "BCFMNONCDLJ": 0,
+    "APOOPKDEJEI": 0,
+    "NOJCHCMJGBL": 1,
+    "NEGNBMNLAMI": 0,
+    "FPKEHKLHHDC": 2109006394,
+    "PMPMKOPBJHA": "Protective Canopy",
+    "OCHCPNIBIPF": 3556079627,
+    "AJGMCFNDKEG": "All Elemental RES +15%, Physical RES +15%.",
+    "EEEIAHBEGOG": 0,
+    "AEHNLENGACP": "TeamResonance_AllDifferent",
+    "DMHHNJDANOI": [],
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0.15
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ]
+  }
+]

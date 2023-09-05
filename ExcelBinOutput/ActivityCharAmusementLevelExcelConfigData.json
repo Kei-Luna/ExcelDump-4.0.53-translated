@@ -1,0 +1,614 @@
+[
+  {
+    "MGGPNIDOBGF": 1,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6041
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_01",
+    "GLIALHMPJCP": 4118195393,
+    "JDNCJPOGDKN": "Boulder Run",
+    "FFBHECLIMOH": 3678785393,
+    "OGHIHPCCIHM": "Use Yelan's Elemental Skill to move quickly and dodge <color=#FFCC33FF>Giant Pinballs</color>. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 4012773663,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Boulder Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n2. The challenge will contain fast-moving <color=#FFCC33FF>Giant Pinballs</color> that, when touched, will send the character(s) flying. \\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYelan \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 2,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6007
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_02",
+    "GLIALHMPJCP": 2736653673,
+    "JDNCJPOGDKN": "Boulder Run",
+    "FFBHECLIMOH": 3504321161,
+    "OGHIHPCCIHM": "Use Mona's Talent \"Illusory Torrent\" to move quickly and dodge <color=#FFCC33FF>Giant Pinballs</color>. Pick Adventure Coins up to score points.",
+    "AIPAAJIDEOG": 1404323319,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Boulder Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n2. The challenge will contain fast-moving <color=#FFCC33FF>Giant Pinballs</color> that, when touched, will send the character(s) flying.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nMona \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 3,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6038
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_03",
+    "GLIALHMPJCP": 3651758369,
+    "JDNCJPOGDKN": "Hammering Blow",
+    "FFBHECLIMOH": 1120481057,
+    "OGHIHPCCIHM": "Use Venti's Plunging Attack to send the <color=#FFCC33FF>Elevated Platforms</color> back to the ground. Pick Adventure Coins up to score points. \\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 3788822311,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Hammering Blow</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n2. <color=#FFCC33FF>Elevated Platforms</color> will rise randomly during the challenge. A Plunging Attack on it will knock it back to the ground and drop Adventure Coins.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nVenti \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 4,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6000
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_04",
+    "GLIALHMPJCP": 1742641241,
+    "JDNCJPOGDKN": "Hammering Blow",
+    "FFBHECLIMOH": 3296315905,
+    "OGHIHPCCIHM": "Use Xiao's Plunging Attack to send the <color=#FFCC33FF>Elevated Platforms</color> back to the ground. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and will constantly regenerate HP. After Xiao unleashes his Elemental Burst, he will have Bane of All Evil permanently activated.",
+    "AIPAAJIDEOG": 1575980511,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Hammering Blow</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n2. <color=#FFCC33FF>Elevated Platforms</color> will rise randomly during the challenge. A Plunging Attack on it will knock it back to the ground and drop Adventure Coins.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nXiao \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 5,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6025
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_05",
+    "GLIALHMPJCP": 648534553,
+    "JDNCJPOGDKN": "Verdant Tsunami",
+    "FFBHECLIMOH": 1873020785,
+    "OGHIHPCCIHM": "Use Sayu's Elemental Skill to freeze the water's surface and move quickly. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and the duration of being affected by Hydro will be decreased.",
+    "AIPAAJIDEOG": 526852631,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Verdant Tsunami</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n2. During the challenge, the Large Cryo Slimes will neither attack nor die and will continue to affect themselves with Cryo.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nSayu \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 6,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6006
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_06",
+    "GLIALHMPJCP": 3783052041,
+    "JDNCJPOGDKN": "Verdant Tsunami",
+    "FFBHECLIMOH": 42901433,
+    "OGHIHPCCIHM": "Use Kamisato Ayaka's Talent \"Kamisato Art: Senho\" to quickly move across the water's surface and pick Adventure Coins up to score points.",
+    "AIPAAJIDEOG": 2430326735,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Verdant Tsunami</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. The challenge will be deemed successful when the target score is reached.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nKamisato Ayaka \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 7,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6015
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_07",
+    "GLIALHMPJCP": 530272073,
+    "JDNCJPOGDKN": "A Close Home Run",
+    "FFBHECLIMOH": 3180331065,
+    "OGHIHPCCIHM": "Use Beidou's Elemental Skill to hit the balls for points.\\nDuring the challenge, all party members will receive a cooldown reduction, cannot use Normal, Charged, or Plunging Attacks, and cannot unleash Elemental Bursts.",
+    "AIPAAJIDEOG": 2732377727,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: A Close Home Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Hit a <color=#FFCC33FF>Straight Ball</color> hurtling towards your character to score 1 point, and hit a <color=#FFCC33FF>Curve Ball</color> to score 3 points. The challenge will be deemed successful when the target score is reached.\\n2. After a certain amount of time, the difficulty of batting will increase, but the points you score will also double.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nBeidou \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 8,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6031
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_08",
+    "GLIALHMPJCP": 2746285185,
+    "JDNCJPOGDKN": "A Close Home Run",
+    "FFBHECLIMOH": 2370742017,
+    "OGHIHPCCIHM": "Use Yun Jin's Elemental Skill to hit the balls for points.\\nDuring the challenge, all party members will receive a cooldown reduction, cannot use Normal, Charged, or Plunging Attacks, and cannot unleash Elemental Bursts.",
+    "AIPAAJIDEOG": 889622119,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: A Close Home Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Hit a <color=#FFCC33FF>Straight Ball</color> hurtling towards your character to score 1 point, and hit a <color=#FFCC33FF>Curve Ball</color> to score 3 points. The challenge will be deemed successful when the target score is reached.\\n2. After a certain amount of time, the difficulty of batting will increase, but the points you score will also double.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYun Jin \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 9,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6003
+      },
+      {
+        "CDOIPGMKDFF": 6044
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_09",
+    "GLIALHMPJCP": 370924033,
+    "JDNCJPOGDKN": "Superfast Hat Trick",
+    "FFBHECLIMOH": 494982705,
+    "OGHIHPCCIHM": "Knock the Slimes into the <color=#FFCC33FF>Vine Goals</color> by triggering the Overloaded reaction with Yanfei's and Klee's attacks to score points.\\nDuring the challenge, all party members cannot use their Elemental Bursts.",
+    "AIPAAJIDEOG": 2496044079,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Superfast Hat Trick</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, knock an Electro Slime into any of the <color=#FFCC33FF>Vine Goals</color> to score 1 point. Knock a Large Electro Slime into a goal to score 5 points. The challenge will be deemed successful when the target score is reached.\\n2. During the challenge, the Electro Slimes and the Large Electro Slimes will not attack nor die and will continuously affect themselves with Electro.\\n3. During the challenge, there are moving walls that Electro Slimes and Large Electro Slimes can bounce off of.\\n\\n<color=#D3BC8EFF>Trial Characters</color> \\nKlee and Yanfei \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 10,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6043
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_10",
+    "GLIALHMPJCP": 2569872153,
+    "JDNCJPOGDKN": "Superfast Hat Trick",
+    "FFBHECLIMOH": 723593721,
+    "OGHIHPCCIHM": "Knock the Slimes into the <color=#FFCC33FF>Vine Goals</color> by using Jean's Elemental Skill to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and cannot use their Elemental Bursts.",
+    "AIPAAJIDEOG": 2088029447,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Superfast Hat Trick</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, knock a Pyro Slime into any of the <color=#FFCC33FF>Vine Goals</color> to gain 1 point. Knock a Large Pyro Slime into the goal to gain 5 points. The challenge will be deemed successful when the target score is reached.\\n2. During the challenge, the Pyro Slimes and the Large Pyro Slimes will not attack nor die and will continuously affect themselves with Pyro.\\n3. During the challenge, there are moving walls that Pyro Slimes and Large Pyro Slimes can bounce off of.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nJean \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 11,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6035
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_11",
+    "GLIALHMPJCP": 2224758057,
+    "JDNCJPOGDKN": "Smash 'n' Bash",
+    "FFBHECLIMOH": 4267659481,
+    "OGHIHPCCIHM": "Use Razor's attacks to break the <color=#FFCC33FF>Explosive Rocks</color> to score points.\\nDuring the challenge, all party members will constantly recover Elemental Energy.",
+    "AIPAAJIDEOG": 2379485567,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Smash 'n' Bash</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Attack the <color=#FFCC33FF>Explosive Rocks</color> to smash them and score points. You score 1 point for smashing normal Explosive Rocks, and 3 points for smashing Explosive Rocks with special effects. The challenge will be deemed successful when the target score is reached.\\n2. Destroying Transverse Explosive Rocks will also blow up a whole row of rocks.\\n3. Destroying Big Explosive Rocks will also destroy all the rocks on the field.\\n4. Destroying Mighty Rocks will give all party members an increased ability to smash Explosive Rocks and restore their Stamina for a short duration.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nRazor\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 12,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6055
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_12",
+    "GLIALHMPJCP": 3682886401,
+    "JDNCJPOGDKN": "Smash 'n' Bash",
+    "FFBHECLIMOH": 2564265001,
+    "OGHIHPCCIHM": "Use Noelle's attacks to break the <color=#FFCC33FF>Explosive Rocks</color> to score points.\\nDuring the challenge, all party members will constantly recover Elemental Energy.",
+    "AIPAAJIDEOG": 2325118047,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Smash 'n' Bash</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Attack the <color=#FFCC33FF>Explosive Rocks</color> to smash them and score points. You score 1 point for smashing normal Explosive Rocks, and 3 points for smashing Explosive Rocks with special effects. The challenge will be deemed successful when the target score is reached.\\n2. Destroying Transverse Explosive Rocks will also blow up a whole row of rocks.\\n3. Destroying Big Explosive Rocks will also destroy all the rocks on the field.\\n4. Destroying Mighty Rocks will give all party members an increased ability to smash Explosive Rocks and restore their Stamina for a short duration.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nNoelle \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 13,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6028
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_13",
+    "GLIALHMPJCP": 3196467321,
+    "JDNCJPOGDKN": "Shieldbreaker",
+    "FFBHECLIMOH": 574760073,
+    "OGHIHPCCIHM": "Use Kazuha's Elemental Skill and Elemental Burst to break the enemies' shields and directly defeat the enemies.\\nDuring the challenge, all party members will receive a cooldown reduction and will constantly regenerate HP.",
+    "AIPAAJIDEOG": 1889672511,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Shieldbreaker</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. During the challenge, the enemies <color=#FFCC33FF>will immediately be defeated when their shields are broken</color>.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nKaedehara Kazuha \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 14,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6019
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_14",
+    "GLIALHMPJCP": 3753408609,
+    "JDNCJPOGDKN": "Shieldbreaker",
+    "FFBHECLIMOH": 3834788817,
+    "OGHIHPCCIHM": "Use Sucrose's Elemental Skill and Elemental Burst to break the enemy's shields and directly defeat the enemy.\\nDuring the challenge, all party members will receive a cooldown reduction and will constantly regenerate HP.",
+    "AIPAAJIDEOG": 3801638351,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Shieldbreaker</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. During the challenge, the enemies <color=#FFCC33FF>will immediately be defeated when their shields are broken</color>.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nSucrose \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 15,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6056
+      },
+      {
+        "CDOIPGMKDFF": 6029
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_15",
+    "GLIALHMPJCP": 504555649,
+    "JDNCJPOGDKN": "Thunderlit Battlefield",
+    "FFBHECLIMOH": 644886985,
+    "OGHIHPCCIHM": "Use Nahida's and Keqing's Normal Attacks to trigger <color=#FFCC33FF>Quicken, Aggravate, or Spread</color> reactions in a short period of time to summon Thunderbolts that will defeat the enemies. When the number of reactions triggered increases, the Thunderbolts may become Super Thunderbolts, increasing their DMG and AoE.\\nDuring the challenge, all party members will continue to regenerate HP.",
+    "AIPAAJIDEOG": 2520803423,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Thunderlit Battlefield</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased.\\n3. When the <color=#FFCC33FF>Quicken, Aggravate, or Spread</color> reactions are triggered on opponents continuously in a short period of time, Thunderbolts will fall, dealing Electro DMG to enemies. As the number of reactions triggered increases, the Thunderbolts may become Super Thunderbolts, increasing the Electro DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Characters</color> \\nNahida and Keqing \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 16,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6033
+      },
+      {
+        "CDOIPGMKDFF": 6039
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_16",
+    "GLIALHMPJCP": 1889363217,
+    "JDNCJPOGDKN": "Thunderlit Battlefield",
+    "FFBHECLIMOH": 3889717865,
+    "OGHIHPCCIHM": "Use Yae Miko's and Sangonomiya Kokomi's attacks to trigger <color=#FFCC33FF>Electro-Charged</color> reactions in a short period of time to summon Thunderbolts that will defeat the enemy. When the number of reactions triggered increases, the Thunderbolts may become Super Thunderbolts, increasing their DMG and range.\\nDuring the challenge, all party members will continue to regenerate HP.",
+    "AIPAAJIDEOG": 3410428063,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Thunderlit Battlefield</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased.\\n3. When the <color=#FFCC33FF>Electro-Charged</color> reaction is triggered on opponents continuously in a short period of time, Thunderbolts will fall, dealing Electro DMG to enemies. As the number of reactions triggered increases, the Thunderbolts may become Super Thunderbolts, increasing the Electro DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Characters</color> \\nYae Miko and Sangonomiya Kokomi \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 17,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6022
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_17",
+    "GLIALHMPJCP": 2548521961,
+    "JDNCJPOGDKN": "Fast and Furious",
+    "FFBHECLIMOH": 3418390409,
+    "OGHIHPCCIHM": "Use Yoimiya's Normal Attacks to hit the enemies in a short period of time to summon Shockwaves to defeat the enemies. As the number of hits increases, the Shockwaves will become Super Shockwaves, increasing their DMG and AoE.\\nDuring the challenge, all party members will continue to regenerate HP.",
+    "AIPAAJIDEOG": 4011301823,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Fast and Furious</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased. \\n3. When a character keeps hitting enemies with <color=#FFCC33FF>Normal Attacks</color> in a short period of time, Shockwaves will be released to deal a lot of DMG to enemies. When the number of hits increases, the Shockwaves may become Super Shockwaves, increasing the DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYoimiya \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 18,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6037
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_18",
+    "GLIALHMPJCP": 1220578905,
+    "JDNCJPOGDKN": "Fast and Furious",
+    "FFBHECLIMOH": 3921068913,
+    "OGHIHPCCIHM": "Use Kamisato Ayato's Normal Attack to hit the enemy in a short period of time to summon Shockwaves to defeat the enemy. As the number of hits increases, the Shockwaves will become Super Shockwaves, increasing their DMG and AoE.\\nDuring the challenge, all party members will continue to regenerate HP.",
+    "AIPAAJIDEOG": 1664306135,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Fast and Furious</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased. \\n3. When a character keeps hitting enemies with <color=#FFCC33FF>Normal Attacks</color> in a short period of time, Shockwaves will be released to deal a lot of DMG to enemies. When the number of hits increases, the Shockwaves may become Super Shockwaves, increasing the DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nKamisato Ayato \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 19,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6041
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_01",
+    "GLIALHMPJCP": 211784361,
+    "JDNCJPOGDKN": "Boulder Run",
+    "FFBHECLIMOH": 3221225329,
+    "OGHIHPCCIHM": "Use Yelan's Elemental Skill to move quickly and dodge <color=#FFCC33FF>Giant Pinballs</color>. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 1472960023,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Boulder Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n2. The challenge will contain fast-moving <color=#FFCC33FF>Giant Pinballs</color> that, when touched, will send the character(s) flying. \\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYelan \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 20,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6007
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_02",
+    "GLIALHMPJCP": 4180471713,
+    "JDNCJPOGDKN": "Boulder Run",
+    "FFBHECLIMOH": 4092345121,
+    "OGHIHPCCIHM": "Use Mona's Talent \"Illusory Torrent\" to move quickly and dodge <color=#FFCC33FF>Giant Pinballs</color>. Pick Adventure Coins up to score points.",
+    "AIPAAJIDEOG": 1182513639,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Boulder Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n2. The challenge will contain fast-moving <color=#FFCC33FF>Giant Pinballs</color> that, when touched, will send the character(s) flying.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nMona \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 21,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6038
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_03",
+    "GLIALHMPJCP": 3321048817,
+    "JDNCJPOGDKN": "Hammering Blow",
+    "FFBHECLIMOH": 1999712081,
+    "OGHIHPCCIHM": "Use Venti's Plunging Attack to send the <color=#FFCC33FF>Elevated Platforms</color> back to the ground. Pick Adventure Coins up to score points. \\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 1401748391,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Hammering Blow</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n2. <color=#FFCC33FF>Elevated Platforms</color> will rise randomly during the challenge. A Plunging Attack on it will knock it back to the ground and drop Adventure Coins.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nVenti \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 22,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6000
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_04",
+    "GLIALHMPJCP": 2164668537,
+    "JDNCJPOGDKN": "Hammering Blow",
+    "FFBHECLIMOH": 1732515489,
+    "OGHIHPCCIHM": "Use Xiao's Plunging Attack to send the <color=#FFCC33FF>Elevated Platforms</color> back to the ground. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and will constantly regenerate HP. After Xiao unleashes his Elemental Burst, he will have Bane of All Evil permanently activated.",
+    "AIPAAJIDEOG": 1826977303,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Hammering Blow</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n2. <color=#FFCC33FF>Elevated Platforms</color> will rise randomly during the challenge. A Plunging Attack on it will knock it back to the ground and drop Adventure Coins.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nXiao \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 23,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6025
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_05",
+    "GLIALHMPJCP": 2599672289,
+    "JDNCJPOGDKN": "Verdant Tsunami",
+    "FFBHECLIMOH": 4091852761,
+    "OGHIHPCCIHM": "Use Sayu's Elemental Skill to freeze the water's surface and move quickly. Pick Adventure Coins up to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and the duration of being affected by Hydro will be decreased.",
+    "AIPAAJIDEOG": 1343734631,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Verdant Tsunami</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n2. During the challenge, the Large Cryo Slimes will neither attack nor die and will continuously affect themselves with Cryo.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nSayu \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 24,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6006
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_06",
+    "GLIALHMPJCP": 1690610401,
+    "JDNCJPOGDKN": "Verdant Tsunami",
+    "FFBHECLIMOH": 3300225057,
+    "OGHIHPCCIHM": "Use Kamisato Ayaka's Talent \"Kamisato Art: Senho\" to quickly move across the water's surface and pick Adventure Coins up to score points.",
+    "AIPAAJIDEOG": 3202173879,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Verdant Tsunami</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Gain 1 point when collecting an <color=#FFCC33FF>Adventure Coin</color> during the challenge. Gain 5 points when collecting a <color=#FFCC33FF>Large Adventure Coin</color>. Reach the target score to complete the challenge.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nKamisato Ayaka \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 25,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6015
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_07",
+    "GLIALHMPJCP": 3893457433,
+    "JDNCJPOGDKN": "A Close Home Run",
+    "FFBHECLIMOH": 906202497,
+    "OGHIHPCCIHM": "Use Beidou's Elemental Skill to hit the balls for points.\\nDuring the challenge, all party members will receive a cooldown reduction, cannot use Normal, Charged, or Plunging Attacks, and cannot unleash Elemental Bursts.",
+    "AIPAAJIDEOG": 3766298991,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: A Close Home Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Hit a <color=#FFCC33FF>Straight Ball</color> hurtling towards your character to score 1 point, and hit a <color=#FFCC33FF>Curve Ball</color> to score 3 points. Reach the target score to complete the challenge.\\n2. After a certain amount of time, the difficulty of batting will increase, but the points you score will also double.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nBeidou \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 26,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6031
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_08",
+    "GLIALHMPJCP": 271391257,
+    "JDNCJPOGDKN": "A Close Home Run",
+    "FFBHECLIMOH": 1479053697,
+    "OGHIHPCCIHM": "Use Yun Jin's Elemental Skill to hit the balls for points.\\nDuring the challenge, all party members will receive a cooldown reduction, cannot use Normal, Charged, or Plunging Attacks, and cannot unleash Elemental Bursts.",
+    "AIPAAJIDEOG": 2767039679,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: A Close Home Run</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Hit a <color=#FFCC33FF>Straight Ball</color> hurtling towards your character to score 1 point, and hit a <color=#FFCC33FF>Curve Ball</color> to score 3 points. Reach the target score to complete the challenge.\\n2. After a certain amount of time, the difficulty of batting will increase, but the points you score will also double.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYun Jin \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 27,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6003
+      },
+      {
+        "CDOIPGMKDFF": 6044
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_09",
+    "GLIALHMPJCP": 2393353337,
+    "JDNCJPOGDKN": "Superfast Hat Trick",
+    "FFBHECLIMOH": 304579273,
+    "OGHIHPCCIHM": "Knock the Slimes into the <color=#FFCC33FF>Vine Goals</color> by triggering the Overloaded reaction with Yanfei's and Klee's attacks to score points.\\nDuring the challenge, all party members cannot use their Elemental Bursts.",
+    "AIPAAJIDEOG": 4181651015,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Superfast Hat Trick</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, knock an Electro Slime into any of the <color=#FFCC33FF>Vine Goals</color> to score 1 point. Knock a Large Electro Slime into a goal to score 5 points. Reach the target score to complete the challenge.\\n2. During the challenge, the Electro Slimes and the Large Electro Slimes will not attack nor die and will continuously affect themselves with Electro.\\n3. During the challenge, there are moving walls that Electro Slimes and Large Electro Slimes can bounce off of.\\n\\n<color=#D3BC8EFF>Trial Characters</color> \\nKlee and Yanfei \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 28,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6043
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_10",
+    "GLIALHMPJCP": 3008713489,
+    "JDNCJPOGDKN": "Superfast Hat Trick",
+    "FFBHECLIMOH": 1844229465,
+    "OGHIHPCCIHM": "Knock the Slimes into the <color=#FFCC33FF>Vine Goals</color> by using Jean's Elemental Skill to score points.\\nDuring the challenge, all party members will receive a cooldown reduction and cannot use their Elemental Bursts.",
+    "AIPAAJIDEOG": 3373092591,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Superfast Hat Trick</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, knock a Pyro Slime into any of the <color=#FFCC33FF>Vine Goals</color> to gain 1 point. Knock a Large Pyro Slime into the goal to gain 5 points. Reach the target score to complete the challenge.\\n2. During the challenge, the Pyro Slimes and the Large Pyro Slimes will not attack nor die and will continuously affect themselves with Pyro.\\n3. During the challenge, there are moving walls that Pyro Slimes and Large Pyro Slimes can bounce off of.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nJean \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 29,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6035
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_11",
+    "GLIALHMPJCP": 4283738457,
+    "JDNCJPOGDKN": "Smash 'n' Bash",
+    "FFBHECLIMOH": 127182449,
+    "OGHIHPCCIHM": "Use Razor's attacks to break the <color=#FFCC33FF>Explosive Rocks</color> to score points.\\nDuring the challenge, all party members will constantly recover Elemental Energy.",
+    "AIPAAJIDEOG": 4103014767,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Smash 'n' Bash</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Attack the <color=#FFCC33FF>Explosive Rocks</color> to smash them and score points. You score 1 point for smashing normal Explosive Rocks, and 3 points for smashing Explosive Rocks with special effects. Reach the target score to complete the challenge.\\n2. Destroying Transverse Explosive Rocks will also blow up a whole row of rocks.\\n3. Destroying Big Explosive Rocks will also destroy all the rocks on the field.\\n4. Destroying Mighty Rocks will give all party members an increased ability to smash Explosive Rocks and restore their Stamina for a short duration.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nRazor\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 30,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6055
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_12",
+    "GLIALHMPJCP": 1470431177,
+    "JDNCJPOGDKN": "Smash 'n' Bash",
+    "FFBHECLIMOH": 606486785,
+    "OGHIHPCCIHM": "Use Noelle's attacks to break the <color=#FFCC33FF>Explosive Rocks</color> to score points.\\nDuring the challenge, all party members will constantly recover Elemental Energy.",
+    "AIPAAJIDEOG": 1251221535,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Smash 'n' Bash</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. Attack the <color=#FFCC33FF>Explosive Rocks</color> to smash them and score points. You score 1 point for smashing normal Explosive Rocks, and 3 points for smashing Explosive Rocks with special effects. Reach the target score to complete the challenge.\\n2. Destroying Transverse Explosive Rocks will also blow up a whole row of rocks.\\n3. Destroying Big Explosive Rocks will also destroy all the rocks on the field.\\n4. Destroying Mighty Rocks will give all party members an increased ability to smash Explosive Rocks and restore their Stamina for a short duration.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nNoelle \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 31,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6028
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_13",
+    "GLIALHMPJCP": 1751979417,
+    "JDNCJPOGDKN": "Shieldbreaker",
+    "FFBHECLIMOH": 1918566457,
+    "OGHIHPCCIHM": "Use Kaedehara Kazuha's Elemental Skill and Elemental Burst to break enemy shields and instantly defeat them.\\nDuring the challenge, all party members will receive a cooldown reduction and constantly regenerate HP.",
+    "AIPAAJIDEOG": 37058559,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Shieldbreaker</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. During the challenge, the enemies <color=#FFCC33FF>will immediately be defeated when their shields are broken</color>.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nKaedehara Kazuha \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 32,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6019
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_14",
+    "GLIALHMPJCP": 3956844369,
+    "JDNCJPOGDKN": "Shieldbreaker",
+    "FFBHECLIMOH": 1100712345,
+    "OGHIHPCCIHM": "Use Sucrose's Elemental Skill and Elemental Burst to break enemy shields and instantly defeat them.\\nDuring the challenge, all party members will receive a cooldown reduction and constantly regenerate HP.",
+    "AIPAAJIDEOG": 404051527,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Shieldbreaker</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. During the challenge, the enemies <color=#FFCC33FF>will immediately be defeated when their shields are broken</color>.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nSucrose \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 33,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6022
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_17",
+    "GLIALHMPJCP": 932106625,
+    "JDNCJPOGDKN": "Fast and Furious",
+    "FFBHECLIMOH": 2071239017,
+    "OGHIHPCCIHM": "Use Yoimiya's Normal Attacks to score consecutive hits on the enemy within a short time and to release Shockwaves and defeat the enemy. Accumulate hits to upgrade the Shockwave into a Super Shockwave with increased damage and range.\\nDuring the challenge, all party members will constantly regenerate HP.",
+    "AIPAAJIDEOG": 1024775471,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Fast and Furious</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased. \\n3. When a character keeps hitting enemies with <color=#FFCC33FF>Normal Attacks</color> in a short period of time, Shockwaves will be released to deal a lot of DMG to enemies. When the number of hits increases, the Shockwaves may become Super Shockwaves, increasing the DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nYoimiya \\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 34,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6037
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_18",
+    "GLIALHMPJCP": 3714353521,
+    "JDNCJPOGDKN": "Fast and Furious",
+    "FFBHECLIMOH": 2583367865,
+    "OGHIHPCCIHM": "Use Kamisato Ayato's Normal Attacks to score consecutive hits on the enemy within a short time and to release Shockwaves and defeat the enemy. Accumulate hits to upgrade the Shockwave into a Super Shockwave with increased damage and range.\\nDuring the challenge, all party members will constantly regenerate HP.",
+    "AIPAAJIDEOG": 1695649351,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Fast and Furious</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. The challenge will be deemed successful when the target number of enemies are defeated.\\n2. The Physical and all Elemental RES of enemies in challenges have been increased. \\n3. When a character keeps hitting enemies with <color=#FFCC33FF>Normal Attacks</color> in a short period of time, Shockwaves will be released to deal a lot of DMG to enemies. When the number of hits increases, the Shockwaves may become Super Shockwaves, increasing the DMG they deal and their AoE.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nKamisato Ayato\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 35,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6060
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_19",
+    "GLIALHMPJCP": 1878469313,
+    "JDNCJPOGDKN": "Foothold Hunt",
+    "FFBHECLIMOH": 3566541089,
+    "OGHIHPCCIHM": "Use Alhaitham's Elemental Skill to move rapidly while carefully avoiding the cracked floors and collecting Adventure Coins.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 1044916407,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Foothold Hunt</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, collect <color=#FFCC33FF>Adventure Coins</color> to score 1 point, and collect <color=#FFCC33FF>Large Adventure Coins</color> to score 5 points. Reach the target score to complete the challenge.\\n2. The <color=#FFCC33FF>Floating Tiles</color> will collapse rapidly upon being stepped on.\\n3. Use the portal at the bottom to quickly return to the top.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nAlhaitham\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 36,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6029
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_20",
+    "GLIALHMPJCP": 3444318025,
+    "JDNCJPOGDKN": "Foothold Hunt",
+    "FFBHECLIMOH": 1409582401,
+    "OGHIHPCCIHM": "Use Keqing's Elemental Skill to move rapidly while carefully avoiding the cracked floors and collecting Adventure Coins.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 2284787495,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Foothold Hunt</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, collect <color=#FFCC33FF>Adventure Coins</color> to score 1 point, and collect <color=#FFCC33FF>Large Adventure Coins</color> to score 5 points. Reach the target score to complete the challenge.\\n2. The <color=#FFCC33FF>Floating Tiles</color> will collapse rapidly upon being stepped on.\\n3. Use the portal at the bottom to quickly return to the top.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nKeqing\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 37,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6061
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_21",
+    "GLIALHMPJCP": 972750937,
+    "JDNCJPOGDKN": "Toss and Cheer",
+    "FFBHECLIMOH": 2125912353,
+    "OGHIHPCCIHM": "Throw Yuegui into the <color=#FFCC33FF>Vine Wreath</color> by using Yaoyao's Elemental Skill to score points.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 3547506599,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Toss and Cheer</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, toss Yuegui into a <color=#FFCC33FF>Vine Wreath</color> to score 1 point, and toss it into a <color=#FFCC33FF>High Score Wreath</color> to score 3 points. Reach the target score to complete the challenge.\\n2. <color=#FFCC33FF>Vine Wreaths</color> will disappear after 1 successful toss while <color=#FFCC33FF>High Score Wreaths</color> have no limit to the amount of successful tosses within their duration.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nYaoyao\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 38,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6067
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_22",
+    "GLIALHMPJCP": 1111668785,
+    "JDNCJPOGDKN": "Toss and Cheer",
+    "FFBHECLIMOH": 2303939305,
+    "OGHIHPCCIHM": "Throw Baron Bunny into the <color=#FFCC33FF>Vine Wreath</color> by using Amber's Elemental Skill to score points.\\nDuring the challenge, all party members will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 2356489303,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Toss and Cheer</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, toss Baron Bunny into a <color=#FFCC33FF>Vine Wreath</color> to score 1 point, and toss it into a <color=#FFCC33FF>High Score Wreath</color> to score 3 points. Reach the target score to complete the challenge.\\n2. <color=#FFCC33FF>Vine Wreaths</color> will disappear after 1 successful toss while <color=#FFCC33FF>High Score Wreaths</color> have no limit to the amount of successful tosses within their duration.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nAmber\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 39,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6058
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_23",
+    "GLIALHMPJCP": 1609907761,
+    "JDNCJPOGDKN": "Aerial Dodgeball",
+    "FFBHECLIMOH": 3347287137,
+    "OGHIHPCCIHM": "Use Wanderer's Elemental Skill to soar through the air and collect Adventure Coins. Attacking and destroying <color=#FFCC33FF>Fluffy Launchers</color> will reveal additional Adventure Coins.\\nDuring the challenge, all party members will not consume Kuugoryoku while in the Windfavored state. All party members will gain a cooldown reduction.",
+    "AIPAAJIDEOG": 2201925447,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Aerial Dodgeball</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, collect <color=#FFCC33FF>Adventure Coins</color> to score 1 point, and collect <color=#FFCC33FF>Large Adventure Coins</color> to score 5 points. Reach the target score to complete the challenge.\\n2. <color=#FFCC33FF>Fluffy Launchers</color> will launch normal and tracking barrages at characters during the challenge. Avoid the barrages and destroy them to produce Adventure Coins.\\n\\n<color=#D3BC8EFF>Trial Character</color>\\nWanderer\\n\\n\\n"
+  },
+  {
+    "MGGPNIDOBGF": 40,
+    "HMJBJDAHMHG": [
+      {
+        "CDOIPGMKDFF": 6050
+      }
+    ],
+    "EACPJAMABBB": "UI_Activity_CharAmusement_24",
+    "GLIALHMPJCP": 2280573529,
+    "JDNCJPOGDKN": "Superfast Hat Trick",
+    "FFBHECLIMOH": 774706113,
+    "OGHIHPCCIHM": "Knock the Slimes into the <color=#FFCC33FF>Vine Goal</color> by using Shikanoin Heizou's <color=#FFCC33FF>Charged Attack or Elemental Skill</color> to score points.\\nDuring the challenge, all party members will be unable to use Elemental Bursts and will receive a cooldown reduction.",
+    "AIPAAJIDEOG": 1210798583,
+    "DLKEKNHNHPH": "<color=#D3BC8EFF>Challenge {0}: Superfast Hat Trick</color>\\n\\n<color=#D3BC8EFF>Challenge Rules</color>\\n1. During the challenge, knock a Pyro Slime into any of the <color=#FFCC33FF>Vine Goals</color> to gain 1 point. Knock a Large Pyro Slime into the goal to gain 5 points. The challenge will be deemed successful when the target score is reached.\\n2. During the challenge, the Pyro Slimes and the Large Pyro Slimes will not attack nor die and will continuously affect themselves with Pyro.\\n3. During the challenge, there are moving walls that Pyro Slimes and Large Pyro Slimes can bounce off of.\\n\\n<color=#D3BC8EFF>Trial Character</color> \\nShikanoin Heizou\\n\\n\\n"
+  }
+]

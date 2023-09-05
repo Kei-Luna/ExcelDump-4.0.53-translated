@@ -1,0 +1,117 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "MCBKEEEIHGM": 4294967296,
+    "CPNFBJCOMDF": 1,
+    "GLIALHMPJCP": 3237205492,
+    "JDNCJPOGDKN": "Imaginarium: Bastion Mechanicus",
+    "FFBHECLIMOH": 619918749,
+    "OGHIHPCCIHM": "Create Mechanici, defeat opponents, defend the Ley Line Monolith and prevent it from being destroyed.",
+    "HFMGHANBMAM": "ART/UI/Atlas/TutorialPic/UI_OfficialLevel_Cover_TD",
+    "NCJANMCADBC": [
+      {
+        "CDOIPGMKDFF": 15133101
+      },
+      {
+        "CDOIPGMKDFF": 15133102
+      },
+      {
+        "CDOIPGMKDFF": 15133103
+      }
+    ],
+    "PODIGJGHGKP": 1402,
+    "EKCIKNBNNEB": 1105987775510289000
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "MCBKEEEIHGM": 8589934592,
+    "CPNFBJCOMDF": 2,
+    "GLIALHMPJCP": 2591162212,
+    "JDNCJPOGDKN": "Imaginarium: Cloudstrider",
+    "FFBHECLIMOH": 1215307981,
+    "OGHIHPCCIHM": "Collect the required amount of Adventure Coins to complete the challenge.",
+    "HFMGHANBMAM": "ART/UI/Atlas/TutorialPic/UI_OfficialLevel_Cover_Parkour",
+    "NCJANMCADBC": [
+      {
+        "CDOIPGMKDFF": 15133104
+      },
+      {
+        "CDOIPGMKDFF": 15133105
+      },
+      {
+        "CDOIPGMKDFF": 15133106
+      }
+    ],
+    "PODIGJGHGKP": 1403,
+    "EKCIKNBNNEB": 15914629940208480000
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "MCBKEEEIHGM": 12884901888,
+    "CPNFBJCOMDF": 3,
+    "GLIALHMPJCP": 2336624788,
+    "JDNCJPOGDKN": "Imaginarium: Nimbus Grasper",
+    "FFBHECLIMOH": 3960674933,
+    "OGHIHPCCIHM": "Obtain Artificer Coins and all kinds of Artificer Buffs, invite companions, and defeat opponents to complete the challenge.",
+    "HFMGHANBMAM": "ART/UI/Atlas/TutorialPic/UI_OfficialLevel_Cover_Rouge",
+    "NCJANMCADBC": [
+      {
+        "CDOIPGMKDFF": 15133107
+      },
+      {
+        "CDOIPGMKDFF": 15133108
+      },
+      {
+        "CDOIPGMKDFF": 15133109
+      }
+    ],
+    "PODIGJGHGKP": 1404,
+    "EKCIKNBNNEB": 9366419715066128000
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "MCBKEEEIHGM": 17179869184,
+    "CPNFBJCOMDF": 4,
+    "GLIALHMPJCP": 2674358020,
+    "JDNCJPOGDKN": "Imaginarium: Trove Sweeper",
+    "FFBHECLIMOH": 2769456933,
+    "OGHIHPCCIHM": "Obtain Adventure Coins while dodging attacks from opponents. After Adventure Coins are collected, they will reappear after a period of time until you have obtained enough Adventure Coins.",
+    "HFMGHANBMAM": "ART/UI/Atlas/TutorialPic/UI_OfficialLevel_Cover_Survival",
+    "NCJANMCADBC": [
+      {
+        "CDOIPGMKDFF": 15133110
+      },
+      {
+        "CDOIPGMKDFF": 15133111
+      },
+      {
+        "CDOIPGMKDFF": 15133112
+      }
+    ],
+    "PODIGJGHGKP": 1405,
+    "EKCIKNBNNEB": 11788520407366506000
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "MCBKEEEIHGM": 21474836480,
+    "CPNFBJCOMDF": 5,
+    "GLIALHMPJCP": 1538537772,
+    "JDNCJPOGDKN": "Imaginarium: Heartrender",
+    "FFBHECLIMOH": 3078069301,
+    "OGHIHPCCIHM": "Destroy the Buff Bestower in the midst of your opponents and defeat all opponents to complete the challenge.",
+    "HFMGHANBMAM": "ART/UI/Atlas/TutorialPic/UI_OfficialLevel_Cover_Combat",
+    "NCJANMCADBC": [
+      {
+        "CDOIPGMKDFF": 15133113
+      },
+      {
+        "CDOIPGMKDFF": 15133114
+      },
+      {
+        "CDOIPGMKDFF": 15133115
+      }
+    ],
+    "PODIGJGHGKP": 1406,
+    "EKCIKNBNNEB": 12042608647758740000
+  }
+]

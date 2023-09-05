@@ -1,0 +1,74 @@
+[
+  {
+    "PGKNKBKHCHM": 45001001,
+    "DEOOGNEJGAK": "UI_Buff_Skiff",
+    "BMDCCIHHLBC": "",
+    "EHDCEPFOFLL": "",
+    "NEIJHKDLODA": 0.8,
+    "OKEILMFPCGD": -0.7,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Btn_Recon_SquatUp",
+    "BGGNIHNFDIA": "Btn_Recon_SquatDown",
+    "NOLPDDFLOGB": "Btn_Vehicle_Skiff_Sprint"
+  },
+  {
+    "PGKNKBKHCHM": 45001002,
+    "DEOOGNEJGAK": "UI_Buff_Skiff",
+    "BMDCCIHHLBC": "",
+    "EHDCEPFOFLL": "",
+    "NEIJHKDLODA": 0.8,
+    "OKEILMFPCGD": -0.7,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Btn_Recon_SquatUp",
+    "BGGNIHNFDIA": "Btn_Recon_SquatDown",
+    "NOLPDDFLOGB": "Btn_Vehicle_Skiff_Sprint"
+  },
+  {
+    "PGKNKBKHCHM": 45002001,
+    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "BMDCCIHHLBC": "",
+    "EHDCEPFOFLL": "",
+    "NEIJHKDLODA": 0.2,
+    "OKEILMFPCGD": -0.19,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Btn_Sorush_Up",
+    "BGGNIHNFDIA": "Btn_Sorush_Down",
+    "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
+  },
+  {
+    "PGKNKBKHCHM": 45002002,
+    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "BMDCCIHHLBC": "",
+    "EHDCEPFOFLL": "",
+    "NEIJHKDLODA": 0.2,
+    "OKEILMFPCGD": -0.19,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Btn_Sorush_Up",
+    "BGGNIHNFDIA": "Btn_Sorush_Down",
+    "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
+  },
+  {
+    "PGKNKBKHCHM": 45002003,
+    "DEOOGNEJGAK": "UI_Buff_Sorush",
+    "BMDCCIHHLBC": "",
+    "EHDCEPFOFLL": "",
+    "NEIJHKDLODA": 0.2,
+    "OKEILMFPCGD": -0.19,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Btn_Sorush_Up",
+    "BGGNIHNFDIA": "Btn_Sorush_Down",
+    "NOLPDDFLOGB": "Btn_Sorush_Sprint_HD"
+  },
+  {
+    "PGKNKBKHCHM": 45002011,
+    "DEOOGNEJGAK": "UI_Buff_Penumbra_Flightgear",
+    "BMDCCIHHLBC": "PenAdvFlightgearAcceleration",
+    "EHDCEPFOFLL": "AccelerationSpeed",
+    "NEIJHKDLODA": 0.2,
+    "OKEILMFPCGD": -0.19,
+    "PKLKDNIOBBL": "Btn_Vehicle_Skiff_Vejection",
+    "IANABKJNMLH": "Skill_PenAdvFlightgear_Up",
+    "BGGNIHNFDIA": "Skill_PenAdvFlightgear_Down",
+    "NOLPDDFLOGB": "Skill_PenAdvFlightgear_Sprint"
+  }
+]

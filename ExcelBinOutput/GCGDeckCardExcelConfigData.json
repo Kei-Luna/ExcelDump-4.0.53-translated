@@ -1,0 +1,6627 @@
+[
+  {
+    "PGKNKBKHCHM": 1101,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1101,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110101
+      }
+    ],
+    "HIJGIHOHKIH": 1492288492,
+    "IEAMFFIKFJF": "\"Plenilune Gaze\" Ganyu",
+    "OGFMFBDKPGC": 753619631,
+    "EDPEIADEDFG": "\"This press release is due tomorrow... I suppose I could work through the night and get it done.\"",
+    "FPLELKMOPEM": 142707039,
+    "AMAAJHCAIIA": "Reward for inviting Ganyu to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330000
+  },
+  {
+    "PGKNKBKHCHM": 1102,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1102,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110201
+      }
+    ],
+    "HIJGIHOHKIH": 1882870724,
+    "IEAMFFIKFJF": "\"Kätzlein Cocktail\" Diona",
+    "OGFMFBDKPGC": 1276685775,
+    "EDPEIADEDFG": "1% energy dedicated to mixing drinks, 99% to... denying the reality of familiar.",
+    "FPLELKMOPEM": 857595855,
+    "AMAAJHCAIIA": "Reward for inviting Diona to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330023
+  },
+  {
+    "PGKNKBKHCHM": 1103,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1103,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110301
+      }
+    ],
+    "HIJGIHOHKIH": 605362532,
+    "IEAMFFIKFJF": "\"Frostwind Swordsman\" Kaeya",
+    "OGFMFBDKPGC": 4112672055,
+    "EDPEIADEDFG": "Specializes in awakening knightly virtues in others.",
+    "FPLELKMOPEM": 4190593887,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 330001
+  },
+  {
+    "PGKNKBKHCHM": 1104,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1104,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110401
+      }
+    ],
+    "HIJGIHOHKIH": 3180923588,
+    "IEAMFFIKFJF": "\"Frozen Ardor\" Chongyun",
+    "OGFMFBDKPGC": 1195429287,
+    "EDPEIADEDFG": "\"Ugh, summer... Please pass us by in peace...\"",
+    "FPLELKMOPEM": 1889110471,
+    "AMAAJHCAIIA": "Reward for inviting Chongyun to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330002
+  },
+  {
+    "PGKNKBKHCHM": 1105,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1105,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110501
+      }
+    ],
+    "HIJGIHOHKIH": 2515862804,
+    "IEAMFFIKFJF": "\"Frostflake Heron\" Kamisato Ayaka",
+    "OGFMFBDKPGC": 1248691791,
+    "EDPEIADEDFG": "As graceful as the frost drifting in the wind, as elegant as a heron perched in a courtyard.",
+    "FPLELKMOPEM": 1319229199,
+    "AMAAJHCAIIA": "Reward for inviting Kamisato Ayaka to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330003
+  },
+  {
+    "PGKNKBKHCHM": 1106,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1106,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110601
+      }
+    ],
+    "HIJGIHOHKIH": 120104948,
+    "IEAMFFIKFJF": "\"Dance of the Shimmering Wave\" Eula",
+    "OGFMFBDKPGC": 2362648343,
+    "EDPEIADEDFG": "It's but a game. I won't hold a grudge should luck happen to be on your side.",
+    "FPLELKMOPEM": 4175214895,
+    "AMAAJHCAIIA": "Reward for inviting Eula to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330028
+  },
+  {
+    "PGKNKBKHCHM": 1107,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1107,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110701
+      }
+    ],
+    "HIJGIHOHKIH": 1614177596,
+    "IEAMFFIKFJF": "\"Lonesome Transcendence\" Shenhe",
+    "OGFMFBDKPGC": 1701667751,
+    "EDPEIADEDFG": "The mortal realm briefly gracing, like a wisp of smoke vanishing.",
+    "FPLELKMOPEM": 1346024775,
+    "AMAAJHCAIIA": "Reward for inviting Shenhe to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330048
+  },
+  {
+    "PGKNKBKHCHM": 1108,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1108,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 110801
+      }
+    ],
+    "HIJGIHOHKIH": 2313620220,
+    "IEAMFFIKFJF": "\"Icy Resurrection\" Qiqi",
+    "OGFMFBDKPGC": 1997144311,
+    "EDPEIADEDFG": "Circulating endlessly, life goes on.",
+    "FPLELKMOPEM": 3351518415,
+    "AMAAJHCAIIA": "Reward for inviting Qiqi to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330052
+  },
+  {
+    "PGKNKBKHCHM": 1201,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1201,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120101
+      }
+    ],
+    "HIJGIHOHKIH": 4142605484,
+    "IEAMFFIKFJF": "\"Shining Idol\" Barbara",
+    "OGFMFBDKPGC": 1332200751,
+    "EDPEIADEDFG": "Ready to heal hearts and soothe souls at any time.",
+    "FPLELKMOPEM": 1676859807,
+    "AMAAJHCAIIA": "Reward for inviting Barbara to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330025
+  },
+  {
+    "PGKNKBKHCHM": 1202,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1202,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120201
+      }
+    ],
+    "HIJGIHOHKIH": 4254457588,
+    "IEAMFFIKFJF": "\"Juvenile Galant\" Xingqiu",
+    "OGFMFBDKPGC": 1228056367,
+    "EDPEIADEDFG": "\"Is it just me, or are the protagonists in novels nowadays all students of some private school or another...\"",
+    "FPLELKMOPEM": 2928979631,
+    "AMAAJHCAIIA": "Reward for inviting Xingqiu to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330004
+  },
+  {
+    "PGKNKBKHCHM": 1203,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1203,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120301
+      }
+    ],
+    "HIJGIHOHKIH": 2138006932,
+    "IEAMFFIKFJF": "\"Astral Reflection\" Mona",
+    "OGFMFBDKPGC": 2631086335,
+    "EDPEIADEDFG": "Victory or defeat — it has all been written in the stars.",
+    "FPLELKMOPEM": 1582163335,
+    "AMAAJHCAIIA": "Reward for inviting Mona to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330005
+  },
+  {
+    "PGKNKBKHCHM": 1204,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1204,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120401
+      }
+    ],
+    "HIJGIHOHKIH": 469944516,
+    "IEAMFFIKFJF": "\"Childe\" Tartaglia",
+    "OGFMFBDKPGC": 3925695271,
+    "EDPEIADEDFG": "Should this table be considered a battlefield, then may the strongest claim the win.",
+    "FPLELKMOPEM": 1671860087,
+    "AMAAJHCAIIA": "Reward for inviting Tartaglia to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330029
+  },
+  {
+    "PGKNKBKHCHM": 1205,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1205,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120501
+      }
+    ],
+    "HIJGIHOHKIH": 2291400836,
+    "IEAMFFIKFJF": "\"Pearl of Wisdom\" Sangonomiya Kokomi",
+    "OGFMFBDKPGC": 1005507383,
+    "EDPEIADEDFG": "To survive hardship, you must prepare for hardship.",
+    "FPLELKMOPEM": 1496530535,
+    "AMAAJHCAIIA": "Reward for inviting Sangonomiya Kokomi to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330030
+  },
+  {
+    "PGKNKBKHCHM": 1206,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1206,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120601
+      }
+    ],
+    "HIJGIHOHKIH": 1698281196,
+    "IEAMFFIKFJF": "\"Pillar of Fortitude\" Kamisato Ayato",
+    "OGFMFBDKPGC": 1731081063,
+    "EDPEIADEDFG": "The divinely-blessed cypress sprouts new leaves.",
+    "FPLELKMOPEM": 3046673751,
+    "AMAAJHCAIIA": "Reward for inviting Kamisato Ayato to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330031
+  },
+  {
+    "PGKNKBKHCHM": 1207,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1207,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 120701
+      }
+    ],
+    "HIJGIHOHKIH": 1131454956,
+    "IEAMFFIKFJF": "Golden Vow: Candace",
+    "OGFMFBDKPGC": 36091095,
+    "EDPEIADEDFG": "The crimson sand flows, an oath to defend.",
+    "FPLELKMOPEM": 1985504327,
+    "AMAAJHCAIIA": "Reward for inviting Candace to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330049
+  },
+  {
+    "PGKNKBKHCHM": 1301,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1301,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130101
+      }
+    ],
+    "HIJGIHOHKIH": 629447564,
+    "IEAMFFIKFJF": "\"Dark Side of Dawn\" Diluc",
+    "OGFMFBDKPGC": 2275883511,
+    "EDPEIADEDFG": "His heart is his greatest foe.",
+    "FPLELKMOPEM": 3134694599,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 330006
+  },
+  {
+    "PGKNKBKHCHM": 1302,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1302,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130201
+      }
+    ],
+    "HIJGIHOHKIH": 3955623540,
+    "IEAMFFIKFJF": "\"Exquisite Delicacy\" Xiangling",
+    "OGFMFBDKPGC": 2928909687,
+    "EDPEIADEDFG": "As a chef, she is practically omnipotent.",
+    "FPLELKMOPEM": 3241424615,
+    "AMAAJHCAIIA": "Reward for inviting Xiangling to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330007
+  },
+  {
+    "PGKNKBKHCHM": 1303,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1303,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130301
+      }
+    ],
+    "HIJGIHOHKIH": 736585092,
+    "IEAMFFIKFJF": "\"Trial by Fire\" Bennett",
+    "OGFMFBDKPGC": 346696175,
+    "EDPEIADEDFG": "Once you know that you will certainly lose, then you must certainly know the way to win.",
+    "FPLELKMOPEM": 1958952679,
+    "AMAAJHCAIIA": "Reward for inviting Bennett to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330008
+  },
+  {
+    "PGKNKBKHCHM": 1304,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1304,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130401
+      }
+    ],
+    "HIJGIHOHKIH": 3207751580,
+    "IEAMFFIKFJF": "\"Outrider\" Amber",
+    "OGFMFBDKPGC": 565823623,
+    "EDPEIADEDFG": "If you want to be a great player...\\nFirst, you have to have the courage to sit down and play.",
+    "FPLELKMOPEM": 2681616831,
+    "AMAAJHCAIIA": "Reward for inviting Amber to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330009
+  },
+  {
+    "PGKNKBKHCHM": 1305,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1305,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130501
+      }
+    ],
+    "HIJGIHOHKIH": 2722262564,
+    "IEAMFFIKFJF": "\"Frolicking Flames\" Yoimiya",
+    "OGFMFBDKPGC": 1837861063,
+    "EDPEIADEDFG": "Captain and Vanguard of Team Naganohara for the 11th Hanamizaka Street Invitational.",
+    "FPLELKMOPEM": 1615380079,
+    "AMAAJHCAIIA": "Reward for inviting Yoimiya to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330010
+  },
+  {
+    "PGKNKBKHCHM": 1306,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1306,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130601
+      }
+    ],
+    "HIJGIHOHKIH": 1793650924,
+    "IEAMFFIKFJF": "\"Fleeing Sunlight\" Klee",
+    "OGFMFBDKPGC": 3130693375,
+    "EDPEIADEDFG": "Every card you draw may bring an \"explosive surprise.\"",
+    "FPLELKMOPEM": 1982813351,
+    "AMAAJHCAIIA": "Reward for inviting Klee to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330032
+  },
+  {
+    "PGKNKBKHCHM": 1307,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1307,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130701
+      }
+    ],
+    "HIJGIHOHKIH": 2961200164,
+    "IEAMFFIKFJF": "\"Fragrance in Thaw\" Hu Tao",
+    "OGFMFBDKPGC": 1622078415,
+    "EDPEIADEDFG": "\"Send one, send 'em all!\"",
+    "FPLELKMOPEM": 979448287,
+    "AMAAJHCAIIA": "Reward for inviting Hu Tao to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330033
+  },
+  {
+    "PGKNKBKHCHM": 1308,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1308,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130801
+      }
+    ],
+    "HIJGIHOHKIH": 3613202716,
+    "IEAMFFIKFJF": "Wise Innocence: Yanfei",
+    "OGFMFBDKPGC": 2754570495,
+    "EDPEIADEDFG": "One who fails to revise the classics is liable to fall foul of the law.",
+    "FPLELKMOPEM": 1581391431,
+    "AMAAJHCAIIA": "Reward for inviting Yanfei to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330050
+  },
+  {
+    "PGKNKBKHCHM": 1309,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1309,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 130901
+      }
+    ],
+    "HIJGIHOHKIH": 367924116,
+    "IEAMFFIKFJF": "\"Flame-Mane\" Dehya",
+    "OGFMFBDKPGC": 1983043111,
+    "EDPEIADEDFG": "The eyes of the vulture, the soul of the lion, the free daughter of the desert.",
+    "FPLELKMOPEM": 103776975,
+    "AMAAJHCAIIA": "Reward for inviting Dehya to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330055
+  },
+  {
+    "PGKNKBKHCHM": 1401,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1401,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140101
+      }
+    ],
+    "HIJGIHOHKIH": 1571375092,
+    "IEAMFFIKFJF": "\"Fischl, Prinzessin der Verurteilung!\" Fischl",
+    "OGFMFBDKPGC": 1749720631,
+    "EDPEIADEDFG": "\"Oz, mine familiar, spread thine wings and weave for me a new fate in the gloom of this night!\"\\n\"Mein Fräulein, you cannot expect me to fetch you a replacement card...\"",
+    "FPLELKMOPEM": 1672614383,
+    "AMAAJHCAIIA": "Reward for inviting Fischl to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330011
+  },
+  {
+    "PGKNKBKHCHM": 1402,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1402,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140201
+      }
+    ],
+    "HIJGIHOHKIH": 1993152140,
+    "IEAMFFIKFJF": "\"Wolf Boy\" Razor",
+    "OGFMFBDKPGC": 2369216279,
+    "EDPEIADEDFG": "\"Cards, hard.\"\\n\"But... friends...\"",
+    "FPLELKMOPEM": 2598315295,
+    "AMAAJHCAIIA": "Reward for inviting Razor to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330012
+  },
+  {
+    "PGKNKBKHCHM": 1403,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1403,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140301
+      }
+    ],
+    "HIJGIHOHKIH": 2777217756,
+    "IEAMFFIKFJF": "\"Driving Thunder\" Keqing",
+    "OGFMFBDKPGC": 1590995271,
+    "EDPEIADEDFG": "She can build decks heretofore not conceived and win battles in which victory is unthinkable.",
+    "FPLELKMOPEM": 476860239,
+    "AMAAJHCAIIA": "Reward for inviting Keqing to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330013
+  },
+  {
+    "PGKNKBKHCHM": 1404,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1404,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140401
+      }
+    ],
+    "HIJGIHOHKIH": 2785360876,
+    "IEAMFFIKFJF": "\"Judicator of Secrets\" Cyno",
+    "OGFMFBDKPGC": 418016591,
+    "EDPEIADEDFG": "The card bears the General Mahamatra's ardent fondness, which reminds one of the scorching sun hanging above the desert.",
+    "FPLELKMOPEM": 1143351375,
+    "AMAAJHCAIIA": "Reward for inviting Cyno to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330024
+  },
+  {
+    "PGKNKBKHCHM": 1405,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1405,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140501
+      }
+    ],
+    "HIJGIHOHKIH": 2344643300,
+    "IEAMFFIKFJF": "\"Uncrowned Lord of the Ocean\" Beidou",
+    "OGFMFBDKPGC": 1516741935,
+    "EDPEIADEDFG": "\"Remember this day, you almost won money from the Captain of the Crux.\"",
+    "FPLELKMOPEM": 4178611631,
+    "AMAAJHCAIIA": "Reward for inviting Beidou to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330034
+  },
+  {
+    "PGKNKBKHCHM": 1406,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1406,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140601
+      }
+    ],
+    "HIJGIHOHKIH": 1777830564,
+    "IEAMFFIKFJF": "\"Crowfeather Kaburaya\" Kujou Sara",
+    "OGFMFBDKPGC": 2985888751,
+    "EDPEIADEDFG": "\"This is an act of righteousness.\"",
+    "FPLELKMOPEM": 574332135,
+    "AMAAJHCAIIA": "Reward for inviting Kujou Sara to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330035
+  },
+  {
+    "PGKNKBKHCHM": 1407,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1407,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140701
+      }
+    ],
+    "HIJGIHOHKIH": 1823430940,
+    "IEAMFFIKFJF": "\"Plane of Euthymia\" Raiden Shogun",
+    "OGFMFBDKPGC": 1562729111,
+    "EDPEIADEDFG": "The tranquil thunder shall scatter this world most ephemeral.",
+    "FPLELKMOPEM": 4118076495,
+    "AMAAJHCAIIA": "Reward for inviting the Raiden Shogun to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330036
+  },
+  {
+    "PGKNKBKHCHM": 1408,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1408,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140801
+      }
+    ],
+    "HIJGIHOHKIH": 2621956980,
+    "IEAMFFIKFJF": "\"Astute Amusement\" Yae Miko",
+    "OGFMFBDKPGC": 2983120591,
+    "EDPEIADEDFG": "\"The wise and beautiful Yae Miko.\"",
+    "FPLELKMOPEM": 572678863,
+    "AMAAJHCAIIA": "Reward for inviting Yae Miko to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330037
+  },
+  {
+    "PGKNKBKHCHM": 1409,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1409,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 140901
+      }
+    ],
+    "HIJGIHOHKIH": 1585549716,
+    "IEAMFFIKFJF": "\"Witch of Purple Rose\" Lisa",
+    "OGFMFBDKPGC": 2423529919,
+    "EDPEIADEDFG": "Pursuing the arcane mysteries of magic, and waiting quietly for an encounter with truth.",
+    "FPLELKMOPEM": 1886465351,
+    "AMAAJHCAIIA": "Reward for inviting Lisa to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330053
+  },
+  {
+    "PGKNKBKHCHM": 1501,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1501,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150101
+      }
+    ],
+    "HIJGIHOHKIH": 4202871212,
+    "IEAMFFIKFJF": "\"Harmless Sweetie\" Sucrose",
+    "OGFMFBDKPGC": 3269944031,
+    "EDPEIADEDFG": "\"You can't rate the strength of an as-yet untested deck!\"",
+    "FPLELKMOPEM": 1190266535,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 330014
+  },
+  {
+    "PGKNKBKHCHM": 1502,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1502,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150201
+      }
+    ],
+    "HIJGIHOHKIH": 2002970932,
+    "IEAMFFIKFJF": "\"Dandelion Knight\" Jean",
+    "OGFMFBDKPGC": 3143043151,
+    "EDPEIADEDFG": "Never believes that she has done well enough — not until final victory is hers, anyway.",
+    "FPLELKMOPEM": 3058248743,
+    "AMAAJHCAIIA": "Reward for inviting Jean to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330015
+  },
+  {
+    "PGKNKBKHCHM": 1503,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1503,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150301
+      }
+    ],
+    "HIJGIHOHKIH": 3312867916,
+    "IEAMFFIKFJF": "\"Windborne Bard\" Venti",
+    "OGFMFBDKPGC": 4275847439,
+    "EDPEIADEDFG": "\"As the four seasons in turn shall say their piece, so the four winds too shall never cease. \\n\"Of course, to look at it differently, I am the one who should be credited here, and not they.\"\\nCredits should be given where credits belong — if not for the bard who pens the song, then who shall ensure that these tales are passed on!?\"",
+    "FPLELKMOPEM": 1302834047,
+    "AMAAJHCAIIA": "Reward for inviting Venti to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330038
+  },
+  {
+    "PGKNKBKHCHM": 1504,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1504,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150401
+      }
+    ],
+    "HIJGIHOHKIH": 1870477036,
+    "IEAMFFIKFJF": "\"Vigilant Yaksha\" Xiao",
+    "OGFMFBDKPGC": 607349607,
+    "EDPEIADEDFG": "The Vigilant Yaksha, the bane of all evil.",
+    "FPLELKMOPEM": 839143975,
+    "AMAAJHCAIIA": "Reward for inviting Xiao to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330039
+  },
+  {
+    "PGKNKBKHCHM": 1505,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1505,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150501
+      }
+    ],
+    "HIJGIHOHKIH": 3731793452,
+    "IEAMFFIKFJF": "Scarlet Leaves Pursue Wild Waves: Kaedehara Kazuha",
+    "OGFMFBDKPGC": 634954543,
+    "EDPEIADEDFG": "Flowers and birds are a dear pleasure to one winding under the moonlight.",
+    "FPLELKMOPEM": 2068001983,
+    "AMAAJHCAIIA": "Reward for inviting Kaedehara Kazuha to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330051
+  },
+  {
+    "PGKNKBKHCHM": 1506,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1506,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 150601
+      }
+    ],
+    "HIJGIHOHKIH": 3063371388,
+    "IEAMFFIKFJF": "\"Eons Adrift\" Wanderer",
+    "OGFMFBDKPGC": 1498407775,
+    "EDPEIADEDFG": "Tribulations Uncounted, Trials Unknowable.",
+    "FPLELKMOPEM": 2267172871,
+    "AMAAJHCAIIA": "Reward for inviting the Wanderer to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330054
+  },
+  {
+    "PGKNKBKHCHM": 1601,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1601,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 160101
+      }
+    ],
+    "HIJGIHOHKIH": 320899468,
+    "IEAMFFIKFJF": "\"Eclipsing Star\" Ningguang",
+    "OGFMFBDKPGC": 1061797895,
+    "EDPEIADEDFG": "The greatest secret she keeps is that she keeps a great many of Liyue's secrets.",
+    "FPLELKMOPEM": 4110244935,
+    "AMAAJHCAIIA": "Reward for inviting Ningguang to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330016
+  },
+  {
+    "PGKNKBKHCHM": 1602,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1602,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 160201
+      }
+    ],
+    "HIJGIHOHKIH": 1128521036,
+    "IEAMFFIKFJF": "\"Chivalric Blossom\" Noelle",
+    "OGFMFBDKPGC": 244920111,
+    "EDPEIADEDFG": "You can leave arranging the table to her — really, you can.",
+    "FPLELKMOPEM": 1110488327,
+    "AMAAJHCAIIA": "Reward for inviting Noelle to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330017
+  },
+  {
+    "PGKNKBKHCHM": 1603,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1603,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 160301
+      }
+    ],
+    "HIJGIHOHKIH": 3100652180,
+    "IEAMFFIKFJF": "\"Vago Mundo\" Zhongli",
+    "OGFMFBDKPGC": 3651443999,
+    "EDPEIADEDFG": "A hidden gemstone can illuminate the whole earth, bright and unrivaled as a star.",
+    "FPLELKMOPEM": 3730399183,
+    "AMAAJHCAIIA": "Reward for inviting Zhongli to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330040
+  },
+  {
+    "PGKNKBKHCHM": 1604,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1604,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 160401
+      }
+    ],
+    "HIJGIHOHKIH": 3907011612,
+    "IEAMFFIKFJF": "\"Kreideprinz\" Albedo",
+    "OGFMFBDKPGC": 1256994679,
+    "EDPEIADEDFG": "Nigredo and calx, rubedo and citrinitas.",
+    "FPLELKMOPEM": 2098337679,
+    "AMAAJHCAIIA": "Reward for inviting Albedo to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330041
+  },
+  {
+    "PGKNKBKHCHM": 1605,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1605,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 160501
+      }
+    ],
+    "HIJGIHOHKIH": 3007618884,
+    "IEAMFFIKFJF": "\"Hanamizaka Heroics\" Arataki Itto",
+    "OGFMFBDKPGC": 2453352943,
+    "EDPEIADEDFG": "Arataki \"The Ultimate TCG Champion\" Itto",
+    "FPLELKMOPEM": 3918996999,
+    "AMAAJHCAIIA": "Reward for inviting Arataki Itto to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330042
+  },
+  {
+    "PGKNKBKHCHM": 1701,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1701,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 170101
+      }
+    ],
+    "HIJGIHOHKIH": 1254660564,
+    "IEAMFFIKFJF": "\"Sprout of Rebirth\" Collei",
+    "OGFMFBDKPGC": 2618683359,
+    "EDPEIADEDFG": "\"'Shouting the name of your card loudly will increase its power many-fold'... You've got to be kidding, right?\"",
+    "FPLELKMOPEM": 3073994791,
+    "AMAAJHCAIIA": "Reward for inviting Collei to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330018
+  },
+  {
+    "PGKNKBKHCHM": 1702,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1702,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 170201
+      }
+    ],
+    "HIJGIHOHKIH": 3377824436,
+    "IEAMFFIKFJF": "\"Verdant Strider\" Tighnari",
+    "OGFMFBDKPGC": 2179547487,
+    "EDPEIADEDFG": "From a certain perspective, experience does not hold parity with wisdom.",
+    "FPLELKMOPEM": 501445263,
+    "AMAAJHCAIIA": "Reward for inviting Tighnari to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him",
+    "OOBMCDNANFP": 330043
+  },
+  {
+    "PGKNKBKHCHM": 1703,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1703,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 170301
+      }
+    ],
+    "HIJGIHOHKIH": 1906378196,
+    "IEAMFFIKFJF": "\"Physic of Purity\" Nahida",
+    "OGFMFBDKPGC": 2629802999,
+    "EDPEIADEDFG": "The panacea brings purity, and from the palace depths is spring renewed.",
+    "FPLELKMOPEM": 3833769015,
+    "AMAAJHCAIIA": "Reward for inviting Nahida to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330044
+  },
+  {
+    "PGKNKBKHCHM": 1704,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 1704,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 170401
+      }
+    ],
+    "HIJGIHOHKIH": 2702090636,
+    "IEAMFFIKFJF": "\"Burgeoning Grace\" Yaoyao",
+    "OGFMFBDKPGC": 2916821919,
+    "EDPEIADEDFG": "Constitution of jade, adepti bones.",
+    "FPLELKMOPEM": 398178263,
+    "AMAAJHCAIIA": "Reward for inviting Yaoyao to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with her",
+    "OOBMCDNANFP": 330056
+  },
+  {
+    "PGKNKBKHCHM": 2101,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2101,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 210101
+      }
+    ],
+    "HIJGIHOHKIH": 1280782004,
+    "IEAMFFIKFJF": "\"Cicin of the Hollow Mist\" Cryo Cicin Mage",
+    "OGFMFBDKPGC": 1303003191,
+    "EDPEIADEDFG": "And so long as the Mist Grass yet lingers, the Cryo Cicins will not abandon her.",
+    "FPLELKMOPEM": 489055927,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Cryo Cicin Mage",
+    "OOBMCDNANFP": 330045
+  },
+  {
+    "PGKNKBKHCHM": 2201,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2201,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 220101
+      }
+    ],
+    "HIJGIHOHKIH": 2262430804,
+    "IEAMFFIKFJF": "\"Lady of Clear Waters\" Rhodeia",
+    "OGFMFBDKPGC": 2427203247,
+    "EDPEIADEDFG": "\"As long as rain falls and rivers flow... water will exist forever... \"",
+    "FPLELKMOPEM": 3835433159,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Rhodeia of Loch",
+    "OOBMCDNANFP": 330019
+  },
+  {
+    "PGKNKBKHCHM": 2202,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2202,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 220201
+      }
+    ],
+    "HIJGIHOHKIH": 2123853604,
+    "IEAMFFIKFJF": "\"Snezhnayan Maiden\" Mirror Envoy",
+    "OGFMFBDKPGC": 2168833983,
+    "EDPEIADEDFG": "All secrets shall be concealed within the mirror of glaring brightness...",
+    "FPLELKMOPEM": 3554214679,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Fatui Mirror Maiden",
+    "OOBMCDNANFP": 330026
+  },
+  {
+    "PGKNKBKHCHM": 2301,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2301,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 230101
+      }
+    ],
+    "HIJGIHOHKIH": 3918019412,
+    "IEAMFFIKFJF": "\"Blade of Settlement\" Agent",
+    "OGFMFBDKPGC": 2015745367,
+    "EDPEIADEDFG": "\"There is no running from your debt, be you living or otherwise.\"",
+    "FPLELKMOPEM": 1890095207,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Fatui Pyro Agent",
+    "OOBMCDNANFP": 330020
+  },
+  {
+    "PGKNKBKHCHM": 2302,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2302,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 230201
+      }
+    ],
+    "HIJGIHOHKIH": 977920204,
+    "IEAMFFIKFJF": "Abyss Lector: Fathomless Flames",
+    "OGFMFBDKPGC": 147482599,
+    "EDPEIADEDFG": "From chapters of canon revealed come much heeded admonishments.",
+    "FPLELKMOPEM": 2552866591,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Abyss Lector: Fathomless Flames",
+    "OOBMCDNANFP": 330046
+  },
+  {
+    "PGKNKBKHCHM": 2401,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2401,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 240101
+      }
+    ],
+    "HIJGIHOHKIH": 2906657452,
+    "IEAMFFIKFJF": "Electro Hypostasis",
+    "OGFMFBDKPGC": 3988594399,
+    "EDPEIADEDFG": "Code name: Aleph. A high-purity Electro entity.\\nEven if you win at rock-paper-scissors, Aleph is not one to admit defeat.",
+    "FPLELKMOPEM": 1689190599,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Electro Hypostasis",
+    "OOBMCDNANFP": 330047
+  },
+  {
+    "PGKNKBKHCHM": 2501,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2501,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 250101
+      }
+    ],
+    "HIJGIHOHKIH": 2065519868,
+    "IEAMFFIKFJF": "\"Ingenious Machine\" Maguu Kenki",
+    "OGFMFBDKPGC": 1405051927,
+    "EDPEIADEDFG": "Even today, it still patrols the place where fate was severed.",
+    "FPLELKMOPEM": 1031114495,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Maguu Kenki",
+    "OOBMCDNANFP": 330021
+  },
+  {
+    "PGKNKBKHCHM": 2601,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2601,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 260101
+      }
+    ],
+    "HIJGIHOHKIH": 4019975524,
+    "IEAMFFIKFJF": "\"Vale-Crosser\" Stonehide Lawachurl",
+    "OGFMFBDKPGC": 3693034727,
+    "EDPEIADEDFG": "Go around — the way ahead is the realm of the \"king.\"",
+    "FPLELKMOPEM": 1438989327,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Stonehide Lawachurl",
+    "OOBMCDNANFP": 330022
+  },
+  {
+    "PGKNKBKHCHM": 2701,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 2701,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 270101
+      }
+    ],
+    "HIJGIHOHKIH": 884329180,
+    "IEAMFFIKFJF": "\"Lord of Fungi\" Jadeplume Terrorshroom",
+    "OGFMFBDKPGC": 2455971463,
+    "EDPEIADEDFG": "If you keep silent and listen closely, you can hear the sound of the ruler of the Shroom-Kin inspecting its territory...",
+    "FPLELKMOPEM": 3112896839,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge at The Cat's Tail and claiming victory in a Friendly Fracas with Jadeplume Terrorshroom",
+    "OOBMCDNANFP": 330027
+  },
+  {
+    "PGKNKBKHCHM": 211011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1101,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110111
+      }
+    ],
+    "HIJGIHOHKIH": 2238986820,
+    "IEAMFFIKFJF": "Ganyu: Undivided Heart",
+    "OGFMFBDKPGC": 3672703047,
+    "EDPEIADEDFG": "First the arrow strikes, and then it turns to frost.",
+    "FPLELKMOPEM": 55061031,
+    "AMAAJHCAIIA": "Reward for inviting Ganyu to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330500
+  },
+  {
+    "PGKNKBKHCHM": 211021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1102,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110211
+      }
+    ],
+    "HIJGIHOHKIH": 3250257692,
+    "IEAMFFIKFJF": "Diona: Shaken, Not Purred",
+    "OGFMFBDKPGC": 1481995511,
+    "EDPEIADEDFG": "Shake and stir till its all evenly mixed... and there! Your refill's ready!",
+    "FPLELKMOPEM": 2892630175,
+    "AMAAJHCAIIA": "Reward for inviting Diona to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330523
+  },
+  {
+    "PGKNKBKHCHM": 211031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1103,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110311
+      }
+    ],
+    "HIJGIHOHKIH": 2630919084,
+    "IEAMFFIKFJF": "Kaeya: Cold-Blooded Strike",
+    "OGFMFBDKPGC": 218753263,
+    "EDPEIADEDFG": "A slightly cold joke.",
+    "FPLELKMOPEM": 364959039,
+    "AMAAJHCAIIA": "Reward for inviting Kaeya to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330501
+  },
+  {
+    "PGKNKBKHCHM": 211041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1104,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110411
+      }
+    ],
+    "HIJGIHOHKIH": 1031793700,
+    "IEAMFFIKFJF": "Chongyun: Steady Breathing",
+    "OGFMFBDKPGC": 524219527,
+    "EDPEIADEDFG": "Steady breathing makes a steady heart.",
+    "FPLELKMOPEM": 599239543,
+    "AMAAJHCAIIA": "Reward for inviting Chongyun to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330502
+  },
+  {
+    "PGKNKBKHCHM": 211051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1105,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110511
+      }
+    ],
+    "HIJGIHOHKIH": 2076748404,
+    "IEAMFFIKFJF": "Kamisato Ayaka: Kanten Senmyou Blessing",
+    "OGFMFBDKPGC": 138836695,
+    "EDPEIADEDFG": "The heron holds upon the ice on elegant wing.",
+    "FPLELKMOPEM": 4064453335,
+    "AMAAJHCAIIA": "Reward for inviting Kamisato Ayaka to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330503
+  },
+  {
+    "PGKNKBKHCHM": 211061,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1106,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211061,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110611
+      }
+    ],
+    "HIJGIHOHKIH": 3115588260,
+    "IEAMFFIKFJF": "Eula: Wellspring of War-Lust",
+    "OGFMFBDKPGC": 1671036663,
+    "EDPEIADEDFG": "Flood of frost will ensure that vengeance is mine.",
+    "FPLELKMOPEM": 4164925559,
+    "AMAAJHCAIIA": "Reward for inviting Eula to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330528
+  },
+  {
+    "PGKNKBKHCHM": 211071,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1107,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211071,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110711
+      }
+    ],
+    "HIJGIHOHKIH": 2556249700,
+    "IEAMFFIKFJF": "Shenhe: Mystical Abandon",
+    "OGFMFBDKPGC": 2302663343,
+    "EDPEIADEDFG": "Transfigure, and let my will be embodied!",
+    "FPLELKMOPEM": 4154497743,
+    "AMAAJHCAIIA": "Reward for inviting Shenhe to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330540
+  },
+  {
+    "PGKNKBKHCHM": 211081,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1108,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 211081,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2110811
+      }
+    ],
+    "HIJGIHOHKIH": 2653430148,
+    "IEAMFFIKFJF": "Qiqi: Rite of Resurrection",
+    "OGFMFBDKPGC": 3078310999,
+    "EDPEIADEDFG": "\"I must... live on...\"",
+    "FPLELKMOPEM": 1014324831,
+    "AMAAJHCAIIA": "Reward for inviting Qiqi to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330552
+  },
+  {
+    "PGKNKBKHCHM": 212011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1201,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120111
+      }
+    ],
+    "HIJGIHOHKIH": 3665410212,
+    "IEAMFFIKFJF": "Barbara: Glorious Season",
+    "OGFMFBDKPGC": 3067589239,
+    "EDPEIADEDFG": "Here's a song for you~",
+    "FPLELKMOPEM": 2517464759,
+    "AMAAJHCAIIA": "Reward for inviting Barbara to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330525
+  },
+  {
+    "PGKNKBKHCHM": 212021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1202,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120211
+      }
+    ],
+    "HIJGIHOHKIH": 3414212924,
+    "IEAMFFIKFJF": "Xingqiu: The Scent Remained",
+    "OGFMFBDKPGC": 4274698119,
+    "EDPEIADEDFG": "His penmanship leaves quite the impression.",
+    "FPLELKMOPEM": 1899075583,
+    "AMAAJHCAIIA": "Reward for inviting Xingqiu to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330504
+  },
+  {
+    "PGKNKBKHCHM": 212031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1203,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120311
+      }
+    ],
+    "HIJGIHOHKIH": 1961414300,
+    "IEAMFFIKFJF": "Mona: Prophecy of Submersion",
+    "OGFMFBDKPGC": 854576935,
+    "EDPEIADEDFG": "\"Hey! You should be playing that card!\"\\n\"...Well, alright then, do what you want.\"",
+    "FPLELKMOPEM": 133665879,
+    "AMAAJHCAIIA": "Reward for inviting Mona to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330505
+  },
+  {
+    "PGKNKBKHCHM": 212041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1204,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120411
+      }
+    ],
+    "HIJGIHOHKIH": 2871743028,
+    "IEAMFFIKFJF": "Tartaglia: Hydrospout",
+    "OGFMFBDKPGC": 434563215,
+    "EDPEIADEDFG": "A reckless yet precise blow.",
+    "FPLELKMOPEM": 985661271,
+    "AMAAJHCAIIA": "Reward for inviting Tartaglia to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330541
+  },
+  {
+    "PGKNKBKHCHM": 212051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1205,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120511
+      }
+    ],
+    "HIJGIHOHKIH": 863435980,
+    "IEAMFFIKFJF": "Sangonomiya Kokomi: Tamakushi Casket",
+    "OGFMFBDKPGC": 3356025855,
+    "EDPEIADEDFG": "Wisdom yet revealed from the casket parallels tides yet unfolded by the sea.",
+    "FPLELKMOPEM": 2892381735,
+    "AMAAJHCAIIA": "Reward for inviting Sangonomiya Kokomi to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330529
+  },
+  {
+    "PGKNKBKHCHM": 212061,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1206,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212061,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120611
+      }
+    ],
+    "HIJGIHOHKIH": 3627043908,
+    "IEAMFFIKFJF": "Kamisato Ayato: Kyouka Fuushi",
+    "OGFMFBDKPGC": 134206543,
+    "EDPEIADEDFG": "The courtyard remains fragrant even in the bitterest winter.",
+    "FPLELKMOPEM": 3233828167,
+    "AMAAJHCAIIA": "Reward for inviting Kamisato Ayato to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330538
+  },
+  {
+    "PGKNKBKHCHM": 212071,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1207,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 212071,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2120711
+      }
+    ],
+    "HIJGIHOHKIH": 3161332708,
+    "IEAMFFIKFJF": "Candace: The Overflow",
+    "OGFMFBDKPGC": 2058184239,
+    "EDPEIADEDFG": "Those who do not respect the regulations at cards...\\nAre the enemy of all who love the game.",
+    "FPLELKMOPEM": 3115306663,
+    "AMAAJHCAIIA": "Reward for inviting Candace to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330549
+  },
+  {
+    "PGKNKBKHCHM": 213011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1301,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130111
+      }
+    ],
+    "HIJGIHOHKIH": 2311229164,
+    "IEAMFFIKFJF": "Diluc: Flowing Flame",
+    "OGFMFBDKPGC": 2104029575,
+    "EDPEIADEDFG": "A simple way out of perilous situations.",
+    "FPLELKMOPEM": 4087041487,
+    "AMAAJHCAIIA": "Reward for inviting Diluc to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330506
+  },
+  {
+    "PGKNKBKHCHM": 213021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1302,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130211
+      }
+    ],
+    "HIJGIHOHKIH": 505349548,
+    "IEAMFFIKFJF": "Xiangling: Crossfire",
+    "OGFMFBDKPGC": 2981094327,
+    "EDPEIADEDFG": "This heat's just normal for a restaurant's standards!",
+    "FPLELKMOPEM": 1513755815,
+    "AMAAJHCAIIA": "Reward for inviting Xiangling to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330507
+  },
+  {
+    "PGKNKBKHCHM": 213031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1303,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130311
+      }
+    ],
+    "HIJGIHOHKIH": 2668694772,
+    "IEAMFFIKFJF": "Bennett: Grand Expectation",
+    "OGFMFBDKPGC": 2517889359,
+    "EDPEIADEDFG": "The best adventure is always yet to be.",
+    "FPLELKMOPEM": 56836143,
+    "AMAAJHCAIIA": "Reward for inviting Bennett to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330508
+  },
+  {
+    "PGKNKBKHCHM": 213041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1304,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130411
+      }
+    ],
+    "HIJGIHOHKIH": 2616098652,
+    "IEAMFFIKFJF": "Amber: Bunny Triggered",
+    "OGFMFBDKPGC": 988541199,
+    "EDPEIADEDFG": "\"Go go Baron Bunny!\"",
+    "FPLELKMOPEM": 3629301855,
+    "AMAAJHCAIIA": "Reward for inviting Amber to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330509
+  },
+  {
+    "PGKNKBKHCHM": 213051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1305,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130511
+      }
+    ],
+    "HIJGIHOHKIH": 1947601780,
+    "IEAMFFIKFJF": "Yoimiya: Naganohara Meteor Swarm",
+    "OGFMFBDKPGC": 2772084287,
+    "EDPEIADEDFG": "Naganohara Ideal Firework Reserve Theory.",
+    "FPLELKMOPEM": 1538607759,
+    "AMAAJHCAIIA": "Reward for inviting Yoimiya to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330510
+  },
+  {
+    "PGKNKBKHCHM": 213061,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1306,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213061,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130611
+      }
+    ],
+    "HIJGIHOHKIH": 3787641788,
+    "IEAMFFIKFJF": "Klee: Pounding Surprise",
+    "OGFMFBDKPGC": 795801279,
+    "EDPEIADEDFG": "Let out a good laugh when you draw this card!",
+    "FPLELKMOPEM": 2153657191,
+    "AMAAJHCAIIA": "Reward for inviting Klee to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330530
+  },
+  {
+    "PGKNKBKHCHM": 213071,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1307,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213071,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130711
+      }
+    ],
+    "HIJGIHOHKIH": 4128080652,
+    "IEAMFFIKFJF": "Hu Tao: Sanguine Rouge",
+    "OGFMFBDKPGC": 715962167,
+    "EDPEIADEDFG": "Director Hu needs a bit more firepower to settle certain unique affairs.",
+    "FPLELKMOPEM": 3495977839,
+    "AMAAJHCAIIA": "Reward for inviting Hu Tao to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330542
+  },
+  {
+    "PGKNKBKHCHM": 213081,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1308,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213081,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130811
+      }
+    ],
+    "HIJGIHOHKIH": 4155283876,
+    "IEAMFFIKFJF": "Yanfei: Right of Final Interpretation",
+    "OGFMFBDKPGC": 2603594007,
+    "EDPEIADEDFG": "\"When it comes to cards... Well, anything is permissible, so long as the rules don't forbid it.\"",
+    "FPLELKMOPEM": 539629223,
+    "AMAAJHCAIIA": "Reward for inviting Yanfei to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330550
+  },
+  {
+    "PGKNKBKHCHM": 213091,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1309,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 213091,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2130911
+      }
+    ],
+    "HIJGIHOHKIH": 65972508,
+    "IEAMFFIKFJF": "Dehya: Stalwart and True",
+    "OGFMFBDKPGC": 1837682703,
+    "EDPEIADEDFG": "\"Don't hold back, let's rock!\"",
+    "FPLELKMOPEM": 2262445079,
+    "AMAAJHCAIIA": "Reward for inviting Dehya to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330554
+  },
+  {
+    "PGKNKBKHCHM": 214011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1401,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140111
+      }
+    ],
+    "HIJGIHOHKIH": 2637080988,
+    "IEAMFFIKFJF": "Fischl: Stellar Predator",
+    "OGFMFBDKPGC": 292890855,
+    "EDPEIADEDFG": "\"The instant in which Ozvaldo Hrafnavins shows his great might.\"",
+    "FPLELKMOPEM": 3458199159,
+    "AMAAJHCAIIA": "Reward for inviting Fischl to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330511
+  },
+  {
+    "PGKNKBKHCHM": 214021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1402,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140211
+      }
+    ],
+    "HIJGIHOHKIH": 3177179716,
+    "IEAMFFIKFJF": "Razor: Awakening",
+    "OGFMFBDKPGC": 187255839,
+    "EDPEIADEDFG": "The hunt is about to begin.",
+    "FPLELKMOPEM": 2399550319,
+    "AMAAJHCAIIA": "Reward for inviting Razor to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330512
+  },
+  {
+    "PGKNKBKHCHM": 214031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1403,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140311
+      }
+    ],
+    "HIJGIHOHKIH": 3607535252,
+    "IEAMFFIKFJF": "Keqing: Thundering Penance",
+    "OGFMFBDKPGC": 1938734255,
+    "EDPEIADEDFG": "As long as you're not actually cheating, this is just the name of a card.",
+    "FPLELKMOPEM": 657933351,
+    "AMAAJHCAIIA": "Reward for inviting Keqing to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330513
+  },
+  {
+    "PGKNKBKHCHM": 214041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1404,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140411
+      }
+    ],
+    "HIJGIHOHKIH": 3231059516,
+    "IEAMFFIKFJF": "Cyno: Featherfall Judgment",
+    "OGFMFBDKPGC": 1944552847,
+    "EDPEIADEDFG": "\"This is my duel soul.\"",
+    "FPLELKMOPEM": 3958740087,
+    "AMAAJHCAIIA": "Reward for inviting Cyno to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330524
+  },
+  {
+    "PGKNKBKHCHM": 214051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1405,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140511
+      }
+    ],
+    "HIJGIHOHKIH": 1643547780,
+    "IEAMFFIKFJF": "Beidou: Lightning Storm",
+    "OGFMFBDKPGC": 1271908535,
+    "EDPEIADEDFG": "Rumbling thunder goes well with lightning storms!",
+    "FPLELKMOPEM": 4068975319,
+    "AMAAJHCAIIA": "Reward for inviting Beidou to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330531
+  },
+  {
+    "PGKNKBKHCHM": 214061,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1406,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214061,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140611
+      }
+    ],
+    "HIJGIHOHKIH": 1974614308,
+    "IEAMFFIKFJF": "Kujou Sara: Sin of Pride",
+    "OGFMFBDKPGC": 1693527743,
+    "EDPEIADEDFG": "\"With this unity between my mind, arrow, and bow, any enemy will be struck down!\"",
+    "FPLELKMOPEM": 4160493407,
+    "AMAAJHCAIIA": "Reward for inviting Kujou Sara to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330537
+  },
+  {
+    "PGKNKBKHCHM": 214071,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1407,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214071,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140711
+      }
+    ],
+    "HIJGIHOHKIH": 3712178620,
+    "IEAMFFIKFJF": "Raiden Shogun: Wishes Unnumbered",
+    "OGFMFBDKPGC": 2953157751,
+    "EDPEIADEDFG": "Shine down, baleful omen!",
+    "FPLELKMOPEM": 2785456935,
+    "AMAAJHCAIIA": "Reward for inviting the Raiden Shogun to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330543
+  },
+  {
+    "PGKNKBKHCHM": 214081,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1408,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214081,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140811
+      }
+    ],
+    "HIJGIHOHKIH": 3425651476,
+    "IEAMFFIKFJF": "Yae Miko: The Shrine's Sacred Shade",
+    "OGFMFBDKPGC": 439045767,
+    "EDPEIADEDFG": "\"Ah... A sight to behold...\"",
+    "FPLELKMOPEM": 3960708615,
+    "AMAAJHCAIIA": "Reward for inviting Yae Miko to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330544
+  },
+  {
+    "PGKNKBKHCHM": 214091,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1409,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 214091,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2140911
+      }
+    ],
+    "HIJGIHOHKIH": 3624306668,
+    "IEAMFFIKFJF": "Lisa: Pulsating Witch",
+    "OGFMFBDKPGC": 3837267423,
+    "EDPEIADEDFG": "As a Librarian who has read through tens of thousands of volumes, of course it's trivial for me to remember how to win...",
+    "FPLELKMOPEM": 1268719711,
+    "AMAAJHCAIIA": "Reward for inviting Lisa to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330553
+  },
+  {
+    "PGKNKBKHCHM": 215011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1501,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150111
+      }
+    ],
+    "HIJGIHOHKIH": 1294549604,
+    "IEAMFFIKFJF": "Sucrose: Chaotic Entropy",
+    "OGFMFBDKPGC": 2034682479,
+    "EDPEIADEDFG": "The wild winds gather — and amidst the chaos, victory.",
+    "FPLELKMOPEM": 1337184575,
+    "AMAAJHCAIIA": "Reward for inviting Sucrose to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330514
+  },
+  {
+    "PGKNKBKHCHM": 215021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1502,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150211
+      }
+    ],
+    "HIJGIHOHKIH": 737760028,
+    "IEAMFFIKFJF": "Jean: Lands of Dandelion",
+    "OGFMFBDKPGC": 690946223,
+    "EDPEIADEDFG": "\"Wind, hear me!\"",
+    "FPLELKMOPEM": 1123488223,
+    "AMAAJHCAIIA": "Reward for inviting Jean to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330515
+  },
+  {
+    "PGKNKBKHCHM": 215031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1503,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150311
+      }
+    ],
+    "HIJGIHOHKIH": 1382955300,
+    "IEAMFFIKFJF": "Venti: Embrace of Winds",
+    "OGFMFBDKPGC": 1812974311,
+    "EDPEIADEDFG": "\"Watch your step.\"",
+    "FPLELKMOPEM": 2331516287,
+    "AMAAJHCAIIA": "Reward for inviting Venti to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330532
+  },
+  {
+    "PGKNKBKHCHM": 215041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1504,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150411
+      }
+    ],
+    "HIJGIHOHKIH": 1492396812,
+    "IEAMFFIKFJF": "Xiao: Conqueror of Evil",
+    "OGFMFBDKPGC": 534275119,
+    "EDPEIADEDFG": "Evil shall be dispersed, and the vile will be scattered.",
+    "FPLELKMOPEM": 2804545847,
+    "AMAAJHCAIIA": "Reward for inviting Xiao to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330533
+  },
+  {
+    "PGKNKBKHCHM": 215051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1505,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150511
+      }
+    ],
+    "HIJGIHOHKIH": 1174527524,
+    "IEAMFFIKFJF": "Kaedehara Kazuha: Poetics of Fuubutsu",
+    "OGFMFBDKPGC": 985648439,
+    "EDPEIADEDFG": "There is something elegant about this match.\\nIf nothing else, both sides may concede defeat without regrets.",
+    "FPLELKMOPEM": 3518565791,
+    "AMAAJHCAIIA": "Reward for inviting Kaedehara Kazuha to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330551
+  },
+  {
+    "PGKNKBKHCHM": 215061,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1506,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 215061,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2150611
+      }
+    ],
+    "HIJGIHOHKIH": 3715742612,
+    "IEAMFFIKFJF": "Wanderer: Gales of Reverie",
+    "OGFMFBDKPGC": 794935383,
+    "EDPEIADEDFG": "\"Squall and fury!\"",
+    "FPLELKMOPEM": 1382091535,
+    "AMAAJHCAIIA": "Reward for inviting the Wanderer to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330555
+  },
+  {
+    "PGKNKBKHCHM": 216011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1601,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 216011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2160111
+      }
+    ],
+    "HIJGIHOHKIH": 2786728212,
+    "IEAMFFIKFJF": "Ningguang: Strategic Reserve",
+    "OGFMFBDKPGC": 2453163967,
+    "EDPEIADEDFG": "Abundance is synonymous with confidence.",
+    "FPLELKMOPEM": 3717453199,
+    "AMAAJHCAIIA": "Reward for inviting Ningguang to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330516
+  },
+  {
+    "PGKNKBKHCHM": 216021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1602,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 216021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2160211
+      }
+    ],
+    "HIJGIHOHKIH": 978726484,
+    "IEAMFFIKFJF": "Noelle: I Got Your Back",
+    "OGFMFBDKPGC": 1400197039,
+    "EDPEIADEDFG": "A stout heart is the sternest armor.",
+    "FPLELKMOPEM": 3237655415,
+    "AMAAJHCAIIA": "Reward for inviting Noelle to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330517
+  },
+  {
+    "PGKNKBKHCHM": 216031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1603,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 216031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2160311
+      }
+    ],
+    "HIJGIHOHKIH": 485490820,
+    "IEAMFFIKFJF": "Zhongli: Dominance of Earth",
+    "OGFMFBDKPGC": 36929495,
+    "EDPEIADEDFG": "The vastness of rivers flows endless, perpetual upon the tapestry of eons.",
+    "FPLELKMOPEM": 4253465927,
+    "AMAAJHCAIIA": "Reward for inviting Zhongli to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330534
+  },
+  {
+    "PGKNKBKHCHM": 216041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1604,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 216041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2160411
+      }
+    ],
+    "HIJGIHOHKIH": 1257826828,
+    "IEAMFFIKFJF": "Albedo: Descent of Divinity",
+    "OGFMFBDKPGC": 1167388391,
+    "EDPEIADEDFG": "\"The process of confirming the strategy for a duel also requires meticulous calculations...\"",
+    "FPLELKMOPEM": 4169324375,
+    "AMAAJHCAIIA": "Reward for inviting Albedo to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330545
+  },
+  {
+    "PGKNKBKHCHM": 216051,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1605,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 216051,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2160511
+      }
+    ],
+    "HIJGIHOHKIH": 2312726612,
+    "IEAMFFIKFJF": "Arataki Itto: Arataki Ichiban",
+    "OGFMFBDKPGC": 926978727,
+    "EDPEIADEDFG": "Whatever you do, remember to ride the momentum.",
+    "FPLELKMOPEM": 1716054463,
+    "AMAAJHCAIIA": "Reward for inviting Arataki Itto to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330539
+  },
+  {
+    "PGKNKBKHCHM": 217011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1701,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 217011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2170111
+      }
+    ],
+    "HIJGIHOHKIH": 3141040636,
+    "IEAMFFIKFJF": "Collei: Floral Sidewinder",
+    "OGFMFBDKPGC": 3971887415,
+    "EDPEIADEDFG": "Never underestimate Collei, and never underestimate her cat.",
+    "FPLELKMOPEM": 2124596367,
+    "AMAAJHCAIIA": "Reward for inviting Collei to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330518
+  },
+  {
+    "PGKNKBKHCHM": 217021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1702,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 217021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2170211
+      }
+    ],
+    "HIJGIHOHKIH": 1364162692,
+    "IEAMFFIKFJF": "Tighnari: Keen Sight",
+    "OGFMFBDKPGC": 938532391,
+    "EDPEIADEDFG": "Mistakes are part of learning... However, these mistakes should be corrected upon being discovered.",
+    "FPLELKMOPEM": 3013913943,
+    "AMAAJHCAIIA": "Reward for inviting Tighnari to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330535
+  },
+  {
+    "PGKNKBKHCHM": 217031,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1703,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 217031,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2170311
+      }
+    ],
+    "HIJGIHOHKIH": 714024220,
+    "IEAMFFIKFJF": "Nahida: The Seed of Stored Knowledge",
+    "OGFMFBDKPGC": 2636640111,
+    "EDPEIADEDFG": "\"Share in my knowledge.\"",
+    "FPLELKMOPEM": 900980607,
+    "AMAAJHCAIIA": "Reward for inviting Nahida to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330546
+  },
+  {
+    "PGKNKBKHCHM": 217041,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 1704,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 217041,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2170411
+      }
+    ],
+    "HIJGIHOHKIH": 3585415292,
+    "IEAMFFIKFJF": "Yaoyao: Beneficent",
+    "OGFMFBDKPGC": 4171637407,
+    "EDPEIADEDFG": "\"Pain, pain, go away!\"",
+    "FPLELKMOPEM": 3357700415,
+    "AMAAJHCAIIA": "Reward for inviting Yaoyao to a duel at The Cat's Tail and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 330556
+  },
+  {
+    "PGKNKBKHCHM": 221011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2101,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 221011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2210111
+      }
+    ],
+    "HIJGIHOHKIH": 2909042972,
+    "IEAMFFIKFJF": "Cryo Cicin Mage: Cicin's Cold Glare",
+    "OGFMFBDKPGC": 2101767343,
+    "EDPEIADEDFG": "More Mist Grass means more friendly Cryo Cicins.\\n...But what happens when the Mist Grass is used up?\\nPerhaps she never considered this.",
+    "FPLELKMOPEM": 1146482503,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against the Cryo Cicin Mage at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330547
+  },
+  {
+    "PGKNKBKHCHM": 222011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2201,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 222011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2220111
+      }
+    ],
+    "HIJGIHOHKIH": 1543304132,
+    "IEAMFFIKFJF": "Flowing",
+    "OGFMFBDKPGC": 3992240463,
+    "EDPEIADEDFG": "The racing waters are a display of love toward a deceased deity.",
+    "FPLELKMOPEM": 2699871279,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Rhodeia of Loch at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330519
+  },
+  {
+    "PGKNKBKHCHM": 222021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2202,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 222021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2220211
+      }
+    ],
+    "HIJGIHOHKIH": 158991700,
+    "IEAMFFIKFJF": "The Mirror's Secret",
+    "OGFMFBDKPGC": 3930524423,
+    "EDPEIADEDFG": "\"Mirror, mirror, in my hand, where do our foes lurk in this land?\"",
+    "FPLELKMOPEM": 2444349071,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Mirror Maiden at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330526
+  },
+  {
+    "PGKNKBKHCHM": 223011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2301,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 223011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2230111
+      }
+    ],
+    "HIJGIHOHKIH": 2407218268,
+    "IEAMFFIKFJF": "Stealthy Extraction",
+    "OGFMFBDKPGC": 2915629615,
+    "EDPEIADEDFG": "Remember this for so long as you live: You know who it is you owe, and you know when you must pay.",
+    "FPLELKMOPEM": 2737217223,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Fatui Pyro Agent at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330520
+  },
+  {
+    "PGKNKBKHCHM": 223021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2302,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 223021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2230211
+      }
+    ],
+    "HIJGIHOHKIH": 2373075244,
+    "IEAMFFIKFJF": "Abyss Lector: Embers Rekindled",
+    "OGFMFBDKPGC": 814321175,
+    "EDPEIADEDFG": "The path toward sowing grace is not assured to be one free of obstructions.",
+    "FPLELKMOPEM": 47117239,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against the Abyss Lector: Fathomless Flames at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330548
+  },
+  {
+    "PGKNKBKHCHM": 224011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2401,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 224011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2240111
+      }
+    ],
+    "HIJGIHOHKIH": 3278408196,
+    "IEAMFFIKFJF": "Electro Hypostasis: Absorbing Prism",
+    "OGFMFBDKPGC": 1860554943,
+    "EDPEIADEDFG": "\"Here's our chance!\"\\n\"Hey, it's on our side!\"",
+    "FPLELKMOPEM": 809104263,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against the Electro Hypostasis at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330536
+  },
+  {
+    "PGKNKBKHCHM": 225011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2501,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 225011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2250111
+      }
+    ],
+    "HIJGIHOHKIH": 3264055660,
+    "IEAMFFIKFJF": "Marionette Swordmaster",
+    "OGFMFBDKPGC": 1009524199,
+    "EDPEIADEDFG": "That unerring strike has been delivered countless times.",
+    "FPLELKMOPEM": 3903558927,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Maguu Kenki at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330521
+  },
+  {
+    "PGKNKBKHCHM": 226011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2601,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 226011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2260111
+      }
+    ],
+    "HIJGIHOHKIH": 3602972100,
+    "IEAMFFIKFJF": "Forged From Rock",
+    "OGFMFBDKPGC": 1865801127,
+    "EDPEIADEDFG": "An enduring force flows through that craggy form.",
+    "FPLELKMOPEM": 522497831,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Stonehide Lawachurl at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330522
+  },
+  {
+    "PGKNKBKHCHM": 227011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 2701,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 227011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 2270111
+      }
+    ],
+    "HIJGIHOHKIH": 2749097484,
+    "IEAMFFIKFJF": "Spore Dust Cloud",
+    "OGFMFBDKPGC": 657270863,
+    "EDPEIADEDFG": "Few can safely traverse the traps laid by the Fungus with intelligence above that of the average living being.",
+    "FPLELKMOPEM": 63211879,
+    "AMAAJHCAIIA": "Reward for accepting the Tavern Challenge against Jadeplume Terrorshroom at The Cat's Tail and achieving all corresponding challenge objectives in a Friendly Fracas",
+    "OOBMCDNANFP": 330527
+  },
+  {
+    "PGKNKBKHCHM": 311101,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311101,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217024,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3111011
+      }
+    ],
+    "HIJGIHOHKIH": 757257796,
+    "IEAMFFIKFJF": "Bane of Storm and Tide: Magic Guide",
+    "OGFMFBDKPGC": 1385782959,
+    "EDPEIADEDFG": "The 12th edition of the Magic Guide.\\nIt contains a great detail of errors, but nonetheless remains the most authoritative guide to magic in existence.",
+    "FPLELKMOPEM": 3788530207,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331000
+  },
+  {
+    "PGKNKBKHCHM": 311102,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311102,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217025,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3111021
+      }
+    ],
+    "HIJGIHOHKIH": 873301180,
+    "IEAMFFIKFJF": "Composed: Sacrificial Fragments",
+    "OGFMFBDKPGC": 1245670847,
+    "EDPEIADEDFG": "A weathered musical score, the content of which is no longer legible.",
+    "FPLELKMOPEM": 1113708135,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331001
+  },
+  {
+    "PGKNKBKHCHM": 311103,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311103,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217026,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3111031
+      }
+    ],
+    "HIJGIHOHKIH": 2653032548,
+    "IEAMFFIKFJF": "Cloud Atlas: Skyward Atlas",
+    "OGFMFBDKPGC": 3069787967,
+    "EDPEIADEDFG": "Its full name is the \"An atlas of the winds and clouds.\"\\nThis text records the winds and clouds of the northern lands' skies in poetic and archival forms.",
+    "FPLELKMOPEM": 2445221447,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331002
+  },
+  {
+    "PGKNKBKHCHM": 311104,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311104,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217121,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3111041
+      }
+    ],
+    "HIJGIHOHKIH": 1221908996,
+    "IEAMFFIKFJF": "A Thousand Nights' Dawnsong: A Thousand Floating Dreams",
+    "OGFMFBDKPGC": 731329447,
+    "EDPEIADEDFG": "\"There is an appointed time for all things to live and die, just like the ceaseless cycles of night and dawn.\"\\n\"May the stories within this lamp grant you dreams worth looking forward to.\"",
+    "FPLELKMOPEM": 4086780015,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331038
+  },
+  {
+    "PGKNKBKHCHM": 311105,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311105,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217159,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3111051
+      }
+    ],
+    "HIJGIHOHKIH": 4049937716,
+    "IEAMFFIKFJF": "Moon's Fullness: Fruit of Fulfillment",
+    "OGFMFBDKPGC": 3851297599,
+    "EDPEIADEDFG": "\"Even the most bitter of stories contain courage and strength... The story of the good Golden Nara's adventures with us will help good Nara defend the forest.\"",
+    "FPLELKMOPEM": 292560927,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331052
+  },
+  {
+    "PGKNKBKHCHM": 311201,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311201,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217027,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112011
+      }
+    ],
+    "HIJGIHOHKIH": 1254160380,
+    "IEAMFFIKFJF": "Bane of Flame and Water: Raven Bow",
+    "OGFMFBDKPGC": 3588675279,
+    "EDPEIADEDFG": "Ravens are known to be the ferrymen of the dead. As such, hunters would decorate their bows' limbs with feathers which forebode the imminent death of their targets.",
+    "FPLELKMOPEM": 4073924967,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331003
+  },
+  {
+    "PGKNKBKHCHM": 311202,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311202,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217028,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112021
+      }
+    ],
+    "HIJGIHOHKIH": 2089378492,
+    "IEAMFFIKFJF": "Composed: Sacrificial Bow",
+    "OGFMFBDKPGC": 2911441487,
+    "EDPEIADEDFG": "A ceremonial hunting bow that has seen the passage of many years. The trinkets on it are still visible.",
+    "FPLELKMOPEM": 3896556015,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331004
+  },
+  {
+    "PGKNKBKHCHM": 311203,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311203,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217029,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112031
+      }
+    ],
+    "HIJGIHOHKIH": 2080432604,
+    "IEAMFFIKFJF": "Echoing Ballad: Skyward Harp",
+    "OGFMFBDKPGC": 2259803103,
+    "EDPEIADEDFG": "The sound of this sky-piercing lyre firing is music to the Anemo Archon's ears.",
+    "FPLELKMOPEM": 1782234583,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331005
+  },
+  {
+    "PGKNKBKHCHM": 311204,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311204,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217120,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112041
+      }
+    ],
+    "HIJGIHOHKIH": 3653548772,
+    "IEAMFFIKFJF": "Strong-Willed: Amos' Bow",
+    "OGFMFBDKPGC": 516432223,
+    "EDPEIADEDFG": "\"I dreamt of ocean waves and sand, of lush forests and land.\"\\n\"I dreamt of boars playing in berry bushes, of a towering spire.\"",
+    "FPLELKMOPEM": 2743635263,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331037
+  },
+  {
+    "PGKNKBKHCHM": 311205,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311205,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217122,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112051
+      }
+    ],
+    "HIJGIHOHKIH": 1564908820,
+    "IEAMFFIKFJF": "The Parting Refrain: Elegy for the End",
+    "OGFMFBDKPGC": 4029115271,
+    "EDPEIADEDFG": "\"...But no wind in any season on earth\"\\n\"Shall have you gaze upon me again.\"",
+    "FPLELKMOPEM": 4105511175,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331039
+  },
+  {
+    "PGKNKBKHCHM": 311206,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311206,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217165,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3112061
+      }
+    ],
+    "HIJGIHOHKIH": 792222804,
+    "IEAMFFIKFJF": "Teachings of the Forest: King's Squire",
+    "OGFMFBDKPGC": 3896415519,
+    "EDPEIADEDFG": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow.\\n\"Remember, this whole world is but a dream of the forest... Please pass on the forest's language and the responsibility of protecting the King's land to future successors.\"",
+    "FPLELKMOPEM": 881969055,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331053
+  },
+  {
+    "PGKNKBKHCHM": 311301,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311301,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217030,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3113011
+      }
+    ],
+    "HIJGIHOHKIH": 481030260,
+    "IEAMFFIKFJF": "Mourning Silver Snow: White Iron Greatsword",
+    "OGFMFBDKPGC": 3264763535,
+    "EDPEIADEDFG": "A lightweight greatsword made of white iron with a silver sheen.",
+    "FPLELKMOPEM": 1642638655,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331006
+  },
+  {
+    "PGKNKBKHCHM": 311302,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311302,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217031,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3113021
+      }
+    ],
+    "HIJGIHOHKIH": 1236260076,
+    "IEAMFFIKFJF": "Composed: Sacrificial Greatsword",
+    "OGFMFBDKPGC": 4158726127,
+    "EDPEIADEDFG": "This greatsword has seen the passage of many years, and was once owned by a clan of brave and gifted warriors who fought hard and died young.",
+    "FPLELKMOPEM": 1884019343,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331007
+  },
+  {
+    "PGKNKBKHCHM": 311303,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311303,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217032,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3113031
+      }
+    ],
+    "HIJGIHOHKIH": 2708194820,
+    "IEAMFFIKFJF": "Mountain Trail: Wolf's Gravestone",
+    "OGFMFBDKPGC": 3811613231,
+    "EDPEIADEDFG": "A longsword said to have been used by the knight of the north wind. It became endowed with legendary power owing to his friendship with the wolves.",
+    "FPLELKMOPEM": 2061220055,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331008
+  },
+  {
+    "PGKNKBKHCHM": 311304,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311304,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217123,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3113041
+      }
+    ],
+    "HIJGIHOHKIH": 2073424788,
+    "IEAMFFIKFJF": "Sky-Rippin: Skyward Pride",
+    "OGFMFBDKPGC": 2918258431,
+    "EDPEIADEDFG": "This is a tale of sky-shaking valor. Bearing the will to defend all, let the wind dragon bestow wrath upon its vile nemesis.",
+    "FPLELKMOPEM": 2585362311,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331040
+  },
+  {
+    "PGKNKBKHCHM": 311305,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311305,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217124,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3113051
+      }
+    ],
+    "HIJGIHOHKIH": 1134937980,
+    "IEAMFFIKFJF": "Rebellious Guardian: The Bell",
+    "OGFMFBDKPGC": 3316943591,
+    "EDPEIADEDFG": "There once was a traitor who brandished a blade against his fallen clan.\\nThough this individual was eventually cast out from his clan, rumor has that his organization continued their chosen duties.\\nLegend claims that even the Wolf Pup Rostam might have been involved...",
+    "FPLELKMOPEM": 4057144575,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331041
+  },
+  {
+    "PGKNKBKHCHM": 311401,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311401,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217033,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114011
+      }
+    ],
+    "HIJGIHOHKIH": 2248678980,
+    "IEAMFFIKFJF": "Ardent Argent: White Tassel",
+    "OGFMFBDKPGC": 2781395783,
+    "EDPEIADEDFG": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+    "FPLELKMOPEM": 2581332159,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331009
+  },
+  {
+    "PGKNKBKHCHM": 311402,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311402,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217034,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114021
+      }
+    ],
+    "HIJGIHOHKIH": 1644968844,
+    "IEAMFFIKFJF": "Evil Shall Never Prevail: Lithic Spear",
+    "OGFMFBDKPGC": 2074218447,
+    "EDPEIADEDFG": "These spears were forged from the rocks of the Guyun Stone Forest, and were favored by the Millelith of old. Their hardness knows no equal.",
+    "FPLELKMOPEM": 3427240855,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331010
+  },
+  {
+    "PGKNKBKHCHM": 311403,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311403,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217035,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114031
+      }
+    ],
+    "HIJGIHOHKIH": 1464361716,
+    "IEAMFFIKFJF": "Carving Black Wings: Skyward Spine",
+    "OGFMFBDKPGC": 2595533199,
+    "EDPEIADEDFG": "A spear that can hold up the skies. It was this unshakable resolve that sustained the wind dragon through its mortal battle against its vile nemesis.",
+    "FPLELKMOPEM": 1916639663,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331011
+  },
+  {
+    "PGKNKBKHCHM": 311404,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311404,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217125,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114041
+      }
+    ],
+    "HIJGIHOHKIH": 2217833756,
+    "IEAMFFIKFJF": "Golden Majesty: Vortex Vanquisher",
+    "OGFMFBDKPGC": 975199351,
+    "EDPEIADEDFG": "Folklore spoke of a vast shadow entrenched in the depths of the ocean capable of swallowing passing warships...\\nAt tale's end, they believe that Rex Lapis once wielded a spear that pierced the rainbow, pinning the churning vortex that had once terrorized the oceans in the center of the deep sea.",
+    "FPLELKMOPEM": 1006670855,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331042
+  },
+  {
+    "PGKNKBKHCHM": 311405,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311405,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217126,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114051
+      }
+    ],
+    "HIJGIHOHKIH": 658598100,
+    "IEAMFFIKFJF": "Timeless Dream: Engulfing Lightning",
+    "OGFMFBDKPGC": 2037740079,
+    "EDPEIADEDFG": "The naginata was a lethal weapon by which scattered dross might be cut away.\\nAnd the one who wielded that naginata was one who guarded the path to eternity.",
+    "FPLELKMOPEM": 3261848415,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331043
+  },
+  {
+    "PGKNKBKHCHM": 311406,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311406,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217170,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3114061
+      }
+    ],
+    "HIJGIHOHKIH": 1888840092,
+    "IEAMFFIKFJF": "Stillwood Moonshadow: Moonpiercer",
+    "OGFMFBDKPGC": 439692247,
+    "EDPEIADEDFG": "\"Children fascinated by the moon will weep when they gaze upon it, for the moon has turned into fine sand and entered their eyes. In many stories, no tears are shed in vain.\"",
+    "FPLELKMOPEM": 1509052559,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331054
+  },
+  {
+    "PGKNKBKHCHM": 311501,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311501,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217036,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3115011
+      }
+    ],
+    "HIJGIHOHKIH": 2135587924,
+    "IEAMFFIKFJF": "Traveler's Companion: Traveler's Handy Sword",
+    "OGFMFBDKPGC": 3205840895,
+    "EDPEIADEDFG": "A handy steel sword that contains all manner of useful items in its sheath.",
+    "FPLELKMOPEM": 4172660823,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331012
+  },
+  {
+    "PGKNKBKHCHM": 311502,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311502,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217037,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3115021
+      }
+    ],
+    "HIJGIHOHKIH": 1028205084,
+    "IEAMFFIKFJF": "Composed: Sacrificial Sword",
+    "OGFMFBDKPGC": 1710282703,
+    "EDPEIADEDFG": "This blade was just a prop before its blade was sharpened by the passage of time.",
+    "FPLELKMOPEM": 3807107767,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331013
+  },
+  {
+    "PGKNKBKHCHM": 311503,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311503,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217038,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3115031
+      }
+    ],
+    "HIJGIHOHKIH": 2579137492,
+    "IEAMFFIKFJF": "Let the Wind Lead: Aquila Favonia",
+    "OGFMFBDKPGC": 3332191679,
+    "EDPEIADEDFG": "This sword was ever at the hip of the warrior from another land, and it bore witness to her achievement in spreading justice and freedom across Mondstadt.",
+    "FPLELKMOPEM": 2713318407,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331014
+  },
+  {
+    "PGKNKBKHCHM": 311504,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311504,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217127,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3115041
+      }
+    ],
+    "HIJGIHOHKIH": 3068022564,
+    "IEAMFFIKFJF": "Sky-Piercing: Skyward Blade",
+    "OGFMFBDKPGC": 3743877607,
+    "EDPEIADEDFG": "The sky-piercing fang. With nemesis vanquished, the wind dragon fell into a deep slumber.\\nCenturies passed, and Dvalin's sacrifice was all but forgotten by Mondstadt.\\nA prayer, this sword is. May Dvalin's name be restored.",
+    "FPLELKMOPEM": 3528206527,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331044
+  },
+  {
+    "PGKNKBKHCHM": 311505,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 311505,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217118,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3115051
+      }
+    ],
+    "HIJGIHOHKIH": 508038108,
+    "IEAMFFIKFJF": "Windfall: Favonius Sword",
+    "OGFMFBDKPGC": 1623234663,
+    "EDPEIADEDFG": "\"Legend has it that the knight that bore the title of Wolf Pup could cleave even raindrops with his blade, and the gales spurred by his blows were strong enough to snap roses.\\nThough none could match the heights of the Wolf Pup's prowess, the knights bear his oath of protection yet, his legacy lasting even to the present.\"",
+    "FPLELKMOPEM": 2196713727,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331045
+  },
+  {
+    "PGKNKBKHCHM": 312001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217039,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120011
+      }
+    ],
+    "HIJGIHOHKIH": 3019748252,
+    "IEAMFFIKFJF": "Trail-Tramper: Adventurer's Bandana",
+    "OGFMFBDKPGC": 975934671,
+    "EDPEIADEDFG": "\"All the secrets of the stars and the abyss await discovery by mere mortals.\"",
+    "FPLELKMOPEM": 80761935,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331015
+  },
+  {
+    "PGKNKBKHCHM": 312002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217040,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120021
+      }
+    ],
+    "HIJGIHOHKIH": 491946548,
+    "IEAMFFIKFJF": "Unworried Crown: Lucky Dog's Silver Circlet",
+    "OGFMFBDKPGC": 2301088479,
+    "EDPEIADEDFG": "\"One who is favored by fortune can even find priceless treasures in the most deadly of traps.\"",
+    "FPLELKMOPEM": 1802563167,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331016
+  },
+  {
+    "PGKNKBKHCHM": 312003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217041,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120031
+      }
+    ],
+    "HIJGIHOHKIH": 1757117964,
+    "IEAMFFIKFJF": "Medical Practice: Traveling Doctor's Handkerchief",
+    "OGFMFBDKPGC": 1010517167,
+    "EDPEIADEDFG": "\"Come sun or rain, nothing could stay the traveling doctor's steps.\"",
+    "FPLELKMOPEM": 804160703,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331017
+  },
+  {
+    "PGKNKBKHCHM": 312004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217042,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120041
+      }
+    ],
+    "HIJGIHOHKIH": 1976632412,
+    "IEAMFFIKFJF": "Wager: Gambler's Earrings",
+    "OGFMFBDKPGC": 2960340695,
+    "EDPEIADEDFG": "\"In games where one gambles with life and death, remaining calm and composed is key to increasing one's odds of victory.\"",
+    "FPLELKMOPEM": 4017870879,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331018
+  },
+  {
+    "PGKNKBKHCHM": 312005,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312005,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217043,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120051
+      }
+    ],
+    "HIJGIHOHKIH": 2996177428,
+    "IEAMFFIKFJF": "Pre-Prepared: Instructor's Cap",
+    "OGFMFBDKPGC": 4039558863,
+    "EDPEIADEDFG": "\"I don't have the talent to command an army as its general, nor am I qualified for anything beyond being a soldier.\"\\n\"All I can do is to be a strict instructor to these children, so that they might survive on the battlefield a bit longer.\"",
+    "FPLELKMOPEM": 2274105407,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331019
+  },
+  {
+    "PGKNKBKHCHM": 312006,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312006,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217044,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120061
+      }
+    ],
+    "HIJGIHOHKIH": 2792266980,
+    "IEAMFFIKFJF": "Noble Descent: Exile's Circlet",
+    "OGFMFBDKPGC": 204517055,
+    "EDPEIADEDFG": "\"Woe to thee, oh great hall with silver piled high! Why is your crown drenched in blood?\"",
+    "FPLELKMOPEM": 46144271,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331020
+  },
+  {
+    "PGKNKBKHCHM": 312007,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312007,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217116,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120071
+      }
+    ],
+    "HIJGIHOHKIH": 3866157548,
+    "IEAMFFIKFJF": "Bygone Lightning: Ornate Kabuto",
+    "OGFMFBDKPGC": 899096287,
+    "EDPEIADEDFG": "\"Thirteen years went by like a dream. The scarlet snow flies through the shadowed pass like smoke. You have now gone afar.\"",
+    "FPLELKMOPEM": 2832296903,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331035
+  },
+  {
+    "PGKNKBKHCHM": 312008,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312008,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217128,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120081
+      }
+    ],
+    "HIJGIHOHKIH": 1794728468,
+    "IEAMFFIKFJF": "Emblem of Severed Fate: Ornate Kabuto",
+    "OGFMFBDKPGC": 2489085695,
+    "EDPEIADEDFG": "Thirteen years went by like a dream.\\nThe scarlet snow flies through the shadowed pass like smoke.\\nYou have now gone afar.",
+    "FPLELKMOPEM": 387781271,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331046
+  },
+  {
+    "PGKNKBKHCHM": 312009,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312009,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217117,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120091
+      }
+    ],
+    "HIJGIHOHKIH": 109310436,
+    "IEAMFFIKFJF": "Ironclad Promise: General's Ancient Helm",
+    "OGFMFBDKPGC": 2746682791,
+    "EDPEIADEDFG": "\"The last drop of blood had soaked into the battlefield, and the glazed sands shone gloriously once more.\"",
+    "FPLELKMOPEM": 2564584167,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331036
+  },
+  {
+    "PGKNKBKHCHM": 312010,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312010,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217129,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120101
+      }
+    ],
+    "HIJGIHOHKIH": 419978364,
+    "IEAMFFIKFJF": "Tenacity of the Millelith: General's Ancient Helm",
+    "OGFMFBDKPGC": 3995499623,
+    "EDPEIADEDFG": "\"...To ensure that the afflicted civilians could safely escape, and to maintain their honor in the eyes of the Lord of Geo,\\nThe helmet-clad troops of the front line took the lead, pointing their spears towards the Abyss and charging into battle.\"",
+    "FPLELKMOPEM": 2340731807,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331047
+  },
+  {
+    "PGKNKBKHCHM": 312011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217130,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120111
+      }
+    ],
+    "HIJGIHOHKIH": 4144534532,
+    "IEAMFFIKFJF": "Stilling Calamity: Thundering Poise",
+    "OGFMFBDKPGC": 2816783695,
+    "EDPEIADEDFG": "\"...Tianqiu once played host to a Yaksha, four-armed and mighty.\"\\n\"He came to The Chasm from afar, to the praises of the tribes.\"",
+    "FPLELKMOPEM": 2517499063,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331048
+  },
+  {
+    "PGKNKBKHCHM": 312012,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312012,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217131,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120121
+      }
+    ],
+    "HIJGIHOHKIH": 757532428,
+    "IEAMFFIKFJF": "Masked Twilight: Vermillion Hereafter",
+    "OGFMFBDKPGC": 4151480047,
+    "EDPEIADEDFG": "\"Do you not hear? The drums die in the north wind, the hero sinks into the vortex.\"\\n\"Have you not seen? The Yaksha's battle for the dawn — alas for a life so spent.\"",
+    "FPLELKMOPEM": 55376375,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331049
+  },
+  {
+    "PGKNKBKHCHM": 312013,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312013,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217132,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120131
+      }
+    ],
+    "HIJGIHOHKIH": 270943796,
+    "IEAMFFIKFJF": "Preponderant Recollection: Capricious Visage",
+    "OGFMFBDKPGC": 4154446519,
+    "EDPEIADEDFG": "Even a faint smile could not conceal her sorrow.\\nThough this is a festive day, it seems more like a farewell...",
+    "FPLELKMOPEM": 1341036999,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331050
+  },
+  {
+    "PGKNKBKHCHM": 312014,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312014,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217133,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120141
+      }
+    ],
+    "HIJGIHOHKIH": 1128517364,
+    "IEAMFFIKFJF": "Fleeting Iridescence: Shimenawa's Reminiscence",
+    "OGFMFBDKPGC": 3410604655,
+    "EDPEIADEDFG": "\"...Losing one's memory is no different from losing one's life. It is like death amidst darkness eternal.\"\\n\"Life is full of uncertainty. Love is fleeting, and even lasting memories may be lost...\"",
+    "FPLELKMOPEM": 1275407279,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331051
+  },
+  {
+    "PGKNKBKHCHM": 312015,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312015,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217171,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3120151
+      }
+    ],
+    "HIJGIHOHKIH": 275249844,
+    "IEAMFFIKFJF": "Ocean-Hued Clam: Crown of Watatsumi",
+    "OGFMFBDKPGC": 530929615,
+    "EDPEIADEDFG": "\"Bringing hopes and memories from the depths, permeating long-lost civilizations and history, these graceful and exquisite crowns slide into the forgotten rifts with their owners.\"",
+    "FPLELKMOPEM": 3770486535,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331055
+  },
+  {
+    "PGKNKBKHCHM": 312101,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312101,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217045,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3121011
+      }
+    ],
+    "HIJGIHOHKIH": 3630569692,
+    "IEAMFFIKFJF": "Icy Song, Distant Realm: Broken Rime's Echo",
+    "OGFMFBDKPGC": 1333325831,
+    "EDPEIADEDFG": "\"Past the ice-sealed door, walking down the corridors to the depths, he will break off a branch of silver-white, and bring hope to the snowy land.\"",
+    "FPLELKMOPEM": 2588373719,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331021
+  },
+  {
+    "PGKNKBKHCHM": 312102,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312102,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217046,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3121021
+      }
+    ],
+    "HIJGIHOHKIH": 1072912660,
+    "IEAMFFIKFJF": "Wintry Wandering: Blizzard Strayer",
+    "OGFMFBDKPGC": 325271735,
+    "EDPEIADEDFG": "\"...Then please, live on. Do not accompany us unto our doom — to languish forgotten in the snow.\"",
+    "FPLELKMOPEM": 796894535,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331022
+  },
+  {
+    "PGKNKBKHCHM": 312201,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312201,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217047,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3122011
+      }
+    ],
+    "HIJGIHOHKIH": 3605912228,
+    "IEAMFFIKFJF": "Sunken Dreams of Yore: Wine-Stained Tricorne",
+    "OGFMFBDKPGC": 1655917519,
+    "EDPEIADEDFG": "\"The wine-sodden sea hat was thrust by a storm into the sky, and then carried away on the roiling waves, while those fated to lose their homelands engaged in battles bereft of hope and want.\"",
+    "FPLELKMOPEM": 698552519,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331023
+  },
+  {
+    "PGKNKBKHCHM": 312202,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312202,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217048,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3122021
+      }
+    ],
+    "HIJGIHOHKIH": 2742026012,
+    "IEAMFFIKFJF": "Shipborne Afterthought: Heart of Depth",
+    "OGFMFBDKPGC": 1129820991,
+    "EDPEIADEDFG": "\"For all deaths are in vain. There is no saving those who indulge in the past.\"",
+    "FPLELKMOPEM": 3310783447,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331024
+  },
+  {
+    "PGKNKBKHCHM": 312301,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312301,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217049,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3123011
+      }
+    ],
+    "HIJGIHOHKIH": 2625633228,
+    "IEAMFFIKFJF": "Ashen Lament: Witch's Scorching Hat",
+    "OGFMFBDKPGC": 3635012983,
+    "EDPEIADEDFG": "\"...You ashes who dance so wildly, answer me — why have you taken all that I love?\"",
+    "FPLELKMOPEM": 2678966871,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331025
+  },
+  {
+    "PGKNKBKHCHM": 312302,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312302,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217050,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3123021
+      }
+    ],
+    "HIJGIHOHKIH": 465125780,
+    "IEAMFFIKFJF": "Blazing Dissipation: Crimson Witch of Flames",
+    "OGFMFBDKPGC": 1712332319,
+    "EDPEIADEDFG": "\"I will sing no elegies. I refuse laments. I shall not sigh. I have no use for pointless noise.\\nIf justice is long dead, then to whom can I offer redemption?\"",
+    "FPLELKMOPEM": 716562319,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331026
+  },
+  {
+    "PGKNKBKHCHM": 312401,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312401,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217051,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3124011
+      }
+    ],
+    "HIJGIHOHKIH": 3989215724,
+    "IEAMFFIKFJF": "Lightning and Rain: Thunder Summoner's Crown",
+    "OGFMFBDKPGC": 3629837855,
+    "EDPEIADEDFG": "\"The song pierced the storm's low hum, ripped through the clouds, and bestowed upon it, light.\"",
+    "FPLELKMOPEM": 1127429287,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331027
+  },
+  {
+    "PGKNKBKHCHM": 312402,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312402,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217052,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3124021
+      }
+    ],
+    "HIJGIHOHKIH": 1486035916,
+    "IEAMFFIKFJF": "Plume of the Stormy Skies: Thundering Fury",
+    "OGFMFBDKPGC": 2904363439,
+    "EDPEIADEDFG": "\"Then I shall sing you another tune — when you come again with thunder and rain!\"",
+    "FPLELKMOPEM": 4145654391,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331028
+  },
+  {
+    "PGKNKBKHCHM": 312501,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312501,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217053,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3125011
+      }
+    ],
+    "HIJGIHOHKIH": 1743220356,
+    "IEAMFFIKFJF": "Verdant Winds: Viridescent Venerer's Diadem",
+    "OGFMFBDKPGC": 197407023,
+    "EDPEIADEDFG": "\"None could ever bestow a crown upon the queen of hunters, for only earth and heaven were higher than she.\"",
+    "FPLELKMOPEM": 3858467911,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331029
+  },
+  {
+    "PGKNKBKHCHM": 312502,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312502,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217054,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3125021
+      }
+    ],
+    "HIJGIHOHKIH": 3700387988,
+    "IEAMFFIKFJF": "Dream of Broken Leaves: Viridescent Venerer",
+    "OGFMFBDKPGC": 1211796223,
+    "EDPEIADEDFG": "\"One day, in those boundless hunting grounds... we will meet again.\"",
+    "FPLELKMOPEM": 3738114031,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331030
+  },
+  {
+    "PGKNKBKHCHM": 312601,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312601,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217055,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3126011
+      }
+    ],
+    "HIJGIHOHKIH": 2628695244,
+    "IEAMFFIKFJF": "Jagged Stone: Mask of Solitude Basalt",
+    "OGFMFBDKPGC": 2369512719,
+    "EDPEIADEDFG": "\"He knew right from wrong, and he never missed his mark.\"",
+    "FPLELKMOPEM": 329568455,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331031
+  },
+  {
+    "PGKNKBKHCHM": 312602,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312602,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217056,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3126021
+      }
+    ],
+    "HIJGIHOHKIH": 737489892,
+    "IEAMFFIKFJF": "Of Mountains Mighty: Archaic Petra",
+    "OGFMFBDKPGC": 249995447,
+    "EDPEIADEDFG": "\"While the Millelith stands guard, evil shall never prevail!\"",
+    "FPLELKMOPEM": 1297463191,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331032
+  },
+  {
+    "PGKNKBKHCHM": 312701,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312701,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217057,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3127011
+      }
+    ],
+    "HIJGIHOHKIH": 3067914532,
+    "IEAMFFIKFJF": "Raincaller's Emblem: Laurel Coronet",
+    "OGFMFBDKPGC": 2565550423,
+    "EDPEIADEDFG": "\"There is a time appointed for all things to live and die, and the cycle continues on forever.\"",
+    "FPLELKMOPEM": 4152647007,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 331033
+  },
+  {
+    "PGKNKBKHCHM": 312702,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 312702,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217058,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3127021
+      }
+    ],
+    "HIJGIHOHKIH": 1968701044,
+    "IEAMFFIKFJF": "Knowledge of the Vine: Deepwood Memories",
+    "OGFMFBDKPGC": 2513231799,
+    "EDPEIADEDFG": "\"For all those who follow nature must pass through the maze of the forest and reach that endless plain.\"",
+    "FPLELKMOPEM": 2152820279,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 331034
+  },
+  {
+    "PGKNKBKHCHM": 321001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217059,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210011
+      }
+    ],
+    "HIJGIHOHKIH": 3290819516,
+    "IEAMFFIKFJF": "Where All Ships Dock",
+    "OGFMFBDKPGC": 3356614087,
+    "EDPEIADEDFG": "\"Nature provides, the mountains rejoice, we are blessed by heaven's good grace.\"",
+    "FPLELKMOPEM": 4219954119,
+    "AMAAJHCAIIA": "Reward for accepting Uncle Tian's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332000
+  },
+  {
+    "PGKNKBKHCHM": 321002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217060,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210021
+      }
+    ],
+    "HIJGIHOHKIH": 3092582924,
+    "IEAMFFIKFJF": "Athenaeum of the North",
+    "OGFMFBDKPGC": 2297142095,
+    "EDPEIADEDFG": "\"Most of the books here can be lent out, but do bear in mind that you will have to return them... on time.\"",
+    "FPLELKMOPEM": 893810047,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332001
+  },
+  {
+    "PGKNKBKHCHM": 321003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217061,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210031
+      }
+    ],
+    "HIJGIHOHKIH": 1225340860,
+    "IEAMFFIKFJF": "Stargazing Amidst Clouds",
+    "OGFMFBDKPGC": 1816605607,
+    "EDPEIADEDFG": "\"They say that it contains a thousand dazzling jewels.\"",
+    "FPLELKMOPEM": 2055379415,
+    "AMAAJHCAIIA": "Reward for accepting Bu'yun's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332002
+  },
+  {
+    "PGKNKBKHCHM": 321004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217062,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210041
+      }
+    ],
+    "HIJGIHOHKIH": 742966108,
+    "IEAMFFIKFJF": "Manor of Daybreak",
+    "OGFMFBDKPGC": 700604791,
+    "EDPEIADEDFG": "\"The best wine will always be brewed next year.\"",
+    "FPLELKMOPEM": 1389355055,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 332003
+  },
+  {
+    "PGKNKBKHCHM": 321005,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321005,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217063,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210051
+      }
+    ],
+    "HIJGIHOHKIH": 1498525668,
+    "IEAMFFIKFJF": "Dihua Vantage Point",
+    "OGFMFBDKPGC": 204802007,
+    "EDPEIADEDFG": "\"Folk stories also have it that even ones as august as the adepti sometimes bask in the moonlight here.\"",
+    "FPLELKMOPEM": 127419407,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332004
+  },
+  {
+    "PGKNKBKHCHM": 321006,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321006,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217064,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210061
+      }
+    ],
+    "HIJGIHOHKIH": 1801494428,
+    "IEAMFFIKFJF": "Gathering of the Devout",
+    "OGFMFBDKPGC": 283571071,
+    "EDPEIADEDFG": "\"If you speak sincerely into the wind, your words will surely reach the archon's ear one day.\"",
+    "FPLELKMOPEM": 2257040663,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 332005
+  },
+  {
+    "PGKNKBKHCHM": 321007,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321007,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217134,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210071
+      }
+    ],
+    "HIJGIHOHKIH": 1040410588,
+    "IEAMFFIKFJF": "Omnipresence Over Mortals",
+    "OGFMFBDKPGC": 991970735,
+    "EDPEIADEDFG": "\"What matters is that I tread the path of eternity on my people's behalf.\"",
+    "FPLELKMOPEM": 1788522207,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332021
+  },
+  {
+    "PGKNKBKHCHM": 321008,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321008,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217119,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210081
+      }
+    ],
+    "HIJGIHOHKIH": 2080214524,
+    "IEAMFFIKFJF": "Distant Red Dreams Forlorn",
+    "OGFMFBDKPGC": 2949190711,
+    "EDPEIADEDFG": "\"May Mt. Yougou flourish eternal, and may its glory be everlasting.\"",
+    "FPLELKMOPEM": 61177231,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332020
+  },
+  {
+    "PGKNKBKHCHM": 321009,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321009,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217135,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210091
+      }
+    ],
+    "HIJGIHOHKIH": 2762904180,
+    "IEAMFFIKFJF": "The Pearlescent Palace",
+    "OGFMFBDKPGC": 3545843343,
+    "EDPEIADEDFG": "\"Sangonomiya was once an ocean abyss, until the Great Serpent came, forming a vortex with its spiral movements, and fashioning the coral into an island.\"",
+    "FPLELKMOPEM": 2385192455,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332022
+  },
+  {
+    "PGKNKBKHCHM": 321010,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321010,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217136,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210101
+      }
+    ],
+    "HIJGIHOHKIH": 1862990620,
+    "IEAMFFIKFJF": "The City Where All Wisdom Resides",
+    "OGFMFBDKPGC": 2620797175,
+    "EDPEIADEDFG": "Under the luxuriant Divine Tree, the sages of the academy city have accumulated all the knowledge there is to be gathered.",
+    "FPLELKMOPEM": 1592255415,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332023
+  },
+  {
+    "PGKNKBKHCHM": 321011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217137,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210111
+      }
+    ],
+    "HIJGIHOHKIH": 541875572,
+    "IEAMFFIKFJF": "Abidance of the Forested Path",
+    "OGFMFBDKPGC": 2341860735,
+    "EDPEIADEDFG": "\"Enter the memories of the trees in the forest, descend into seedbeds sprouting the dreams of slumbering leaves, and dive into a world free of woes.\"",
+    "FPLELKMOPEM": 2994194287,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332024
+  },
+  {
+    "PGKNKBKHCHM": 321012,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321012,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217138,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210121
+      }
+    ],
+    "HIJGIHOHKIH": 2782007436,
+    "IEAMFFIKFJF": "Abode of Dwelling Demons",
+    "OGFMFBDKPGC": 3479126863,
+    "EDPEIADEDFG": "Legend has it that this sacred forest was once home to many demons.",
+    "FPLELKMOPEM": 3531014831,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332025
+  },
+  {
+    "PGKNKBKHCHM": 321013,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321013,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217166,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210131
+      }
+    ],
+    "HIJGIHOHKIH": 1126876836,
+    "IEAMFFIKFJF": "Golden House",
+    "OGFMFBDKPGC": 2465684303,
+    "EDPEIADEDFG": "All the contracts that circulate throughout the land are forged here.",
+    "FPLELKMOPEM": 3730396199,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332034
+  },
+  {
+    "PGKNKBKHCHM": 321014,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 321014,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217172,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3210141
+      }
+    ],
+    "HIJGIHOHKIH": 1651842348,
+    "IEAMFFIKFJF": "Gandharva Ville",
+    "OGFMFBDKPGC": 3541613479,
+    "EDPEIADEDFG": "The village place the Traveler and Forest Rangers celebrated, the village that listens to the heartbeat of the rainforest.",
+    "FPLELKMOPEM": 1538932167,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332036
+  },
+  {
+    "PGKNKBKHCHM": 322001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220011
+      }
+    ],
+    "HIJGIHOHKIH": 3167113284,
+    "IEAMFFIKFJF": "Paimon, the Best Guide",
+    "OGFMFBDKPGC": 2196440335,
+    "EDPEIADEDFG": "\"That's right! Your fortune is Paimon's fortune! And vice versa, Paimon's fortune is also your fortune.\"",
+    "FPLELKMOPEM": 2645914783,
+    "AMAAJHCAIIA": "Reward for meeting the Player Manual's requirements",
+    "OOBMCDNANFP": 332006
+  },
+  {
+    "PGKNKBKHCHM": 322002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217066,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220021
+      }
+    ],
+    "HIJGIHOHKIH": 2781736804,
+    "IEAMFFIKFJF": "Katheryne, Guild Receptionist",
+    "OGFMFBDKPGC": 3745107887,
+    "EDPEIADEDFG": "\"Ad astra abyssosque! Welcome to the Adventurers' Guild.\"",
+    "FPLELKMOPEM": 1886970087,
+    "AMAAJHCAIIA": "Reward for accepting Lan's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332007
+  },
+  {
+    "PGKNKBKHCHM": 322003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217067,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220031
+      }
+    ],
+    "HIJGIHOHKIH": 2160868764,
+    "IEAMFFIKFJF": "Timaeus, Scholar of Alchemy",
+    "OGFMFBDKPGC": 16919055,
+    "EDPEIADEDFG": "\"Hello there... Oh, you'd like to use the Crafting Bench? Sure, be my guest.\"",
+    "FPLELKMOPEM": 4036386519,
+    "AMAAJHCAIIA": "Reward for accepting Timaeus' Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332008
+  },
+  {
+    "PGKNKBKHCHM": 322004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217068,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220041
+      }
+    ],
+    "HIJGIHOHKIH": 533462364,
+    "IEAMFFIKFJF": "Wagner, Blacksmith",
+    "OGFMFBDKPGC": 2123724415,
+    "EDPEIADEDFG": "\"Smithing is not dependent on brute strength. You need the sweat on your brow from constant hard work, and perseverance stronger than the metals we forge!\"",
+    "FPLELKMOPEM": 689077663,
+    "AMAAJHCAIIA": "Reward for accepting Wagner's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332009
+  },
+  {
+    "PGKNKBKHCHM": 322005,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322005,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217069,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220051
+      }
+    ],
+    "HIJGIHOHKIH": 366481556,
+    "IEAMFFIKFJF": "Chef Mao, Ingenious Gourmet",
+    "OGFMFBDKPGC": 2541254847,
+    "EDPEIADEDFG": "\"We just concern ourselves with making the most delicious food imaginable using everyday ingredients, universally loved flavors, and truly excellent cooking.\"",
+    "FPLELKMOPEM": 1413727591,
+    "AMAAJHCAIIA": "Reward for accepting Chef Mao's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332010
+  },
+  {
+    "PGKNKBKHCHM": 322006,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322006,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217070,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220061
+      }
+    ],
+    "HIJGIHOHKIH": 3002773180,
+    "IEAMFFIKFJF": "\"Rain Calmer\" Tubby",
+    "OGFMFBDKPGC": 3577727479,
+    "EDPEIADEDFG": "\"Steeping a pot of tea, watching over the abode, accompanying the Traveler and Paimon to await the arrival of Ping and the others, watching the cloud-filled sky. These days of not having to concern myself with matters of adeptal import truly are ones of leisure...\"\\n\"Oh! Oh dear, I must have fallen asleep again. It's a good thing that no one noticed...\"",
+    "FPLELKMOPEM": 690043319,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332011
+  },
+  {
+    "PGKNKBKHCHM": 322007,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322007,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217071,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220071
+      }
+    ],
+    "HIJGIHOHKIH": 347772788,
+    "IEAMFFIKFJF": "\"Pure Patience\" Timmie",
+    "OGFMFBDKPGC": 3737532575,
+    "EDPEIADEDFG": "\"Will pigeons that have flown away come back?\"",
+    "FPLELKMOPEM": 2478761295,
+    "AMAAJHCAIIA": "Reward for accepting Timmie's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332012
+  },
+  {
+    "PGKNKBKHCHM": 322008,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322008,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217072,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220081
+      }
+    ],
+    "HIJGIHOHKIH": 1050289596,
+    "IEAMFFIKFJF": "\"Marvelous Merchandise\" Liben",
+    "OGFMFBDKPGC": 2272645199,
+    "EDPEIADEDFG": "Big things are about to happen, big things! Oh, and I have an excellent business proposition for you, so, if I could just have a moment of your time?",
+    "FPLELKMOPEM": 2419415823,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332013
+  },
+  {
+    "PGKNKBKHCHM": 322009,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322009,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217073,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220091
+      }
+    ],
+    "HIJGIHOHKIH": 1106680740,
+    "IEAMFFIKFJF": "Chang the Ninth, Listless Literati",
+    "OGFMFBDKPGC": 944362175,
+    "EDPEIADEDFG": "\"He who has not known poverty has yet to become a true man, and at least this man has books to keep him company!\"",
+    "FPLELKMOPEM": 2470551319,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332014
+  },
+  {
+    "PGKNKBKHCHM": 322010,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322010,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217074,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220101
+      }
+    ],
+    "HIJGIHOHKIH": 923989484,
+    "IEAMFFIKFJF": "\"Knightly Dream\" Ellin",
+    "OGFMFBDKPGC": 3907172847,
+    "EDPEIADEDFG": "\"I've got to hone my spirit and strength both if my sword arm is to be as steady as Master Jean's!\"",
+    "FPLELKMOPEM": 1556517807,
+    "AMAAJHCAIIA": "Reward for accepting Ellin's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332015
+  },
+  {
+    "PGKNKBKHCHM": 322011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217075,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220111
+      }
+    ],
+    "HIJGIHOHKIH": 1710452564,
+    "IEAMFFIKFJF": "\"Where We Last Left Off\" Iron Tongue Tian",
+    "OGFMFBDKPGC": 884753735,
+    "EDPEIADEDFG": "\"Listen, I'll tell you how is it... Let me show you real storytelling tradition!\"",
+    "FPLELKMOPEM": 693103015,
+    "AMAAJHCAIIA": "Reward for accepting Iron Tongue Tian's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332016
+  },
+  {
+    "PGKNKBKHCHM": 322012,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322012,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217076,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220121
+      }
+    ],
+    "HIJGIHOHKIH": 95487772,
+    "IEAMFFIKFJF": "\"In the Next Volume\" Liu Su",
+    "OGFMFBDKPGC": 889154919,
+    "EDPEIADEDFG": "\"Well then, dear guests, what would you all like to hear next?\"",
+    "FPLELKMOPEM": 3034169207,
+    "AMAAJHCAIIA": "Reward for accepting Liu Su's Adventure Challenge in the open world and achieving all corresponding challenge objectives",
+    "OOBMCDNANFP": 332017
+  },
+  {
+    "PGKNKBKHCHM": 322013,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322013,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217139,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220131
+      }
+    ],
+    "HIJGIHOHKIH": 135075468,
+    "IEAMFFIKFJF": "Persistence of Pain: Hanachirusato",
+    "OGFMFBDKPGC": 2762309663,
+    "EDPEIADEDFG": "\"When shall we meet again after this parting? For life is like the morning dew.\"",
+    "FPLELKMOPEM": 2034951199,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332026
+  },
+  {
+    "PGKNKBKHCHM": 322014,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322014,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217140,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220141
+      }
+    ],
+    "HIJGIHOHKIH": 3362935588,
+    "IEAMFFIKFJF": "Temari-Hiding Intentions: Kid Kujirai",
+    "OGFMFBDKPGC": 854344423,
+    "EDPEIADEDFG": "\"When you hide a Temari, you have to hide it within the time of a Temari song. The person who is looking for it will also find it within a song's time. That will make the game fair!\"",
+    "FPLELKMOPEM": 2755629815,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332027
+  },
+  {
+    "PGKNKBKHCHM": 322015,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322015,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217141,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220151
+      }
+    ],
+    "HIJGIHOHKIH": 2103408580,
+    "IEAMFFIKFJF": "Fulfillment First: Xudong",
+    "OGFMFBDKPGC": 3447749031,
+    "EDPEIADEDFG": "\"Hmm? A problem. Agh. We can deal with it after we finish eating.\"",
+    "FPLELKMOPEM": 2597480559,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332028
+  },
+  {
+    "PGKNKBKHCHM": 322016,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322016,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217142,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220161
+      }
+    ],
+    "HIJGIHOHKIH": 3912402996,
+    "IEAMFFIKFJF": "Purity of Trust: Dunyarzad",
+    "OGFMFBDKPGC": 2829966423,
+    "EDPEIADEDFG": "\"The point of living is to not leave behind any regrets.\"",
+    "FPLELKMOPEM": 207889103,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332029
+  },
+  {
+    "PGKNKBKHCHM": 322017,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322017,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217143,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220171
+      }
+    ],
+    "HIJGIHOHKIH": 3242546852,
+    "IEAMFFIKFJF": "Gem of Remembrance: Rana",
+    "OGFMFBDKPGC": 764765071,
+    "EDPEIADEDFG": "\"We still have a lot of time with each other. We can explore the vastness of the forest, the world, and the future together.\"",
+    "FPLELKMOPEM": 2970809263,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332030
+  },
+  {
+    "PGKNKBKHCHM": 322018,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322018,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217160,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220181
+      }
+    ],
+    "HIJGIHOHKIH": 3592335668,
+    "IEAMFFIKFJF": "Arsenal Forge: Master Zhang",
+    "OGFMFBDKPGC": 2113272751,
+    "EDPEIADEDFG": "Much burning frustration must transpire before a hunk of metal may become a keen blade.",
+    "FPLELKMOPEM": 277005935,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332033
+  },
+  {
+    "PGKNKBKHCHM": 322019,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322019,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217167,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220191
+      }
+    ],
+    "HIJGIHOHKIH": 1697054052,
+    "IEAMFFIKFJF": "Crossing the Wall: Setaria",
+    "OGFMFBDKPGC": 420030631,
+    "EDPEIADEDFG": "A genius from the desert, deep within the rainforest's temple...",
+    "FPLELKMOPEM": 2132671495,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332035
+  },
+  {
+    "PGKNKBKHCHM": 322020,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 322020,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217173,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3220201
+      }
+    ],
+    "HIJGIHOHKIH": 2566360204,
+    "IEAMFFIKFJF": "Art of Lacquerwater: Yayoi Nanatsuki",
+    "OGFMFBDKPGC": 526057527,
+    "EDPEIADEDFG": "\"If my skill can reach that apex, I am sure that my lacquerware will bear out the pattern of the truth...\"",
+    "FPLELKMOPEM": 4043823119,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332037
+  },
+  {
+    "PGKNKBKHCHM": 323001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 323001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217077,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3230011
+      }
+    ],
+    "HIJGIHOHKIH": 2823873436,
+    "IEAMFFIKFJF": "Perpetual Rotation: Parametric Transformation",
+    "OGFMFBDKPGC": 508766207,
+    "EDPEIADEDFG": "\"Simply put, everything on this earth and below it has cycles. Memories and elements surge throughout the Ley Lines.\"\\n\"Perhaps the ancient civilizations were attempting to uncover the cycle that governs the conversion of dust to treasure.\"",
+    "FPLELKMOPEM": 2327118167,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332018
+  },
+  {
+    "PGKNKBKHCHM": 323002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 323002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217078,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3230021
+      }
+    ],
+    "HIJGIHOHKIH": 71512796,
+    "IEAMFFIKFJF": "Emergency Intake: Portable Dish",
+    "OGFMFBDKPGC": 1853176479,
+    "EDPEIADEDFG": "\"Regular nutrition helps in case of physical exertion.\"",
+    "FPLELKMOPEM": 3230485423,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332019
+  },
+  {
+    "PGKNKBKHCHM": 323003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 323003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217144,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3230031
+      }
+    ],
+    "HIJGIHOHKIH": 631423204,
+    "IEAMFFIKFJF": "Ineffable Breeze: Red Feather Fan",
+    "OGFMFBDKPGC": 3820651447,
+    "EDPEIADEDFG": "Legend has it that this fan is capable of unleashing various effects in the hands of a tengu warrior.\\nBut in the hands of an ordinary person, it only possesses the power to \"make one's body lighter.\"\\nEven so, this degree of power is more than useful for the average individual.",
+    "FPLELKMOPEM": 2962265631,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332031
+  },
+  {
+    "PGKNKBKHCHM": 323004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 323004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217145,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3230041
+      }
+    ],
+    "HIJGIHOHKIH": 1561928668,
+    "IEAMFFIKFJF": "Revelation's Potential: Treasure-Seeking Seelie",
+    "OGFMFBDKPGC": 2120710783,
+    "EDPEIADEDFG": "Strange Seelie capable of guiding people toward treasure. Legend has it that some individuals know how to communicate with these Seelie...",
+    "FPLELKMOPEM": 3722332655,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 332032
+  },
+  {
+    "PGKNKBKHCHM": 330001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 330001,
+    "KLIPDPBMJFD": 1,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217161,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3300011
+      }
+    ],
+    "HIJGIHOHKIH": 3205075148,
+    "IEAMFFIKFJF": "Ancient Courtyard",
+    "OGFMFBDKPGC": 3925096063,
+    "EDPEIADEDFG": "\"Is mortal life not an empty shell, as unto a dream?\"",
+    "FPLELKMOPEM": 892917295,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333050
+  },
+  {
+    "PGKNKBKHCHM": 330002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 330002,
+    "KLIPDPBMJFD": 1,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217162,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3300021
+      }
+    ],
+    "HIJGIHOHKIH": 4125849372,
+    "IEAMFFIKFJF": "Covenant of Rock",
+    "OGFMFBDKPGC": 613042535,
+    "EDPEIADEDFG": "\"Rex Lapis bestowed him with a pair of eyes to see the world, and came to an agreement with him. The dragon then accompanied the Lord of Geo, fighting campaigns alongside him in the four corners of the world...\"",
+    "FPLELKMOPEM": 2346224799,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333051
+  },
+  {
+    "PGKNKBKHCHM": 330003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 330003,
+    "KLIPDPBMJFD": 1,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217168,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3300031
+      }
+    ],
+    "HIJGIHOHKIH": 1844909388,
+    "IEAMFFIKFJF": "Joyous Celebration",
+    "OGFMFBDKPGC": 3712357295,
+    "EDPEIADEDFG": "\"Celebration should be shared with everyone.\"",
+    "FPLELKMOPEM": 41552183,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333053
+  },
+  {
+    "PGKNKBKHCHM": 330004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 330004,
+    "KLIPDPBMJFD": 1,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217174,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3300041
+      }
+    ],
+    "HIJGIHOHKIH": 2750144388,
+    "IEAMFFIKFJF": "Fresh Wind of Freedom",
+    "OGFMFBDKPGC": 1384317847,
+    "EDPEIADEDFG": "\"The heavenly bard brushes the strings of the lyre, summoning forth the gale, dispersing the ice and snow, cleaving the peaks, and making the new Mondstadt the home of freedom.\"",
+    "FPLELKMOPEM": 1913574159,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333055
+  },
+  {
+    "PGKNKBKHCHM": 331101,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      301,
+      301
+    ],
+    "NDLCNAOAMAN": 331101,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217079,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3311011
+      }
+    ],
+    "HIJGIHOHKIH": 934692420,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Ice",
+    "OGFMFBDKPGC": 3191981367,
+    "EDPEIADEDFG": "Even the sky shall shiver before the ice.",
+    "FPLELKMOPEM": 612781951,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333000
+  },
+  {
+    "PGKNKBKHCHM": 331102,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      301,
+      301
+    ],
+    "NDLCNAOAMAN": 331102,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217080,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3311021
+      }
+    ],
+    "HIJGIHOHKIH": 3230018388,
+    "IEAMFFIKFJF": "Elemental Resonance: Shattering Ice",
+    "OGFMFBDKPGC": 3152031079,
+    "EDPEIADEDFG": "The frost flower blooms as a heart undivided.",
+    "FPLELKMOPEM": 1718686711,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333001
+  },
+  {
+    "PGKNKBKHCHM": 331201,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      302,
+      302
+    ],
+    "NDLCNAOAMAN": 331201,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217081,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3312011
+      }
+    ],
+    "HIJGIHOHKIH": 1770968388,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Waters",
+    "OGFMFBDKPGC": 1394570767,
+    "EDPEIADEDFG": "The dance of water nourishes life.",
+    "FPLELKMOPEM": 3948502551,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333002
+  },
+  {
+    "PGKNKBKHCHM": 331202,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      302,
+      302
+    ],
+    "NDLCNAOAMAN": 331202,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217082,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3312021
+      }
+    ],
+    "HIJGIHOHKIH": 500841660,
+    "IEAMFFIKFJF": "Elemental Resonance: Soothing Water",
+    "OGFMFBDKPGC": 3498107159,
+    "EDPEIADEDFG": "With purest water flows prosperity.",
+    "FPLELKMOPEM": 1948114375,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333003
+  },
+  {
+    "PGKNKBKHCHM": 331301,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      303,
+      303
+    ],
+    "NDLCNAOAMAN": 331301,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217083,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3313011
+      }
+    ],
+    "HIJGIHOHKIH": 1920960396,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Flames",
+    "OGFMFBDKPGC": 3139745815,
+    "EDPEIADEDFG": "The scarlet flame reduces the vanquished to dust.",
+    "FPLELKMOPEM": 2685707175,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333004
+  },
+  {
+    "PGKNKBKHCHM": 331302,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      303,
+      303
+    ],
+    "NDLCNAOAMAN": 331302,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217084,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3313021
+      }
+    ],
+    "HIJGIHOHKIH": 520799076,
+    "IEAMFFIKFJF": "Elemental Resonance: Fervent Flames",
+    "OGFMFBDKPGC": 1197876575,
+    "EDPEIADEDFG": "A burning heart may match the sun and moon.",
+    "FPLELKMOPEM": 2855282079,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333005
+  },
+  {
+    "PGKNKBKHCHM": 331401,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      304,
+      304
+    ],
+    "NDLCNAOAMAN": 331401,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217085,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3314011
+      }
+    ],
+    "HIJGIHOHKIH": 825333364,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Thunder",
+    "OGFMFBDKPGC": 1179851087,
+    "EDPEIADEDFG": "Lightning falls on the land of eternity.",
+    "FPLELKMOPEM": 1922013023,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333006
+  },
+  {
+    "PGKNKBKHCHM": 331402,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      304,
+      304
+    ],
+    "NDLCNAOAMAN": 331402,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217086,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3314021
+      }
+    ],
+    "HIJGIHOHKIH": 589127532,
+    "IEAMFFIKFJF": "Elemental Resonance: High Voltage",
+    "OGFMFBDKPGC": 3137151223,
+    "EDPEIADEDFG": "The storm rises in majesty.",
+    "FPLELKMOPEM": 1159005543,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333007
+  },
+  {
+    "PGKNKBKHCHM": 331501,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      307,
+      307
+    ],
+    "NDLCNAOAMAN": 331501,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217087,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3315011
+      }
+    ],
+    "HIJGIHOHKIH": 2818442748,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Winds",
+    "OGFMFBDKPGC": 3057148951,
+    "EDPEIADEDFG": "The wind sings like a leisurely lyre.",
+    "FPLELKMOPEM": 1167490727,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333008
+  },
+  {
+    "PGKNKBKHCHM": 331502,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      307,
+      307
+    ],
+    "NDLCNAOAMAN": 331502,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217088,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3315021
+      }
+    ],
+    "HIJGIHOHKIH": 3922418476,
+    "IEAMFFIKFJF": "Elemental Resonance: Impetuous Winds",
+    "OGFMFBDKPGC": 1297306431,
+    "EDPEIADEDFG": "The gale gallops through the woods.",
+    "FPLELKMOPEM": 3939657263,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333009
+  },
+  {
+    "PGKNKBKHCHM": 331601,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      305,
+      305
+    ],
+    "NDLCNAOAMAN": 331601,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217089,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3316011
+      }
+    ],
+    "HIJGIHOHKIH": 580310524,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Stone",
+    "OGFMFBDKPGC": 1359739583,
+    "EDPEIADEDFG": "The jagged mountains sign a lasting pact.",
+    "FPLELKMOPEM": 2545774311,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333010
+  },
+  {
+    "PGKNKBKHCHM": 331602,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      305,
+      305
+    ],
+    "NDLCNAOAMAN": 331602,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217090,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3316021
+      }
+    ],
+    "HIJGIHOHKIH": 1832236468,
+    "IEAMFFIKFJF": "Elemental Resonance: Enduring Rock",
+    "OGFMFBDKPGC": 2041893831,
+    "EDPEIADEDFG": "Bedrock shall make the hills unshakable.",
+    "FPLELKMOPEM": 955674359,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333011
+  },
+  {
+    "PGKNKBKHCHM": 331701,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      306,
+      306
+    ],
+    "NDLCNAOAMAN": 331701,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217091,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3317011
+      }
+    ],
+    "HIJGIHOHKIH": 313082964,
+    "IEAMFFIKFJF": "Elemental Resonance: Woven Weeds",
+    "OGFMFBDKPGC": 3664301247,
+    "EDPEIADEDFG": "All shall dance in the dream forest.",
+    "FPLELKMOPEM": 894553159,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333012
+  },
+  {
+    "PGKNKBKHCHM": 331702,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      306,
+      306
+    ],
+    "NDLCNAOAMAN": 331702,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217092,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3317021
+      }
+    ],
+    "HIJGIHOHKIH": 3025268268,
+    "IEAMFFIKFJF": "Elemental Resonance: Sprawling Greenery",
+    "OGFMFBDKPGC": 693809655,
+    "EDPEIADEDFG": "New branches and sprouts grow into a forest.",
+    "FPLELKMOPEM": 1898587983,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333013
+  },
+  {
+    "PGKNKBKHCHM": 331801,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      401,
+      401
+    ],
+    "NDLCNAOAMAN": 331801,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217146,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3318011
+      }
+    ],
+    "HIJGIHOHKIH": 3339899428,
+    "IEAMFFIKFJF": "Verse of Unchained Happenings",
+    "OGFMFBDKPGC": 1853188879,
+    "EDPEIADEDFG": "\"Someday, the winds will blow towards a brighter future.\"",
+    "FPLELKMOPEM": 552174943,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333037
+  },
+  {
+    "PGKNKBKHCHM": 331802,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      402,
+      402
+    ],
+    "NDLCNAOAMAN": 331802,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217147,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3318021
+      }
+    ],
+    "HIJGIHOHKIH": 1873335084,
+    "IEAMFFIKFJF": "Contract of Eons Unshaken",
+    "OGFMFBDKPGC": 93536407,
+    "EDPEIADEDFG": "\"This is the trust I have placed in them. Betray it, and you taint my blood.\"",
+    "FPLELKMOPEM": 1890308199,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333038
+  },
+  {
+    "PGKNKBKHCHM": 331803,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      403,
+      403
+    ],
+    "NDLCNAOAMAN": 331803,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217148,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3318031
+      }
+    ],
+    "HIJGIHOHKIH": 3383085388,
+    "IEAMFFIKFJF": "Dream of Evanescent Eternity",
+    "OGFMFBDKPGC": 1306919943,
+    "EDPEIADEDFG": "\"It once promised its people a dream: the never-changing 'eternity.'\"",
+    "FPLELKMOPEM": 3550069055,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333039
+  },
+  {
+    "PGKNKBKHCHM": 331804,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      404,
+      404
+    ],
+    "NDLCNAOAMAN": 331804,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217149,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3318041
+      }
+    ],
+    "HIJGIHOHKIH": 358480428,
+    "IEAMFFIKFJF": "Wisdom of the Joyous Spirits",
+    "OGFMFBDKPGC": 233477391,
+    "EDPEIADEDFG": "\"That dancing circle embodied everything about the universe. Life has always been the end, while it is wisdom that shall be the means.\"",
+    "FPLELKMOPEM": 3411497647,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333040
+  },
+  {
+    "PGKNKBKHCHM": 332001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320011
+      }
+    ],
+    "HIJGIHOHKIH": 3676017860,
+    "IEAMFFIKFJF": "The Bestest Travel Companion!",
+    "OGFMFBDKPGC": 191567103,
+    "EDPEIADEDFG": "\"You might be only one of countless stars, but you're Paimon's whole world!\"",
+    "FPLELKMOPEM": 1924239671,
+    "AMAAJHCAIIA": "Reward for meeting the Player Manual's requirements",
+    "OOBMCDNANFP": 333014
+  },
+  {
+    "PGKNKBKHCHM": 332002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217094,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320021
+      }
+    ],
+    "HIJGIHOHKIH": 2527118260,
+    "IEAMFFIKFJF": "Changing Shifts",
+    "OGFMFBDKPGC": 3117210143,
+    "EDPEIADEDFG": "\"It's time for the adults to get to work, and for the kids to get some sleep.\"",
+    "FPLELKMOPEM": 2236802279,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333015
+  },
+  {
+    "PGKNKBKHCHM": 332003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320031
+      }
+    ],
+    "HIJGIHOHKIH": 1565981764,
+    "IEAMFFIKFJF": "Toss-Up",
+    "OGFMFBDKPGC": 1901944055,
+    "EDPEIADEDFG": "Before the dice are thrown, none can know their own destiny.",
+    "FPLELKMOPEM": 1977818423,
+    "AMAAJHCAIIA": "Reward for meeting the Player Manual's requirements",
+    "OOBMCDNANFP": 333016
+  },
+  {
+    "PGKNKBKHCHM": 332004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217096,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320041
+      }
+    ],
+    "HIJGIHOHKIH": 2273344068,
+    "IEAMFFIKFJF": "Strategize",
+    "OGFMFBDKPGC": 2093393239,
+    "EDPEIADEDFG": "\"This might look quite complicated, but in truth, the possible scenarios do not exceed 187 in number.\"",
+    "FPLELKMOPEM": 2593091207,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333017
+  },
+  {
+    "PGKNKBKHCHM": 332005,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332005,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217097,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320051
+      }
+    ],
+    "HIJGIHOHKIH": 846980212,
+    "IEAMFFIKFJF": "I Haven't Lost Yet!",
+    "OGFMFBDKPGC": 2930753583,
+    "EDPEIADEDFG": "Arataki \"He Might Lose but He'll Never Admit Defeatto\" is always game for another round!",
+    "FPLELKMOPEM": 1075531143,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333018
+  },
+  {
+    "PGKNKBKHCHM": 332006,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332006,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217098,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320061
+      }
+    ],
+    "HIJGIHOHKIH": 4201669460,
+    "IEAMFFIKFJF": "Leave it to Me!",
+    "OGFMFBDKPGC": 2038576335,
+    "EDPEIADEDFG": "\"It's fine, leave everything to me!\" — This ranks first among \"lines to put Mondstadter hearts at ease.\"",
+    "FPLELKMOPEM": 311579351,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333019
+  },
+  {
+    "PGKNKBKHCHM": 332007,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332007,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217099,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320071
+      }
+    ],
+    "HIJGIHOHKIH": 876105516,
+    "IEAMFFIKFJF": "When the Crane Returned",
+    "OGFMFBDKPGC": 765023559,
+    "EDPEIADEDFG": "\"The crane once returned, and once, she was spurned, she turned, and left alone; now, she might be found, with friends all around, to whom she is bound — a home.\"",
+    "FPLELKMOPEM": 1137814847,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333020
+  },
+  {
+    "PGKNKBKHCHM": 332008,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332008,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217100,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320081
+      }
+    ],
+    "HIJGIHOHKIH": 2139668532,
+    "IEAMFFIKFJF": "Destined Path",
+    "OGFMFBDKPGC": 3606551991,
+    "EDPEIADEDFG": "\"This is destiny, and it cannot be defied.\"",
+    "FPLELKMOPEM": 1130348599,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333021
+  },
+  {
+    "PGKNKBKHCHM": 332009,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332009,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217101,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320091
+      }
+    ],
+    "HIJGIHOHKIH": 1061284348,
+    "IEAMFFIKFJF": "Alchemical Experiment",
+    "OGFMFBDKPGC": 976947023,
+    "EDPEIADEDFG": "\"Not to worry. The experiment has been completed, and it is — if I may say so — a great success.\"",
+    "FPLELKMOPEM": 1873218631,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333022
+  },
+  {
+    "PGKNKBKHCHM": 332010,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332010,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217102,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320101
+      }
+    ],
+    "HIJGIHOHKIH": 1747109292,
+    "IEAMFFIKFJF": "Master of Weaponry",
+    "OGFMFBDKPGC": 1272756199,
+    "EDPEIADEDFG": "\"Watch and learn, comrade! A real warrior isn't picky about their weapons!\"",
+    "FPLELKMOPEM": 1161003055,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333023
+  },
+  {
+    "PGKNKBKHCHM": 332011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217103,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320111
+      }
+    ],
+    "HIJGIHOHKIH": 4259099556,
+    "IEAMFFIKFJF": "Divine Relic's Installation",
+    "OGFMFBDKPGC": 2928523911,
+    "EDPEIADEDFG": "\"Hehe... Well now, isn't this finally getting interesting?\"",
+    "FPLELKMOPEM": 2786092695,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333024
+  },
+  {
+    "PGKNKBKHCHM": 332012,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332012,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217104,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320121
+      }
+    ],
+    "HIJGIHOHKIH": 689287556,
+    "IEAMFFIKFJF": "Patched-Up Bunny",
+    "OGFMFBDKPGC": 3954249087,
+    "EDPEIADEDFG": "'Tis the secret to Baron Bunny the 893rd's longevity.",
+    "FPLELKMOPEM": 4175279519,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333025
+  },
+  {
+    "PGKNKBKHCHM": 332013,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332013,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217105,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320131
+      }
+    ],
+    "HIJGIHOHKIH": 825623500,
+    "IEAMFFIKFJF": "Send Off",
+    "OGFMFBDKPGC": 3496394359,
+    "EDPEIADEDFG": "\"Here at Wangsheng Funeral Parlor, you can count on us to go full send! Satisfaction guaranteed!\"",
+    "FPLELKMOPEM": 2520376751,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333026
+  },
+  {
+    "PGKNKBKHCHM": 332014,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332014,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217106,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320141
+      }
+    ],
+    "HIJGIHOHKIH": 963393220,
+    "IEAMFFIKFJF": "Evil Is Banished",
+    "OGFMFBDKPGC": 2818842135,
+    "EDPEIADEDFG": "\"Adeptus Xiao. I will be here when you call.\"",
+    "FPLELKMOPEM": 2902822399,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333027
+  },
+  {
+    "PGKNKBKHCHM": 332015,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      503,
+      503
+    ],
+    "NDLCNAOAMAN": 332015,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217107,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320151
+      }
+    ],
+    "HIJGIHOHKIH": 2197965244,
+    "IEAMFFIKFJF": "Abyssal Summons",
+    "OGFMFBDKPGC": 2454897607,
+    "EDPEIADEDFG": "\"Yaya ika!\"",
+    "FPLELKMOPEM": 4170747119,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333028
+  },
+  {
+    "PGKNKBKHCHM": 332016,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      501,
+      501
+    ],
+    "NDLCNAOAMAN": 332016,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217150,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320161
+      }
+    ],
+    "HIJGIHOHKIH": 423351380,
+    "IEAMFFIKFJF": "A Conspiracy Under Winter's Resplendence",
+    "OGFMFBDKPGC": 3890786335,
+    "EDPEIADEDFG": "...But none know the intricacies of what they are plotting.",
+    "FPLELKMOPEM": 4138181007,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333041
+  },
+  {
+    "PGKNKBKHCHM": 332017,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332017,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217151,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320171
+      }
+    ],
+    "HIJGIHOHKIH": 2315484964,
+    "IEAMFFIKFJF": "Fallraid",
+    "OGFMFBDKPGC": 3192466287,
+    "EDPEIADEDFG": "\"...Don't deploy your Wind Glider halfway down! You'll get discovered!\"",
+    "FPLELKMOPEM": 875070631,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333042
+  },
+  {
+    "PGKNKBKHCHM": 332018,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332018,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217152,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320181
+      }
+    ],
+    "HIJGIHOHKIH": 250493532,
+    "IEAMFFIKFJF": "The Shatterstone Method",
+    "OGFMFBDKPGC": 2181536191,
+    "EDPEIADEDFG": "For those that aren't so strong...\\nIt's best to regard the \"The Shatterstone Method\" as just a \"metaphor.\"",
+    "FPLELKMOPEM": 4142008375,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333043
+  },
+  {
+    "PGKNKBKHCHM": 332019,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332019,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217153,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320191
+      }
+    ],
+    "HIJGIHOHKIH": 1110916044,
+    "IEAMFFIKFJF": "Dream of Freedom Unrelinquished",
+    "OGFMFBDKPGC": 1763144543,
+    "EDPEIADEDFG": "\"Lonely forest breezes converged, jointly they overthrew the tyrant's tower from the sky.\"\\n\"Broken free from shackles at last, the young lioness stood firm in the winds with her head held high.\"",
+    "FPLELKMOPEM": 1421996519,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333044
+  },
+  {
+    "PGKNKBKHCHM": 332020,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332020,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 2022001,
+    "KONHIPOPNNI": 217154,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320201
+      }
+    ],
+    "HIJGIHOHKIH": 163036260,
+    "IEAMFFIKFJF": "Bosom Friends",
+    "OGFMFBDKPGC": 241026279,
+    "EDPEIADEDFG": "Good friends never truly leave. They stay with us in another form.",
+    "FPLELKMOPEM": 2358581087,
+    "AMAAJHCAIIA": "Claim from the \"Duel! The Summoners' Summit!\" event",
+    "OOBMCDNANFP": 333045
+  },
+  {
+    "PGKNKBKHCHM": 332021,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332021,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217163,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320211
+      }
+    ],
+    "HIJGIHOHKIH": 2869426412,
+    "IEAMFFIKFJF": "Rhythm of the Great Dream",
+    "OGFMFBDKPGC": 3424727191,
+    "EDPEIADEDFG": "\"Enter our dreams, our world.\"\\n\"Write of deeds good, brave, and honest.\"",
+    "FPLELKMOPEM": 2330114311,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333052
+  },
+  {
+    "PGKNKBKHCHM": 332022,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332022,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217169,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320221
+      }
+    ],
+    "HIJGIHOHKIH": 4187011732,
+    "IEAMFFIKFJF": "Where Is the Unseen Razor?",
+    "OGFMFBDKPGC": 277308919,
+    "EDPEIADEDFG": "The origins of this Branch Master of the Adventurers' Guild are shrouded in mystery, yet she keeps looking for clues about the sword, constantly challenging powerful enemies along the way...",
+    "FPLELKMOPEM": 2053055223,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333054
+  },
+  {
+    "PGKNKBKHCHM": 332023,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 332023,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3320231
+      }
+    ],
+    "HIJGIHOHKIH": 3380772900,
+    "IEAMFFIKFJF": "Pankration!",
+    "OGFMFBDKPGC": 4188441839,
+    "EDPEIADEDFG": "\"For victory, Credit Coupons, and the hottest goods in the Rag and Bone Shop... and the freedom that may come someday, strike!\"",
+    "FPLELKMOPEM": 1010205735,
+    "AMAAJHCAIIA": "Rag and Bone Shop Credit Coupon Exchange",
+    "OOBMCDNANFP": 333056
+  },
+  {
+    "PGKNKBKHCHM": 333001,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333001,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217108,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330011
+      }
+    ],
+    "HIJGIHOHKIH": 1140400884,
+    "IEAMFFIKFJF": "Jueyun Guoba",
+    "OGFMFBDKPGC": 2408934239,
+    "EDPEIADEDFG": "Flavorful and crispy Jueyun Guoba — with Guoba's stamp of approval.",
+    "FPLELKMOPEM": 81350343,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333029
+  },
+  {
+    "PGKNKBKHCHM": 333002,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333002,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217109,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330021
+      }
+    ],
+    "HIJGIHOHKIH": 4072189996,
+    "IEAMFFIKFJF": "Adeptus' Temptation",
+    "OGFMFBDKPGC": 3661809695,
+    "EDPEIADEDFG": "It is said that this name was derived from this dish's ability to tempt an adeptus to return to the mortal realm. But that begs the question... Which adeptus was that?",
+    "FPLELKMOPEM": 912791007,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333030
+  },
+  {
+    "PGKNKBKHCHM": 333003,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333003,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217110,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330031
+      }
+    ],
+    "HIJGIHOHKIH": 3518620236,
+    "IEAMFFIKFJF": "Lotus Flower Crisp",
+    "OGFMFBDKPGC": 2064121207,
+    "EDPEIADEDFG": "Dough is formed into bud-like shapes and placed into a pot of oil as if upon the surface of a lake, causing them to slowly bloom layer by layer... A pleasing sight indeed.",
+    "FPLELKMOPEM": 15175351,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333031
+  },
+  {
+    "PGKNKBKHCHM": 333004,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333004,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217111,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330041
+      }
+    ],
+    "HIJGIHOHKIH": 3020941972,
+    "IEAMFFIKFJF": "Northern Smoked Chicken",
+    "OGFMFBDKPGC": 2605556007,
+    "EDPEIADEDFG": "This dish makes for a warm welcome for guests who come to the northern regions. Now, what manner of guests shall be \"treated\" to this hospitality this time?",
+    "FPLELKMOPEM": 2814807319,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333032
+  },
+  {
+    "PGKNKBKHCHM": 333005,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333005,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217112,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330051
+      }
+    ],
+    "HIJGIHOHKIH": 3692916132,
+    "IEAMFFIKFJF": "Sweet Madame",
+    "OGFMFBDKPGC": 2981247775,
+    "EDPEIADEDFG": "Perhaps some have never seen a chicken run... But there's no one who hasn't tried a Sweet Madame!",
+    "FPLELKMOPEM": 2610341647,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333033
+  },
+  {
+    "PGKNKBKHCHM": 333006,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333006,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 0,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330061
+      }
+    ],
+    "HIJGIHOHKIH": 2595061740,
+    "IEAMFFIKFJF": "Mondstadt Hash Brown",
+    "OGFMFBDKPGC": 3313244807,
+    "EDPEIADEDFG": "The sweet taste verifies the famous words of a certain famous gourmet known throughout Teyvat — a dish that may be called a regional specialty cannot taste bad.",
+    "FPLELKMOPEM": 2640573583,
+    "AMAAJHCAIIA": "Reward for meeting the Player Manual's requirements",
+    "OOBMCDNANFP": 333034
+  },
+  {
+    "PGKNKBKHCHM": 333007,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333007,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217114,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330071
+      }
+    ],
+    "HIJGIHOHKIH": 1859562188,
+    "IEAMFFIKFJF": "Mushroom Pizza",
+    "OGFMFBDKPGC": 1133908015,
+    "EDPEIADEDFG": "They say that a researcher once used very precise calculations to uncover the \"fairest way to cut pizza,\" but as the process is far too bothersome, basically no one uses it...",
+    "FPLELKMOPEM": 922662903,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333035
+  },
+  {
+    "PGKNKBKHCHM": 333008,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333008,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217115,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330081
+      }
+    ],
+    "HIJGIHOHKIH": 2349678012,
+    "IEAMFFIKFJF": "Minty Meat Rolls",
+    "OGFMFBDKPGC": 2087403903,
+    "EDPEIADEDFG": "Though this might be its current form, think about it for a moment: did this dish first start as mint rolled around meat, or meat rolled around mint?",
+    "FPLELKMOPEM": 2949868351,
+    "AMAAJHCAIIA": "Obtained from the initial deck",
+    "OOBMCDNANFP": 333036
+  },
+  {
+    "PGKNKBKHCHM": 333009,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333009,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217155,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330091
+      }
+    ],
+    "HIJGIHOHKIH": 460467476,
+    "IEAMFFIKFJF": "Teyvat Fried Egg",
+    "OGFMFBDKPGC": 1910138919,
+    "EDPEIADEDFG": "With a taste of the summer sun, it invigorates you from the first bite.\\nTake care to eat this meal slowly, and avoid choking the throat of destiny when impelled by the fullness of life's vitality.",
+    "FPLELKMOPEM": 2510583079,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333046
+  },
+  {
+    "PGKNKBKHCHM": 333010,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333010,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217156,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330101
+      }
+    ],
+    "HIJGIHOHKIH": 1552771252,
+    "IEAMFFIKFJF": "Sashimi Platter",
+    "OGFMFBDKPGC": 909955359,
+    "EDPEIADEDFG": "Under the blade of a master chef, the texture of the ingredients remains pristine. Upon consumption, it is as if something living is leaping inside your mouth...\\nHold on, could these ingredients still be...",
+    "FPLELKMOPEM": 4280975927,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333047
+  },
+  {
+    "PGKNKBKHCHM": 333011,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333011,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217157,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330111
+      }
+    ],
+    "HIJGIHOHKIH": 3207703132,
+    "IEAMFFIKFJF": "Tandoori Roast Chicken",
+    "OGFMFBDKPGC": 3649157159,
+    "EDPEIADEDFG": "The chicken and spices are capable of performing a mysterious Sumeru dance on the tip of your tongue, evoking the image of a festive banquet...\\nBut even a dish so delicious has its last bite, and every feast has its end.",
+    "FPLELKMOPEM": 2175639775,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333048
+  },
+  {
+    "PGKNKBKHCHM": 333012,
+    "KAKBAOPGEKM": false,
+    "GNLFLMIEJLM": 0,
+    "NIGBMPMLOPC": [
+      0,
+      0
+    ],
+    "NDLCNAOAMAN": 333012,
+    "KLIPDPBMJFD": 0,
+    "GFHEEOOINHN": 0,
+    "KONHIPOPNNI": 217158,
+    "HBIIKHMGEMB": [
+      {
+        "CDOIPGMKDFF": 3330121
+      }
+    ],
+    "HIJGIHOHKIH": 3150641620,
+    "IEAMFFIKFJF": "Butter Crab",
+    "OGFMFBDKPGC": 47678687,
+    "EDPEIADEDFG": "The butter-infused crab legs have a rich aroma that washes over the taste buds so seductively that none can resist its allure.\\n\"Another helping, please!\"",
+    "FPLELKMOPEM": 963618735,
+    "AMAAJHCAIIA": "",
+    "OOBMCDNANFP": 333049
+  }
+]

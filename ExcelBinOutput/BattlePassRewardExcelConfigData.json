@@ -1,0 +1,3602 @@
+[
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 1,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001001
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001101
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 2,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001002
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001102
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 3,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001003
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001103
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 4,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001004
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001104
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 5,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001005
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001105
+      },
+      {
+        "CDOIPGMKDFF": 1010405
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 6,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001006
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001106
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 7,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001007
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001107
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 8,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001008
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001108
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 9,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001009
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001109
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 10,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001010
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001110
+      },
+      {
+        "CDOIPGMKDFF": 1010410
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 11,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001011
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001111
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 12,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001012
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001112
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 13,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001013
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001113
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 14,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001014
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001114
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 15,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001015
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001115
+      },
+      {
+        "CDOIPGMKDFF": 1010415
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 16,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001016
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001116
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 17,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001017
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001117
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 18,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001018
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001118
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 19,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001019
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001119
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 20,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001020
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001120
+      },
+      {
+        "CDOIPGMKDFF": 1010420
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 21,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001021
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001121
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 22,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001022
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001122
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 23,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001023
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001123
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 24,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001024
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001124
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 25,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001025
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001125
+      },
+      {
+        "CDOIPGMKDFF": 1010425
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 26,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001026
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001126
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 27,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001027
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001127
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 28,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001028
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001128
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 29,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001029
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001129
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 30,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001030
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001130
+      },
+      {
+        "CDOIPGMKDFF": 1010430
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 31,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001031
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001131
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 32,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001032
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001132
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 33,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001033
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001133
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 34,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001034
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001134
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 35,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001035
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001135
+      },
+      {
+        "CDOIPGMKDFF": 1010435
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 36,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001036
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001136
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 37,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001037
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001137
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 38,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001038
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001138
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 39,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001039
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001139
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 40,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001040
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001140
+      },
+      {
+        "CDOIPGMKDFF": 1010440
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 41,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001041
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001141
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 42,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001042
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001142
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 43,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001043
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001143
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 44,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001044
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001144
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 45,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001045
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001145
+      },
+      {
+        "CDOIPGMKDFF": 1010445
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 46,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001046
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001146
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 47,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001047
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001147
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 48,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001048
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001148
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 49,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001049
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001149
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 4,
+    "GEGLKKJIIOG": 50,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001050
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001150
+      },
+      {
+        "CDOIPGMKDFF": 1010450
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 1,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001001
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001101
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 2,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001002
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001102
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 3,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001003
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001103
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 4,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001004
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001104
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 5,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001005
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001105
+      },
+      {
+        "CDOIPGMKDFF": 1010305
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 6,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001006
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001106
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 7,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001007
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001107
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 8,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001008
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001108
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 9,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001009
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001109
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 10,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001010
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001110
+      },
+      {
+        "CDOIPGMKDFF": 1010310
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 11,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001011
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001111
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 12,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001012
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001112
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 13,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001013
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001113
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 14,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001014
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001114
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 15,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001015
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001115
+      },
+      {
+        "CDOIPGMKDFF": 1010315
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 16,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001016
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001116
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 17,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001017
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001117
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 18,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001018
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001118
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 19,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001019
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001119
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 20,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001020
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001120
+      },
+      {
+        "CDOIPGMKDFF": 1010320
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 21,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001021
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001121
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 22,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001022
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001122
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 23,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001023
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001123
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 24,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001024
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001124
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 25,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001025
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001125
+      },
+      {
+        "CDOIPGMKDFF": 1010325
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 26,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001026
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001126
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 27,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001027
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001127
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 28,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001028
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001128
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 29,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001029
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001129
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 30,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001030
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001130
+      },
+      {
+        "CDOIPGMKDFF": 1010330
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 31,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001031
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001131
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 32,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001032
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001132
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 33,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001033
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001133
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 34,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001034
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001134
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 35,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001035
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001135
+      },
+      {
+        "CDOIPGMKDFF": 1010335
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 36,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001036
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001136
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 37,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001037
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001137
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 38,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001038
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001138
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 39,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001039
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001139
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 40,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001040
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001140
+      },
+      {
+        "CDOIPGMKDFF": 1010340
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 41,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001041
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001141
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 42,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001042
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001142
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 43,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001043
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001143
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 44,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001044
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001144
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 45,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001045
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001145
+      },
+      {
+        "CDOIPGMKDFF": 1010345
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 46,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001046
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001146
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 47,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001047
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001147
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 48,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001048
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001148
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 49,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001049
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001149
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 3,
+    "GEGLKKJIIOG": 50,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001050
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001150
+      },
+      {
+        "CDOIPGMKDFF": 1010350
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 1,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001001
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001101
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 2,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001002
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001102
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 3,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001003
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001103
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 4,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001004
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001104
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 5,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001005
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001105
+      },
+      {
+        "CDOIPGMKDFF": 1010205
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 6,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001006
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001106
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 7,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001007
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001107
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 8,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001008
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001108
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 9,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001009
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001109
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 10,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001010
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001110
+      },
+      {
+        "CDOIPGMKDFF": 1010210
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 11,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001011
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001111
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 12,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001012
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001112
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 13,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001013
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001113
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 14,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001014
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001114
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 15,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001015
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001115
+      },
+      {
+        "CDOIPGMKDFF": 1010215
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 16,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001016
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001116
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 17,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001017
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001117
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 18,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001018
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001118
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 19,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001019
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001119
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 20,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001020
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001120
+      },
+      {
+        "CDOIPGMKDFF": 1010220
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 21,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001021
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001121
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 22,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001022
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001122
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 23,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001023
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001123
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 24,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001024
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001124
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 25,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001025
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001125
+      },
+      {
+        "CDOIPGMKDFF": 1010225
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 26,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001026
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001126
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 27,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001027
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001127
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 28,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001028
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001128
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 29,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001029
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001129
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 30,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001030
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001130
+      },
+      {
+        "CDOIPGMKDFF": 1010230
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 31,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001031
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001131
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 32,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001032
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001132
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 33,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001033
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001133
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 34,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001034
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001134
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 35,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001035
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001135
+      },
+      {
+        "CDOIPGMKDFF": 1010235
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 36,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001036
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001136
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 37,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001037
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001137
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 38,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001038
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001138
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 39,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001039
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001139
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 40,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001040
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001140
+      },
+      {
+        "CDOIPGMKDFF": 1010240
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 41,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001041
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001141
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 42,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001042
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001142
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 43,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001043
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001143
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 44,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001044
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001144
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 45,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001045
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001145
+      },
+      {
+        "CDOIPGMKDFF": 1010245
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 46,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001046
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001146
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 47,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001047
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001147
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 48,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001048
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001148
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 49,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001049
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001149
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 2,
+    "GEGLKKJIIOG": 50,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001050
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001150
+      },
+      {
+        "CDOIPGMKDFF": 1010250
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 1,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001001
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001101
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 2,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001002
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001102
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 3,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001003
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001103
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 4,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001004
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001104
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 5,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001005
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001105
+      },
+      {
+        "CDOIPGMKDFF": 1010105
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 6,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001006
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001106
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 7,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001007
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001107
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 8,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001008
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001108
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 9,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001009
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001109
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 10,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001010
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001110
+      },
+      {
+        "CDOIPGMKDFF": 1010110
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 11,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001011
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001111
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 12,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001012
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001112
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 13,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001013
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001113
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 14,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001014
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001114
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 15,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001015
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001115
+      },
+      {
+        "CDOIPGMKDFF": 1010115
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 16,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001016
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001116
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 17,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001017
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001117
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 18,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001018
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001118
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 19,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001019
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001119
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 20,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001020
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001120
+      },
+      {
+        "CDOIPGMKDFF": 1010120
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 21,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001021
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001121
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 22,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001022
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001122
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 23,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001023
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001123
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 24,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001024
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001124
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 25,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001025
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001125
+      },
+      {
+        "CDOIPGMKDFF": 1010125
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 26,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001026
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001126
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 27,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001027
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001127
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 28,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001028
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001128
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 29,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001029
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001129
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 30,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001030
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001130
+      },
+      {
+        "CDOIPGMKDFF": 1010130
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 31,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001031
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001131
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 32,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001032
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001132
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 33,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001033
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001133
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 34,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001034
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001134
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 35,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001035
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001135
+      },
+      {
+        "CDOIPGMKDFF": 1010135
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 36,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001036
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001136
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 37,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001037
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001137
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 38,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001038
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001138
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 39,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001039
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001139
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 40,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001040
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001140
+      },
+      {
+        "CDOIPGMKDFF": 1010140
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 41,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001041
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001141
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 42,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001042
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001142
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 43,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001043
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001143
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 44,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001044
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001144
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 45,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001045
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001145
+      },
+      {
+        "CDOIPGMKDFF": 1010145
+      }
+    ],
+    "EPEBEAJNHIP": true
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 46,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001046
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001146
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 47,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001047
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001147
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 48,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001048
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001148
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 49,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001049
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001149
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "EPEBEAJNHIP": false
+  },
+  {
+    "HLNGGPKHDCE": 1,
+    "GEGLKKJIIOG": 50,
+    "NKEIOODKMHJ": [
+      {
+        "CDOIPGMKDFF": 1001050
+      }
+    ],
+    "MFPAFFPOGMO": [
+      {
+        "CDOIPGMKDFF": 1001150
+      },
+      {
+        "CDOIPGMKDFF": 1010150
+      }
+    ],
+    "EPEBEAJNHIP": true
+  }
+]

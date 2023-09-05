@@ -1,0 +1,932 @@
+[
+  {
+    "DIANIMDAIGL": 220001,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      3629774591,
+      871310425,
+      2088703939
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220002,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      2560125751,
+      1328641489,
+      908601947
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220003,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      3912737791,
+      1994584561,
+      1902183123
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220004,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      2585787631,
+      3772038129,
+      3898309475
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220005,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      3230239311,
+      470813393,
+      2996411075
+    ],
+    "OCIIEHJICNO": [
+      "Use CD: {0}s",
+      "{0} / {1} already exist in this world",
+      "Effect Duration: {0}d {1}h remaining"
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220006,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      1232107607,
+      160823129,
+      353373587
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220008,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      1370426415,
+      3930082457,
+      3695954083
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220009,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      949776055,
+      1126483025,
+      1853042083
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220013,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      4024216247,
+      3699059993,
+      4000908827
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220022,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      4092527983,
+      2007969305,
+      659813587
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220025,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3954374743,
+      398784097,
+      1334199211
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220032,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      2411881199,
+      68529857,
+      3332075995
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220033,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      153164423,
+      789740985,
+      3672517227
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220036,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2660381967,
+      2724316497,
+      3204774859
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220037,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3206580511,
+      1677452441,
+      3292890323
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220040,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      4106203023,
+      3286923729,
+      1018109059
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220042,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      428643663,
+      2236791889,
+      4012790659
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 10006
+  },
+  {
+    "DIANIMDAIGL": 220043,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      790896367,
+      2963530689,
+      3022929467
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7006
+  },
+  {
+    "DIANIMDAIGL": 220044,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      4291642711,
+      3325182625,
+      3047131171
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220045,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      2612586191,
+      387953225,
+      3587922451
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220046,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3420358031,
+      4072873833,
+      291567163
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220047,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      950031727,
+      1040923481,
+      2648347931
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7007
+  },
+  {
+    "DIANIMDAIGL": 220048,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      763511239,
+      853619401,
+      348106803
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7008
+  },
+  {
+    "DIANIMDAIGL": 220049,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2238263951,
+      2625541041,
+      1430309931
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 6047
+  },
+  {
+    "DIANIMDAIGL": 220050,
+    "ILOMPOJEIJJ": false,
+    "HINCJBBDABJ": [
+      3922817951,
+      1437155209,
+      437074419
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220051,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1112373151,
+      3752769785,
+      4270725603
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220052,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1764517791,
+      725073625,
+      4241205203
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220053,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1498661975,
+      840473161,
+      986959043
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220056,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2852813343,
+      3900628329,
+      3670179307
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 11068
+  },
+  {
+    "DIANIMDAIGL": 220057,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      4287875991,
+      537569425,
+      1072962267
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220058,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1017209695,
+      3471780177,
+      614222219
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220059,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1904792079,
+      1718553505,
+      694600843
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220061,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1177520583,
+      2018690937,
+      372892115
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 11084
+  },
+  {
+    "DIANIMDAIGL": 220063,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2446530815,
+      340889033,
+      3490791091
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 12015
+  },
+  {
+    "DIANIMDAIGL": 220064,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      38724447,
+      2698651009,
+      3137073699
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220065,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      429852231,
+      2171368417,
+      80606291
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7009
+  },
+  {
+    "DIANIMDAIGL": 220066,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1572724991,
+      1755779033,
+      2858785027
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220067,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1837079575,
+      1355229969,
+      3452766107
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220070,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2409578791,
+      501406721,
+      1532265955
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220071,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3845421639,
+      1901051577,
+      631838467
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220072,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      81470623,
+      898131505,
+      752938363
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220073,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2647912343,
+      1013435057,
+      3084958091
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220074,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3567145111,
+      9308601,
+      835124283
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220075,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      6034143,
+      2175415489,
+      2683157907
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 12085
+  },
+  {
+    "DIANIMDAIGL": 220076,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3197806399,
+      4256502657,
+      4160052939
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 13072
+  },
+  {
+    "DIANIMDAIGL": 220077,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      498647287,
+      359429633,
+      62091899
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220078,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3935581103,
+      517901569,
+      1555597907
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220079,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3670543959,
+      1493048553,
+      3702884515
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 13072
+  },
+  {
+    "DIANIMDAIGL": 220080,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      998809799,
+      2282477905,
+      3536483195
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220082,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      515736967,
+      3299861545,
+      2786720283
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 13089
+  },
+  {
+    "DIANIMDAIGL": 220083,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3153919439,
+      166604769,
+      291801147
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 13090
+  },
+  {
+    "DIANIMDAIGL": 220084,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      584817463,
+      1266936041,
+      2385394051
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220085,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1804559383,
+      134207177,
+      1046806419
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 6140
+  },
+  {
+    "DIANIMDAIGL": 220086,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      572229679,
+      1221006617,
+      239820899
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220087,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      609850263,
+      3645138953,
+      2272918731
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220088,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      1800411023,
+      1345416185,
+      3282531587
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7010
+  },
+  {
+    "DIANIMDAIGL": 220089,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2988652415,
+      472476865,
+      4175494667
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220090,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      865560831,
+      1676140281,
+      1691096515
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 13111
+  },
+  {
+    "DIANIMDAIGL": 220091,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      800966327,
+      475482321,
+      1448253211
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220093,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      2752770095,
+      812976689,
+      2469480379
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 7011
+  },
+  {
+    "DIANIMDAIGL": 220094,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3450161311,
+      4028967385,
+      3250206843
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  },
+  {
+    "DIANIMDAIGL": 220095,
+    "ILOMPOJEIJJ": true,
+    "HINCJBBDABJ": [
+      3512184143,
+      1391941769,
+      717823155
+    ],
+    "OCIIEHJICNO": [
+      "",
+      "",
+      ""
+    ],
+    "BIMBKCLBCMD": 0
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ABGKPALDFPH": 5225,
+    "MEEOFMIMDAM": 1440458275,
+    "NJKGHJNLKHL": "Slow Burn: Applies Pyro to nearby Fungi and applies Sticky Flame to them. Until their Pyro application is removed, they will take Pyro DMG."
+  },
+  {
+    "ABGKPALDFPH": 5239,
+    "MEEOFMIMDAM": 4205770891,
+    "NJKGHJNLKHL": "Freezing Field: Deals Cryo DMG at intervals to all nearby Fungi on the ground."
+  },
+  {
+    "ABGKPALDFPH": 5240,
+    "MEEOFMIMDAM": 3781288659,
+    "NJKGHJNLKHL": "Flaming Field: Periodically applies Pyro to nearby opponents and grants Blazing, increasing ATK by 30%, Pyro RES by 100%, All Elemental RES (apart from Pyro) by 25%, and increasing resistance to interruption."
+  },
+  {
+    "ABGKPALDFPH": 5241,
+    "MEEOFMIMDAM": 2797404483,
+    "NJKGHJNLKHL": "Frost Chain: Periodically applies Cryo to nearby opponents and grants Frosting, increasing DEF by 85%, Cryo RES by 100%, All Elemental RES (apart from Cryo) by 25%, and increasing resistance to interruption."
+  },
+  {
+    "ABGKPALDFPH": 5242,
+    "MEEOFMIMDAM": 1417109107,
+    "NJKGHJNLKHL": "Thundering Arena: Periodically applies Electro to nearby opponents and grants Thundering, increasing Movement SPD, increasing Electro RES by 100%, increasing All Elemental RES (apart from Electro) by 25%, and increasing resistance to interruption."
+  },
+  {
+    "ABGKPALDFPH": 5243,
+    "MEEOFMIMDAM": 3390038419,
+    "NJKGHJNLKHL": "Close-In Thunder System: Strikes Fungi that linger within a certain area for a short while with lightning, dealing Electro DMG."
+  },
+  {
+    "ABGKPALDFPH": 5244,
+    "MEEOFMIMDAM": 6869587,
+    "NJKGHJNLKHL": "Adhesive Burn: After dealing DMG to Fungi, apply Sticky Flame to them. Until their Pyro application is removed, they will take Pyro DMG."
+  },
+  {
+    "ABGKPALDFPH": 6108,
+    "MEEOFMIMDAM": 316995315,
+    "NJKGHJNLKHL": "Inspire: When this opponent's HP falls under 15%, a large amount of HP will be restored to them after 10 seconds. This can only happen once per challenge."
+  },
+  {
+    "ABGKPALDFPH": 6110,
+    "MEEOFMIMDAM": 532906547,
+    "NJKGHJNLKHL": "Leader: Attendants at the camp can increase Physical RES and All Element RES of this foe, and will periodically restore their HP."
+  },
+  {
+    "ABGKPALDFPH": 6111,
+    "MEEOFMIMDAM": 3875099859,
+    "NJKGHJNLKHL": "Attendant: This foe can increase the Physical RES and All Element RES of the Leader, and will periodically restore their HP."
+  }
+]

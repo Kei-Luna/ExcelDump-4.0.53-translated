@@ -1,0 +1,281 @@
+[
+  {
+    "PGKNKBKHCHM": 2,
+    "JFNIMDOBDHK": 1,
+    "FPKEHKLHHDC": 3071628724,
+    "PMPMKOPBJHA": "Serenitea Pot",
+    "PPIOGOAALJH": 2904399338,
+    "HAENEPNNMLG": "Serenitea Pot",
+    "FEBBCDEGNDN": 10,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Homeworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 0,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 2001
+      },
+      {
+        "CDOIPGMKDFF": 2002
+      },
+      {
+        "CDOIPGMKDFF": 2003
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "JFNIMDOBDHK": 2,
+    "FPKEHKLHHDC": 2157852924,
+    "PMPMKOPBJHA": "Golden Apple Archipelago",
+    "PPIOGOAALJH": 4231616786,
+    "HAENEPNNMLG": "",
+    "FEBBCDEGNDN": 20,
+    "ADLKHHCGHAH": "UI_MarkSwitch_GoldenAppleIsles",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 0,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 4
+      }
+    ],
+    "IHEHFONJAGO": -335.314,
+    "LGAEIBJKMGJ": -655.726
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "JFNIMDOBDHK": 0,
+    "FPKEHKLHHDC": 706446876,
+    "PMPMKOPBJHA": "Mondstadt",
+    "PPIOGOAALJH": 49482922,
+    "HAENEPNNMLG": "Mondstadt",
+    "FEBBCDEGNDN": 100,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": true,
+    "ECCIOJFMPGA": false,
+    "BDOMFKAMFOA": 1,
+    "ACEFLOJMPCD": 10,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "JFNIMDOBDHK": 0,
+    "FPKEHKLHHDC": 1982412604,
+    "PMPMKOPBJHA": "Liyue",
+    "PPIOGOAALJH": 1428887970,
+    "HAENEPNNMLG": "Liyue",
+    "FEBBCDEGNDN": 100,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 2,
+    "ACEFLOJMPCD": 128,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "JFNIMDOBDHK": 0,
+    "FPKEHKLHHDC": 869248244,
+    "PMPMKOPBJHA": "Inazuma",
+    "PPIOGOAALJH": 853904250,
+    "HAENEPNNMLG": "Inazuma",
+    "FEBBCDEGNDN": 100,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 3,
+    "ACEFLOJMPCD": 242,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "JFNIMDOBDHK": 3,
+    "FPKEHKLHHDC": 1862653596,
+    "PMPMKOPBJHA": "Enkanomiya",
+    "PPIOGOAALJH": 1002315562,
+    "HAENEPNNMLG": "Enkanomiya",
+    "FEBBCDEGNDN": 70,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 31,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 5
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "JFNIMDOBDHK": 4,
+    "FPKEHKLHHDC": 2887066388,
+    "PMPMKOPBJHA": "Three Realms Gateway Offering",
+    "PPIOGOAALJH": 2106142714,
+    "HAENEPNNMLG": "",
+    "FEBBCDEGNDN": 20,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 2,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 7
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "JFNIMDOBDHK": 5,
+    "FPKEHKLHHDC": 297471884,
+    "PMPMKOPBJHA": "The Chasm: Underground Mines",
+    "PPIOGOAALJH": 3468523274,
+    "HAENEPNNMLG": "The Chasm: Underground Mines",
+    "FEBBCDEGNDN": 70,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 1,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 6
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "JFNIMDOBDHK": 6,
+    "FPKEHKLHHDC": 3682200372,
+    "PMPMKOPBJHA": "Golden Apple Archipelago",
+    "PPIOGOAALJH": 1255928274,
+    "HAENEPNNMLG": "Golden Apple Archipelago",
+    "FEBBCDEGNDN": 5,
+    "ADLKHHCGHAH": "UI_MarkSwitch_GoldenAppleIsles",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 33,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 9
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "JFNIMDOBDHK": 0,
+    "FPKEHKLHHDC": 1074864084,
+    "PMPMKOPBJHA": "Sumeru",
+    "PPIOGOAALJH": 2308207546,
+    "HAENEPNNMLG": "Sumeru",
+    "FEBBCDEGNDN": 100,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 4,
+    "ACEFLOJMPCD": 482,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 12,
+    "JFNIMDOBDHK": 8,
+    "FPKEHKLHHDC": 4293069292,
+    "PMPMKOPBJHA": "The Cat's Tail",
+    "PPIOGOAALJH": 88855090,
+    "HAENEPNNMLG": "The Cat's Tail",
+    "FEBBCDEGNDN": 5,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 1,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 1076
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 13,
+    "JFNIMDOBDHK": 10,
+    "FPKEHKLHHDC": 1719443972,
+    "PMPMKOPBJHA": "Veluriyam Mirage",
+    "PPIOGOAALJH": 4273460602,
+    "HAENEPNNMLG": "Veluriyam Mirage",
+    "FEBBCDEGNDN": 5,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Penumbra",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 0,
+    "ACEFLOJMPCD": 2,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 10
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  },
+  {
+    "PGKNKBKHCHM": 14,
+    "JFNIMDOBDHK": 0,
+    "FPKEHKLHHDC": 2386365724,
+    "PMPMKOPBJHA": "Fontaine",
+    "PPIOGOAALJH": 2073267570,
+    "HAENEPNNMLG": "Fontaine",
+    "FEBBCDEGNDN": 100,
+    "ADLKHHCGHAH": "UI_MarkSwitch_Bigworld",
+    "OAMOJOEDFMK": false,
+    "ECCIOJFMPGA": true,
+    "BDOMFKAMFOA": 5,
+    "ACEFLOJMPCD": 905,
+    "OPCPNPJLHDO": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IHEHFONJAGO": 0,
+    "LGAEIBJKMGJ": 0
+  }
+]

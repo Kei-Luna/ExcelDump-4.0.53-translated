@@ -1,0 +1,47 @@
+[
+  {
+    "ABIHPKCHHEI": 1,
+    "KIJAJALICPB": 220025,
+    "OOELJCOIHFG": 301,
+    "FCJBFIOHPCA": "Play_ui_activity_musicgame_btn_Harp",
+    "CFBACIGIKCC": "Play_ui_activity_musicgame_btn_Harp_Hold",
+    "MEMMPJINNND": "Play_ui_activity_musicgame_btn_Harp_Release",
+    "PAKGFLFAONG": "InLevelMusicPage"
+  },
+  {
+    "ABIHPKCHHEI": 2,
+    "KIJAJALICPB": 220044,
+    "OOELJCOIHFG": 302,
+    "FCJBFIOHPCA": "Play_ui_activity_musicgame_btn_Shamisen",
+    "CFBACIGIKCC": "Play_ui_activity_musicgame_btn_Shamisen_Hold",
+    "MEMMPJINNND": "Play_ui_activity_musicgame_btn_Shamisen_Release",
+    "PAKGFLFAONG": "InLevelMusicPage_Brown"
+  },
+  {
+    "ABIHPKCHHEI": 3,
+    "KIJAJALICPB": 220051,
+    "OOELJCOIHFG": 303,
+    "FCJBFIOHPCA": "",
+    "CFBACIGIKCC": "",
+    "MEMMPJINNND": "",
+    "PAKGFLFAONG": "InLevelDrumPage"
+  },
+  {
+    "ABIHPKCHHEI": 4,
+    "KIJAJALICPB": 220066,
+    "OOELJCOIHFG": 301,
+    "FCJBFIOHPCA": "",
+    "CFBACIGIKCC": "",
+    "MEMMPJINNND": "",
+    "PAKGFLFAONG": "InLevelMusicPage_Aranara"
+  },
+  {
+    "ABIHPKCHHEI": 5,
+    "KIJAJALICPB": 220078,
+    "OOELJCOIHFG": 303,
+    "FCJBFIOHPCA": "Play_ui_activity_musicgame_btn_Drum",
+    "CFBACIGIKCC": "Play_ui_activity_musicgame_btn_Drum_Hold",
+    "MEMMPJINNND": "Play_ui_activity_musicgame_btn_Drum_Release",
+    "PAKGFLFAONG": "InLevelDrumPage"
+  }
+]

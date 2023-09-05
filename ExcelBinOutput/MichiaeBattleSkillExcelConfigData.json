@@ -1,0 +1,92 @@
+[
+  {
+    "KMCCILDHOKJ": 1,
+    "CEHKGBBPBHB": 898913422,
+    "CHGGGLOEEBK": "Blessing of the Tortoise",
+    "PKJKLDMKAEM": 502698121,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members {0}% increased DEF and {1}% increased Max HP.",
+    "AJOOGBHFJPB": [
+      "30",
+      "20",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_01",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  },
+  {
+    "KMCCILDHOKJ": 2,
+    "CEHKGBBPBHB": 3986722446,
+    "CHGGGLOEEBK": "Ward of Obscurity",
+    "PKJKLDMKAEM": 444618249,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members {0}% increased Elemental Burst DMG.",
+    "AJOOGBHFJPB": [
+      "25",
+      "",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_02",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  },
+  {
+    "KMCCILDHOKJ": 3,
+    "CEHKGBBPBHB": 1101168414,
+    "CHGGGLOEEBK": "Boon of the Whalehunter",
+    "PKJKLDMKAEM": 3354851753,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members who wield Swords, Claymores, and Polearms {0}% increased Normal, Charged, and Plunging Attack DMG.",
+    "AJOOGBHFJPB": [
+      "30",
+      "",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_03",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  },
+  {
+    "KMCCILDHOKJ": 4,
+    "CEHKGBBPBHB": 1772757286,
+    "CHGGGLOEEBK": "Blessing of the Runebow",
+    "PKJKLDMKAEM": 2639596649,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members who wield Bows and Catalysts {0}% increased Normal ATK SPD.",
+    "AJOOGBHFJPB": [
+      "15",
+      "",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_04",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  },
+  {
+    "KMCCILDHOKJ": 5,
+    "CEHKGBBPBHB": 3980700158,
+    "CHGGGLOEEBK": "Grace of Conductivity",
+    "PKJKLDMKAEM": 1582779417,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members {0}% increased Electro-Charged, Superconduct, Overloaded, and Electro Swirl DMG.",
+    "AJOOGBHFJPB": [
+      "100",
+      "",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_05",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  },
+  {
+    "KMCCILDHOKJ": 6,
+    "CEHKGBBPBHB": 1034463622,
+    "CHGGGLOEEBK": "Marathon Guerilla",
+    "PKJKLDMKAEM": 2871046121,
+    "AEDNGHHCFMJ": "In the \"Three Realms Gateway Offering\" event, equipping the Bokuso Box grants your party members {0}% decreased Stamina consumption and {1}% increased Stamina Regeneration.",
+    "AJOOGBHFJPB": [
+      "15",
+      "20",
+      ""
+    ],
+    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_06",
+    "ECDEIIONFFL": 101693,
+    "DLFMGLGGJKB": 1
+  }
+]

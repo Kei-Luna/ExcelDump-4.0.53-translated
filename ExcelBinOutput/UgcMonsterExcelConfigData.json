@@ -1,0 +1,7352 @@
+[
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010181,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 215548291,
+    "NLHEIBGLNIJ": "Hilichurl",
+    "CNLINBDLACL": 366854824,
+    "AHIGPPNOMDE": "An artificed Hilichurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 229129221,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4068637023,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 1,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 902797065,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010281,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 1541648859,
+    "NLHEIBGLNIJ": "Hilichurl Fighter",
+    "CNLINBDLACL": 4046142488,
+    "AHIGPPNOMDE": "An artificed Hilichurl Fighter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1694827037,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3253030655,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 2,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4007378409,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010381,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 4290446651,
+    "NLHEIBGLNIJ": "Wooden Shield Hilichurl Guard",
+    "CNLINBDLACL": 1482709600,
+    "AHIGPPNOMDE": "An artificed Wooden Shield Hilichurl Guard that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 116372341,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3870911935,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 3,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1003729481,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011281,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 4290264915,
+    "NLHEIBGLNIJ": "Rock Shield Hilichurl Guard",
+    "CNLINBDLACL": 2831340272,
+    "AHIGPPNOMDE": "An artificed Rock Shield Hilichurl Guard that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 380037053,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1531107847,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 4,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 524739633,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011481,
+    "NHKEKECPCFM": 3500639387097266700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Ice_Range",
+    "IPJBKHBOCFN": 954764075,
+    "NLHEIBGLNIJ": "Ice Shield Hilichurl Guard",
+    "CNLINBDLACL": 2049814272,
+    "AHIGPPNOMDE": "An artificed Ice Shield Hilichurl Guard that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3035611517,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3194224543,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 5,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 210966657,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010781,
+    "NHKEKECPCFM": 1252389542913438000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Fire_Range",
+    "IPJBKHBOCFN": 820021811,
+    "NLHEIBGLNIJ": "Hilichurl Berserker",
+    "CNLINBDLACL": 32375072,
+    "AHIGPPNOMDE": "An artificed Hilichurl Berserker that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1203571037,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1054907871,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 6,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 224368785,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010481,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 1395103243,
+    "NLHEIBGLNIJ": "Hilichurl Shooter",
+    "CNLINBDLACL": 2824975912,
+    "AHIGPPNOMDE": "An artificed Hilichurl Shooter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2957231405,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 586693559,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 7,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2318623081,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010581,
+    "NHKEKECPCFM": 1252389542913438000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Fire_Range",
+    "IPJBKHBOCFN": 2864410027,
+    "NLHEIBGLNIJ": "Pyro Hilichurl Shooter",
+    "CNLINBDLACL": 2285945008,
+    "AHIGPPNOMDE": "An artificed Pyro Hilichurl Shooter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1601574589,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2713496447,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 8,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1061756377,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010681,
+    "NHKEKECPCFM": 1252389542913438000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Fire_Range",
+    "IPJBKHBOCFN": 819550955,
+    "NLHEIBGLNIJ": "Hilichurl Grenadier",
+    "CNLINBDLACL": 1945560264,
+    "AHIGPPNOMDE": "An artificed Hilichurl Grenadier that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 568297101,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2278690863,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 9,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 923914625,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010981,
+    "NHKEKECPCFM": 3500639387097266700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Ice_Range",
+    "IPJBKHBOCFN": 868046507,
+    "NLHEIBGLNIJ": "Cryo Hilichurl Shooter",
+    "CNLINBDLACL": 2993628528,
+    "AHIGPPNOMDE": "An artificed Cryo Hilichurl Shooter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2463639077,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3654424151,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 10,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4089529969,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011081,
+    "NHKEKECPCFM": 2710779454982116000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Electric_Range",
+    "IPJBKHBOCFN": 3818705195,
+    "NLHEIBGLNIJ": "Electro Hilichurl Shooter",
+    "CNLINBDLACL": 4252527072,
+    "AHIGPPNOMDE": "An artificed Electro Hilichurl Shooter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2842741621,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2495306015,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 11,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2920702649,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011381,
+    "NHKEKECPCFM": 3500639387097266700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Ice_Range",
+    "IPJBKHBOCFN": 3048232963,
+    "NLHEIBGLNIJ": "Cryo Hilichurl Grenadier",
+    "CNLINBDLACL": 2578717224,
+    "AHIGPPNOMDE": "An artificed Cryo Hilichurl Grenadier that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2299552397,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 436200031,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 12,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2238805929,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011681,
+    "NHKEKECPCFM": 2710779454982116000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Electric_Range",
+    "IPJBKHBOCFN": 1691641739,
+    "NLHEIBGLNIJ": "Electro Hilichurl Grenadier",
+    "CNLINBDLACL": 3139391680,
+    "AHIGPPNOMDE": "An artificed Electro Hilichurl Grenadier that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2660039149,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 497364551,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 13,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 876744633,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020181,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 1697066419,
+    "NLHEIBGLNIJ": "Wooden Shieldwall Mitachurl",
+    "CNLINBDLACL": 1320326192,
+    "AHIGPPNOMDE": "An artificed Wooden Shieldwall Mitachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2871435341,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2262043799,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 14,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1763122585,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020281,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 3763791115,
+    "NLHEIBGLNIJ": "Blazing Axe Mitachurl",
+    "CNLINBDLACL": 3276888128,
+    "AHIGPPNOMDE": "An artificed Blazing Axe Mitachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 885201813,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1074340279,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 15,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3766173577,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 95,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020381,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 605590611,
+    "NLHEIBGLNIJ": "Rock Shieldwall Mitachurl",
+    "CNLINBDLACL": 2437334568,
+    "AHIGPPNOMDE": "An artificed Rock Shieldwall Mitachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1778128333,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1632977823,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 16,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3686680889,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020681,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 2603025923,
+    "NLHEIBGLNIJ": "Ice Shieldwall Mitachurl",
+    "CNLINBDLACL": 3563173544,
+    "AHIGPPNOMDE": "An artificed Ice Shieldwall Mitachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 346943069,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 870235767,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 17,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2937159369,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 95,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020781,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 600848275,
+    "NLHEIBGLNIJ": "Crackling Axe Mitachurl",
+    "CNLINBDLACL": 586336008,
+    "AHIGPPNOMDE": "An artificed Crackling Axe Mitachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1735942965,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1636082767,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 18,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 819271937,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 95,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030181,
+    "NHKEKECPCFM": 13851686505134460000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Water_01",
+    "IPJBKHBOCFN": 3407934547,
+    "NLHEIBGLNIJ": "Hydro Samachurl",
+    "CNLINBDLACL": 1220825152,
+    "AHIGPPNOMDE": "An artificed Hydro Samachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2098211541,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 696377335,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 19,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4189098761,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030281,
+    "NHKEKECPCFM": 17345693458545486000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Grass_01",
+    "IPJBKHBOCFN": 1221835163,
+    "NLHEIBGLNIJ": "Dendro Samachurl",
+    "CNLINBDLACL": 852379832,
+    "AHIGPPNOMDE": "An artificed Dendro Samachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 792221309,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2718768567,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 20,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2133049977,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030381,
+    "NHKEKECPCFM": 86397847291692030,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Wind_01",
+    "IPJBKHBOCFN": 2889156227,
+    "NLHEIBGLNIJ": "Anemo Samachurl",
+    "CNLINBDLACL": 105894672,
+    "AHIGPPNOMDE": "An artificed Anemo Samachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1497243501,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3940236471,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 21,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2894076521,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030581,
+    "NHKEKECPCFM": 9738020503291998000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Ice_01",
+    "IPJBKHBOCFN": 1341702051,
+    "NLHEIBGLNIJ": "Cryo Samachurl",
+    "CNLINBDLACL": 4215238752,
+    "AHIGPPNOMDE": "An artificed Cryo Samachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2785957117,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2381608359,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 23,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3366833297,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030681,
+    "NHKEKECPCFM": 9666935466654407000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Electric_01",
+    "IPJBKHBOCFN": 3953065171,
+    "NLHEIBGLNIJ": "Electro Samachurl",
+    "CNLINBDLACL": 2438661752,
+    "AHIGPPNOMDE": "An artificed Electro Samachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2708102989,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1195304887,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 24,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4029422921,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 21020481,
+    "NHKEKECPCFM": 904226632227649500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_Ice_01",
+    "IPJBKHBOCFN": 555100955,
+    "NLHEIBGLNIJ": "Frostarm Lawachurl",
+    "CNLINBDLACL": 2831914192,
+    "AHIGPPNOMDE": "An artificed Frostarm Lawachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 77713005,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2512124175,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 25,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1596398425,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 21020581,
+    "NHKEKECPCFM": 358715328122269440,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_Rock_None",
+    "IPJBKHBOCFN": 803026371,
+    "NLHEIBGLNIJ": "Stonehide Lawachurl",
+    "CNLINBDLACL": 2863839672,
+    "AHIGPPNOMDE": "An artificed Stonehide Lawachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1617672877,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4144197351,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 26,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3714814073,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 165,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 21020881,
+    "NHKEKECPCFM": 15684238034909413000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_Electric_01",
+    "IPJBKHBOCFN": 3155417491,
+    "NLHEIBGLNIJ": "Thunderhelm Lawachurl",
+    "CNLINBDLACL": 3164581920,
+    "AHIGPPNOMDE": "An artificed Thunderhelm Lawachurl that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1133548797,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1235881663,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 27,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1099793881,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 220,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20010381,
+    "NHKEKECPCFM": 17065440082685890000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Wind_02",
+    "IPJBKHBOCFN": 1403689163,
+    "NLHEIBGLNIJ": "Anemo Slime",
+    "CNLINBDLACL": 2651604664,
+    "AHIGPPNOMDE": "An artificed Anemo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2134793213,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4197881735,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 28,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3681768729,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20010581,
+    "NHKEKECPCFM": 14440482408533029000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Electric_02",
+    "IPJBKHBOCFN": 3979952107,
+    "NLHEIBGLNIJ": "Electro Slime",
+    "CNLINBDLACL": 2381102904,
+    "AHIGPPNOMDE": "An artificed Electro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2382547381,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1566144327,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 29,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 347764945,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20010881,
+    "NHKEKECPCFM": 1923172345126221000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Ice_02",
+    "IPJBKHBOCFN": 2951212131,
+    "NLHEIBGLNIJ": "Cryo Slime",
+    "CNLINBDLACL": 1581571448,
+    "AHIGPPNOMDE": "An artificed Cryo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 289182245,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1840154759,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 30,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2230693393,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20011081,
+    "NHKEKECPCFM": 120954143112138580,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Water_02",
+    "IPJBKHBOCFN": 494647979,
+    "NLHEIBGLNIJ": "Hydro Slime",
+    "CNLINBDLACL": 4034603280,
+    "AHIGPPNOMDE": "An artificed Hydro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4097292677,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1761048151,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 31,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 819034817,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20011281,
+    "NHKEKECPCFM": 12947794029630554000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Fire_02",
+    "IPJBKHBOCFN": 2447573987,
+    "NLHEIBGLNIJ": "Pyro Slime",
+    "CNLINBDLACL": 2872473040,
+    "AHIGPPNOMDE": "An artificed Pyro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2494580285,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1627628975,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 32,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2705758313,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 20011481,
+    "NHKEKECPCFM": 15502111784109085000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Rock_02",
+    "IPJBKHBOCFN": 1358711515,
+    "NLHEIBGLNIJ": "Geo Slime",
+    "CNLINBDLACL": 3694328992,
+    "AHIGPPNOMDE": "An artificed Geo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2902604325,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3635444231,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 33,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2658223209,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20010481,
+    "NHKEKECPCFM": 3638466299875118000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Wind_03",
+    "IPJBKHBOCFN": 3837627627,
+    "NLHEIBGLNIJ": "Large Anemo Slime",
+    "CNLINBDLACL": 2459099752,
+    "AHIGPPNOMDE": "An artificed Large Anemo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 819277797,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2033051519,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 34,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 569610129,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20010681,
+    "NHKEKECPCFM": 12220175967376464000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Electric_03",
+    "IPJBKHBOCFN": 603486107,
+    "NLHEIBGLNIJ": "Large Electro Slime",
+    "CNLINBDLACL": 1753553928,
+    "AHIGPPNOMDE": "An artificed Large Electro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 696994981,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3141308927,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 35,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1475469569,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20010981,
+    "NHKEKECPCFM": 18157171650262120000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Ice_03",
+    "IPJBKHBOCFN": 3846383635,
+    "NLHEIBGLNIJ": "Large Cryo Slime",
+    "CNLINBDLACL": 1351860904,
+    "AHIGPPNOMDE": "An artificed Large Cryo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1219604869,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1846293423,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 36,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3586419385,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20011181,
+    "NHKEKECPCFM": 9508590509777445000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Water_03",
+    "IPJBKHBOCFN": 737137563,
+    "NLHEIBGLNIJ": "Large Hydro Slime",
+    "CNLINBDLACL": 2748788288,
+    "AHIGPPNOMDE": "An artificed Large Hydro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1770047253,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2900725543,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 37,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2783839305,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20011381,
+    "NHKEKECPCFM": 13835052415326771000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Fire_03",
+    "IPJBKHBOCFN": 4056195971,
+    "NLHEIBGLNIJ": "Large Pyro Slime",
+    "CNLINBDLACL": 745590056,
+    "AHIGPPNOMDE": "An artificed Large Pyro Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4037806253,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 522713663,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 38,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 84141817,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20011581,
+    "NHKEKECPCFM": 4174523186697174500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Slime_Rock_03",
+    "IPJBKHBOCFN": 1304540835,
+    "NLHEIBGLNIJ": "Large Geo Slime",
+    "CNLINBDLACL": 2593919048,
+    "AHIGPPNOMDE": "An artificed Large Geo Slime that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2000801613,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1372435231,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 39,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2595984089,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 80,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050281,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 516251067,
+    "NLHEIBGLNIJ": "Hydro Mimic Boar",
+    "CNLINBDLACL": 3948821144,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Boar that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 102166077,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2482992255,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 40,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3476334369,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050381,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 52052835,
+    "NLHEIBGLNIJ": "Hydro Mimic Crane",
+    "CNLINBDLACL": 3304889168,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Crane that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 786187613,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 592514375,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 41,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2735433417,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050481,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 4097005307,
+    "NLHEIBGLNIJ": "Hydro Mimic Crab",
+    "CNLINBDLACL": 1661747760,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Crab that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2138090373,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2557078255,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 42,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2611471273,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050581,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 1984834419,
+    "NLHEIBGLNIJ": "Hydro Mimic Finch",
+    "CNLINBDLACL": 2565769392,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Finch that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3655702165,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1534564207,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 43,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 566833761,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050681,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 1893040715,
+    "NLHEIBGLNIJ": "Hydro Mimic Duck",
+    "CNLINBDLACL": 4222704568,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Duck that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3924467733,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1572670135,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 44,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1675160297,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 115,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050781,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 3265007699,
+    "NLHEIBGLNIJ": "Hydro Mimic Squirrel",
+    "CNLINBDLACL": 2409934824,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Squirrel that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 393384197,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3783483519,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 45,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3055785569,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 20050881,
+    "NHKEKECPCFM": 2364552418037700600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Oceanid_Underling",
+    "IPJBKHBOCFN": 175803107,
+    "NLHEIBGLNIJ": "Hydro Mimic Frog",
+    "CNLINBDLACL": 615454928,
+    "AHIGPPNOMDE": "An artificed Hydro Mimic Frog that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3857685549,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 299826415,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 46,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 45964649,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010281,
+    "NHKEKECPCFM": 4801376129300886000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+    "IPJBKHBOCFN": 3280090739,
+    "NLHEIBGLNIJ": "Treasure Hoarder Scout",
+    "CNLINBDLACL": 199828480,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Scout who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1548492901,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 330621927,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 47,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2730456313,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010381,
+    "NHKEKECPCFM": 15384566818717640000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
+    "IPJBKHBOCFN": 398270939,
+    "NLHEIBGLNIJ": "Treasure Hoarder Pyro Potioneer",
+    "CNLINBDLACL": 4016193120,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Pyro Potioneer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3712549093,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2487525895,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 48,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3561286889,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010481,
+    "NHKEKECPCFM": 14212858318666875000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
+    "IPJBKHBOCFN": 594847275,
+    "NLHEIBGLNIJ": "Treasure Hoarder Hydro Potioneer",
+    "CNLINBDLACL": 532014904,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Hydro Potioneer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1769859501,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2275623775,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 49,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3181931041,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010581,
+    "NHKEKECPCFM": 18231455140233906000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
+    "IPJBKHBOCFN": 1866237699,
+    "NLHEIBGLNIJ": "Treasure Hoarder Electro Potioneer",
+    "CNLINBDLACL": 3815425352,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Electro Potioneer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3776882165,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3642313719,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 50,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1503557985,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010681,
+    "NHKEKECPCFM": 14956902436642628000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
+    "IPJBKHBOCFN": 1734368347,
+    "NLHEIBGLNIJ": "Treasure Hoarder Cryo Potioneer",
+    "CNLINBDLACL": 3407213280,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Cryo Potioneer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 880283141,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1316562423,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 51,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2695356857,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25010781,
+    "NHKEKECPCFM": 12704547809358844000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
+    "IPJBKHBOCFN": 1573783939,
+    "NLHEIBGLNIJ": "Treasure Hoarder Handyman",
+    "CNLINBDLACL": 3560941040,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Handyman who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3261613509,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 565945231,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 52,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4107357761,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25020281,
+    "NHKEKECPCFM": 13998163410651850000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
+    "IPJBKHBOCFN": 1460246643,
+    "NLHEIBGLNIJ": "Treasure Hoarder Marksman",
+    "CNLINBDLACL": 2052715496,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Marksman who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1516365741,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 853307343,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 53,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2321085537,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25030281,
+    "NHKEKECPCFM": 15567998980479988000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Fat_Shovel_02",
+    "IPJBKHBOCFN": 2489735995,
+    "NLHEIBGLNIJ": "Treasure Hoarder Gravedigger",
+    "CNLINBDLACL": 733122384,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Gravedigger who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2911624469,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2444486615,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 54,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 258068105,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25030381,
+    "NHKEKECPCFM": 7385368824203263000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_Male_Shovel_01",
+    "IPJBKHBOCFN": 544681203,
+    "NLHEIBGLNIJ": "Treasure Hoarder Seaman",
+    "CNLINBDLACL": 2807784360,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Seaman who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4021455189,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 286355071,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 55,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4039864937,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25060181,
+    "NHKEKECPCFM": 907014511726939600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_MuscleMan_NoWeapon_01",
+    "IPJBKHBOCFN": 111095819,
+    "NLHEIBGLNIJ": "Treasure Hoarder Pugilist",
+    "CNLINBDLACL": 3301862440,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Pugilist who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1481405117,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4189669271,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 56,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4253361217,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25070181,
+    "NHKEKECPCFM": 236320205100024500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Thoarder_MuscleMan_Hammer_01",
+    "IPJBKHBOCFN": 1150793283,
+    "NLHEIBGLNIJ": "Treasure Hoarder Crusher",
+    "CNLINBDLACL": 625431424,
+    "AHIGPPNOMDE": "An artificed Treasure Hoarder Crusher who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2953438037,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1856704935,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 57,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3782632217,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25210181,
+    "NHKEKECPCFM": 15050973809423700000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Hatchet",
+    "IPJBKHBOCFN": 1374468651,
+    "NLHEIBGLNIJ": "Eremite Axe Vanguard",
+    "CNLINBDLACL": 3908991392,
+    "AHIGPPNOMDE": "An artificed Eremite Axe Vanguard who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2636730397,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3472027303,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 58,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1119231857,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25210281,
+    "NHKEKECPCFM": 3279971871623037000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
+    "IPJBKHBOCFN": 353878755,
+    "NLHEIBGLNIJ": "Eremite Crossbow",
+    "CNLINBDLACL": 3628603056,
+    "AHIGPPNOMDE": "An artificed Eremite Crossbow who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3773104125,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 458542175,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 59,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3497240881,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25210381,
+    "NHKEKECPCFM": 10545653019031150000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
+    "IPJBKHBOCFN": 2531248427,
+    "NLHEIBGLNIJ": "Eremite Ravenbeak Halberdier",
+    "CNLINBDLACL": 1345747816,
+    "AHIGPPNOMDE": "An artificed Eremite Ravenbeak Halberdier who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 678750781,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1495296103,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 60,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3918313041,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25210481,
+    "NHKEKECPCFM": 14032036894480914000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
+    "IPJBKHBOCFN": 3564643779,
+    "NLHEIBGLNIJ": "Eremite Linebreaker",
+    "CNLINBDLACL": 2849346176,
+    "AHIGPPNOMDE": "An artificed Eremite Linebreaker who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2637115213,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 891970335,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 61,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 448231017,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H3",
+    "CPFMHDIIILE": 25210581,
+    "NHKEKECPCFM": 2011406415604608300,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
+    "IPJBKHBOCFN": 3658997995,
+    "NLHEIBGLNIJ": "Eremite Sword-Dancer",
+    "CNLINBDLACL": 3020959352,
+    "AHIGPPNOMDE": "An artificed Eremite Sword-Dancer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3682590509,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3283148823,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 62,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2893225249,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W2H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390120,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25310181,
+    "NHKEKECPCFM": 1293124663935594800,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger",
+    "IPJBKHBOCFN": 3947718451,
+    "NLHEIBGLNIJ": "Eremite Desert Clearwater",
+    "CNLINBDLACL": 4008365616,
+    "AHIGPPNOMDE": "An artificed Eremite Desert Clearwater who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1576853549,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 130901207,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 63,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 421083649,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25310281,
+    "NHKEKECPCFM": 14658197741333350000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
+    "IPJBKHBOCFN": 2011404035,
+    "NLHEIBGLNIJ": "Eremite Sunfrost",
+    "CNLINBDLACL": 1876000680,
+    "AHIGPPNOMDE": "An artificed Eremite Sunfrost who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2355960965,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2623706143,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 64,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2692699209,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25310381,
+    "NHKEKECPCFM": 2356393229973087700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Standard_Polearm",
+    "IPJBKHBOCFN": 3383085627,
+    "NLHEIBGLNIJ": "Eremite Daythunder",
+    "CNLINBDLACL": 168193152,
+    "AHIGPPNOMDE": "An artificed Eremite Daythunder who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3922816109,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 488210695,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 65,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4232010433,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25410181,
+    "NHKEKECPCFM": 14460249687550726000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
+    "IPJBKHBOCFN": 3111586835,
+    "NLHEIBGLNIJ": "Eremite Stone Enchanter",
+    "CNLINBDLACL": 3201285336,
+    "AHIGPPNOMDE": "An artificed Eremite Stone Enchanter who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4198699949,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2543387047,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 66,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3015477593,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25410281,
+    "NHKEKECPCFM": 13283320526438197000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
+    "IPJBKHBOCFN": 1888946739,
+    "NLHEIBGLNIJ": "Eremite Galehunter",
+    "CNLINBDLACL": 2635675272,
+    "AHIGPPNOMDE": "An artificed Eremite Galehunter who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 630253501,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2396073887,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 67,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1050017673,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 175,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25410381,
+    "NHKEKECPCFM": 2466651936466263000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Standard_Oracle",
+    "IPJBKHBOCFN": 3147902363,
+    "NLHEIBGLNIJ": "Eremite Scorching Loremaster",
+    "CNLINBDLACL": 864931896,
+    "AHIGPPNOMDE": "An artificed Eremite Scorching Loremaster who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4003366005,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1569635487,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 68,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3594163985,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 185,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25410481,
+    "NHKEKECPCFM": 6571850642293573000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Standard_Dancer",
+    "IPJBKHBOCFN": 2026122995,
+    "NLHEIBGLNIJ": "Eremite Floral Ring-Dancer",
+    "CNLINBDLACL": 2280285928,
+    "AHIGPPNOMDE": "An artificed Eremite Floral Ring-Dancer who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3434384645,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3945521903,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 69,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1739632249,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 185,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25080181,
+    "NHKEKECPCFM": 11430889574528140000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Ronin_01",
+    "IPJBKHBOCFN": 3669369971,
+    "NLHEIBGLNIJ": "Nobushi: Jintouban",
+    "CNLINBDLACL": 3193227856,
+    "AHIGPPNOMDE": "An artificed Nobushi: Jintouban who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1044018213,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1259036735,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 70,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4234868217,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25080281,
+    "NHKEKECPCFM": 15948531901065023000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Ronin_02",
+    "IPJBKHBOCFN": 848610203,
+    "NLHEIBGLNIJ": "Nobushi: Hitsukeban",
+    "CNLINBDLACL": 2392045488,
+    "AHIGPPNOMDE": "An artificed Nobushi Hitsukeban who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2774851245,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3943219375,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 71,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2736626289,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25080381,
+    "NHKEKECPCFM": 11430889574528140000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Ronin_01",
+    "IPJBKHBOCFN": 908226131,
+    "NLHEIBGLNIJ": "Nobushi: Kikouban",
+    "CNLINBDLACL": 3837950584,
+    "AHIGPPNOMDE": "An artificed Nobushi: Kikouban who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 117764253,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3457755983,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 72,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1180108417,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100181,
+    "NHKEKECPCFM": 9517959067198820000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "IPJBKHBOCFN": 3582556411,
+    "NLHEIBGLNIJ": "Kairagi: Dancing Thunder",
+    "CNLINBDLACL": 2334790208,
+    "AHIGPPNOMDE": "An artificed Kairagi: Dancing Thunder who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 213419493,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3883170663,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 73,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1243063937,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100281,
+    "NHKEKECPCFM": 13053903818135185000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "IPJBKHBOCFN": 1835515755,
+    "NLHEIBGLNIJ": "Kairagi: Fiery Might",
+    "CNLINBDLACL": 2844242880,
+    "AHIGPPNOMDE": "An artificed Kairagi: Fiery Might who looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 498396213,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1014509327,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 74,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3108834945,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060181,
+    "NHKEKECPCFM": 9470504767175608000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Water_01",
+    "IPJBKHBOCFN": 1781068115,
+    "NLHEIBGLNIJ": "Hydro Specter",
+    "CNLINBDLACL": 1467908536,
+    "AHIGPPNOMDE": "An artificed Hydro Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 127834869,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1915838407,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 75,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1494500833,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 65,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060281,
+    "NHKEKECPCFM": 12628933079389395000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Rock_01",
+    "IPJBKHBOCFN": 2224818979,
+    "NLHEIBGLNIJ": "Geo Specter",
+    "CNLINBDLACL": 941143672,
+    "AHIGPPNOMDE": "An artificed Geo Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 192127717,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3929681255,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 76,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 325088961,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 65,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060381,
+    "NHKEKECPCFM": 16921735305858157000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Wind_01",
+    "IPJBKHBOCFN": 3338190083,
+    "NLHEIBGLNIJ": "Anemo Specter",
+    "CNLINBDLACL": 3264346248,
+    "AHIGPPNOMDE": "An artificed Anemo Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1284080501,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 453652951,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 77,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 651164361,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 60,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060481,
+    "NHKEKECPCFM": 10452294768666474000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Ice_01",
+    "IPJBKHBOCFN": 3035369843,
+    "NLHEIBGLNIJ": "Cryo Specter",
+    "CNLINBDLACL": 1032682936,
+    "AHIGPPNOMDE": "An artificed Cryo Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2741962989,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2787726047,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 78,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3926309481,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060581,
+    "NHKEKECPCFM": 2562970796199596000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Electric_01",
+    "IPJBKHBOCFN": 4195071139,
+    "NLHEIBGLNIJ": "Electro Specter",
+    "CNLINBDLACL": 1934013576,
+    "AHIGPPNOMDE": "An artificed Electro Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4202067965,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3030956199,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 79,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3306311057,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060681,
+    "NHKEKECPCFM": 7271600925458254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Fire_01",
+    "IPJBKHBOCFN": 4262555083,
+    "NLHEIBGLNIJ": "Pyro Specter",
+    "CNLINBDLACL": 4125198504,
+    "AHIGPPNOMDE": "An artificed Pyro Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3176170965,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1543052575,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 80,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2216948801,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 85,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 20060781,
+    "NHKEKECPCFM": 10766608186935257000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Sylph_Grass_01",
+    "IPJBKHBOCFN": 1315232155,
+    "NLHEIBGLNIJ": "Dendro Specter",
+    "CNLINBDLACL": 389390328,
+    "AHIGPPNOMDE": "An artificed Dendro Specter that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4082420325,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3787011439,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 81,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2691718073,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090181,
+    "NHKEKECPCFM": 11088734519814103000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
+    "IPJBKHBOCFN": 1776193043,
+    "NLHEIBGLNIJ": "Floating Hydro Fungus",
+    "CNLINBDLACL": 3924934896,
+    "AHIGPPNOMDE": "An artificed Floating Hydro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1204673093,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3263263527,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 82,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2717089729,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090281,
+    "NHKEKECPCFM": 11208182925226312000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
+    "IPJBKHBOCFN": 2489079803,
+    "NLHEIBGLNIJ": "Floating Dendro Fungus",
+    "CNLINBDLACL": 2843855104,
+    "AHIGPPNOMDE": "An artificed Floating Dendro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2741138909,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 591241655,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 83,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2476025577,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090381,
+    "NHKEKECPCFM": 18234305613483696000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
+    "IPJBKHBOCFN": 1048544339,
+    "NLHEIBGLNIJ": "Floating Anemo Fungus",
+    "CNLINBDLACL": 23200912,
+    "AHIGPPNOMDE": "An artificed Floating Anemo Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1129876813,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3743792191,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 84,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 665604913,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090481,
+    "NHKEKECPCFM": 18214955580330215000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
+    "IPJBKHBOCFN": 1665272507,
+    "NLHEIBGLNIJ": "Whirling Electro Fungus",
+    "CNLINBDLACL": 3386458152,
+    "AHIGPPNOMDE": "An artificed Whirling Electro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1952551485,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2995807975,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 85,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1105235297,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090581,
+    "NHKEKECPCFM": 14698117894144668000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
+    "IPJBKHBOCFN": 3531250067,
+    "NLHEIBGLNIJ": "Whirling Cryo Fungus",
+    "CNLINBDLACL": 1941339080,
+    "AHIGPPNOMDE": "An artificed Whirling Cryo Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1478044389,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 147752239,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 86,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3095866329,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090681,
+    "NHKEKECPCFM": 834918250693940500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
+    "IPJBKHBOCFN": 1225842747,
+    "NLHEIBGLNIJ": "Whirling Pyro Fungus",
+    "CNLINBDLACL": 2494842488,
+    "AHIGPPNOMDE": "An artificed Whirling Pyro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 745769141,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1150428455,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 87,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1257058657,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090781,
+    "NHKEKECPCFM": 15759261657187609000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
+    "IPJBKHBOCFN": 2697986051,
+    "NLHEIBGLNIJ": "Stretchy Pyro Fungus",
+    "CNLINBDLACL": 2455127424,
+    "AHIGPPNOMDE": "An artificed Stretchy Pyro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3631228085,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3754929991,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 88,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1307285593,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090881,
+    "NHKEKECPCFM": 677308801237376100,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
+    "IPJBKHBOCFN": 4155937291,
+    "NLHEIBGLNIJ": "Stretchy Anemo Fungus",
+    "CNLINBDLACL": 1610804472,
+    "AHIGPPNOMDE": "An artificed Stretchy Anemo Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1326005469,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 815434431,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 89,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 886416185,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26090981,
+    "NHKEKECPCFM": 6079968542191180000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
+    "IPJBKHBOCFN": 3329840995,
+    "NLHEIBGLNIJ": "Stretchy Geo Fungus",
+    "CNLINBDLACL": 915738320,
+    "AHIGPPNOMDE": "An artificed Stretchy Geo Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2119908717,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2963764943,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 90,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1075288425,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W2H2",
+    "CPFMHDIIILE": 26091081,
+    "NHKEKECPCFM": 15432684569743473000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
+    "IPJBKHBOCFN": 3974866563,
+    "NLHEIBGLNIJ": "Stretchy Electro Fungus",
+    "CNLINBDLACL": 2067076968,
+    "AHIGPPNOMDE": "An artificed Stretchy Electro Fungus that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1243655693,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2841977151,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 91,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3765350865,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390114,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 26120181,
+    "NHKEKECPCFM": 3933999651760457000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass",
+    "IPJBKHBOCFN": 3962220755,
+    "NLHEIBGLNIJ": "Winged Dendroshroom",
+    "CNLINBDLACL": 3987832360,
+    "AHIGPPNOMDE": "An artificed Winged Dendroshroom that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1187070429,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3683000319,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 92,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2682556937,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 26120281,
+    "NHKEKECPCFM": 14889119093701837000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
+    "IPJBKHBOCFN": 3095856179,
+    "NLHEIBGLNIJ": "Winged Cryoshroom",
+    "CNLINBDLACL": 900794392,
+    "AHIGPPNOMDE": "An artificed Winged Cryoshroom that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1295569029,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3388482279,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 93,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3278826201,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 26120381,
+    "NHKEKECPCFM": 4205769530437902000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
+    "IPJBKHBOCFN": 2894450971,
+    "NLHEIBGLNIJ": "Grounded Hydroshroom",
+    "CNLINBDLACL": 3384391296,
+    "AHIGPPNOMDE": "An artificed Grounded Hydroshroom that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1838780109,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3547789551,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 94,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4152211465,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 26120481,
+    "NHKEKECPCFM": 7114665366813890000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
+    "IPJBKHBOCFN": 3725072443,
+    "NLHEIBGLNIJ": "Grounded Geoshroom",
+    "CNLINBDLACL": 2413689944,
+    "AHIGPPNOMDE": "An artificed Grounded Geoshroom that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2336466997,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4223604951,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 95,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1356173185,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24010181,
+    "NHKEKECPCFM": 18108226935608033000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Defender_Noner_01",
+    "IPJBKHBOCFN": 1672862371,
+    "NLHEIBGLNIJ": "Ruin Guard",
+    "CNLINBDLACL": 2966858376,
+    "AHIGPPNOMDE": "An artificed Ruin Guard that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2072872781,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 876407847,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 96,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1983599617,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkill10W10H10",
+    "CPFMHDIIILE": 24010381,
+    "NHKEKECPCFM": 15356442305747517000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Konungmathr",
+    "IPJBKHBOCFN": 2378097619,
+    "NLHEIBGLNIJ": "Ruin Grader",
+    "CNLINBDLACL": 778167944,
+    "AHIGPPNOMDE": "An artificed Ruin Grader that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 534764637,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1099062871,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 97,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2801615825,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL7W7H8",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390007,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24020181,
+    "NHKEKECPCFM": 12381762887365850000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
+    "IPJBKHBOCFN": 3633538851,
+    "NLHEIBGLNIJ": "Ruin Cruiser",
+    "CNLINBDLACL": 3579721840,
+    "AHIGPPNOMDE": "An artificed Ruin Cruiser that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1765408077,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1303592639,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 99,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3293692033,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24020281,
+    "NHKEKECPCFM": 11901733448189037000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora",
+    "IPJBKHBOCFN": 2314239563,
+    "NLHEIBGLNIJ": "Ruin Destroyer",
+    "CNLINBDLACL": 802717296,
+    "AHIGPPNOMDE": "An artificed Ruin Destroyer that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 644683637,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4089485247,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 100,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 856568961,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24020381,
+    "NHKEKECPCFM": 14202222367124058000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta",
+    "IPJBKHBOCFN": 2420389499,
+    "NLHEIBGLNIJ": "Ruin Defender",
+    "CNLINBDLACL": 369782280,
+    "AHIGPPNOMDE": "An artificed Ruin Defender that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3192803437,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2011838367,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 101,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1698420729,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 115,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24020481,
+    "NHKEKECPCFM": 17113724334473030000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
+    "IPJBKHBOCFN": 4203511683,
+    "NLHEIBGLNIJ": "Ruin Scout",
+    "CNLINBDLACL": 263627704,
+    "AHIGPPNOMDE": "An artificed Ruin Scout that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1294537013,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1337661655,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 102,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3120914409,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 110,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkill10W10H10",
+    "CPFMHDIIILE": 24030181,
+    "NHKEKECPCFM": 4402599653072021500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Gargoyle",
+    "IPJBKHBOCFN": 3993808771,
+    "NLHEIBGLNIJ": "Ruin Drake: Skywatch",
+    "CNLINBDLACL": 1820195200,
+    "AHIGPPNOMDE": "An artificed Ruin Drake: Skywatch that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 700474317,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4043555215,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 103,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4006215737,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 170,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL7W7H8",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390007,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkill10W10H10",
+    "CPFMHDIIILE": 24030281,
+    "NHKEKECPCFM": 4402599653072021500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Gargoyle",
+    "IPJBKHBOCFN": 2397715467,
+    "NLHEIBGLNIJ": "Ruin Drake: Earthguard",
+    "CNLINBDLACL": 1687304352,
+    "AHIGPPNOMDE": "An artificed Ruin Drake: Earthguard that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3216139941,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1811341983,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 104,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 475432953,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 125,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL7W7H8",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390007,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 24040181,
+    "NHKEKECPCFM": 7015420246966299000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Monolith_Ordinator",
+    "IPJBKHBOCFN": 68713963,
+    "NLHEIBGLNIJ": "Primal Construct: Repulsor",
+    "CNLINBDLACL": 1145109888,
+    "AHIGPPNOMDE": "An artificed Primal Construct: Repulsor that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3367963021,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3586363583,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 105,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 18475209,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 115,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 24040281,
+    "NHKEKECPCFM": 7015420246966299000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Monolith_Ordinator",
+    "IPJBKHBOCFN": 1881738595,
+    "NLHEIBGLNIJ": "Primal Construct: Reshaper",
+    "CNLINBDLACL": 3044840392,
+    "AHIGPPNOMDE": "An artificed Primal Construct: Reshaper that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1092225765,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3682674471,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 106,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3055599609,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 130,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 24040381,
+    "NHKEKECPCFM": 7015420246966299000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Monolith_Ordinator",
+    "IPJBKHBOCFN": 555107131,
+    "NLHEIBGLNIJ": "Primal Construct: Prospector",
+    "CNLINBDLACL": 107599816,
+    "AHIGPPNOMDE": "An artificed Primal Construct: Prospector that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2862937421,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2752583511,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 107,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3578051241,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 130,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26030181,
+    "NHKEKECPCFM": 4273887253818100000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Wyrm_Rock",
+    "IPJBKHBOCFN": 77364619,
+    "NLHEIBGLNIJ": "Geovishap Hatchling",
+    "CNLINBDLACL": 134217240,
+    "AHIGPPNOMDE": "An artificed Geovishap Hatchling that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2100810589,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 508866879,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 108,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2452783849,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 125,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040181,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 1426990323,
+    "NLHEIBGLNIJ": "Geovishap: Hydro",
+    "CNLINBDLACL": 3331198352,
+    "AHIGPPNOMDE": "An artificed Geovishap: Hydro that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2357578477,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2551944215,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 109,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2545571209,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 165,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040182,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 3064569067,
+    "NLHEIBGLNIJ": "Geovishap: Pyro",
+    "CNLINBDLACL": 2563445280,
+    "AHIGPPNOMDE": "An artificed Geovishap: Pyro that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1241377261,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 670600503,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 110,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2835714785,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 165,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040183,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 589125699,
+    "NLHEIBGLNIJ": "Geovishap: Cryo",
+    "CNLINBDLACL": 424143304,
+    "AHIGPPNOMDE": "An artificed Geovishap: Cryo that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1699975829,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1337686799,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 111,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2166713057,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 175,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040184,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 2361756699,
+    "NLHEIBGLNIJ": "Geovishap: Electro",
+    "CNLINBDLACL": 3851887008,
+    "AHIGPPNOMDE": "An artificed Geovishap: Electro that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 753907445,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2438640175,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 112,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3792909329,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 175,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26050681,
+    "NHKEKECPCFM": 16288767109749561000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Water",
+    "IPJBKHBOCFN": 502784155,
+    "NLHEIBGLNIJ": "Primordial Bathysmal Vishap",
+    "CNLINBDLACL": 2476913840,
+    "AHIGPPNOMDE": "An artificed Primordial Bathysmal Vishap that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 3464591141,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 771009527,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 113,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2643818369,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 155,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26051081,
+    "NHKEKECPCFM": 11758734786294120000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Ice",
+    "IPJBKHBOCFN": 3098358411,
+    "NLHEIBGLNIJ": "Rimebiter Bathysmal Vishap",
+    "CNLINBDLACL": 3981628136,
+    "AHIGPPNOMDE": "An artificed Rimebiter Bathysmal Vishap that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1304800853,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 3916913335,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 114,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 4007099529,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 155,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26051181,
+    "NHKEKECPCFM": 334980275748738600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "IPJBKHBOCFN": 2749879603,
+    "NLHEIBGLNIJ": "Bolteater Bathysmal Vishap",
+    "CNLINBDLACL": 4203385968,
+    "AHIGPPNOMDE": "An artificed Bolteater Bathysmal Vishap that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 4268766269,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 2390526863,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 115,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1640073593,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 140,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL50W50H15",
+    "CPFMHDIIILE": 26020181,
+    "NHKEKECPCFM": 13587622431899345000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Regisvine_Ice",
+    "IPJBKHBOCFN": 3943837803,
+    "NLHEIBGLNIJ": "Cryo Regisvine",
+    "CNLINBDLACL": 2461888936,
+    "AHIGPPNOMDE": "An artificed Cryo Regisvine that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 968184437,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 608715687,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 16
+      },
+      {
+        "IBEFMAGEHEI": 17
+      },
+      {
+        "IBEFMAGEHEI": 18
+      },
+      {
+        "IBEFMAGEHEI": 19
+      },
+      {
+        "IBEFMAGEHEI": 20
+      }
+    ],
+    "PGKNKBKHCHM": 116,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3131493913,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 550,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL50W50H15",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390128,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL50W50H15",
+    "CPFMHDIIILE": 26020281,
+    "NHKEKECPCFM": 12814121281824119000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Regisvine_Fire",
+    "IPJBKHBOCFN": 32508931,
+    "NLHEIBGLNIJ": "Pyro Regisvine",
+    "CNLINBDLACL": 3110505128,
+    "AHIGPPNOMDE": "An artificed Pyro Regisvine that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 517511757,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1681485231,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 16
+      },
+      {
+        "IBEFMAGEHEI": 17
+      },
+      {
+        "IBEFMAGEHEI": 18
+      },
+      {
+        "IBEFMAGEHEI": 19
+      },
+      {
+        "IBEFMAGEHEI": 20
+      }
+    ],
+    "PGKNKBKHCHM": 117,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3422460017,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 550,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL50W50H15",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390128,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL50W50H15",
+    "CPFMHDIIILE": 26020381,
+    "NHKEKECPCFM": 11933610108671880000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Regisvine_Electric",
+    "IPJBKHBOCFN": 3116827763,
+    "NLHEIBGLNIJ": "Electro Regisvine",
+    "CNLINBDLACL": 2547292696,
+    "AHIGPPNOMDE": "An artificed Electro Regisvine that looks much the same as those normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2198579389,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 691993295,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 16
+      },
+      {
+        "IBEFMAGEHEI": 17
+      },
+      {
+        "IBEFMAGEHEI": 18
+      },
+      {
+        "IBEFMAGEHEI": 19
+      },
+      {
+        "IBEFMAGEHEI": 20
+      }
+    ],
+    "PGKNKBKHCHM": 118,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2154709425,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 550,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL50W50H15",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390128,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL50W50H15",
+    "CPFMHDIIILE": 26110181,
+    "NHKEKECPCFM": 9797592762177386000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Raptor",
+    "IPJBKHBOCFN": 3143706963,
+    "NLHEIBGLNIJ": "Jadeplume Terrorshroom",
+    "CNLINBDLACL": 1132600792,
+    "AHIGPPNOMDE": "An artificed Jadeplume Terrorshroom that looks much the same as the one normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 2692607845,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 4062345839,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 16
+      },
+      {
+        "IBEFMAGEHEI": 17
+      },
+      {
+        "IBEFMAGEHEI": 18
+      },
+      {
+        "IBEFMAGEHEI": 19
+      },
+      {
+        "IBEFMAGEHEI": 20
+      }
+    ],
+    "PGKNKBKHCHM": 121,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3985553433,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 550,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL50W50H15",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390128,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL50W50H15",
+    "CPFMHDIIILE": 20040181,
+    "NHKEKECPCFM": 10685065680451072000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Effigy_Electric",
+    "IPJBKHBOCFN": 2534067803,
+    "NLHEIBGLNIJ": "Electro Hypostasis",
+    "CNLINBDLACL": 3515465616,
+    "AHIGPPNOMDE": "An artificed Electro Hypostasis that looks much the same as the one normally encountered...",
+    "HACHOMIOFOB": false,
+    "OHKJGGEANMI": 0,
+    "JCCOCANDPBO": 1158313029,
+    "PCAIMNHNLJI": "",
+    "MEEOFMIMDAM": 1442392519,
+    "NJKGHJNLKHL": "",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 16
+      },
+      {
+        "IBEFMAGEHEI": 17
+      },
+      {
+        "IBEFMAGEHEI": 18
+      },
+      {
+        "IBEFMAGEHEI": 19
+      },
+      {
+        "IBEFMAGEHEI": 20
+      }
+    ],
+    "PGKNKBKHCHM": 122,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 593486865,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 550,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL50W50H15",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390128,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010482,
+    "NHKEKECPCFM": 5282436255200934000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_None_01",
+    "IPJBKHBOCFN": 2465337387,
+    "NLHEIBGLNIJ": "Hilichurl Shooter",
+    "CNLINBDLACL": 3965088512,
+    "AHIGPPNOMDE": "An artificed Hilichurl Shooter. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 3908681405,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 2838778879,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 500,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 147385377,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010582,
+    "NHKEKECPCFM": 1252389542913438000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Fire_Range",
+    "IPJBKHBOCFN": 2736584163,
+    "NLHEIBGLNIJ": "Pyro Hilichurl Shooter",
+    "CNLINBDLACL": 1388320568,
+    "AHIGPPNOMDE": "An artificed Pyro Hilichurl Shooter. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 804632669,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 3496008687,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 501,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1917927665,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21010982,
+    "NHKEKECPCFM": 3500639387097266700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Ice_Range",
+    "IPJBKHBOCFN": 2176196395,
+    "NLHEIBGLNIJ": "Cryo Hilichurl Shooter",
+    "CNLINBDLACL": 693211248,
+    "AHIGPPNOMDE": "An artificed Cryo Hilichurl Shooter. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 333389349,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 1876530375,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 502,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1675139297,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21011082,
+    "NHKEKECPCFM": 2710779454982116000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Hili_Electric_Range",
+    "IPJBKHBOCFN": 995490555,
+    "NLHEIBGLNIJ": "Electro Hilichurl Shooter",
+    "CNLINBDLACL": 4116055080,
+    "AHIGPPNOMDE": "An artificed Electro Hilichurl Shooter. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 2834307709,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 272580871,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 503,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3906731281,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 50,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030282,
+    "NHKEKECPCFM": 17345693458545486000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Grass_01",
+    "IPJBKHBOCFN": 2153020635,
+    "NLHEIBGLNIJ": "Dendro Samachurl",
+    "CNLINBDLACL": 2282994920,
+    "AHIGPPNOMDE": "An artificed Dendro Samachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 1678178197,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 2320729775,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 510,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 776752017,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 125,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030382,
+    "NHKEKECPCFM": 86397847291692030,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Wind_01",
+    "IPJBKHBOCFN": 2916100611,
+    "NLHEIBGLNIJ": "Anemo Samachurl",
+    "CNLINBDLACL": 825608280,
+    "AHIGPPNOMDE": "An artificed Anemo Samachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 11778383415339290000,
+    "JCCOCANDPBO": 2503521037,
+    "PCAIMNHNLJI": "Enraged",
+    "MEEOFMIMDAM": 1580143439,
+    "NJKGHJNLKHL": "The will of this opponent to fight is vastly increased and all of its attacks are stronger.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 511,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1583412377,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030383,
+    "NHKEKECPCFM": 86397847291692030,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Wind_01",
+    "IPJBKHBOCFN": 3854221099,
+    "NLHEIBGLNIJ": "Anemo Samachurl",
+    "CNLINBDLACL": 2289655672,
+    "AHIGPPNOMDE": "An artificed Anemo Samachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4218492662766314500,
+    "JCCOCANDPBO": 2382508621,
+    "PCAIMNHNLJI": "Cyclone",
+    "MEEOFMIMDAM": 2758750391,
+    "NJKGHJNLKHL": "Periodically creates a Cyclone in the area. The Cyclone will constantly pull nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 512,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1602561569,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL1W1H2",
+    "CPFMHDIIILE": 21030582,
+    "NHKEKECPCFM": 9738020503291998000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Shaman_Ice_01",
+    "IPJBKHBOCFN": 820012411,
+    "NLHEIBGLNIJ": "Cryo Samachurl",
+    "CNLINBDLACL": 269210040,
+    "AHIGPPNOMDE": "An artificed Cryo Samachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 15367638590982304000,
+    "JCCOCANDPBO": 965139533,
+    "PCAIMNHNLJI": "Glacial Prison",
+    "MEEOFMIMDAM": 2633913087,
+    "NJKGHJNLKHL": "Periodically creates an Icy Prison that temporarily imprisons the character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 1
+      },
+      {
+        "IBEFMAGEHEI": 2
+      },
+      {
+        "IBEFMAGEHEI": 3
+      },
+      {
+        "IBEFMAGEHEI": 4
+      },
+      {
+        "IBEFMAGEHEI": 5
+      }
+    ],
+    "PGKNKBKHCHM": 513,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1396883705,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 105,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL1W1H2",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390115,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020282,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 4053193899,
+    "NLHEIBGLNIJ": "Blazing Axe Mitachurl",
+    "CNLINBDLACL": 1134969400,
+    "AHIGPPNOMDE": "An artificed Blazing Axe Mitachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 10420341042216788000,
+    "JCCOCANDPBO": 1516339677,
+    "PCAIMNHNLJI": "Explosive Fireblast",
+    "MEEOFMIMDAM": 1504616215,
+    "NJKGHJNLKHL": "Periodically creates an Explosive Fire Ball that homes in on nearby characters, dealing Pyro DMG upon hit.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 520,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3719229225,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 95,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL2W4H3",
+    "CPFMHDIIILE": 21020782,
+    "NHKEKECPCFM": 4841569817401254000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_None_01",
+    "IPJBKHBOCFN": 310433563,
+    "NLHEIBGLNIJ": "Crackling Axe Mitachurl",
+    "CNLINBDLACL": 1956695024,
+    "AHIGPPNOMDE": "An artificed Crackling Axe Mitachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4479841102953302000,
+    "JCCOCANDPBO": 3672457013,
+    "PCAIMNHNLJI": "Lightning Gaol",
+    "MEEOFMIMDAM": 2700882439,
+    "NJKGHJNLKHL": "Periodically creates a Lightning Gaol that constantly deals Electro DMG to nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 521,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1173538161,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 95,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL2W4H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390117,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 21020482,
+    "NHKEKECPCFM": 904226632227649500,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_Ice_01",
+    "IPJBKHBOCFN": 572088315,
+    "NLHEIBGLNIJ": "Frostarm Lawachurl",
+    "CNLINBDLACL": 480101688,
+    "AHIGPPNOMDE": "An artificed Frostarm Lawachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 15367638590982304000,
+    "JCCOCANDPBO": 1453942373,
+    "PCAIMNHNLJI": "Glacial Prison",
+    "MEEOFMIMDAM": 668092631,
+    "NJKGHJNLKHL": "Periodically creates an Icy Prison that temporarily imprisons the character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 530,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3486737481,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 21020882,
+    "NHKEKECPCFM": 15684238034909413000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Brute_Electric_01",
+    "IPJBKHBOCFN": 2517741331,
+    "NLHEIBGLNIJ": "Thunderhelm Lawachurl",
+    "CNLINBDLACL": 26514584,
+    "AHIGPPNOMDE": "An artificed Thunderhelm Lawachurl. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4479841102953302000,
+    "JCCOCANDPBO": 2210161589,
+    "PCAIMNHNLJI": "Lightning Gaol",
+    "MEEOFMIMDAM": 1130039455,
+    "NJKGHJNLKHL": "Periodically creates a Lightning Gaol that constantly deals Electro DMG to nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 531,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2353238273,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25310182,
+    "NHKEKECPCFM": 1293124663935594800,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger",
+    "IPJBKHBOCFN": 3468915275,
+    "NLHEIBGLNIJ": "Eremite Desert Clearwater",
+    "CNLINBDLACL": 2055432232,
+    "AHIGPPNOMDE": "An artificed Eremite Desert Clearwater. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 14913609160219953000,
+    "JCCOCANDPBO": 1873870141,
+    "PCAIMNHNLJI": "Viscous Bubble",
+    "MEEOFMIMDAM": 2648980159,
+    "NJKGHJNLKHL": "Periodically creates a Bubble that temporarily traps character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 540,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3092940377,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 105,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25310382,
+    "NHKEKECPCFM": 2356393229973087700,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Male_Standard_Polearm",
+    "IPJBKHBOCFN": 2143571171,
+    "NLHEIBGLNIJ": "Eremite Daythunder",
+    "CNLINBDLACL": 3306226576,
+    "AHIGPPNOMDE": "An artificed Eremite Daythunder. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4479841102953302000,
+    "JCCOCANDPBO": 2302642565,
+    "PCAIMNHNLJI": "Lightning Gaol",
+    "MEEOFMIMDAM": 3587353111,
+    "NJKGHJNLKHL": "Periodically creates a Lightning Gaol that constantly deals Electro DMG to nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 541,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 872145185,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25410282,
+    "NHKEKECPCFM": 13283320526438197000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
+    "IPJBKHBOCFN": 4040642907,
+    "NLHEIBGLNIJ": "Eremite Galehunter",
+    "CNLINBDLACL": 804181448,
+    "AHIGPPNOMDE": "An artificed Eremite Galehunter. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4218492662766314500,
+    "JCCOCANDPBO": 570010685,
+    "PCAIMNHNLJI": "Cyclone",
+    "MEEOFMIMDAM": 3760857303,
+    "NJKGHJNLKHL": "Periodically creates a Cyclone in the area. The Cyclone will constantly pull nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 542,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3845327561,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 185,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100182,
+    "NHKEKECPCFM": 9517959067198820000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "IPJBKHBOCFN": 2461798971,
+    "NLHEIBGLNIJ": "Kairagi: Dancing Thunder",
+    "CNLINBDLACL": 3837146304,
+    "AHIGPPNOMDE": "An artificed Kairagi: Dancing Thunder. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4479841102953302000,
+    "JCCOCANDPBO": 3468010653,
+    "PCAIMNHNLJI": "Lightning Gaol",
+    "MEEOFMIMDAM": 1739373575,
+    "NJKGHJNLKHL": "Periodically creates a Lightning Gaol that constantly deals Electro DMG to nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 550,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 156593145,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100282,
+    "NHKEKECPCFM": 13053903818135185000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "IPJBKHBOCFN": 3616512451,
+    "NLHEIBGLNIJ": "Kairagi: Fiery Might",
+    "CNLINBDLACL": 2982215264,
+    "AHIGPPNOMDE": "An artificed Kairagi: Fiery Might. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 10420341042216788000,
+    "JCCOCANDPBO": 580111901,
+    "PCAIMNHNLJI": "Explosive Fireblast",
+    "MEEOFMIMDAM": 1625891839,
+    "NJKGHJNLKHL": "Periodically creates an Explosive Fire Ball that homes in on nearby characters, dealing Pyro DMG upon hit.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 551,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 46703625,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 125,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100183,
+    "NHKEKECPCFM": 9517959067198820000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "IPJBKHBOCFN": 3919075707,
+    "NLHEIBGLNIJ": "Kairagi: Dancing Thunder",
+    "CNLINBDLACL": 2081377472,
+    "AHIGPPNOMDE": "An artificed Kairagi: Dancing Thunder. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 478951749,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 248925703,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 552,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1852190409,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 120,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 25100283,
+    "NHKEKECPCFM": 13053903818135185000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "IPJBKHBOCFN": 2849712883,
+    "NLHEIBGLNIJ": "Kairagi: Fiery Might",
+    "CNLINBDLACL": 1994268848,
+    "AHIGPPNOMDE": "An artificed Kairagi: Fiery Might. Be extra cautious when fighting them!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 3555205061,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 1819815951,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 553,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3935598065,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 125,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL3W3H3",
+    "CPFMHDIIILE": 26120382,
+    "NHKEKECPCFM": 4205769530437902000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
+    "IPJBKHBOCFN": 3472417731,
+    "NLHEIBGLNIJ": "Grounded Hydroshroom",
+    "CNLINBDLACL": 1476079504,
+    "AHIGPPNOMDE": "An artificed Grounded Hydroshroom. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 14913609160219953000,
+    "JCCOCANDPBO": 1838475989,
+    "PCAIMNHNLJI": "Viscous Bubble",
+    "MEEOFMIMDAM": 3667519199,
+    "NJKGHJNLKHL": "Periodically creates a Bubble that temporarily traps character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 6
+      },
+      {
+        "IBEFMAGEHEI": 7
+      },
+      {
+        "IBEFMAGEHEI": 8
+      },
+      {
+        "IBEFMAGEHEI": 9
+      },
+      {
+        "IBEFMAGEHEI": 10
+      }
+    ],
+    "PGKNKBKHCHM": 560,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1793407409,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 90,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL3W3H3",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390119,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W5H5",
+    "CPFMHDIIILE": 24010182,
+    "NHKEKECPCFM": 18108226935608033000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Defender_Noner_01",
+    "IPJBKHBOCFN": 2672617651,
+    "NLHEIBGLNIJ": "Ruin Guard",
+    "CNLINBDLACL": 3715352232,
+    "AHIGPPNOMDE": "An artificed Ruin Guard. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 164201917,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 2160312639,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 570,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 173743297,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 100,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W5H5",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390118,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkill10W10H10",
+    "CPFMHDIIILE": 24010382,
+    "NHKEKECPCFM": 15356442305747517000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Konungmathr",
+    "IPJBKHBOCFN": 3149868859,
+    "NLHEIBGLNIJ": "Ruin Grader",
+    "CNLINBDLACL": 4001479496,
+    "AHIGPPNOMDE": "An artificed Ruin Grader. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 107473805,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 525783215,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 571,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 2423379857,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 180,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL7W7H8",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390007,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26050682,
+    "NHKEKECPCFM": 16288767109749561000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Water",
+    "IPJBKHBOCFN": 2948887307,
+    "NLHEIBGLNIJ": "Primordial Bathysmal Vishap",
+    "CNLINBDLACL": 2380493280,
+    "AHIGPPNOMDE": "An artificed Primordial Bathysmal Vishap. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 14913609160219953000,
+    "JCCOCANDPBO": 365344597,
+    "PCAIMNHNLJI": "Viscous Bubble",
+    "MEEOFMIMDAM": 4068109143,
+    "NJKGHJNLKHL": "Periodically creates a Bubble that temporarily traps character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 580,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 848753929,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 155,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26051082,
+    "NHKEKECPCFM": 11758734786294120000,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Ice",
+    "IPJBKHBOCFN": 3875148699,
+    "NLHEIBGLNIJ": "Rimebiter Bathysmal Vishap",
+    "CNLINBDLACL": 1175844576,
+    "AHIGPPNOMDE": "An artificed Rimebiter Bathysmal Vishap. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 15367638590982304000,
+    "JCCOCANDPBO": 1302927757,
+    "PCAIMNHNLJI": "Glacial Prison",
+    "MEEOFMIMDAM": 2982784831,
+    "NJKGHJNLKHL": "Periodically creates an Icy Prison that temporarily imprisons the character that touches it.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 581,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 686163001,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 155,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26051182,
+    "NHKEKECPCFM": 334980275748738600,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "IPJBKHBOCFN": 639624619,
+    "NLHEIBGLNIJ": "Bolteater Bathysmal Vishap",
+    "CNLINBDLACL": 3225729448,
+    "AHIGPPNOMDE": "An artificed Bolteater Bathysmal Vishap. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 4479841102953302000,
+    "JCCOCANDPBO": 2473204389,
+    "PCAIMNHNLJI": "Lightning Gaol",
+    "MEEOFMIMDAM": 3284435879,
+    "NJKGHJNLKHL": "Periodically creates a Lightning Gaol that constantly deals Electro DMG to nearby characters while it persists.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 582,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 255585577,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 140,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040185,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 2840695811,
+    "NLHEIBGLNIJ": "Geovishap: Hydro",
+    "CNLINBDLACL": 1963866536,
+    "AHIGPPNOMDE": "An artificed Geovishap: Hydro. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 1894045701,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 3727998999,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 590,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 856660793,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 165,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040186,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 3779397723,
+    "NLHEIBGLNIJ": "Geovishap: Pyro",
+    "CNLINBDLACL": 3857106328,
+    "AHIGPPNOMDE": "An artificed Geovishap: Pyro. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 1996417861,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 3742724503,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 591,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 3908428929,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 165,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040187,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 1912489147,
+    "NLHEIBGLNIJ": "Geovishap: Cryo",
+    "CNLINBDLACL": 1235165560,
+    "AHIGPPNOMDE": "An artificed Geovishap: Cryo. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 65315661,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 2953331015,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 592,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1062468193,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 175,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  },
+  {
+    "ECLICCDFLJF": "MonsterSkillL5W10H10",
+    "CPFMHDIIILE": 26040188,
+    "NHKEKECPCFM": 1147133571493953200,
+    "JCLLOAOELEH": "UI_MonsterIcon_Drake_Rock",
+    "IPJBKHBOCFN": 1172397371,
+    "NLHEIBGLNIJ": "Geovishap: Electro",
+    "CNLINBDLACL": 2950724888,
+    "AHIGPPNOMDE": "An artificed Geovishap: Electro. Be extra cautious when fighting it!",
+    "HACHOMIOFOB": true,
+    "OHKJGGEANMI": 16553314552291903000,
+    "JCCOCANDPBO": 4070620357,
+    "PCAIMNHNLJI": "Rally",
+    "MEEOFMIMDAM": 1301802751,
+    "NJKGHJNLKHL": "When an opponent's HP falls too low, restores a certain amount of HP for the opponent. This effect can be triggered only once for each opponent.",
+    "ELPNGFECCND": [
+      {
+        "IBEFMAGEHEI": 11
+      },
+      {
+        "IBEFMAGEHEI": 12
+      },
+      {
+        "IBEFMAGEHEI": 13
+      },
+      {
+        "IBEFMAGEHEI": 14
+      },
+      {
+        "IBEFMAGEHEI": 15
+      }
+    ],
+    "PGKNKBKHCHM": 593,
+    "ADNEGPGLPKN": 0,
+    "JONILKNONEM": 0,
+    "FAGGPCMKIKE": [],
+    "FPKEHKLHHDC": 1461163041,
+    "PMPMKOPBJHA": "",
+    "MKNKCBJKNBP": 0,
+    "CGKJHJAGGJD": 175,
+    "GMCEFJPPKEA": 0,
+    "DEMADNGDBFA": 0,
+    "MEFEDJIIFKI": "MonsterModelL5W10H10",
+    "ALFOKLHJBPM": false,
+    "FIMCLMJNEFC": 0,
+    "APMGNBGELGB": 70390121,
+    "EEDKIBPBJAJ": false,
+    "PGIEBNDNHFF": false,
+    "JIPGLICHHJL": false
+  }
+]

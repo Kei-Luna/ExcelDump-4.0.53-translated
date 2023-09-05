@@ -1,0 +1,27 @@
+[
+  {
+    "AHKEEFHNHKA": 1,
+    "FLLOHDGBFLA": 15,
+    "NLIEHGEDIGI": "event_15min"
+  },
+  {
+    "AHKEEFHNHKA": 2,
+    "FLLOHDGBFLA": 30,
+    "NLIEHGEDIGI": "event_30min"
+  },
+  {
+    "AHKEEFHNHKA": 3,
+    "FLLOHDGBFLA": 45,
+    "NLIEHGEDIGI": "event_45min"
+  },
+  {
+    "AHKEEFHNHKA": 4,
+    "FLLOHDGBFLA": 60,
+    "NLIEHGEDIGI": "event_1h"
+  },
+  {
+    "AHKEEFHNHKA": 5,
+    "FLLOHDGBFLA": 120,
+    "NLIEHGEDIGI": "event_2h"
+  }
+]

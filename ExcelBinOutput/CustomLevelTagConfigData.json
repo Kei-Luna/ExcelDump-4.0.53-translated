@@ -1,0 +1,65 @@
+[
+  {
+    "GNPDOKHLGEE": 1,
+    "NBBILPFDFPK": 1884392407,
+    "FGBPFMKHEOF": "Adventure Coin",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": true
+  },
+  {
+    "GNPDOKHLGEE": 2,
+    "NBBILPFDFPK": 1311973151,
+    "FGBPFMKHEOF": "Time Limit",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": true
+  },
+  {
+    "GNPDOKHLGEE": 3,
+    "NBBILPFDFPK": 2946998695,
+    "FGBPFMKHEOF": "Destination",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": true
+  },
+  {
+    "GNPDOKHLGEE": 4,
+    "NBBILPFDFPK": 1198415335,
+    "FGBPFMKHEOF": "Obstacle Course",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": false
+  },
+  {
+    "GNPDOKHLGEE": 5,
+    "NBBILPFDFPK": 2089518711,
+    "FGBPFMKHEOF": "Speedrun",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": false
+  },
+  {
+    "GNPDOKHLGEE": 6,
+    "NBBILPFDFPK": 136131343,
+    "FGBPFMKHEOF": "Tracking",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": false
+  },
+  {
+    "GNPDOKHLGEE": 7,
+    "NBBILPFDFPK": 2663510951,
+    "FGBPFMKHEOF": "Maze",
+    "MJJAMPFHCKM": 3,
+    "LMMFOBMFGCK": false
+  },
+  {
+    "GNPDOKHLGEE": 8,
+    "NBBILPFDFPK": 840116327,
+    "FGBPFMKHEOF": "High Difficulty",
+    "MJJAMPFHCKM": 2,
+    "LMMFOBMFGCK": false
+  },
+  {
+    "GNPDOKHLGEE": 9,
+    "NBBILPFDFPK": 2184405743,
+    "FGBPFMKHEOF": "Low Difficulty",
+    "MJJAMPFHCKM": 1,
+    "LMMFOBMFGCK": false
+  }
+]

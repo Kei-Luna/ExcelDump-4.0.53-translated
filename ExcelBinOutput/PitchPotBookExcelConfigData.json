@@ -1,0 +1,170 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "ODFPNBBMHLK": 1163999925,
+    "HGOJDPCKIKP": "Holding Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 1153139704,
+    "OOMOAEOMAOF": "25 Points",
+    "GJFJGJIGDHD": 1614298062,
+    "IPAKPKGHLON": "25 Points",
+    "OPFOIKBNDKL": 11573026473993488000,
+    "GBPKFDCINDJ": 17027464413728068000,
+    "OCHCPNIBIPF": 296398059,
+    "AJGMCFNDKEG": "An ordinary Holding Pot that will award points when hit.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "ODFPNBBMHLK": 214532285,
+    "HGOJDPCKIKP": "Sleight Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 1982499688,
+    "OOMOAEOMAOF": "25 Points",
+    "GJFJGJIGDHD": 87121318,
+    "IPAKPKGHLON": "25 Points",
+    "OPFOIKBNDKL": 18053898406022203000,
+    "GBPKFDCINDJ": 8659316205176656000,
+    "OCHCPNIBIPF": 3335505267,
+    "AJGMCFNDKEG": "A special Holding Pot created by the organizer that allows you to toss multiple Darts in succession after hitting it once.\\nThese arrows have been specially prepared by the organizer, and are extremely suited for throwing. If you have enough strength, you can toss a bunch at the same time. But if you want them, you will need the organizer's permission.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "ODFPNBBMHLK": 2022008605,
+    "HGOJDPCKIKP": "Quaker Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 3866582856,
+    "OOMOAEOMAOF": "20 Points",
+    "GJFJGJIGDHD": 3488802926,
+    "IPAKPKGHLON": "20 Points",
+    "OPFOIKBNDKL": 9944888610274060000,
+    "GBPKFDCINDJ": 4123898640534388700,
+    "OCHCPNIBIPF": 787035123,
+    "AJGMCFNDKEG": "A special Holding Pot created by the organizer that will explode when hit, destroying all Holding Pots in a fixed AoE. Pots shattered this way will also count towards your score. The organizer claims that this is a way to make the event more interesting.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "ODFPNBBMHLK": 2648587397,
+    "HGOJDPCKIKP": "Agile Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 3380389360,
+    "OOMOAEOMAOF": "60 points",
+    "GJFJGJIGDHD": 3447205206,
+    "IPAKPKGHLON": "60 points",
+    "OPFOIKBNDKL": 13038261720331080000,
+    "GBPKFDCINDJ": 6061022186695149000,
+    "OCHCPNIBIPF": 2342195651,
+    "AJGMCFNDKEG": "A special Holding Pot created by the organizer that will move between two points.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "ODFPNBBMHLK": 1624761069,
+    "HGOJDPCKIKP": "Hiding Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 1465573656,
+    "OOMOAEOMAOF": "90 Points",
+    "GJFJGJIGDHD": 1199664110,
+    "IPAKPKGHLON": "90 Points",
+    "OPFOIKBNDKL": 4633664307567549000,
+    "GBPKFDCINDJ": 12519788582693622000,
+    "OCHCPNIBIPF": 494925179,
+    "AJGMCFNDKEG": "A special Holding Pot created by the organizer that will appear at a certain place after some time and that must be hit 3 times to fully destroy it. Destroying it completely will grant a large quantity of points. However, if it is not destroyed in a certain period of time, it will be moved off the field.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "ODFPNBBMHLK": 4041423661,
+    "HGOJDPCKIKP": "Consuming Pot",
+    "OGIADIBEKEF": 0,
+    "CDIFMNDNFOO": 3251785984,
+    "OOMOAEOMAOF": "170 points",
+    "GJFJGJIGDHD": 1497095694,
+    "IPAKPKGHLON": "170 points",
+    "OPFOIKBNDKL": 6169871153221830000,
+    "GBPKFDCINDJ": 3810656048442175500,
+    "OCHCPNIBIPF": 570077523,
+    "AJGMCFNDKEG": "A special Holding Pot created by the organizer. It will constantly move and when in motion, it will touch other Holding Pots and store them within itself. A Consuming Pot needs to be hit multiple consecutive times to be destroyed, and destroying it will grant an enormous quantity of points.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "ODFPNBBMHLK": 2196316981,
+    "HGOJDPCKIKP": "Ring of Rites",
+    "OGIADIBEKEF": 1,
+    "CDIFMNDNFOO": 2121576784,
+    "OOMOAEOMAOF": "",
+    "GJFJGJIGDHD": 2841850510,
+    "IPAKPKGHLON": "",
+    "OPFOIKBNDKL": 4597255749557410300,
+    "GBPKFDCINDJ": 2470746048796947500,
+    "OCHCPNIBIPF": 306213811,
+    "AJGMCFNDKEG": "If thrown Darts pass through the Ring of Rites to hit a Holding Pot, the score gained will be doubled.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "ODFPNBBMHLK": 2672881965,
+    "HGOJDPCKIKP": "Beam of Blocking",
+    "OGIADIBEKEF": 1,
+    "CDIFMNDNFOO": 709430296,
+    "OOMOAEOMAOF": "",
+    "GJFJGJIGDHD": 2591695470,
+    "IPAKPKGHLON": "",
+    "OPFOIKBNDKL": 12156293860783872000,
+    "GBPKFDCINDJ": 13746919630054680000,
+    "OCHCPNIBIPF": 1419304067,
+    "AJGMCFNDKEG": "The Beam of Blocking will obstruct thrown Darts. Hit it a certain number of times to destroy it.",
+    "DAMDLNBPLCK": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

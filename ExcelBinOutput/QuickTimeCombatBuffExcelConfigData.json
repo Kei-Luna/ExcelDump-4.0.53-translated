@@ -1,0 +1,852 @@
+[
+  {
+    "BMLOHGDMIEM": 1,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 1,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_039",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2046009243,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Pyro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 2,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 1,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_039",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 565222923,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Pyro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 3,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 2,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_003",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3273739139,
+    "NHIEOOCGJGH": "All party members' Charged Attack and Plunging Attack DMG increased by <multi>{0}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 4,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 2,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_003",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2533016211,
+    "NHIEOOCGJGH": "All party members' Charged Attack and Plunging Attack DMG increased by <multi>{0}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 5,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 3,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_015",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3212629419,
+    "NHIEOOCGJGH": "When character HP is less than {0}%, CRIT Rate is increased by <multi>{1}%</multi> and CRIT DMG is increased by <multi>{2}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 6,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 3,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_015",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 40
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1003851843,
+    "NHIEOOCGJGH": "When character HP is less than {0}%, CRIT Rate is increased by <multi>{1}%</multi> and CRIT DMG is increased by <multi>{2}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 7,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 4,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_002",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1183138395,
+    "NHIEOOCGJGH": "When a character's Normal Attack hits an opponent, the character will unleash a shockwave at the opponent's location that deals True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 8,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 4,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_002",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 878358707,
+    "NHIEOOCGJGH": "When a character's Normal Attack hits an opponent, the character will unleash a shockwave at the opponent's location that deals <color=#FFCC33>great</color> True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 9,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 5,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_030",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3513197627,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Dendro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 10,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 5,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_030",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1161103019,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Dendro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 11,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 6,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_037",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2706397483,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Electro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 12,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 6,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_037",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1107366907,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Electro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 13,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 7,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 135
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 4071806643,
+    "NHIEOOCGJGH": ""
+  },
+  {
+    "BMLOHGDMIEM": 14,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 7,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 270
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2905592299,
+    "NHIEOOCGJGH": ""
+  },
+  {
+    "BMLOHGDMIEM": 15,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 8,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_031",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1361712355,
+    "NHIEOOCGJGH": "When a character's Dendro Core (this includes Burgeon and Hyperbloom reactions) hits an opponent, the character will unleash a shockwave at the opponent's location that deals True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 16,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 8,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_031",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 4276618115,
+    "NHIEOOCGJGH": "When a character's Dendro Core (this includes Burgeon and Hyperbloom reactions) hits an opponent, the character will unleash a shockwave at the opponent's location that deals <color=#FFCC33>great</color> True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 17,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 9,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_043",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1003569083,
+    "NHIEOOCGJGH": "Shielded characters have their CRIT Rate increased by <multi>{0}%</multi> and CRIT DMG is increased by <multi>{1}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 18,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 9,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_043",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 40
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1326556363,
+    "NHIEOOCGJGH": "Shielded characters have their CRIT Rate increased by <multi>{0}%</multi> and CRIT DMG is increased by <multi>{1}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 19,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 10,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 45
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1650400579,
+    "NHIEOOCGJGH": "When a character is healed, ATK is increased by <multi>{0}%</multi> for {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 20,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 10,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 90
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3542536875,
+    "NHIEOOCGJGH": "When a character is healed, ATK is increased by <multi>{0}%</multi> for {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 21,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 11,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_044",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1135365891,
+    "NHIEOOCGJGH": "When a character's Charged Attack hits an opponent, the character will unleash a shockwave at the opponent's location that deals True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 22,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 11,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_044",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 711969459,
+    "NHIEOOCGJGH": "When a character's Charged Attack hits an opponent, the character will unleash a shockwave at the opponent's location that deals <color=#FFCC33>great</color> True DMG. This effect can be triggered once every {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 23,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 12,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_038",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2151488355,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Hydro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 24,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 12,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_038",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2892641659,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Hydro DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 25,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 13,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 40
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1381740707,
+    "NHIEOOCGJGH": "When a character is healed, their Plunging Attack DMG is increased by <multi>{0}%</multi> for {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 26,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 13,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 80
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3593106627,
+    "NHIEOOCGJGH": "When a character is healed, their Plunging Attack DMG is increased by <multi>{0}%</multi> for {1}s."
+  },
+  {
+    "BMLOHGDMIEM": 27,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 14,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_034",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 3813754915,
+    "NHIEOOCGJGH": "When a character triggers Hydro-related reactions on an opponent, a shockwave will be unleashed at the opponent's position, dealing True DMG. This effect can be triggered once every 1s."
+  },
+  {
+    "BMLOHGDMIEM": 28,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 14,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_034",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2218649307,
+    "NHIEOOCGJGH": "When a character triggers Hydro-related reactions on an opponent, a shockwave will be unleashed at the opponent's position, dealing <color=#FFCC33>great</color> True DMG. This effect can be triggered once every 1s."
+  },
+  {
+    "BMLOHGDMIEM": 29,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 15,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_040",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 4033301851,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Cryo DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 30,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 15,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_040",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 60
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2487628259,
+    "NHIEOOCGJGH": "All party members gain a <multi>{0}%</multi> Cryo DMG Bonus."
+  },
+  {
+    "BMLOHGDMIEM": 31,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 16,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 120
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 2132868395,
+    "NHIEOOCGJGH": "All party members' Elemental Mastery is increased by <multi>{0}</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 32,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 16,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 240
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 4043072739,
+    "NHIEOOCGJGH": "All party members' Elemental Mastery is increased by <multi>{0}</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 33,
+    "CGKJHJAGGJD": 40,
+    "CLAJONAEJAA": 17,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_035",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 40
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1857923163,
+    "NHIEOOCGJGH": "When a character's HP is above {0}%, Normal Attack DMG is increased by <multi>{1}%</multi>."
+  },
+  {
+    "BMLOHGDMIEM": 34,
+    "CGKJHJAGGJD": 100,
+    "CLAJONAEJAA": 17,
+    "HHKNLMAHBAO": "UI_Activity_Common_Buff_035",
+    "HLAIHGHDAPD": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 80
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "HHMPIBGBFPO": 1053345475,
+    "NHIEOOCGJGH": "When a character's HP is above {0}%, Normal Attack DMG is increased by <multi>{1}%</multi>."
+  }
+]

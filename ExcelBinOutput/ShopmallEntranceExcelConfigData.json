@@ -1,0 +1,72 @@
+[
+  {
+    "AHKEEFHNHKA": 1,
+    "FPKEHKLHHDC": 1933918037,
+    "PMPMKOPBJHA": "Recommended",
+    "OOOHGLLPOPA": [
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 5
+      }
+    ],
+    "NHCLCCPNBFA": 900,
+    "ADLKHHCGHAH": "UI_MallTabIcon_Recommend",
+    "GJOHFGEKJIJ": 2,
+    "CMCLFNNNLNL": 5
+  },
+  {
+    "AHKEEFHNHKA": 2,
+    "FPKEHKLHHDC": 3963348389,
+    "PMPMKOPBJHA": "Crystal Top-Up",
+    "OOOHGLLPOPA": [],
+    "NHCLCCPNBFA": 903,
+    "ADLKHHCGHAH": "UI_MallTabIcon_Gemstone",
+    "GJOHFGEKJIJ": 1,
+    "CMCLFNNNLNL": 1
+  },
+  {
+    "AHKEEFHNHKA": 3,
+    "FPKEHKLHHDC": 3019893717,
+    "PMPMKOPBJHA": "Gift Shop",
+    "OOOHGLLPOPA": [],
+    "NHCLCCPNBFA": 902,
+    "ADLKHHCGHAH": "UI_MallTabIcon_GiftPackage",
+    "GJOHFGEKJIJ": 0,
+    "CMCLFNNNLNL": 3
+  },
+  {
+    "AHKEEFHNHKA": 4,
+    "FPKEHKLHHDC": 2486793549,
+    "PMPMKOPBJHA": "Paimon's Bargains",
+    "OOOHGLLPOPA": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "NHCLCCPNBFA": 1001,
+    "ADLKHHCGHAH": "UI_MallTabIcon_Commodity",
+    "GJOHFGEKJIJ": 2,
+    "CMCLFNNNLNL": 2
+  },
+  {
+    "AHKEEFHNHKA": 5,
+    "FPKEHKLHHDC": 529128453,
+    "PMPMKOPBJHA": "Character Outfits",
+    "OOOHGLLPOPA": [],
+    "NHCLCCPNBFA": 1052,
+    "ADLKHHCGHAH": "UI_MallTabIcon_Clothes",
+    "GJOHFGEKJIJ": 0,
+    "CMCLFNNNLNL": 4
+  }
+]

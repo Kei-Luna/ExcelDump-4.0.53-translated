@@ -1,0 +1,45 @@
+[
+  {
+    "HHCCDHCMELE": 5159001,
+    "KFBOIHCOOKK": 3,
+    "GNIGAFJKGDP": 2,
+    "PKJDBOFCMFA": 80,
+    "NGPNOPMEOGK": 40,
+    "OBMPPBPJMPF": 50,
+    "IMJEMJPCHAG": 0,
+    "PKBNGIECCEH": 10,
+    "KPMDHHENHAL": "ActivityAbility_QuickTimeCombat_ClientCall",
+    "FLLCHPKLKAE": "GV_Activity_QuickTimeCombat_QTETriggerCJB",
+    "HLFNJOJJEFL": 40,
+    "PGKNABLEGNE": 100,
+    "IIOOKLMLBMF": 50,
+    "NEMBBGAMHNK": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 150
+      },
+      {
+        "CDOIPGMKDFF": 300
+      }
+    ],
+    "EEDONJKKPMA": [
+      {
+        "CDOIPGMKDFF": 2000
+      },
+      {
+        "CDOIPGMKDFF": 4000
+      },
+      {
+        "CDOIPGMKDFF": 8000
+      },
+      {
+        "CDOIPGMKDFF": 20000
+      }
+    ],
+    "OFCLLGCJMAD": "<color=#ffc677>{0}</color>",
+    "AHHJHDCFADK": "<color=#a1a1a1>{0}</color>",
+    "NDEBNLCOOIE": 1087
+  }
+]

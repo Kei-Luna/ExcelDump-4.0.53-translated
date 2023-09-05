@@ -1,0 +1,74 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "FIOFAINKJNE": 1,
+    "ECHOEIOFPLP": 1391810210,
+    "FOKJGLGIGJH": "Elemental Crucible",
+    "IHHNLHHJOOI": 4078540324,
+    "NCNEBCHFKAO": "Help Timaeus ignite the Elemental Crucible, perform alchemical transmutations, and win rewards.",
+    "NOADLKJLBPN": true,
+    "MIIMBBAKNPK": [],
+    "BIMBKCLBCMD": 6001,
+    "GMJLDDCBJCJ": "ART/UI/Atlas/ActivitySignImg/UI_Icon_CrucibleBg",
+    "DIHOGGCACHN": false
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "FIOFAINKJNE": 2,
+    "ECHOEIOFPLP": 3235082754,
+    "FOKJGLGIGJH": "Fallen Star",
+    "IHHNLHHJOOI": 3873872452,
+    "NCNEBCHFKAO": "Take on the Fallen Star challenge and salvage the fading stars' essence.",
+    "NOADLKJLBPN": false,
+    "MIIMBBAKNPK": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "BIMBKCLBCMD": 9002,
+    "GMJLDDCBJCJ": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Aster",
+    "DIHOGGCACHN": false
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "FIOFAINKJNE": 3,
+    "ECHOEIOFPLP": 285503954,
+    "FOKJGLGIGJH": "Frostborn Miracle",
+    "IHHNLHHJOOI": 3660674564,
+    "NCNEBCHFKAO": "This Cryo Regisvine has absorbed the power of a dragon and will continue returning to life for so long as that power lasts. Defeat this Resurgent Cryo Regisvine and obtain Miraculous Essence...",
+    "NOADLKJLBPN": false,
+    "MIIMBBAKNPK": [],
+    "BIMBKCLBCMD": 9003,
+    "GMJLDDCBJCJ": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine",
+    "DIHOGGCACHN": true
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "FIOFAINKJNE": 4,
+    "ECHOEIOFPLP": 968835426,
+    "FOKJGLGIGJH": "Rhodeia's Rage",
+    "IHHNLHHJOOI": 326086028,
+    "NCNEBCHFKAO": "The Oceanid of Qingce, Rhodeia, has become unusually boisterous and filled with rage. She has also gained new fighting capabilities, through which one may yet catch a glimpse of the power that the foremost of Fontaine's Oceanid spies once possessed.",
+    "NOADLKJLBPN": false,
+    "MIIMBBAKNPK": [],
+    "BIMBKCLBCMD": 0,
+    "GMJLDDCBJCJ": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
+    "DIHOGGCACHN": true
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "FIOFAINKJNE": 5,
+    "ECHOEIOFPLP": 865127498,
+    "FOKJGLGIGJH": "Rise of the Fell Flower",
+    "IHHNLHHJOOI": 932380964,
+    "NCNEBCHFKAO": "Having absorbed the blood of the wicked dragon, this Whopperflower has undergone immense changes. Handle with care!",
+    "NOADLKJLBPN": false,
+    "MIIMBBAKNPK": [],
+    "BIMBKCLBCMD": 6038,
+    "GMJLDDCBJCJ": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common",
+    "DIHOGGCACHN": true
+  }
+]

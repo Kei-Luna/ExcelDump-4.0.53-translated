@@ -1,0 +1,1097 @@
+[
+  {
+    "AODPMHOCMJN": 1,
+    "LOGBHLAFFJA": 1,
+    "IEMMAEDPAGB": [
+      {
+        "dungeonId": 3086
+      },
+      {
+        "dungeonId": 3087
+      },
+      {
+        "dungeonId": 3088
+      },
+      {
+        "dungeonId": 3089
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15140101
+      },
+      {
+        "CDOIPGMKDFF": 15140102
+      },
+      {
+        "CDOIPGMKDFF": 15140103
+      },
+      {
+        "CDOIPGMKDFF": 15140104
+      }
+    ],
+    "GPGKGOIHGJC": [
+      {
+        "buffId": 41
+      },
+      {
+        "buffId": 42
+      },
+      {
+        "buffId": 43
+      }
+    ],
+    "NOOKGJCMBEA": [
+      {
+        "groupId": 235921002,
+        "hellGroupId": 235921003,
+        "galleryId": 53004,
+        "hellGalleryId": 53009
+      },
+      {
+        "groupId": 235921008,
+        "hellGroupId": 235921004,
+        "galleryId": 53004,
+        "hellGalleryId": 53009
+      },
+      {
+        "groupId": 235921009,
+        "hellGroupId": 235921005,
+        "galleryId": 53004,
+        "hellGalleryId": 53009
+      }
+    ],
+    "BOFCOLHFDPC": 778181976,
+    "HPEDKPFPEKN": "Valley of Divergence",
+    "OLNBBCBCINB": 1089397924,
+    "BCGLBBLPHAC": "When some opponents' HP drops below <color=#FFCC33>15%</color>, a warning signal will appear on them. <color=#FFCC33>12</color>s later, these opponents will regenerate <color=#FFCC33>30%</color> HP. This effect can be triggered <color=#FFCC33>1</color> time per opponent per challenge.",
+    "AMHHIJBAEGE": [
+      {
+        "CDOIPGMKDFF": 20201
+      },
+      {
+        "CDOIPGMKDFF": 20202
+      },
+      {
+        "CDOIPGMKDFF": 20301
+      },
+      {
+        "CDOIPGMKDFF": 20302
+      },
+      {
+        "CDOIPGMKDFF": 61001
+      },
+      {
+        "CDOIPGMKDFF": 61002
+      },
+      {
+        "CDOIPGMKDFF": 61003
+      },
+      {
+        "CDOIPGMKDFF": 61004
+      },
+      {
+        "CDOIPGMKDFF": 61005
+      },
+      {
+        "CDOIPGMKDFF": 10204
+      },
+      {
+        "CDOIPGMKDFF": 10205
+      },
+      {
+        "CDOIPGMKDFF": 10208
+      },
+      {
+        "CDOIPGMKDFF": 10401
+      },
+      {
+        "CDOIPGMKDFF": 10402
+      },
+      {
+        "CDOIPGMKDFF": 20101
+      },
+      {
+        "CDOIPGMKDFF": 20102
+      },
+      {
+        "CDOIPGMKDFF": 20103
+      },
+      {
+        "CDOIPGMKDFF": 20104
+      },
+      {
+        "CDOIPGMKDFF": 10201
+      },
+      {
+        "CDOIPGMKDFF": 10202
+      },
+      {
+        "CDOIPGMKDFF": 10203
+      },
+      {
+        "CDOIPGMKDFF": 10206
+      },
+      {
+        "CDOIPGMKDFF": 10207
+      },
+      {
+        "CDOIPGMKDFF": 61201
+      },
+      {
+        "CDOIPGMKDFF": 61202
+      },
+      {
+        "CDOIPGMKDFF": 61203
+      },
+      {
+        "CDOIPGMKDFF": 61204
+      },
+      {
+        "CDOIPGMKDFF": 40301
+      },
+      {
+        "CDOIPGMKDFF": 40302
+      },
+      {
+        "CDOIPGMKDFF": 40101
+      },
+      {
+        "CDOIPGMKDFF": 40102
+      },
+      {
+        "CDOIPGMKDFF": 40103
+      },
+      {
+        "CDOIPGMKDFF": 30101
+      },
+      {
+        "CDOIPGMKDFF": 30102
+      },
+      {
+        "CDOIPGMKDFF": 30103
+      },
+      {
+        "CDOIPGMKDFF": 30104
+      },
+      {
+        "CDOIPGMKDFF": 30105
+      },
+      {
+        "CDOIPGMKDFF": 30106
+      },
+      {
+        "CDOIPGMKDFF": 30201
+      },
+      {
+        "CDOIPGMKDFF": 30301
+      },
+      {
+        "CDOIPGMKDFF": 30401
+      },
+      {
+        "CDOIPGMKDFF": 30501
+      },
+      {
+        "CDOIPGMKDFF": 53101
+      },
+      {
+        "CDOIPGMKDFF": 53102
+      },
+      {
+        "CDOIPGMKDFF": 53103
+      },
+      {
+        "CDOIPGMKDFF": 54101
+      },
+      {
+        "CDOIPGMKDFF": 54102
+      },
+      {
+        "CDOIPGMKDFF": 54103
+      },
+      {
+        "CDOIPGMKDFF": 54104
+      },
+      {
+        "CDOIPGMKDFF": 60401
+      }
+    ]
+  },
+  {
+    "AODPMHOCMJN": 2,
+    "LOGBHLAFFJA": 2,
+    "IEMMAEDPAGB": [
+      {
+        "dungeonId": 3078
+      },
+      {
+        "dungeonId": 3079
+      },
+      {
+        "dungeonId": 3080
+      },
+      {
+        "dungeonId": 3081
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15140201
+      },
+      {
+        "CDOIPGMKDFF": 15140202
+      },
+      {
+        "CDOIPGMKDFF": 15140203
+      },
+      {
+        "CDOIPGMKDFF": 15140204
+      }
+    ],
+    "GPGKGOIHGJC": [
+      {
+        "buffId": 21
+      },
+      {
+        "buffId": 22
+      },
+      {
+        "buffId": 23
+      }
+    ],
+    "NOOKGJCMBEA": [
+      {
+        "groupId": 235919002,
+        "hellGroupId": 235919003,
+        "galleryId": 53002,
+        "hellGalleryId": 53007
+      },
+      {
+        "groupId": 235919008,
+        "hellGroupId": 235919004,
+        "galleryId": 53002,
+        "hellGalleryId": 53007
+      },
+      {
+        "groupId": 235919009,
+        "hellGroupId": 235919005,
+        "galleryId": 53002,
+        "hellGalleryId": 53007
+      }
+    ],
+    "BOFCOLHFDPC": 2160066840,
+    "HPEDKPFPEKN": "Obscured End",
+    "OLNBBCBCINB": 4277722932,
+    "BCGLBBLPHAC": "Boss enemies periodically unleash powerful skills, <color=#FFCC33>dealing DMG</color> to characters hit.",
+    "AMHHIJBAEGE": [
+      {
+        "CDOIPGMKDFF": 20201
+      },
+      {
+        "CDOIPGMKDFF": 20202
+      },
+      {
+        "CDOIPGMKDFF": 20301
+      },
+      {
+        "CDOIPGMKDFF": 20302
+      },
+      {
+        "CDOIPGMKDFF": 61001
+      },
+      {
+        "CDOIPGMKDFF": 61002
+      },
+      {
+        "CDOIPGMKDFF": 61003
+      },
+      {
+        "CDOIPGMKDFF": 61004
+      },
+      {
+        "CDOIPGMKDFF": 61005
+      },
+      {
+        "CDOIPGMKDFF": 10204
+      },
+      {
+        "CDOIPGMKDFF": 10205
+      },
+      {
+        "CDOIPGMKDFF": 10208
+      },
+      {
+        "CDOIPGMKDFF": 10401
+      },
+      {
+        "CDOIPGMKDFF": 10402
+      },
+      {
+        "CDOIPGMKDFF": 20101
+      },
+      {
+        "CDOIPGMKDFF": 20102
+      },
+      {
+        "CDOIPGMKDFF": 20103
+      },
+      {
+        "CDOIPGMKDFF": 20104
+      },
+      {
+        "CDOIPGMKDFF": 10201
+      },
+      {
+        "CDOIPGMKDFF": 10202
+      },
+      {
+        "CDOIPGMKDFF": 10203
+      },
+      {
+        "CDOIPGMKDFF": 10206
+      },
+      {
+        "CDOIPGMKDFF": 10207
+      },
+      {
+        "CDOIPGMKDFF": 61201
+      },
+      {
+        "CDOIPGMKDFF": 61202
+      },
+      {
+        "CDOIPGMKDFF": 61203
+      },
+      {
+        "CDOIPGMKDFF": 61204
+      },
+      {
+        "CDOIPGMKDFF": 40301
+      },
+      {
+        "CDOIPGMKDFF": 40302
+      },
+      {
+        "CDOIPGMKDFF": 40101
+      },
+      {
+        "CDOIPGMKDFF": 40102
+      },
+      {
+        "CDOIPGMKDFF": 40103
+      },
+      {
+        "CDOIPGMKDFF": 30101
+      },
+      {
+        "CDOIPGMKDFF": 30102
+      },
+      {
+        "CDOIPGMKDFF": 30103
+      },
+      {
+        "CDOIPGMKDFF": 30104
+      },
+      {
+        "CDOIPGMKDFF": 30105
+      },
+      {
+        "CDOIPGMKDFF": 30106
+      },
+      {
+        "CDOIPGMKDFF": 30201
+      },
+      {
+        "CDOIPGMKDFF": 30301
+      },
+      {
+        "CDOIPGMKDFF": 30401
+      },
+      {
+        "CDOIPGMKDFF": 30501
+      },
+      {
+        "CDOIPGMKDFF": 53101
+      },
+      {
+        "CDOIPGMKDFF": 53102
+      },
+      {
+        "CDOIPGMKDFF": 53103
+      },
+      {
+        "CDOIPGMKDFF": 54101
+      },
+      {
+        "CDOIPGMKDFF": 54102
+      },
+      {
+        "CDOIPGMKDFF": 54103
+      },
+      {
+        "CDOIPGMKDFF": 54104
+      },
+      {
+        "CDOIPGMKDFF": 60401
+      }
+    ]
+  },
+  {
+    "AODPMHOCMJN": 3,
+    "LOGBHLAFFJA": 3,
+    "IEMMAEDPAGB": [
+      {
+        "dungeonId": 3082
+      },
+      {
+        "dungeonId": 3083
+      },
+      {
+        "dungeonId": 3084
+      },
+      {
+        "dungeonId": 3085
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15140301
+      },
+      {
+        "CDOIPGMKDFF": 15140302
+      },
+      {
+        "CDOIPGMKDFF": 15140303
+      },
+      {
+        "CDOIPGMKDFF": 15140304
+      }
+    ],
+    "GPGKGOIHGJC": [
+      {
+        "buffId": 31
+      },
+      {
+        "buffId": 32
+      },
+      {
+        "buffId": 33
+      }
+    ],
+    "NOOKGJCMBEA": [
+      {
+        "groupId": 235920002,
+        "hellGroupId": 235920003,
+        "galleryId": 53003,
+        "hellGalleryId": 53008
+      },
+      {
+        "groupId": 235920008,
+        "hellGroupId": 235920004,
+        "galleryId": 53003,
+        "hellGalleryId": 53008
+      },
+      {
+        "groupId": 235920009,
+        "hellGroupId": 235920005,
+        "galleryId": 53003,
+        "hellGalleryId": 53008
+      }
+    ],
+    "BOFCOLHFDPC": 2472953520,
+    "HPEDKPFPEKN": "The Icy Spring's Source",
+    "OLNBBCBCINB": 1345794004,
+    "BCGLBBLPHAC": "Fruits of the Vine will appear at intervals during the challenge. They will chase nearby characters and explode once they hit, dealing <color=#FFCC33>Dendro</color> DMG to nearby characters and opponents. The size of these Fruits and the <color=#FFCC33>DMG</color> they can deal will gradually <color=#FFCC33>decrease</color>, and their speed will gradually increase.",
+    "AMHHIJBAEGE": [
+      {
+        "CDOIPGMKDFF": 20201
+      },
+      {
+        "CDOIPGMKDFF": 20202
+      },
+      {
+        "CDOIPGMKDFF": 20301
+      },
+      {
+        "CDOIPGMKDFF": 20302
+      },
+      {
+        "CDOIPGMKDFF": 61001
+      },
+      {
+        "CDOIPGMKDFF": 61002
+      },
+      {
+        "CDOIPGMKDFF": 61003
+      },
+      {
+        "CDOIPGMKDFF": 61004
+      },
+      {
+        "CDOIPGMKDFF": 61005
+      },
+      {
+        "CDOIPGMKDFF": 10204
+      },
+      {
+        "CDOIPGMKDFF": 10205
+      },
+      {
+        "CDOIPGMKDFF": 10208
+      },
+      {
+        "CDOIPGMKDFF": 10401
+      },
+      {
+        "CDOIPGMKDFF": 10402
+      },
+      {
+        "CDOIPGMKDFF": 20101
+      },
+      {
+        "CDOIPGMKDFF": 20102
+      },
+      {
+        "CDOIPGMKDFF": 20103
+      },
+      {
+        "CDOIPGMKDFF": 20104
+      },
+      {
+        "CDOIPGMKDFF": 10201
+      },
+      {
+        "CDOIPGMKDFF": 10202
+      },
+      {
+        "CDOIPGMKDFF": 10203
+      },
+      {
+        "CDOIPGMKDFF": 10206
+      },
+      {
+        "CDOIPGMKDFF": 10207
+      },
+      {
+        "CDOIPGMKDFF": 61201
+      },
+      {
+        "CDOIPGMKDFF": 61202
+      },
+      {
+        "CDOIPGMKDFF": 61203
+      },
+      {
+        "CDOIPGMKDFF": 61204
+      },
+      {
+        "CDOIPGMKDFF": 40301
+      },
+      {
+        "CDOIPGMKDFF": 40302
+      },
+      {
+        "CDOIPGMKDFF": 40101
+      },
+      {
+        "CDOIPGMKDFF": 40102
+      },
+      {
+        "CDOIPGMKDFF": 40103
+      },
+      {
+        "CDOIPGMKDFF": 30101
+      },
+      {
+        "CDOIPGMKDFF": 30102
+      },
+      {
+        "CDOIPGMKDFF": 30103
+      },
+      {
+        "CDOIPGMKDFF": 30104
+      },
+      {
+        "CDOIPGMKDFF": 30105
+      },
+      {
+        "CDOIPGMKDFF": 30106
+      },
+      {
+        "CDOIPGMKDFF": 30201
+      },
+      {
+        "CDOIPGMKDFF": 30301
+      },
+      {
+        "CDOIPGMKDFF": 30401
+      },
+      {
+        "CDOIPGMKDFF": 30501
+      },
+      {
+        "CDOIPGMKDFF": 53101
+      },
+      {
+        "CDOIPGMKDFF": 53102
+      },
+      {
+        "CDOIPGMKDFF": 53103
+      },
+      {
+        "CDOIPGMKDFF": 54101
+      },
+      {
+        "CDOIPGMKDFF": 54102
+      },
+      {
+        "CDOIPGMKDFF": 54103
+      },
+      {
+        "CDOIPGMKDFF": 54104
+      },
+      {
+        "CDOIPGMKDFF": 60401
+      }
+    ]
+  },
+  {
+    "AODPMHOCMJN": 4,
+    "LOGBHLAFFJA": 4,
+    "IEMMAEDPAGB": [
+      {
+        "dungeonId": 3074
+      },
+      {
+        "dungeonId": 3075
+      },
+      {
+        "dungeonId": 3076
+      },
+      {
+        "dungeonId": 3077
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15140401
+      },
+      {
+        "CDOIPGMKDFF": 15140402
+      },
+      {
+        "CDOIPGMKDFF": 15140403
+      },
+      {
+        "CDOIPGMKDFF": 15140404
+      }
+    ],
+    "GPGKGOIHGJC": [
+      {
+        "buffId": 11
+      },
+      {
+        "buffId": 12
+      },
+      {
+        "buffId": 13
+      }
+    ],
+    "NOOKGJCMBEA": [
+      {
+        "groupId": 235918002,
+        "hellGroupId": 235918003,
+        "galleryId": 53001,
+        "hellGalleryId": 53006
+      },
+      {
+        "groupId": 235918009,
+        "hellGroupId": 235918005,
+        "galleryId": 53001,
+        "hellGalleryId": 53006
+      },
+      {
+        "groupId": 235918008,
+        "hellGroupId": 235918004,
+        "galleryId": 53001,
+        "hellGalleryId": 53006
+      }
+    ],
+    "BOFCOLHFDPC": 778017736,
+    "HPEDKPFPEKN": "Forsaken Mountains",
+    "OLNBBCBCINB": 737196436,
+    "BCGLBBLPHAC": "Every <color=#FFCC33>8</color>s, each Attendant will heal the <color=#FFCC33>boss opponent(s)</color> for <color=#FFCC33>10%</color> HP and increase their All Elemental and Phys RES.",
+    "AMHHIJBAEGE": [
+      {
+        "CDOIPGMKDFF": 20201
+      },
+      {
+        "CDOIPGMKDFF": 20202
+      },
+      {
+        "CDOIPGMKDFF": 20301
+      },
+      {
+        "CDOIPGMKDFF": 20302
+      },
+      {
+        "CDOIPGMKDFF": 61001
+      },
+      {
+        "CDOIPGMKDFF": 61002
+      },
+      {
+        "CDOIPGMKDFF": 61003
+      },
+      {
+        "CDOIPGMKDFF": 61004
+      },
+      {
+        "CDOIPGMKDFF": 61005
+      },
+      {
+        "CDOIPGMKDFF": 10204
+      },
+      {
+        "CDOIPGMKDFF": 10205
+      },
+      {
+        "CDOIPGMKDFF": 10208
+      },
+      {
+        "CDOIPGMKDFF": 10401
+      },
+      {
+        "CDOIPGMKDFF": 10402
+      },
+      {
+        "CDOIPGMKDFF": 20101
+      },
+      {
+        "CDOIPGMKDFF": 20102
+      },
+      {
+        "CDOIPGMKDFF": 20103
+      },
+      {
+        "CDOIPGMKDFF": 20104
+      },
+      {
+        "CDOIPGMKDFF": 10201
+      },
+      {
+        "CDOIPGMKDFF": 10202
+      },
+      {
+        "CDOIPGMKDFF": 10203
+      },
+      {
+        "CDOIPGMKDFF": 10206
+      },
+      {
+        "CDOIPGMKDFF": 10207
+      },
+      {
+        "CDOIPGMKDFF": 61201
+      },
+      {
+        "CDOIPGMKDFF": 61202
+      },
+      {
+        "CDOIPGMKDFF": 61203
+      },
+      {
+        "CDOIPGMKDFF": 61204
+      },
+      {
+        "CDOIPGMKDFF": 40301
+      },
+      {
+        "CDOIPGMKDFF": 40302
+      },
+      {
+        "CDOIPGMKDFF": 40101
+      },
+      {
+        "CDOIPGMKDFF": 40102
+      },
+      {
+        "CDOIPGMKDFF": 40103
+      },
+      {
+        "CDOIPGMKDFF": 30101
+      },
+      {
+        "CDOIPGMKDFF": 30102
+      },
+      {
+        "CDOIPGMKDFF": 30103
+      },
+      {
+        "CDOIPGMKDFF": 30104
+      },
+      {
+        "CDOIPGMKDFF": 30105
+      },
+      {
+        "CDOIPGMKDFF": 30106
+      },
+      {
+        "CDOIPGMKDFF": 30201
+      },
+      {
+        "CDOIPGMKDFF": 30301
+      },
+      {
+        "CDOIPGMKDFF": 30401
+      },
+      {
+        "CDOIPGMKDFF": 30501
+      },
+      {
+        "CDOIPGMKDFF": 53101
+      },
+      {
+        "CDOIPGMKDFF": 53102
+      },
+      {
+        "CDOIPGMKDFF": 53103
+      },
+      {
+        "CDOIPGMKDFF": 54101
+      },
+      {
+        "CDOIPGMKDFF": 54102
+      },
+      {
+        "CDOIPGMKDFF": 54103
+      },
+      {
+        "CDOIPGMKDFF": 54104
+      },
+      {
+        "CDOIPGMKDFF": 60401
+      }
+    ]
+  },
+  {
+    "AODPMHOCMJN": 5,
+    "LOGBHLAFFJA": 5,
+    "IEMMAEDPAGB": [
+      {
+        "dungeonId": 3090
+      },
+      {
+        "dungeonId": 3091
+      },
+      {
+        "dungeonId": 3092
+      },
+      {
+        "dungeonId": 3093
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15140501
+      },
+      {
+        "CDOIPGMKDFF": 15140502
+      },
+      {
+        "CDOIPGMKDFF": 15140503
+      },
+      {
+        "CDOIPGMKDFF": 15140504
+      }
+    ],
+    "GPGKGOIHGJC": [
+      {
+        "buffId": 51
+      },
+      {
+        "buffId": 52
+      },
+      {
+        "buffId": 53
+      }
+    ],
+    "NOOKGJCMBEA": [
+      {
+        "groupId": 235922002,
+        "hellGroupId": 235922003,
+        "galleryId": 53005,
+        "hellGalleryId": 53010
+      },
+      {
+        "groupId": 235922008,
+        "hellGroupId": 235922004,
+        "galleryId": 53005,
+        "hellGalleryId": 53010
+      },
+      {
+        "groupId": 235922009,
+        "hellGroupId": 235922005,
+        "galleryId": 53005,
+        "hellGalleryId": 53010
+      }
+    ],
+    "BOFCOLHFDPC": 2528982728,
+    "HPEDKPFPEKN": "Chasm of Dissolution",
+    "OLNBBCBCINB": 1799224708,
+    "BCGLBBLPHAC": "A Plasma Field will be generated at the edge of the challenge area once the challenge begins. While within the field, characters will be hit by a lightning strike once every <color=#FFCC33>4</color>s and take <color=#FFCC33>Electro</color> DMG. The area covered by the field will gradually expand as the challenge proceeds.",
+    "AMHHIJBAEGE": [
+      {
+        "CDOIPGMKDFF": 20201
+      },
+      {
+        "CDOIPGMKDFF": 20202
+      },
+      {
+        "CDOIPGMKDFF": 20301
+      },
+      {
+        "CDOIPGMKDFF": 20302
+      },
+      {
+        "CDOIPGMKDFF": 61001
+      },
+      {
+        "CDOIPGMKDFF": 61002
+      },
+      {
+        "CDOIPGMKDFF": 61003
+      },
+      {
+        "CDOIPGMKDFF": 61004
+      },
+      {
+        "CDOIPGMKDFF": 61005
+      },
+      {
+        "CDOIPGMKDFF": 10204
+      },
+      {
+        "CDOIPGMKDFF": 10205
+      },
+      {
+        "CDOIPGMKDFF": 10208
+      },
+      {
+        "CDOIPGMKDFF": 10401
+      },
+      {
+        "CDOIPGMKDFF": 10402
+      },
+      {
+        "CDOIPGMKDFF": 20101
+      },
+      {
+        "CDOIPGMKDFF": 20102
+      },
+      {
+        "CDOIPGMKDFF": 20103
+      },
+      {
+        "CDOIPGMKDFF": 20104
+      },
+      {
+        "CDOIPGMKDFF": 10201
+      },
+      {
+        "CDOIPGMKDFF": 10202
+      },
+      {
+        "CDOIPGMKDFF": 10203
+      },
+      {
+        "CDOIPGMKDFF": 10206
+      },
+      {
+        "CDOIPGMKDFF": 10207
+      },
+      {
+        "CDOIPGMKDFF": 61201
+      },
+      {
+        "CDOIPGMKDFF": 61202
+      },
+      {
+        "CDOIPGMKDFF": 61203
+      },
+      {
+        "CDOIPGMKDFF": 61204
+      },
+      {
+        "CDOIPGMKDFF": 40301
+      },
+      {
+        "CDOIPGMKDFF": 40302
+      },
+      {
+        "CDOIPGMKDFF": 40101
+      },
+      {
+        "CDOIPGMKDFF": 40102
+      },
+      {
+        "CDOIPGMKDFF": 40103
+      },
+      {
+        "CDOIPGMKDFF": 30101
+      },
+      {
+        "CDOIPGMKDFF": 30102
+      },
+      {
+        "CDOIPGMKDFF": 30103
+      },
+      {
+        "CDOIPGMKDFF": 30104
+      },
+      {
+        "CDOIPGMKDFF": 30105
+      },
+      {
+        "CDOIPGMKDFF": 30106
+      },
+      {
+        "CDOIPGMKDFF": 30201
+      },
+      {
+        "CDOIPGMKDFF": 30301
+      },
+      {
+        "CDOIPGMKDFF": 30401
+      },
+      {
+        "CDOIPGMKDFF": 30501
+      },
+      {
+        "CDOIPGMKDFF": 53101
+      },
+      {
+        "CDOIPGMKDFF": 53102
+      },
+      {
+        "CDOIPGMKDFF": 53103
+      },
+      {
+        "CDOIPGMKDFF": 54101
+      },
+      {
+        "CDOIPGMKDFF": 54102
+      },
+      {
+        "CDOIPGMKDFF": 54103
+      },
+      {
+        "CDOIPGMKDFF": 54104
+      },
+      {
+        "CDOIPGMKDFF": 60401
+      }
+    ]
+  }
+]

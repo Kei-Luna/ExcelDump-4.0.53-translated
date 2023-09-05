@@ -1,0 +1,30 @@
+[
+  {
+    "DEKIJNOMLHD": 1,
+    "DCFAGKBFFAG": 1751115106,
+    "NMJFHBDDNIK": "Normal",
+    "BGEJAFGNHHO": 669744620,
+    "AKIKPHJPAKB": "Enemy Level {0}"
+  },
+  {
+    "DEKIJNOMLHD": 2,
+    "DCFAGKBFFAG": 3039366418,
+    "NMJFHBDDNIK": "Hard",
+    "BGEJAFGNHHO": 3710584052,
+    "AKIKPHJPAKB": "Enemy Level {0}"
+  },
+  {
+    "DEKIJNOMLHD": 3,
+    "DCFAGKBFFAG": 4212894258,
+    "NMJFHBDDNIK": "Crisis",
+    "BGEJAFGNHHO": 1409695444,
+    "AKIKPHJPAKB": "Enemy Level {0}"
+  },
+  {
+    "DEKIJNOMLHD": 4,
+    "DCFAGKBFFAG": 738303138,
+    "NMJFHBDDNIK": "Dire",
+    "BGEJAFGNHHO": 2853217812,
+    "AKIKPHJPAKB": "Enemy Level {0}"
+  }
+]

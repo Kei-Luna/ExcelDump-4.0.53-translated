@@ -1,0 +1,106 @@
+[
+  {
+    "PGKNKBKHCHM": 1001,
+    "HHCCDHCMELE": 5148001,
+    "MCHOBJJJIKO": 60221,
+    "KFBOIHCOOKK": 4,
+    "FPKEHKLHHDC": 4073748993,
+    "PMPMKOPBJHA": "Ringed Frosting",
+    "CELKFBGHHDG": [
+      {
+        "CDOIPGMKDFF": 423022
+      },
+      {
+        "CDOIPGMKDFF": 423023
+      }
+    ],
+    "FJNNKAAPNNO": [
+      4207470,
+      218500744,
+      743166341
+    ],
+    "NIGIDDEPOLK": [
+      "<color=#C87D1DFF>When an opposing character is defeated:</color> Deal 1 Piercing DMG to all opposing characters.",
+      "<color=#C87D1DFF>After opposing characters take Elemental Reaction DMG:</color> Create 1 Omni Element. (Can be triggered up to 3 times per Round)",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 1002,
+    "HHCCDHCMELE": 5148001,
+    "MCHOBJJJIKO": 60231,
+    "KFBOIHCOOKK": 5,
+    "FPKEHKLHHDC": 1772194537,
+    "PMPMKOPBJHA": "Echoing Destruction",
+    "CELKFBGHHDG": [
+      {
+        "CDOIPGMKDFF": 423024
+      },
+      {
+        "CDOIPGMKDFF": 423013
+      }
+    ],
+    "FJNNKAAPNNO": [
+      1827667670,
+      3094375712,
+      617420461
+    ],
+    "NIGIDDEPOLK": [
+      "<color=#C87D1DFF>After your character uses a Skill:</color> Create an Ambuscade Mine of your character's Element on the opposing side of the field. The Ambuscade Mine will deal 1 DMG of that corresponding element to opposing reinforcements after they enter play.",
+      "<color=#C87D1DFF>When your character uses a Skill or equips a Talent:</color> Spend 1 less Elemental Die. (Can be triggered once per Round per character)",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 1003,
+    "HHCCDHCMELE": 5148001,
+    "MCHOBJJJIKO": 60211,
+    "KFBOIHCOOKK": 5,
+    "FPKEHKLHHDC": 1867167033,
+    "PMPMKOPBJHA": "Fungal Frenzy",
+    "CELKFBGHHDG": [
+      {
+        "CDOIPGMKDFF": 423020
+      },
+      {
+        "CDOIPGMKDFF": 423021
+      }
+    ],
+    "FJNNKAAPNNO": [
+      3405492942,
+      3847859408,
+      1107134437
+    ],
+    "NIGIDDEPOLK": [
+      "<color=#C87D1DFF>When your character uses a Charged Attack: </color>DMG dealt +1. Draw 1 card after finalization.",
+      "<color=#C87D1DFF>When your character equipped with both a Weapon and an Artifact uses a Skill:</color> Spend 3 less Elemental Dice. (Once per Round)",
+      ""
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 1004,
+    "HHCCDHCMELE": 5148001,
+    "MCHOBJJJIKO": 60201,
+    "KFBOIHCOOKK": 5,
+    "FPKEHKLHHDC": 356305985,
+    "PMPMKOPBJHA": "Rapid Hexes",
+    "CELKFBGHHDG": [
+      {
+        "CDOIPGMKDFF": 423018
+      },
+      {
+        "CDOIPGMKDFF": 423019
+      }
+    ],
+    "FJNNKAAPNNO": [
+      4030067606,
+      1813032088,
+      778420613
+    ],
+    "NIGIDDEPOLK": [
+      "<color=#C87D1DFF>When an opposing character is defeated:</color> Draw 1 card. Your current active character deals +1 DMG in this match. (Can stack. Max 3 Stacks.)",
+      "<color=#C87D1DFF>When you play a Weapon or Artifact card with a cost of at least 3:</color> Spend 3 less Elemental Dice. (Once per Round)",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "DPLDFJBNDGH": true,
+    "IGNGNHFMEGC": false,
+    "OHJFAMKNNDF": 1,
+    "IGMBBBEBPCB": 2898754250,
+    "JBLLACEJNIA": "Element",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 301
+      },
+      {
+        "CDOIPGMKDFF": 302
+      },
+      {
+        "CDOIPGMKDFF": 303
+      },
+      {
+        "CDOIPGMKDFF": 304
+      },
+      {
+        "CDOIPGMKDFF": 307
+      },
+      {
+        "CDOIPGMKDFF": 305
+      },
+      {
+        "CDOIPGMKDFF": 306
+      }
+    ],
+    "JJMJOAHBADK": false,
+    "OOCHNBKJNNH": 1702719397,
+    "HLINPNOBDMF": ""
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "DPLDFJBNDGH": true,
+    "IGNGNHFMEGC": false,
+    "OHJFAMKNNDF": 1,
+    "IGMBBBEBPCB": 4130406122,
+    "JBLLACEJNIA": "Weapon",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 201
+      },
+      {
+        "CDOIPGMKDFF": 202
+      },
+      {
+        "CDOIPGMKDFF": 203
+      },
+      {
+        "CDOIPGMKDFF": 204
+      },
+      {
+        "CDOIPGMKDFF": 205
+      }
+    ],
+    "JJMJOAHBADK": true,
+    "OOCHNBKJNNH": 1208187341,
+    "HLINPNOBDMF": "Other Weapons"
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "DPLDFJBNDGH": true,
+    "IGNGNHFMEGC": false,
+    "OHJFAMKNNDF": 1,
+    "IGMBBBEBPCB": 4139357962,
+    "JBLLACEJNIA": "Affiliation",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 401
+      },
+      {
+        "CDOIPGMKDFF": 402
+      },
+      {
+        "CDOIPGMKDFF": 403
+      },
+      {
+        "CDOIPGMKDFF": 404
+      },
+      {
+        "CDOIPGMKDFF": 501
+      },
+      {
+        "CDOIPGMKDFF": 502
+      },
+      {
+        "CDOIPGMKDFF": 503
+      }
+    ],
+    "JJMJOAHBADK": false,
+    "OOCHNBKJNNH": 3206503541,
+    "HLINPNOBDMF": "Other Affiliation(s)"
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "DPLDFJBNDGH": false,
+    "IGNGNHFMEGC": true,
+    "OHJFAMKNNDF": 2,
+    "IGMBBBEBPCB": 2068225106,
+    "JBLLACEJNIA": "Type",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 6
+      }
+    ],
+    "JJMJOAHBADK": false,
+    "OOCHNBKJNNH": 3839654221,
+    "HLINPNOBDMF": ""
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "DPLDFJBNDGH": false,
+    "IGNGNHFMEGC": true,
+    "OHJFAMKNNDF": 1,
+    "IGMBBBEBPCB": 2435174714,
+    "JBLLACEJNIA": "Tag",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 101
+      },
+      {
+        "CDOIPGMKDFF": 102
+      },
+      {
+        "CDOIPGMKDFF": 103
+      },
+      {
+        "CDOIPGMKDFF": 104
+      },
+      {
+        "CDOIPGMKDFF": 105
+      }
+    ],
+    "JJMJOAHBADK": true,
+    "OOCHNBKJNNH": 1928235365,
+    "HLINPNOBDMF": "Other Tags"
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "DPLDFJBNDGH": false,
+    "IGNGNHFMEGC": true,
+    "OHJFAMKNNDF": 3,
+    "IGMBBBEBPCB": 3654412338,
+    "JBLLACEJNIA": "Cost",
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 6
+      }
+    ],
+    "JJMJOAHBADK": true,
+    "OOCHNBKJNNH": 2503424845,
+    "HLINPNOBDMF": "Other Costs"
+  }
+]

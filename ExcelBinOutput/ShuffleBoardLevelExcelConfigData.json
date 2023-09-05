@@ -1,0 +1,350 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "HNLFNPCMHDF": 2,
+    "HPDBAGFLLGI": 0,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 4,
+    "EGKIGHIMLNN": 6,
+    "AOCDBEMBJOI": 10,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_01",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 2858109786,
+    "HGOJDPCKIKP": "Treetop Glide",
+    "OCHCPNIBIPF": 2957994537,
+    "AJGMCFNDKEG": "It is said that when some finches take flight, they will press the tree branch down using their weight and slide down a short distance before using the rebound to accelerate... This is a small detail that only researchers have been able to observe, and is one of the inspirations for Finchball!",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_01",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023401
+      },
+      {
+        "CDOIPGMKDFF": 12023402
+      },
+      {
+        "CDOIPGMKDFF": 12023403
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "HNLFNPCMHDF": 2,
+    "HPDBAGFLLGI": 1,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 4,
+    "EGKIGHIMLNN": 6,
+    "AOCDBEMBJOI": 10,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_02",
+    "LOMIIHAKFGP": 1475,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 1051620882,
+    "HGOJDPCKIKP": "Forest Trail Shuttle",
+    "OCHCPNIBIPF": 932360721,
+    "AJGMCFNDKEG": "Even as small as finches are, there are many tight spaces in the thicket that they must traverse with care! A lack of such will surely see the offending finch crash into a branch and squawk in pain.",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_02",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023411
+      },
+      {
+        "CDOIPGMKDFF": 12023412
+      },
+      {
+        "CDOIPGMKDFF": 12023413
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "HNLFNPCMHDF": 3,
+    "HPDBAGFLLGI": 2,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 4,
+    "EGKIGHIMLNN": 6,
+    "AOCDBEMBJOI": 10,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_03",
+    "LOMIIHAKFGP": 1474,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 3540545386,
+    "HGOJDPCKIKP": "Beach Foraging Basics",
+    "OCHCPNIBIPF": 590010489,
+    "AJGMCFNDKEG": "The rocky, sandy beaches are replete with the finches' favorite food and favored treasures! As such, the clever little things can be found scouring the shore while navigating the rocks with great alacrity...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_03",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023421
+      },
+      {
+        "CDOIPGMKDFF": 12023422
+      },
+      {
+        "CDOIPGMKDFF": 12023423
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "HNLFNPCMHDF": 3,
+    "HPDBAGFLLGI": 3,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 4,
+    "EGKIGHIMLNN": 6,
+    "AOCDBEMBJOI": 10,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_04",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 3843062538,
+    "HGOJDPCKIKP": "Rocky Rendezvous",
+    "OCHCPNIBIPF": 1275259745,
+    "AJGMCFNDKEG": "After collecting all manner of food, some finches will find a piece of flat land nearby upon which to have a feast with friends. At this time, a finch with particularly vibrant feathers shall become the host for the mealtime activities...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_04",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023431
+      },
+      {
+        "CDOIPGMKDFF": 12023432
+      },
+      {
+        "CDOIPGMKDFF": 12023433
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "HNLFNPCMHDF": 4,
+    "HPDBAGFLLGI": 4,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 5,
+    "EGKIGHIMLNN": 8,
+    "AOCDBEMBJOI": 12,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_05",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 3622637778,
+    "HGOJDPCKIKP": "Secret Bush-House",
+    "OCHCPNIBIPF": 1778582945,
+    "AJGMCFNDKEG": "When finches encounter unfriendly animals in the forest, they will fly into the thicket depths and use branches and leaves to shield themselves...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_05",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023441
+      },
+      {
+        "CDOIPGMKDFF": 12023442
+      },
+      {
+        "CDOIPGMKDFF": 12023443
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "HNLFNPCMHDF": 4,
+    "HPDBAGFLLGI": 5,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 5,
+    "EGKIGHIMLNN": 8,
+    "AOCDBEMBJOI": 12,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_06",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 106854914,
+    "HGOJDPCKIKP": "Split-Second Course Selector",
+    "OCHCPNIBIPF": 3333181273,
+    "AJGMCFNDKEG": "For finches with high flying skills, early analysis of the area ahead and the selection of a suitable flight path is a necessity. As for the less agile ones, they must be able to change direction quickly when at risk of imminent collision...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_06",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023451
+      },
+      {
+        "CDOIPGMKDFF": 12023452
+      },
+      {
+        "CDOIPGMKDFF": 12023453
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "HNLFNPCMHDF": 4,
+    "HPDBAGFLLGI": 6,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 5,
+    "EGKIGHIMLNN": 8,
+    "AOCDBEMBJOI": 12,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_07",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 2082301130,
+    "HGOJDPCKIKP": "Low-Altitude Three-Point Landing",
+    "OCHCPNIBIPF": 2637970433,
+    "AJGMCFNDKEG": "When some finches intend to land, they will sometimes execute a form of three-point landing — on the first direction change, they will observe their environment, the second will see them slow down, and the third will have them target a small area and land within it. This \"landing flight\" of theirs is a joy to watch...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_07",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023461
+      },
+      {
+        "CDOIPGMKDFF": 12023462
+      },
+      {
+        "CDOIPGMKDFF": 12023463
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "HNLFNPCMHDF": 4,
+    "HPDBAGFLLGI": 7,
+    "PHDMGDOFBNE": 1,
+    "ABICIJDNPAG": 5,
+    "EGKIGHIMLNN": 8,
+    "AOCDBEMBJOI": 12,
+    "HADEKKDJOMM": "ART/UI/UIScene/ShuffleBoardLevel/Penumbra_ShuffleBoard_Level_08",
+    "LOMIIHAKFGP": 0,
+    "KAPCFEAIGOP": 13112,
+    "ODFPNBBMHLK": 2008895442,
+    "HGOJDPCKIKP": "Bait-and-Switch Sidewinder",
+    "OCHCPNIBIPF": 1531152193,
+    "AJGMCFNDKEG": "Legend has it that there was once an incredibly agile chieftain of the beautifully-feathered finches. This leader would swiftly flit past the bird traps set up by hunters, seizing the food laid as bait without a hair on its head being clipped. Even the most clumsy of finches aimed to someday fly so skillfully...",
+    "FDGOPMNFOND": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "IDFKOECGAJK": "ART/UI/Atlas/Activity/PenAdv/UI_Pic_ShuffleBoardMap_08",
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12023471
+      },
+      {
+        "CDOIPGMKDFF": 12023472
+      },
+      {
+        "CDOIPGMKDFF": 12023473
+      }
+    ]
+  }
+]

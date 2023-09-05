@@ -1,0 +1,72 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "CKAILEJGKNN": [
+      "UGC_DUNGEON_SCORE_MONSTER_DIE",
+      "UGC_DUNGEON_SCORE_COIN",
+      "UGC_DUNGEON_SCORE_CHEST_OPEN",
+      "UGC_DUNGEON_SCORE_ROOM_SETTLE"
+    ],
+    "LOIPHCKHELO": 4093243915,
+    "DIKIIOBPLNM": "Fusion Domain",
+    "LFENAKGDFJA": "UI_Icon_UgcType_Blend",
+    "KIPBADCOIJG": [],
+    "CHHNHKKAEFI": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "CKAILEJGKNN": [
+      "UGC_DUNGEON_SCORE_MONSTER_DIE"
+    ],
+    "LOIPHCKHELO": 632753235,
+    "DIKIIOBPLNM": "Combat Domain",
+    "LFENAKGDFJA": "UI_Icon_UgcType_Battle",
+    "KIPBADCOIJG": [
+      {
+        "CDOIPGMKDFF": 11
+      }
+    ],
+    "CHHNHKKAEFI": [
+      1
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "CKAILEJGKNN": [
+      "UGC_DUNGEON_SCORE_COIN"
+    ],
+    "LOIPHCKHELO": 2939016883,
+    "DIKIIOBPLNM": "Parkour Domain",
+    "LFENAKGDFJA": "UI_Icon_UgcType_Parkour",
+    "KIPBADCOIJG": [
+      {
+        "CDOIPGMKDFF": 10
+      }
+    ],
+    "CHHNHKKAEFI": [
+      2
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "CKAILEJGKNN": [
+      "UGC_DUNGEON_SCORE_ROOM_SETTLE"
+    ],
+    "LOIPHCKHELO": 1689658267,
+    "DIKIIOBPLNM": "Obstacle Course Domain",
+    "LFENAKGDFJA": "UI_Icon_UgcType_Pass",
+    "KIPBADCOIJG": [
+      {
+        "CDOIPGMKDFF": 9
+      }
+    ],
+    "CHHNHKKAEFI": [
+      4
+    ]
+  }
+]

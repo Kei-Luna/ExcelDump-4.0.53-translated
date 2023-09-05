@@ -1,0 +1,207 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_XK_01/TeamInterfaceUI_XK_01_Group",
+    "AMDPIKOCAIM": [],
+    "JFNIMDOBDHK": 0,
+    "ICGBLOEECIB": []
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_MD_01/TeamInterfaceUI_MD_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1004
+      },
+      {
+        "CDOIPGMKDFF": 1005
+      },
+      {
+        "CDOIPGMKDFF": 1008
+      },
+      {
+        "CDOIPGMKDFF": 1009
+      },
+      {
+        "CDOIPGMKDFF": 1018
+      },
+      {
+        "CDOIPGMKDFF": 1068
+      },
+      {
+        "CDOIPGMKDFF": 1076
+      }
+    ],
+    "JFNIMDOBDHK": 1,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 21,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_LY_01/TeamInterfaceUI_LY_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1033
+      },
+      {
+        "CDOIPGMKDFF": 1034
+      },
+      {
+        "CDOIPGMKDFF": 1035
+      },
+      {
+        "CDOIPGMKDFF": 1057
+      },
+      {
+        "CDOIPGMKDFF": 1069
+      },
+      {
+        "CDOIPGMKDFF": 1082
+      },
+      {
+        "CDOIPGMKDFF": 20130
+      }
+    ],
+    "JFNIMDOBDHK": 1,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 31,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_Dq_01/TeamInterfaceUI_Dq_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1060
+      },
+      {
+        "CDOIPGMKDFF": 1061
+      },
+      {
+        "CDOIPGMKDFF": 1063
+      },
+      {
+        "CDOIPGMKDFF": 1064
+      },
+      {
+        "CDOIPGMKDFF": 1066
+      }
+    ],
+    "JFNIMDOBDHK": 1,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 41,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_SL_01/TeamInterfaceUI_SL_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1072
+      },
+      {
+        "CDOIPGMKDFF": 1073
+      },
+      {
+        "CDOIPGMKDFF": 1074
+      },
+      {
+        "CDOIPGMKDFF": 1075
+      },
+      {
+        "CDOIPGMKDFF": 1078
+      },
+      {
+        "CDOIPGMKDFF": 1079
+      }
+    ],
+    "JFNIMDOBDHK": 2,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 21
+      },
+      {
+        "CDOIPGMKDFF": 22
+      },
+      {
+        "CDOIPGMKDFF": 23
+      },
+      {
+        "CDOIPGMKDFF": 24
+      },
+      {
+        "CDOIPGMKDFF": 25
+      },
+      {
+        "CDOIPGMKDFF": 29
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 42,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_SM_01/TeamInterfaceUI_SM_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1077
+      }
+    ],
+    "JFNIMDOBDHK": 2,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 26
+      },
+      {
+        "CDOIPGMKDFF": 27
+      },
+      {
+        "CDOIPGMKDFF": 28
+      },
+      {
+        "CDOIPGMKDFF": 30
+      },
+      {
+        "CDOIPGMKDFF": 31
+      },
+      {
+        "CDOIPGMKDFF": 32
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 51,
+    "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_FD_01/TeamInterfaceUI_FD_01_Group",
+    "AMDPIKOCAIM": [
+      {
+        "CDOIPGMKDFF": 1080
+      },
+      {
+        "CDOIPGMKDFF": 1083
+      },
+      {
+        "CDOIPGMKDFF": 1084
+      },
+      {
+        "CDOIPGMKDFF": 1085
+      },
+      {
+        "CDOIPGMKDFF": 1086
+      }
+    ],
+    "JFNIMDOBDHK": 1,
+    "ICGBLOEECIB": [
+      {
+        "CDOIPGMKDFF": 5
+      }
+    ]
+  }
+]

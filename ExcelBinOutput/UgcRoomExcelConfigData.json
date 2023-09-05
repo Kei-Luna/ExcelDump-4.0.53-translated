@@ -1,0 +1,163 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_01",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01a_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01a_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_01",
+    "POCFOOIINJF": 3262358973156295000,
+    "NHEMMKFHNHD": 1312155218,
+    "HFJMHHIPNEB": "Area 1",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_A",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_A",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 512
+      },
+      {
+        "CDOIPGMKDFF": 512
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_02",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01b_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01b_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_02",
+    "POCFOOIINJF": 1628942203984993800,
+    "NHEMMKFHNHD": 2652330690,
+    "HFJMHHIPNEB": "Area 2",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_B",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_B",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 1536
+      },
+      {
+        "CDOIPGMKDFF": 512
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_03",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01c_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01c_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_03",
+    "POCFOOIINJF": 8309245419314031000,
+    "NHEMMKFHNHD": 1717326762,
+    "HFJMHHIPNEB": "Area 3",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_C",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_C",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 2560
+      },
+      {
+        "CDOIPGMKDFF": 512
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_04",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01d_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01d_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_04",
+    "POCFOOIINJF": 1459489667080826000,
+    "NHEMMKFHNHD": 540722002,
+    "HFJMHHIPNEB": "Area 4",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_D",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_D",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 512
+      },
+      {
+        "CDOIPGMKDFF": 1536
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_05",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01e_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01e_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_05",
+    "POCFOOIINJF": 7902577222564216000,
+    "NHEMMKFHNHD": 1858137250,
+    "HFJMHHIPNEB": "Area 5",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_E",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_E",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 1536
+      },
+      {
+        "CDOIPGMKDFF": 1536
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_06",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01f_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01f_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_06",
+    "POCFOOIINJF": 17140474498792470000,
+    "NHEMMKFHNHD": 52002282,
+    "HFJMHHIPNEB": "Area 6",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_F",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_F",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 2560
+      },
+      {
+        "CDOIPGMKDFF": 1536
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_07",
+    "LBHBHGFIHDL": "Area_LevelUgcEdit01g_City",
+    "DLIPNNIJGPK": "Area_LevelUgcPlay01g_City",
+    "KPDNCICLOBC": 20,
+    "DHEPAANAEII": 600,
+    "HIMEJNGHJNI": 1000,
+    "MOGLLJFAJJD": "UI_Img_UgcRoom_07",
+    "POCFOOIINJF": 14067671121728158000,
+    "NHEMMKFHNHD": 1904528970,
+    "HFJMHHIPNEB": "Area 7",
+    "KDGEMCELPHP": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Edit_Level_G",
+    "PGKGMEGOIPM": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_Xm37_UGCDungeon_Level_G",
+    "JMCAKMBNBIC": [
+      {
+        "CDOIPGMKDFF": 1536
+      },
+      {
+        "CDOIPGMKDFF": 2560
+      }
+    ]
+  }
+]

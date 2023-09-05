@@ -1,0 +1,50 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_03",
+    "CEHKGBBPBHB": 2733497262,
+    "CHGGGLOEEBK": "Leapbless",
+    "PKJKLDMKAEM": 859457796,
+    "AEDNGHHCFMJ": "Within a period after obtaining:\\nIncreases your character's <color=#FFCC33FF>jump height</color>\\n\\nCharges quickly"
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_02",
+    "CEHKGBBPBHB": 4230752926,
+    "CHGGGLOEEBK": "Windbless",
+    "PKJKLDMKAEM": 2573757540,
+    "AEDNGHHCFMJ": "After obtaining:\\nYou will <color=#FFCC33FF>create a Wind Current</color> in the vicinity.\\n\\nCharges quickly."
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_01",
+    "CEHKGBBPBHB": 3964932334,
+    "CHGGGLOEEBK": "Treasurebless",
+    "PKJKLDMKAEM": 2661582156,
+    "AEDNGHHCFMJ": "Within a period after obtaining:\\nIncreases the <color=#FFCC33FF>Wilderness Balloon search radius</color>\\n\\nCharges quickly"
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_04",
+    "CEHKGBBPBHB": 2557357030,
+    "CHGGGLOEEBK": "Scoutbless",
+    "PKJKLDMKAEM": 388719012,
+    "AEDNGHHCFMJ": "Within a period after obtaining:\\n1. Increases your character's <color=#FFCC33FF>Movement SPD</color>\\n2. Increases the <color=#FFCC33FF>Wilderness Balloon search radius</color>\\n\\nCharges slowly"
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_05",
+    "CEHKGBBPBHB": 931740038,
+    "CHGGGLOEEBK": "Trovebless",
+    "PKJKLDMKAEM": 3552450596,
+    "AEDNGHHCFMJ": "Within a period after obtaining:\\n1. Increases your character's <color=#FFCC33FF>jump height</color>\\n2. Increases the <color=#FFCC33FF>Wilderness Balloon search radius</color>\\n\\nCharges slowly"
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "CBAIHAGKOOA": "ART/UI/Atlas/Activity/CoinCollect/UI_Activity_CoinCollect_Buff_06",
+    "CEHKGBBPBHB": 1650252830,
+    "CHGGGLOEEBK": "Speedbless",
+    "PKJKLDMKAEM": 3885040564,
+    "AEDNGHHCFMJ": "Within a period after obtaining:\\n1. Increases your character's <color=#FFCC33FF>Movement SPD</color>\\n2. Greatly decreases your character's <color=#FFCC33FF>Stamina consumption</color>\\n\\nCharges quickly"
+  }
+]

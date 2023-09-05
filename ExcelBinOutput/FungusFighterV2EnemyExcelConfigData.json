@@ -1,0 +1,338 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "FEBBCDEGNDN": 6,
+    "PBMBNKJJEGN": 2,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerFire",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 1796876600,
+    "PMPMKOPBJHA": "Mechanicus: Cleansing Flame",
+    "HHMPIBGBFPO": 1320330012,
+    "NHIEOOCGJGH": "Basic Pyro Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 1996941295,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 31
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "FEBBCDEGNDN": 7,
+    "PBMBNKJJEGN": 2,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWater",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 2343677248,
+    "PMPMKOPBJHA": "Mechanicus: Wicked Waves",
+    "HHMPIBGBFPO": 2773387220,
+    "NHIEOOCGJGH": "Basic Hydro Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 3505247927,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 33
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "FEBBCDEGNDN": 8,
+    "PBMBNKJJEGN": 1,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerElectric",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 3728844744,
+    "PMPMKOPBJHA": "Mechanicus: Thunderflash",
+    "HHMPIBGBFPO": 1678566876,
+    "NHIEOOCGJGH": "Basic Electro Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 4017750743,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 35
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "FEBBCDEGNDN": 9,
+    "PBMBNKJJEGN": 1,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerIce",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 3262782208,
+    "PMPMKOPBJHA": "Mechanicus: Frostcaller",
+    "HHMPIBGBFPO": 3015336188,
+    "NHIEOOCGJGH": "Basic Cryo Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 2019483847,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 37
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "FEBBCDEGNDN": 10,
+    "PBMBNKJJEGN": 5,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWind",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 1326364368,
+    "PMPMKOPBJHA": "Mechanicus: Windblade",
+    "HHMPIBGBFPO": 2565860900,
+    "NHIEOOCGJGH": "Basic Anemo Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 2153587999,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 39
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "FEBBCDEGNDN": 11,
+    "PBMBNKJJEGN": 6,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerPhysics_01",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerPhysics_01",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 367560184,
+    "PMPMKOPBJHA": "Mechanicus: Ironbreach",
+    "HHMPIBGBFPO": 2179866788,
+    "NHIEOOCGJGH": "Basic Physical ATK Mechanicus, capable of delivering considerable damage.",
+    "COCDOOGMHAC": 3394344471,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 42,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 41
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "FEBBCDEGNDN": 1,
+    "PBMBNKJJEGN": 2,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerFire",
+    "IIHGHKCBGOJ": true,
+    "FPKEHKLHHDC": 1161943696,
+    "PMPMKOPBJHA": "Mechanicus: Flame of Pancha",
+    "HHMPIBGBFPO": 1974549980,
+    "NHIEOOCGJGH": "Enhanced Pyro Mechanicus, capable of delivering significant damage, possibly presenting an extreme threat to the Lil' Fungi...",
+    "COCDOOGMHAC": 2703624575,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Tips_Item_Warning",
+    "PBDHCCGLDDK": 32,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 31
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "FEBBCDEGNDN": 2,
+    "PBMBNKJJEGN": 4,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWater",
+    "IIHGHKCBGOJ": true,
+    "FPKEHKLHHDC": 3512835512,
+    "PMPMKOPBJHA": "Mechanicus: Water Mirror",
+    "HHMPIBGBFPO": 1151569468,
+    "NHIEOOCGJGH": "Enhanced Hydro Mechanicus, capable of delivering significant damage, possibly presenting an extreme threat to the Lil' Fungi...",
+    "COCDOOGMHAC": 1931639535,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Tips_Item_Warning",
+    "PBDHCCGLDDK": 34,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 33
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "FEBBCDEGNDN": 3,
+    "PBMBNKJJEGN": 5,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerElectric",
+    "IIHGHKCBGOJ": true,
+    "FPKEHKLHHDC": 2057280912,
+    "PMPMKOPBJHA": "Mechanicus: Thundering March",
+    "HHMPIBGBFPO": 2152695420,
+    "NHIEOOCGJGH": "Enhanced Electro Mechanicus, capable of delivering significant damage, possibly presenting an extreme threat to the Lil' Fungi...",
+    "COCDOOGMHAC": 763401943,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Tips_Item_Warning",
+    "PBDHCCGLDDK": 36,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 35
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "FEBBCDEGNDN": 4,
+    "PBMBNKJJEGN": 3,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerIce",
+    "IIHGHKCBGOJ": true,
+    "FPKEHKLHHDC": 2121677760,
+    "PMPMKOPBJHA": "Mechanicus: Sharkwinter",
+    "HHMPIBGBFPO": 4267250404,
+    "NHIEOOCGJGH": "Enhanced Cryo Mechanicus, capable of delivering significant damage, possibly presenting an extreme threat to the Lil' Fungi...",
+    "COCDOOGMHAC": 4287405375,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Tips_Item_Warning",
+    "PBDHCCGLDDK": 38,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 37
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "FEBBCDEGNDN": 5,
+    "PBMBNKJJEGN": 7,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWind",
+    "IIHGHKCBGOJ": true,
+    "FPKEHKLHHDC": 510528136,
+    "PMPMKOPBJHA": "Mechanicus: Whirling Winds",
+    "HHMPIBGBFPO": 1037626844,
+    "NHIEOOCGJGH": "Enhanced Anemo Mechanicus, capable of delivering significant damage, possibly presenting an extreme threat to the Lil' Fungi...",
+    "COCDOOGMHAC": 563990719,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "ART/UI/Atlas/BuffElement/UI_Tips_Item_Warning",
+    "PBDHCCGLDDK": 40,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 39
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 12,
+    "FEBBCDEGNDN": 12,
+    "PBMBNKJJEGN": 5,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Fire",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Fire",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 3838535680,
+    "PMPMKOPBJHA": "Mystic Blaze",
+    "HHMPIBGBFPO": 274712052,
+    "NHIEOOCGJGH": "A Mechanicus usable by Lil' Fungi that is capable of delivering fantastic Pyro attacks.",
+    "COCDOOGMHAC": 666105439,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 44
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 13,
+    "FEBBCDEGNDN": 16,
+    "PBMBNKJJEGN": 8,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerAbsorber_01",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerAbsorber_01",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 1700624672,
+    "PMPMKOPBJHA": "Mystic Energizer",
+    "HHMPIBGBFPO": 3324760420,
+    "NHIEOOCGJGH": "A Mechanicus that can provide assistance to other Mechanici. When claimed by a Lil' Fungus, can also become allied assistance...",
+    "COCDOOGMHAC": 170024895,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 43
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 14,
+    "FEBBCDEGNDN": 13,
+    "PBMBNKJJEGN": 6,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Water",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Water",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 1771559184,
+    "PMPMKOPBJHA": "Mystic Phantasm",
+    "HHMPIBGBFPO": 3091303428,
+    "NHIEOOCGJGH": "A Mechanicus usable by Lil' Fungi that is capable of delivering fantastic Hydro attacks.",
+    "COCDOOGMHAC": 3342477015,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 45
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 15,
+    "FEBBCDEGNDN": 15,
+    "PBMBNKJJEGN": 6,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Ice",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Ice",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 1754037704,
+    "PMPMKOPBJHA": "Mystic Freezing",
+    "HHMPIBGBFPO": 560662484,
+    "NHIEOOCGJGH": "A Mechanicus usable by Lil' Fungi that is capable of delivering fantastic Cryo attacks.",
+    "COCDOOGMHAC": 904078663,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 46
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 16,
+    "FEBBCDEGNDN": 14,
+    "PBMBNKJJEGN": 7,
+    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Electric",
+    "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Electric",
+    "IIHGHKCBGOJ": false,
+    "FPKEHKLHHDC": 497192752,
+    "PMPMKOPBJHA": "Mystic Thunder",
+    "HHMPIBGBFPO": 3511921993,
+    "NHIEOOCGJGH": "A Mechanicus usable by Lil' Fungi that is capable of delivering fantastic Electro attacks.",
+    "COCDOOGMHAC": 934424703,
+    "KHDCPKCNEBG": "",
+    "PCOFOLBHDBF": "",
+    "PBDHCCGLDDK": 0,
+    "MFHDFGAKNBO": [
+      {
+        "CDOIPGMKDFF": 47
+      }
+    ]
+  }
+]

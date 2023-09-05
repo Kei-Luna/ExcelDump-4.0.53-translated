@@ -1,0 +1,114 @@
+[
+  {
+    "PGKNKBKHCHM": 0,
+    "EEGIOPGGOHJ": 339500,
+    "FPKEHKLHHDC": 384357012,
+    "PMPMKOPBJHA": "Mondstadt",
+    "OCHCPNIBIPF": 3962735882,
+    "AJGMCFNDKEG": "The ceaseless whisper of the breeze plays upon the strings, creating a lovely music.\\nThe passionate talk of the wind and flowers is blown away, falling into the heart of the clear spring.",
+    "EIPEGNALLED": 1908811578,
+    "MNKHFDAIFDD": "Obtain for the first time",
+    "BJJNGCNINLJ": false,
+    "CMCLFNNNLNL": 1,
+    "NFMOMBKPIMO": 2862788099280328700,
+    "NAGOHJKFHEM": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+    "JLOLKKDLGHI": 1,
+    "OFBPKHIBBGB": 2,
+    "OPNBNMNALJK": [
+      "Eff_UI_Gcg_Checkerboard_Glow_02"
+    ],
+    "BBCJPFCHCIB": [
+      "Eff_UI_Gcg_Table_Mengde"
+    ],
+    "HFHIMDDGHKC": [
+      "Eff_UI_Gcg_Table_Mengde_1"
+    ],
+    "BGKAGGBGNLF": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Mengde",
+    "KEECEGHMACH": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+    "FBKLJPHHFAK": "State_CardGame_MengDe"
+  },
+  {
+    "PGKNKBKHCHM": 101,
+    "EEGIOPGGOHJ": 339501,
+    "FPKEHKLHHDC": 45426028,
+    "PMPMKOPBJHA": "Liyue",
+    "OCHCPNIBIPF": 2275741714,
+    "AJGMCFNDKEG": "As eternal as the moon, as long-lasting as the rising sun.\\nBy earth and hill and bedrock shall all things prosper.",
+    "EIPEGNALLED": 363252498,
+    "MNKHFDAIFDD": "Reward for reaching Player Level 3",
+    "BJJNGCNINLJ": false,
+    "CMCLFNNNLNL": 2,
+    "NFMOMBKPIMO": 3237775952017223700,
+    "NAGOHJKFHEM": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+    "JLOLKKDLGHI": 3,
+    "OFBPKHIBBGB": 4,
+    "OPNBNMNALJK": [
+      "Eff_UI_Gcg_Checkerboard_Glow"
+    ],
+    "BBCJPFCHCIB": [
+      "Eff_UI_Gcg_Table_Liyue"
+    ],
+    "HFHIMDDGHKC": [
+      "Eff_UI_Gcg_Table_Liyue_1"
+    ],
+    "BGKAGGBGNLF": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Liyue",
+    "KEECEGHMACH": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+    "FBKLJPHHFAK": "State_CardGame_LiYue"
+  },
+  {
+    "PGKNKBKHCHM": 102,
+    "EEGIOPGGOHJ": 339502,
+    "FPKEHKLHHDC": 2761138860,
+    "PMPMKOPBJHA": "Inazuma",
+    "OCHCPNIBIPF": 1856930906,
+    "AJGMCFNDKEG": "Lightning flashes, then passes, illuminating the solitude of thunder.\\nDreams of madness come and go — all things are impermanent.",
+    "EIPEGNALLED": 3847898434,
+    "MNKHFDAIFDD": "Reward for reaching Player Level 5",
+    "BJJNGCNINLJ": false,
+    "CMCLFNNNLNL": 3,
+    "NFMOMBKPIMO": 869199178744522500,
+    "NAGOHJKFHEM": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+    "JLOLKKDLGHI": 5,
+    "OFBPKHIBBGB": 6,
+    "OPNBNMNALJK": [
+      "Eff_UI_Gcg_Checkerboard_Glow_01"
+    ],
+    "BBCJPFCHCIB": [
+      "Eff_UI_Gcg_Table_Daoqi"
+    ],
+    "HFHIMDDGHKC": [
+      "Eff_UI_Gcg_Table_Daoqi_1"
+    ],
+    "BGKAGGBGNLF": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Daoqi",
+    "KEECEGHMACH": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+    "FBKLJPHHFAK": "State_CardGame_DaoQi"
+  },
+  {
+    "PGKNKBKHCHM": 103,
+    "EEGIOPGGOHJ": 339503,
+    "FPKEHKLHHDC": 2172568444,
+    "PMPMKOPBJHA": "Sumeru",
+    "OCHCPNIBIPF": 2150118914,
+    "AJGMCFNDKEG": "Oh grass of wisdom, weep not!\\nEven the travail through searing winds must end.\\nThe blessed rains will fall, and the flowers shall bloom...\\nHearken! The song of the verdant garden is sung once more.",
+    "EIPEGNALLED": 3393081682,
+    "MNKHFDAIFDD": "Reward for reaching Player Level 7",
+    "BJJNGCNINLJ": false,
+    "CMCLFNNNLNL": 4,
+    "NFMOMBKPIMO": 2566641660547949600,
+    "NAGOHJKFHEM": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+    "JLOLKKDLGHI": 7,
+    "OFBPKHIBBGB": 8,
+    "OPNBNMNALJK": [
+      "Eff_UI_Gcg_Checkerboard_Glow_03"
+    ],
+    "BBCJPFCHCIB": [
+      "Eff_UI_Gcg_Table_Xumi"
+    ],
+    "HFHIMDDGHKC": [
+      "Eff_UI_Gcg_Table_Xumi_1"
+    ],
+    "BGKAGGBGNLF": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Xumi",
+    "KEECEGHMACH": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+    "FBKLJPHHFAK": "State_CardGame_XuMi"
+  }
+]

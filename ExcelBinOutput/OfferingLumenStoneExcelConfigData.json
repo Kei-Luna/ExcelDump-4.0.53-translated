@@ -1,0 +1,101 @@
+[
+  {
+    "GNPDOKHLGEE": 1,
+    "GEGLKKJIIOG": 0,
+    "KGCALIILEIN": 1153366686,
+    "HCDFFMGMEOP": "",
+    "GAEBCOHDOCP": 2507326427,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a small area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nLumenstone Adjuvant can store 1 Energy.",
+    "HHKNLMAHBAO": ""
+  },
+  {
+    "GNPDOKHLGEE": 2,
+    "GEGLKKJIIOG": 1,
+    "KGCALIILEIN": 654865094,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 3.",
+    "GAEBCOHDOCP": 1811602211,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a small area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nLumenstone Adjuvant can store 3 Energy.",
+    "HHKNLMAHBAO": ""
+  },
+  {
+    "GNPDOKHLGEE": 3,
+    "GEGLKKJIIOG": 2,
+    "KGCALIILEIN": 3837292534,
+    "HCDFFMGMEOP": "Actively using the Lumenstone Adjuvant triggers Blooming Light, which consumes the energy stored within the Adjuvant to destroy nearby Level 1 Oozing Concretions. This can be used once every 4s.",
+    "GAEBCOHDOCP": 1595456579,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a small area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Can destroy Level 1 Oozing Concretions.\\n·Can be used once every 4s.\\n\\nLumenstone Adjuvant can store 3 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_02"
+  },
+  {
+    "GNPDOKHLGEE": 4,
+    "GEGLKKJIIOG": 3,
+    "KGCALIILEIN": 1113892558,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 4. The brightness and range have been increased.",
+    "GAEBCOHDOCP": 106557083,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Can destroy Level 1 Oozing Concretions.\\n·Can be used once every 4s.\\n\\nLumenstone Adjuvant can store 4 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_02"
+  },
+  {
+    "GNPDOKHLGEE": 5,
+    "GEGLKKJIIOG": 4,
+    "KGCALIILEIN": 169838150,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 6.",
+    "GAEBCOHDOCP": 2488658259,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Can destroy Level 1 Oozing Concretions.\\n·Can be used once every 4s.\\n\\nLumenstone Adjuvant can store 6 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_02"
+  },
+  {
+    "GNPDOKHLGEE": 6,
+    "GEGLKKJIIOG": 5,
+    "KGCALIILEIN": 397361246,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 7.\\nBlooming Light's CD is decreased to 2s.",
+    "GAEBCOHDOCP": 4044066411,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Can destroy Level 1 Oozing Concretions.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 7 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_02"
+  },
+  {
+    "GNPDOKHLGEE": 7,
+    "GEGLKKJIIOG": 6,
+    "KGCALIILEIN": 3714394382,
+    "HCDFFMGMEOP": "Blooming Light can unleash even greater energy to destroy Level 2 Oozing Concretions.",
+    "GAEBCOHDOCP": 828890267,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Unleashes powerful energies to destroy Level 1 and 2 Oozing Concretions.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 7 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_03"
+  },
+  {
+    "GNPDOKHLGEE": 8,
+    "GEGLKKJIIOG": 7,
+    "KGCALIILEIN": 561806454,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 9.",
+    "GAEBCOHDOCP": 2372891723,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Unleashes powerful energies to destroy Level 1 and 2 Oozing Concretions.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 9 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_03"
+  },
+  {
+    "GNPDOKHLGEE": 9,
+    "GEGLKKJIIOG": 8,
+    "KGCALIILEIN": 2674637606,
+    "HCDFFMGMEOP": "The maximum amount of energy that can be stored in the Lumenstone Adjuvant has been increased to 10.\\nBlooming Light's AoE is increased and it can now search for nearby Lumenspar when used.",
+    "GAEBCOHDOCP": 1315203403,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities: \\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Unleashes powerful energies to destroy Level 1 and 2 Oozing Concretions in a large AoE.\\n·Searches for nearby Lumenspar.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 10 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_03"
+  },
+  {
+    "GNPDOKHLGEE": 10,
+    "GEGLKKJIIOG": 9,
+    "KGCALIILEIN": 1994071958,
+    "HCDFFMGMEOP": "When the Lumenstone Adjuvant is equipped, characters can perform Sprints and Alternate Sprints even within the Oozing Filth.\\nAfter Blooming Light is used, the character will regain Stamina.",
+    "GAEBCOHDOCP": 4160051387,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities:\\n·Disables the limitations imposed by Oozing Filth, allowing the character to perform Sprints and Alternate Sprints even within the mud.\\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Unleashes powerful energies to destroy Level 1 and 2 Oozing Concretions in a large AoE.\\n·Restores a fixed amount of Stamina.\\n·Can indicate the locations of nearby Lumenspar.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 10 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_03"
+  },
+  {
+    "GNPDOKHLGEE": 11,
+    "GEGLKKJIIOG": 10,
+    "KGCALIILEIN": 287373262,
+    "HCDFFMGMEOP": "The Lumenstone Adjuvant has reached its maximum enhancement level. May this little light bring some comfort to this journey through the dark.",
+    "GAEBCOHDOCP": 4176813851,
+    "NEGEBNIEMHA": "While exploring The Chasm: Underground Mines and having the Lumenstone Adjuvant equipped, it will have the following capabilities:\\n·Disables the limitations imposed by Oozing Filth, allowing the character to perform Sprints and Alternate Sprints even within the mud.\\n·When filled with energy, it provides illumination for the character in a certain area while also being able to activate specific light-sensitive mechanisms \\n·By consuming the energy stored within the Lumenstone Adjuvant, you can recharge certain mechanisms.\\n\\nAdditionally, using the Adjuvant actively will trigger Blooming Light at the cost of 1 Energy.\\nBlooming Light has the following properties:\\n·Unleashes powerful energies to destroy Level 1 and 2 Oozing Concretions in a large AoE.\\n·Restores a fixed amount of Stamina.\\n·Can indicate the locations of nearby Lumenspar.\\n·Can be used once every 2s.\\n\\nLumenstone Adjuvant can store 10 Energy.",
+    "HHKNLMAHBAO": "UI_ItemIcon_220048_03"
+  }
+]

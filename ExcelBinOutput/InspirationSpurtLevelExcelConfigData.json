@@ -1,0 +1,78 @@
+[
+  {
+    "MGGPNIDOBGF": 1,
+    "PDHFANIOLKO": 3096,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12025101
+      },
+      {
+        "CDOIPGMKDFF": 12025102
+      },
+      {
+        "CDOIPGMKDFF": 12025103
+      }
+    ],
+    "ODFPNBBMHLK": 608918481,
+    "HGOJDPCKIKP": "Inspiration Eruption: Deep Contemplation",
+    "PGCCPMECDOM": 1767996152,
+    "IONLGLDOAJL": "When the active character triggers Frozen, Vaporize, or Electro-Charged reaction, the affected opponents will unleash a shockwave that deals Physical DMG within a certain AoE."
+  },
+  {
+    "MGGPNIDOBGF": 2,
+    "PDHFANIOLKO": 3095,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12025104
+      },
+      {
+        "CDOIPGMKDFF": 12025105
+      },
+      {
+        "CDOIPGMKDFF": 12025106
+      }
+    ],
+    "ODFPNBBMHLK": 3875806985,
+    "HGOJDPCKIKP": "Inspiration Eruption: Swift Analogy",
+    "PGCCPMECDOM": 24228944,
+    "IONLGLDOAJL": "When the active character's Normal, Charged, or Plunging Attack hits an opponent, the opponent hit will unleash a shockwave that randomly deals Pyro or Electro DMG within a certain AoE."
+  },
+  {
+    "MGGPNIDOBGF": 3,
+    "PDHFANIOLKO": 3094,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12025107
+      },
+      {
+        "CDOIPGMKDFF": 12025108
+      },
+      {
+        "CDOIPGMKDFF": 12025109
+      }
+    ],
+    "ODFPNBBMHLK": 3763842817,
+    "HGOJDPCKIKP": "Inspiration Eruption: Document Reference",
+    "PGCCPMECDOM": 2134177160,
+    "IONLGLDOAJL": "When the active character triggers Swirl reaction, the affected opponents will unleash a shockwave that deals Physical DMG within a certain AoE."
+  },
+  {
+    "MGGPNIDOBGF": 4,
+    "PDHFANIOLKO": 3097,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12025110
+      },
+      {
+        "CDOIPGMKDFF": 12025111
+      },
+      {
+        "CDOIPGMKDFF": 12025112
+      }
+    ],
+    "ODFPNBBMHLK": 2309489529,
+    "HGOJDPCKIKP": "Inspiration Eruption: Strength Accumulation",
+    "PGCCPMECDOM": 2117723280,
+    "IONLGLDOAJL": "When the active character defeats an opponent, a shockwave will be unleashed around the character and deal Dendro DMG within a certain AoE."
+  }
+]

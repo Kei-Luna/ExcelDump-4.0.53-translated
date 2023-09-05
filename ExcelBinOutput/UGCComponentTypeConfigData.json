@@ -1,0 +1,47 @@
+[
+  {
+    "ADNEGPGLPKN": 1,
+    "EPJADNLGJGH": 1377247128,
+    "GOPDBAOJGHM": "Basic"
+  },
+  {
+    "ADNEGPGLPKN": 2,
+    "EPJADNLGJGH": 491674384,
+    "GOPDBAOJGHM": "Terrains"
+  },
+  {
+    "ADNEGPGLPKN": 3,
+    "EPJADNLGJGH": 2528214160,
+    "GOPDBAOJGHM": "Mechanisms"
+  },
+  {
+    "ADNEGPGLPKN": 4,
+    "EPJADNLGJGH": 135424952,
+    "GOPDBAOJGHM": "Traps"
+  },
+  {
+    "ADNEGPGLPKN": 5,
+    "EPJADNLGJGH": 624223272,
+    "GOPDBAOJGHM": "Buffs"
+  },
+  {
+    "ADNEGPGLPKN": 6,
+    "EPJADNLGJGH": 2633906152,
+    "GOPDBAOJGHM": "Opponent Sets"
+  },
+  {
+    "ADNEGPGLPKN": 7,
+    "EPJADNLGJGH": 1178177056,
+    "GOPDBAOJGHM": "Opponent Groups"
+  },
+  {
+    "ADNEGPGLPKN": 8,
+    "EPJADNLGJGH": 199654808,
+    "GOPDBAOJGHM": "Chests and Stations"
+  },
+  {
+    "ADNEGPGLPKN": 9,
+    "EPJADNLGJGH": 242581064,
+    "GOPDBAOJGHM": "Preset Sets"
+  }
+]

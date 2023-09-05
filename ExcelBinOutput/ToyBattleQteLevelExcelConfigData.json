@@ -1,0 +1,175 @@
+[
+  {
+    "BIMBKCLBCMD": 13113,
+    "BNPIFMEAIDI": 0,
+    "MAHGFMBGCFB": 7,
+    "CMKEBKGCODJ": 10,
+    "AIMHHDHEKOK": [
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "NFCFKBICBOF": -0.21,
+    "CLNEOGDNHIB": 0.21,
+    "OJPHJIIGBIO": 1866669841,
+    "LOAEKECOHJF": "<color=#FFCC33>Press the button in the corresponding direction</color> to attack the doll",
+    "IMKBGGGIIAI": "X803_intro",
+    "DMAPPIEDJDC": "X803",
+    "KEEKDEPKCNB": 6083342069398295000,
+    "FPADPIMDIBJ": 330609406973156160,
+    "OLOLDIHBOIA": 1,
+    "AGBEGABMBDI": 2024,
+    "FPKEHKLHHDC": 3125099355,
+    "PMPMKOPBJHA": "Precise Rhythm",
+    "DCLDBJPFMNP": [
+      {
+        "CDOIPGMKDFF": 74505
+      }
+    ],
+    "DLLGFDKHOIG": [],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12024401
+      },
+      {
+        "CDOIPGMKDFF": 12024402
+      },
+      {
+        "CDOIPGMKDFF": 12024403
+      }
+    ],
+    "LOGBHLAFFJA": 1,
+    "PCCEHNBNJBD": [
+      2
+    ],
+    "PMGJFGOLIPC": [
+      1,
+      0
+    ],
+    "PBJNKOMKGIF": [
+      6
+    ]
+  },
+  {
+    "BIMBKCLBCMD": 13114,
+    "BNPIFMEAIDI": 1513,
+    "MAHGFMBGCFB": 7,
+    "CMKEBKGCODJ": 10,
+    "AIMHHDHEKOK": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "NFCFKBICBOF": -0.21,
+    "CLNEOGDNHIB": 0.21,
+    "OJPHJIIGBIO": 2777051233,
+    "LOAEKECOHJF": "<color=#FFCC33>Hold the button in the corresponding direction</color> to charge and unleash a Charged Attack against the doll.",
+    "IMKBGGGIIAI": "X811_intro",
+    "DMAPPIEDJDC": "X811",
+    "KEEKDEPKCNB": 4827646621468998000,
+    "FPADPIMDIBJ": 11300601604061390000,
+    "OLOLDIHBOIA": 2,
+    "AGBEGABMBDI": 2024,
+    "FPKEHKLHHDC": 2301062731,
+    "PMPMKOPBJHA": "Intensive Drumming",
+    "DCLDBJPFMNP": [
+      {
+        "CDOIPGMKDFF": 74505
+      }
+    ],
+    "DLLGFDKHOIG": [
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12024411
+      },
+      {
+        "CDOIPGMKDFF": 12024412
+      },
+      {
+        "CDOIPGMKDFF": 12024413
+      }
+    ],
+    "LOGBHLAFFJA": 3,
+    "PCCEHNBNJBD": [
+      2
+    ],
+    "PMGJFGOLIPC": [
+      1,
+      12
+    ],
+    "PBJNKOMKGIF": [
+      6
+    ]
+  },
+  {
+    "BIMBKCLBCMD": 13115,
+    "BNPIFMEAIDI": 1514,
+    "MAHGFMBGCFB": 7,
+    "CMKEBKGCODJ": 10,
+    "AIMHHDHEKOK": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "NFCFKBICBOF": -0.21,
+    "CLNEOGDNHIB": 0.21,
+    "OJPHJIIGBIO": 2609008161,
+    "LOAEKECOHJF": "<color=#FFCC33>Press both the Left and Right buttons</color> to unleash an all-round strike and attack dolls on either side",
+    "IMKBGGGIIAI": "X806_intro",
+    "DMAPPIEDJDC": "X806",
+    "KEEKDEPKCNB": 760217069588558800,
+    "FPADPIMDIBJ": 17078114525351810000,
+    "OLOLDIHBOIA": 3,
+    "AGBEGABMBDI": 2024,
+    "FPKEHKLHHDC": 2701555603,
+    "PMPMKOPBJHA": "Agile Measure",
+    "DCLDBJPFMNP": [
+      {
+        "CDOIPGMKDFF": 74505
+      }
+    ],
+    "DLLGFDKHOIG": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 12024421
+      },
+      {
+        "CDOIPGMKDFF": 12024422
+      },
+      {
+        "CDOIPGMKDFF": 12024423
+      }
+    ],
+    "LOGBHLAFFJA": 5,
+    "PCCEHNBNJBD": [
+      2
+    ],
+    "PMGJFGOLIPC": [
+      1,
+      12
+    ],
+    "PBJNKOMKGIF": [
+      6
+    ]
+  }
+]

@@ -1,0 +1,2205 @@
+[
+  {
+    "AHKEEFHNHKA": 1,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 1435939934,
+    "OIIMMLBFGCJ": "Fortune Stick: Surging Fury",
+    "OCHCPNIBIPF": 822483241,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Rippling Reflections'</color> <color=#B09057FF>ATK</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 2,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 2201362086,
+    "OIIMMLBFGCJ": "Fortune Stick: Swell",
+    "OCHCPNIBIPF": 1860583793,
+    "AJGMCFNDKEG": "<color=#B09057FF>Rippling Reflections</color> gains a new ability: Periodically unleashes Torrent Rings, dealing AoE Hydro DMG. This can occur once every <color=#B09057FF>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 8
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 3,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 1179226686,
+    "OIIMMLBFGCJ": "Fortune Stick: Undercurrent",
+    "OCHCPNIBIPF": 1180439801,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Rippling Reflections</color>. Basic Attack AoE is sacrificed in return for a Basic Attack that causes a Water Eruption at the opponent's position.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 4,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 134083238,
+    "OIIMMLBFGCJ": "Fortune Stick: Dispersion",
+    "OCHCPNIBIPF": 2115922001,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Rippling Reflections</color>. Basic ATK value is sacrificed to greatly increase Attack AoE.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": -2000
+      },
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 6
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 5,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 3783534534,
+    "OIIMMLBFGCJ": "Fortune Stick: Honed Flow",
+    "OCHCPNIBIPF": 2501651289,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Rippling Reflections'</color> <color=#B09057FF>Elemental Mastery</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 2,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 75
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 6,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 1,
+    "MDHANDDFJAA": 3288264398,
+    "OIIMMLBFGCJ": "Fortune Stick: Rapids",
+    "OCHCPNIBIPF": 842515657,
+    "AJGMCFNDKEG": "Greatly increases <color=#B09057FF>Rippling Reflections'</color> <color=#B09057FF>ATK</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 4000
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 7,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350416
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 4,
+    "MDHANDDFJAA": 2927144454,
+    "OIIMMLBFGCJ": "Fortune Stick: Wind in the Bamboo",
+    "OCHCPNIBIPF": 2247920769,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Dust Devil's</color> <color=#B09057FF>ATK</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 8,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350416
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 4,
+    "MDHANDDFJAA": 234182422,
+    "OIIMMLBFGCJ": "Fortune Stick: Spring Gust",
+    "OCHCPNIBIPF": 1747520889,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Dust Devil's</color> Basic Attack to a Wind Blade that pushes opponents back. Gains an <color=#B09057FF>ATK</color> increase.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": 2
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 9,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350416
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 4,
+    "MDHANDDFJAA": 4189837230,
+    "OIIMMLBFGCJ": "Fortune Stick: Vacuum",
+    "OCHCPNIBIPF": 3314507897,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Dust Devil</color> so that it will continuously pull in enemies it is facing.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 10,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 4060971878,
+    "OIIMMLBFGCJ": "Fortune Stick: Thunder-charred",
+    "OCHCPNIBIPF": 3413131689,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Furious Discharge's</color> <color=#B09057FF>ATK</color> and detection range, allowing it to hit opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 8
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 11,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 1,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 1526692086,
+    "OIIMMLBFGCJ": "Fortune Stick: Bombardier",
+    "OCHCPNIBIPF": 2002158305,
+    "AJGMCFNDKEG": "When <color=#B09057FF>Veneficus Mechanici</color> trigger Overloaded and Electro-Charged, Overloaded and Electro-Charged DMG is increased.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 12,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 2942749918,
+    "OIIMMLBFGCJ": "Fortune Stick: Heavenly Tumult",
+    "OCHCPNIBIPF": 3965891137,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Furious Discharge's</color> Basic Attack to Celestial Thunder and greatly increases <color=#B09057FF>ATK</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": 1.5
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 13,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 4139391094,
+    "OIIMMLBFGCJ": "Fortune Stick: Silver Lining",
+    "OCHCPNIBIPF": 1046716521,
+    "AJGMCFNDKEG": "<color=#B09057FF>Furious Discharge</color> gains a new ability: Periodically unleashes a Lightning Strike, dealing AoE Electro DMG, gaining an <color=#B09057FF>Elemental Mastery</color> increase that lasts 10s based on the number of opponents hit.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 14,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 3447746710,
+    "OIIMMLBFGCJ": "Fortune Stick: Vengeance",
+    "OCHCPNIBIPF": 2408406937,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Furious Discharge's</color> Basic Attack to gain stacks of the Silent Thunder effect, allowing it to imprison opponents at the cost of clearing Silent Thunder for {1}s after gaining <color=#B09057FF>{0}</color> stacks.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 15,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 2668495142,
+    "OIIMMLBFGCJ": "Fortune Stick: Jolt",
+    "OCHCPNIBIPF": 571903425,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Furious Discharge's</color> Basic Attack to hit an additional <color=#B09057FF>{0}</color> targets.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 16,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 5,
+    "MDHANDDFJAA": 560020302,
+    "OIIMMLBFGCJ": "Fortune Stick: Stoic Thunder",
+    "OCHCPNIBIPF": 2398546089,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Furious Discharge's</color> <color=#B09057FF>ATK</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 17,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 2207796038,
+    "OIIMMLBFGCJ": "Fortune Stick: Embers",
+    "OCHCPNIBIPF": 3529145473,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Inferno's</color> <color=#B09057FF>ATK</color> and detection range, allowing it to hit opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 8
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 18,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 2968350262,
+    "OIIMMLBFGCJ": "Fortune Stick: Magma",
+    "OCHCPNIBIPF": 971401681,
+    "AJGMCFNDKEG": "Greatly upgrades the effectiveness of <color=#B09057FF>Inferno's</color> Basic Attack against Geo.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 19,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 678128262,
+    "OIIMMLBFGCJ": "Fortune Stick: Pyro Orb",
+    "OCHCPNIBIPF": 4058535809,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Inferno's</color> Basic Attack to higher-DMG Flares that descend from the skies.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 20,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 3540864942,
+    "OIIMMLBFGCJ": "Fortune Stick: Beacon",
+    "OCHCPNIBIPF": 1579853905,
+    "AJGMCFNDKEG": "Greatly upgrades <color=#B09057FF>Inferno's</color> detection range, allowing it to attack opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 8
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 21,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 3189710246,
+    "OIIMMLBFGCJ": "Fortune Stick: Blaze",
+    "OCHCPNIBIPF": 3265489609,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Inferno's</color> <color=#B09057FF>ATK</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 22,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 2,
+    "MDHANDDFJAA": 579377054,
+    "OIIMMLBFGCJ": "Fortune Stick: Torch",
+    "OCHCPNIBIPF": 4262655265,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Inferno's</color> <color=#B09057FF>Elemental Mastery</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 2,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 75
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 23,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350415
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 3,
+    "MDHANDDFJAA": 325510510,
+    "OIIMMLBFGCJ": "Fortune Stick: Frost Pellet",
+    "OCHCPNIBIPF": 1231354681,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Glacial Bloom's</color> <color=#B09057FF>ATK SPD</color> and detection range, allowing it to hit opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 8
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 24,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350415
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 3,
+    "MDHANDDFJAA": 1864257462,
+    "OIIMMLBFGCJ": "Fortune Stick: Uninhibited",
+    "OCHCPNIBIPF": 3978375673,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Glacial Bloom's</color> Basic Attack to decrease hit opponents' Elemental RES for 5s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 25,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350415
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 3,
+    "MDHANDDFJAA": 3034090182,
+    "OIIMMLBFGCJ": "Fortune Stick: Hailstones",
+    "OCHCPNIBIPF": 1670603649,
+    "AJGMCFNDKEG": "Modifies <color=#B09057FF>Glacial Bloom's</color> Basic Attack to Froststorm Arrows that deal greater DMG to Frozen opponents. The Basic Attack can now also attack one extra opponent.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 26,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350415
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 3,
+    "MDHANDDFJAA": 2975664950,
+    "OIIMMLBFGCJ": "Fortune Stick: Frozen Fog",
+    "OCHCPNIBIPF": 2178765889,
+    "AJGMCFNDKEG": "<color=#B09057FF>Glacial Bloom</color> gains a new ability: Unleashes Ice Mist every {0}s. The mist lasts {1}s each time it is unleashed and deals Cryo DMG to opponents within its AoE every 0.5s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 25
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 27,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 2714661502,
+    "OIIMMLBFGCJ": "Fortune Stick: Long Arm",
+    "OCHCPNIBIPF": 4212671241,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Crack Shot's</color> <color=#B09057FF>ATK SPD</color> and detection range, allowing it to hit opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 8
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 28,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 2454508198,
+    "OIIMMLBFGCJ": "Fortune Stick: Rolling Thunder",
+    "OCHCPNIBIPF": 1005832577,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Crack Shot</color>. Basic Attack is changed to a Chaos Cluster that pursues opponents and deals AoE DMG on hit. Chaos Cluster increases in Movement SPD, size, and DMG over time. Every 0.5s after firing, the Chaos Cluster gains 1 stack of Supernova, which increases the cluster's DMG. Stacks up to 6 times.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 29,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 1,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 3499922230,
+    "OIIMMLBFGCJ": "Fortune Stick: Siege",
+    "OCHCPNIBIPF": 3854375929,
+    "AJGMCFNDKEG": "When <color=#B09057FF>Veneficus Mechanici</color> trigger Superconduct, they will decrease opponents' Physical RES for 12s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 30,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 3689191526,
+    "OIIMMLBFGCJ": "Fortune Stick: Crumbling",
+    "OCHCPNIBIPF": 602233617,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Crack Shot's</color> Basic Attack to trigger an explosion on hit that deals AoE DMG.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 31,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 2005419878,
+    "OIIMMLBFGCJ": "Fortune Stick: Bullseye",
+    "OCHCPNIBIPF": 142804161,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Crack Shot's</color> Basic Attacks to become stronger over time as they are in flight. Arrows fired by Crack Shot's Basic Attack gain 1 stack of Precision Strike per {0}s they are in flight. Precision Strike boosts arrow DMG on hit. Max 10 stacks.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0.1
+      },
+      {
+        "CDOIPGMKDFF": 10
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 32,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 3353992798,
+    "OIIMMLBFGCJ": "Fortune Stick: Arbalest",
+    "OCHCPNIBIPF": 2956124889,
+    "AJGMCFNDKEG": "Greatly upgrades <color=#B09057FF>Crack Shot's</color> detection range, allowing it to attack opponents from further away.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 4,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 16
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 33,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 6,
+    "MDHANDDFJAA": 2206194902,
+    "OIIMMLBFGCJ": "Fortune Stick: Fusillade",
+    "OCHCPNIBIPF": 399321841,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Crack Shot's</color> <color=#B09057FF>ATK</color> and <color=#B09057FF>ATK SPD</color>.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 1,
+        "LKINBFGIPPB": 1,
+        "CCENNMJABLJ": 2000
+      },
+      {
+        "HDBDJOCJEND": 3,
+        "LKINBFGIPPB": 2,
+        "CCENNMJABLJ": -0.2
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 34,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350419
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 9,
+    "MDHANDDFJAA": 1171389542,
+    "OIIMMLBFGCJ": "Fortune Stick: Daze",
+    "OCHCPNIBIPF": 2486380801,
+    "AJGMCFNDKEG": "Decreases Movement SPD of opponents pushed back by <color=#B09057FF>Arcane Mechanicus: Banishment</color> for {0}s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 35,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350419
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 9,
+    "MDHANDDFJAA": 448141934,
+    "OIIMMLBFGCJ": "Fortune Stick: Sustenance",
+    "OCHCPNIBIPF": 2137669289,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Banishment</color>, allowing it to take effect <color=#B09057FF>{0}</color> more times before entering CD.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 36,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350418
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 8,
+    "MDHANDDFJAA": 81209510,
+    "OIIMMLBFGCJ": "Fortune Stick: Brambles",
+    "OCHCPNIBIPF": 2364865313,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Binding</color>, causing opponents imprisoned by it to take more DMG.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 37,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350418
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 8,
+    "MDHANDDFJAA": 2911948830,
+    "OIIMMLBFGCJ": "Fortune Stick: Constancy",
+    "OCHCPNIBIPF": 3083159673,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Binding</color> such that it will not be automatically destroyed after an explosion, but enter a state of self-repair. Self-repair takes <color=#B09057FF>{0}</color>s, and function will be restored once complete.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 38,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350418
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 8,
+    "MDHANDDFJAA": 4061514910,
+    "OIIMMLBFGCJ": "Fortune Stick: Chains",
+    "OCHCPNIBIPF": 2639234681,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Binding's</color> <color=#B09057FF>imprisonment effect</color>, allowing it to imprison all opponents within a set AoE.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 39,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350418
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 8,
+    "MDHANDDFJAA": 1574170814,
+    "OIIMMLBFGCJ": "Fortune Stick: Shackles",
+    "OCHCPNIBIPF": 909594697,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Binding</color>, causing its imprisonment time to be extended by <color=#B09057FF>{0}</color>s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 40,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350418
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 8,
+    "MDHANDDFJAA": 542180726,
+    "OIIMMLBFGCJ": "Fortune Stick: Hidden Sting",
+    "OCHCPNIBIPF": 977125785,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Binding</color>, causing opponents imprisoned by it to take more DMG.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 41,
+    "MFGAPJPIOBG": 40,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350412
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 2,
+    "JFNKEMNAIFG": 7,
+    "MDHANDDFJAA": 786500982,
+    "OIIMMLBFGCJ": "Fortune Stick: Continuous Carnage",
+    "OCHCPNIBIPF": 157259969,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Tandem Mine</color> such that it will not be automatically destroyed after an explosion, but enter a state of self-repair. Self-repair takes <color=#B09057FF>{0}</color>s, and function will be restored once complete.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 42,
+    "MFGAPJPIOBG": 20,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350412
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 7,
+    "MDHANDDFJAA": 920823542,
+    "OIIMMLBFGCJ": "Fortune Stick: Faint Thunder",
+    "OCHCPNIBIPF": 3167909705,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Tandem Mine</color> such that it will refund {0} Veneficus Points after it explodes.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 20
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 43,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350412
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 1,
+    "ELEJNDOFDHG": 0,
+    "JFNKEMNAIFG": 7,
+    "MDHANDDFJAA": 3137233790,
+    "OIIMMLBFGCJ": "Fortune Stick: Culling",
+    "OCHCPNIBIPF": 1992285033,
+    "AJGMCFNDKEG": "Upgrades <color=#B09057FF>Tandem Mine</color> to deal Bonus DMG to opponents with HP above {0}%.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 50
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 44,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350414
+        },
+        {
+          "CDOIPGMKDFF": 70350417
+        },
+        {
+          "CDOIPGMKDFF": 70350416
+        },
+        {
+          "CDOIPGMKDFF": 70350419
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 3179741622,
+    "OIIMMLBFGCJ": "Mystic Stick: Reinforcement",
+    "OCHCPNIBIPF": 748754481,
+    "AJGMCFNDKEG": "Increases the maximum number of <color=#B09057FF>Veneficus Mechanici</color> that can be constructed by {0}.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 45,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350397
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 1620511198,
+    "OIIMMLBFGCJ": "Mystic Stick: Arrow Shower",
+    "OCHCPNIBIPF": 1236721729,
+    "AJGMCFNDKEG": "Increases the maximum number of <color=#B09057FF>Crack Shots</color> that can be constructed by {0}.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 46,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350413
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 617194334,
+    "OIIMMLBFGCJ": "Mystic Stick: Howling Tides",
+    "OCHCPNIBIPF": 3211399089,
+    "AJGMCFNDKEG": "Increases the maximum number of <color=#B09057FF>Rippling Reflections</color> that can be constructed by {0}.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 47,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 2,
+      "KEMEIEBJCGM": [
+        {
+          "CDOIPGMKDFF": 70350417
+        }
+      ]
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 288277654,
+    "OIIMMLBFGCJ": "Mystic Stick: Lightning Speed",
+    "OCHCPNIBIPF": 2996872985,
+    "AJGMCFNDKEG": "Increases the maximum number of <color=#B09057FF>Furious Discharge</color> that can be constructed by {0}.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 48,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 3252430342,
+    "OIIMMLBFGCJ": "Mystic Stick: Grueling Battle",
+    "OCHCPNIBIPF": 1932172841,
+    "AJGMCFNDKEG": "<color=#B09057FF>Veneficus Mechanicus</color> will Refund {0}% of Veneficus Points when removed.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 80
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 49,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 10,
+    "MDHANDDFJAA": 3722629014,
+    "OIIMMLBFGCJ": "Mystic Stick: Swiftness",
+    "OCHCPNIBIPF": 2528109953,
+    "AJGMCFNDKEG": "Reduces all party members' Elemental Skill CD by {0}%.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 35
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 50,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 10,
+    "MDHANDDFJAA": 189052390,
+    "OIIMMLBFGCJ": "Mystic Stick: Boldness",
+    "OCHCPNIBIPF": 658865321,
+    "AJGMCFNDKEG": "Increases all party members' ATK SPD, Movement SPD, and Gliding SPD by {2}%, {0}%, and {1}%, respectively.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 25
+      },
+      {
+        "CDOIPGMKDFF": 25
+      },
+      {
+        "CDOIPGMKDFF": 25
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 51,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 10,
+    "MDHANDDFJAA": 1105389678,
+    "OIIMMLBFGCJ": "Mystic Stick: Deterrence",
+    "OCHCPNIBIPF": 1722530457,
+    "AJGMCFNDKEG": "Suppresses Clotting Ice and Clotting Ice (Extreme): Opponents near a character regenerate {0}% less HP.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 100
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 52,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 3014882846,
+    "OIIMMLBFGCJ": "Mystic Stick: Continuation",
+    "OCHCPNIBIPF": 1183356857,
+    "AJGMCFNDKEG": "When defeating opponents by dropping them, the Veneficus Points obtained is increased by {0}%.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 100
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  },
+  {
+    "AHKEEFHNHKA": 53,
+    "MFGAPJPIOBG": 10,
+    "HBFFJKIDHKP": {
+      "LCHAHJBKIHI": 0,
+      "KEMEIEBJCGM": []
+    },
+    "CLFKLBMDBFC": 0,
+    "ELEJNDOFDHG": 1,
+    "JFNKEMNAIFG": 11,
+    "MDHANDDFJAA": 390124462,
+    "OIIMMLBFGCJ": "Mystic Stick: Falling",
+    "OCHCPNIBIPF": 1629645129,
+    "AJGMCFNDKEG": "Reduces the shutdown CD of Adeptus Bridges by {0}s.",
+    "JBKMEGNFDGH": [
+      {
+        "CDOIPGMKDFF": 12
+      },
+      {
+        "CDOIPGMKDFF": 0
+      },
+      {
+        "CDOIPGMKDFF": 0
+      }
+    ],
+    "ILCDKEKIGLD": [
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      },
+      {
+        "HDBDJOCJEND": 0,
+        "LKINBFGIPPB": 0,
+        "CCENNMJABLJ": 0
+      }
+    ]
+  }
+]

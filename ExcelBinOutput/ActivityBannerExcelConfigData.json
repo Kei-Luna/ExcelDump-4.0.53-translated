@@ -1,0 +1,322 @@
+[
+  {
+    "DKFFECEOAKE": 5042,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15174,
+    "PANEPIPNNAP": "ConfigEffigyWater",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_EffigyWater",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1331077578,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5043,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15175,
+    "PANEPIPNNAP": "ConfigRaijin",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Raijin",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 2110025370,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5060,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15176,
+    "PANEPIPNNAP": "ConfigHoundPlanelurker",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Hound",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1365582098,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5061,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15177,
+    "PANEPIPNNAP": "ConfigDeepsea",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Drake_Deepsea",
+    "PILIOFGDELG": true,
+    "OCHCPNIBIPF": 458552746,
+    "AJGMCFNDKEG": "<color=#D3BC8EFF>Eligibility</color>\\nReach Adventure Rank 30 and complete the following prerequisite quests: the \"Ritou Escape Plan\" Archon Quest, the \"The Moon-Bathed Deep,\" \"The Still Water's Flow,\" and \"The Entrance to Tokoyo\" World Quests to take part.\\n\\n\"The Moon-Bathed Deep\" includes the following quests: \"Eye of Watatsumi,\" \"Fang of Watatsumi,\" \"Fin of Watatsumi,\" \"Tail of Watatsumi,\" and \"Heart of Watatsumi.\""
+  },
+  {
+    "DKFFECEOAKE": 5063,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigShenhe",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Shenhe",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1118890858,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5064,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigMichiae",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Michiae",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1849278290,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5071,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15178,
+    "PANEPIPNNAP": "ConfigNithhoggr",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Nithhoggr",
+    "PILIOFGDELG": true,
+    "OCHCPNIBIPF": 3851306674,
+    "AJGMCFNDKEG": "<color=#D3BC8EFF>Eligibility</color>\\nReach Adventure Rank 28 and complete the Archon Quest \"A New Star Approaches\" and the World Quest \"Surreptitious Seven-Star Seal Sundering\" to unlock \"Chasmic Serpent.\""
+  },
+  {
+    "DKFFECEOAKE": 5075,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigTheChasm",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_TheChasm",
+    "PILIOFGDELG": true,
+    "OCHCPNIBIPF": 524978850,
+    "AJGMCFNDKEG": "<color=#D3BC8EFF>How to Unlock The Chasm: Underground Mines</color>\\nReach Adventure Rank 28 and complete the Archon Quest \"A New Star Approaches\" and the World Quest \"Surreptitious Seven-Star Seal Sundering\" to unlock the underground mines for exploration."
+  },
+  {
+    "DKFFECEOAKE": 5077,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheChasm",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_TheChasm",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 547111794,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5086,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15179,
+    "PANEPIPNNAP": "ConfigMushroom",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Mushroom",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3077608586,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5089,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15180,
+    "PANEPIPNNAP": "ConfigRegisvineElectric",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Regisvine_Electric",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 2273100842,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5093,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigTheSumeru",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Sumeru",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 2378720362,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5102,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigCWSM",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_CWSM",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3063061826,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5103,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15181,
+    "PANEPIPNNAP": "ConfigGargoyle",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Monster_Gargoyle_Fafnir",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1099259786,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5104,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15182,
+    "PANEPIPNNAP": "ConfigMonolith",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Monster_Monolith_Starchild",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3194544562,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5105,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheSumeru1",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_Sumeru1",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 277995986,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5106,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15183,
+    "PANEPIPNNAP": "ConfigEffigyGrass",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_EffigyGrass",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 2060287082,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5109,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheSumeru2",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_Sumeru2",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3986037282,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5110,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 33385,
+    "PANEPIPNNAP": "ConfigGCG",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_GcgBanner",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 4224437570,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5115,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheWanderer",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_Wanderer",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 427969506,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5122,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15184,
+    "PANEPIPNNAP": "ConfigSandwormWind",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_SandwormWind",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 18484634,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5124,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheSumeru",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_TheSumeru",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 4119397498,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5131,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigTMHY",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_TMHY",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 652506050,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5134,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15185,
+    "PANEPIPNNAP": "ConfigArchdeacon",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Archdeacon",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 2404044810,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5146,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 33404,
+    "PANEPIPNNAP": "ConfigGCG3_7",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_GcgKeyVersion",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3013998682,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5153,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15193,
+    "PANEPIPNNAP": "ConfigHermitCrab",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_HermitCrab",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1051769938,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5154,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15190,
+    "PANEPIPNNAP": "ConfigNutcracker",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Nutcracker",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1305127170,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5155,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15194,
+    "PANEPIPNNAP": "ConfigMachinaIustitiaGravitas",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_MachinaIustitiaGravitas",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 24732314,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5156,
+    "MMPKPJLEMLG": 1,
+    "JGIGGNHNJED": 15195,
+    "PANEPIPNNAP": "ConfigFauneAbyssaleSeaHorsePrimoElectric",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_SeaHorseElectric",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 3086090794,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5158,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigRegionFontaine",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_Region_Fontaine",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1121393090,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5163,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigFDKXY",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_FDKXY",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 1572745898,
+    "AJGMCFNDKEG": ""
+  },
+  {
+    "DKFFECEOAKE": 5164,
+    "MMPKPJLEMLG": 0,
+    "JGIGGNHNJED": 0,
+    "PANEPIPNNAP": "ConfigAQTheFontaine1",
+    "HADEKKDJOMM": "ART/UI/Menus/Widget/Activity/Activity_AQ_Fontaine1",
+    "PILIOFGDELG": false,
+    "OCHCPNIBIPF": 920408362,
+    "AJGMCFNDKEG": ""
+  }
+]

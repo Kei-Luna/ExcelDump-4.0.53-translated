@@ -1,0 +1,132 @@
+[
+  {
+    "EAPMBDGHKMC": 1,
+    "FPKEHKLHHDC": 3008118213,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 2,
+    "FPKEHKLHHDC": 3008458653,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 3,
+    "FPKEHKLHHDC": 1638271837,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 4,
+    "FPKEHKLHHDC": 640083085,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 5,
+    "FPKEHKLHHDC": 335916733,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 6,
+    "FPKEHKLHHDC": 550339981,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 7,
+    "FPKEHKLHHDC": 1538947245,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 8,
+    "FPKEHKLHHDC": 4003717693,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 9,
+    "FPKEHKLHHDC": 2708926541,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 10,
+    "FPKEHKLHHDC": 4233342277,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 11,
+    "FPKEHKLHHDC": 46968813,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 12,
+    "FPKEHKLHHDC": 3144402021,
+    "PMPMKOPBJHA": ""
+  },
+  {
+    "EAPMBDGHKMC": 13,
+    "FPKEHKLHHDC": 3273340957,
+    "PMPMKOPBJHA": "Pyro RES increased by 40%."
+  },
+  {
+    "EAPMBDGHKMC": 14,
+    "FPKEHKLHHDC": 2375275557,
+    "PMPMKOPBJHA": "DEF increased by 50%."
+  },
+  {
+    "EAPMBDGHKMC": 15,
+    "FPKEHKLHHDC": 923436573,
+    "PMPMKOPBJHA": "Shield Strength increased by 50%."
+  },
+  {
+    "EAPMBDGHKMC": 16,
+    "FPKEHKLHHDC": 396640573,
+    "PMPMKOPBJHA": "CRIT Rate increased by 70%."
+  },
+  {
+    "EAPMBDGHKMC": 17,
+    "FPKEHKLHHDC": 3694321061,
+    "PMPMKOPBJHA": "ATK increased by 120%."
+  },
+  {
+    "EAPMBDGHKMC": 18,
+    "FPKEHKLHHDC": 2140678277,
+    "PMPMKOPBJHA": "Hydro, Cryo, and Electro DMG Bonus increased by 100%."
+  },
+  {
+    "EAPMBDGHKMC": 19,
+    "FPKEHKLHHDC": 746070797,
+    "PMPMKOPBJHA": "Normal and Charged ATK SPD increased by 20%."
+  },
+  {
+    "EAPMBDGHKMC": 20,
+    "FPKEHKLHHDC": 3484983165,
+    "PMPMKOPBJHA": "CRIT DMG increased by 140%."
+  },
+  {
+    "EAPMBDGHKMC": 21,
+    "FPKEHKLHHDC": 1162029021,
+    "PMPMKOPBJHA": "Stamina Consumption decreased by 80%."
+  },
+  {
+    "EAPMBDGHKMC": 22,
+    "FPKEHKLHHDC": 891107381,
+    "PMPMKOPBJHA": "Shield Strength increased by 100%."
+  },
+  {
+    "EAPMBDGHKMC": 23,
+    "FPKEHKLHHDC": 3378727629,
+    "PMPMKOPBJHA": "When a character hits an opponent, there is a 50% chance that this will release Rapids that deal Hydro DMG and restore 10% of the character's Max HP. Can occur once every 5s."
+  },
+  {
+    "EAPMBDGHKMC": 24,
+    "FPKEHKLHHDC": 3785893149,
+    "PMPMKOPBJHA": "Plunging Attacks deal 50% increased DMG. Additionally, Plunging Attacks will unleash a shockwave when they hit opponents, dealing one instance of AoE DMG."
+  },
+  {
+    "EAPMBDGHKMC": 25,
+    "FPKEHKLHHDC": 1401035253,
+    "PMPMKOPBJHA": "Charged Attacks from bow-wielding characters have 100% increased CRIT Rate. Additionally, Charged Attacks from bow-using characters will unleash a shockwave when they hit opponents, dealing one instance of AoE DMG. Can occur once every 1s."
+  },
+  {
+    "EAPMBDGHKMC": 26,
+    "FPKEHKLHHDC": 1868185005,
+    "PMPMKOPBJHA": "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave that deals one instance of AoE DMG. Can occur once every 2s."
+  }
+]

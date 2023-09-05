@@ -1,0 +1,821 @@
+[
+  {
+    "PGKNKBKHCHM": 10001,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Male_Mengde_Barman_Boss",
+    "OCHCPNIBIPF": 1588008724,
+    "AJGMCFNDKEG": "Let's just have three shots of coffee."
+  },
+  {
+    "PGKNKBKHCHM": 10101,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3380219908,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10102,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2444061236,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10103,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2127566460,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10104,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2378389476,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10105,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2924614140,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10106,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2632932356,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10107,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3640206212,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10108,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 2354195692,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10109,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3117109916,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10110,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 1839734764,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10111,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3897793292,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10112,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3770682628,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10113,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3097536732,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10114,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 1796129812,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10115,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3362008420,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10116,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3593652364,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10117,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 3174549516,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10118,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Rosaria",
+    "OCHCPNIBIPF": 241131604,
+    "AJGMCFNDKEG": "I'll leave my drink up to you. Just make it a tea of some kind, and not too big."
+  },
+  {
+    "PGKNKBKHCHM": 10201,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Kaeya",
+    "OCHCPNIBIPF": 3903002212,
+    "AJGMCFNDKEG": "Give me a single large Moonlit Alley."
+  },
+  {
+    "PGKNKBKHCHM": 10301,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Diluc",
+    "OCHCPNIBIPF": 1592492236,
+    "AJGMCFNDKEG": "Now, could you make me a Gray Valley Sunset, then? I'll leave the size up to you."
+  },
+  {
+    "PGKNKBKHCHM": 10401,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Lisa",
+    "OCHCPNIBIPF": 1860523164,
+    "AJGMCFNDKEG": "I'd like to have a Love Poem. Medium, extra sweet."
+  },
+  {
+    "PGKNKBKHCHM": 10501,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 3668988164,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10502,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 1195596436,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10503,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 2040858428,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10504,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 3703111244,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10505,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 16186692,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10506,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Qin",
+    "OCHCPNIBIPF": 857958636,
+    "AJGMCFNDKEG": "Coffee, and make it medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 10601,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Zhongli",
+    "OCHCPNIBIPF": 2809766420,
+    "AJGMCFNDKEG": "One Misty Garden, please. I take my tea strong."
+  },
+  {
+    "PGKNKBKHCHM": 10701,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Eula",
+    "OCHCPNIBIPF": 4107972748,
+    "AJGMCFNDKEG": "A small Foamy Reef, please... Thank you."
+  },
+  {
+    "PGKNKBKHCHM": 10702,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Eula",
+    "OCHCPNIBIPF": 2850443972,
+    "AJGMCFNDKEG": "A small Foamy Reef, please... Thank you."
+  },
+  {
+    "PGKNKBKHCHM": 10801,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Ningguang",
+    "OCHCPNIBIPF": 2825173004,
+    "AJGMCFNDKEG": "I'll have a small Birch Sap, on the sour side."
+  },
+  {
+    "PGKNKBKHCHM": 10901,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Beidou",
+    "OCHCPNIBIPF": 2511283004,
+    "AJGMCFNDKEG": "Uh... I will have a... a large Dusk, please. Thanks!"
+  },
+  {
+    "PGKNKBKHCHM": 11001,
+    "DNAJCCINKHO": 0,
+    "DEOOGNEJGAK": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Shenhe",
+    "OCHCPNIBIPF": 27145564,
+    "AJGMCFNDKEG": "A Snow-Covered Kiss... Paimon chose it."
+  },
+  {
+    "PGKNKBKHCHM": 20101,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 3603787676,
+    "AJGMCFNDKEG": "An extra-strong Athenaeum, please. A small one... Just like this."
+  },
+  {
+    "PGKNKBKHCHM": 20102,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1309154740,
+    "AJGMCFNDKEG": "I've heard that Athenaeum's pretty good. A medium-sized one of those, thanks!"
+  },
+  {
+    "PGKNKBKHCHM": 20103,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 3188178692,
+    "AJGMCFNDKEG": "I'd like a large Athenaeum, and I'd like it extra-strong, too."
+  },
+  {
+    "PGKNKBKHCHM": 20104,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 2038153276,
+    "AJGMCFNDKEG": "A Misty Garden. That's what they call it, right? I'll have a small one."
+  },
+  {
+    "PGKNKBKHCHM": 20105,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 202789236,
+    "AJGMCFNDKEG": "One extra-strong medium Misty Garden, if you please."
+  },
+  {
+    "PGKNKBKHCHM": 20106,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 1437001860,
+    "AJGMCFNDKEG": "I'd like one extra-strong large Misty Garden. Thanks."
+  },
+  {
+    "PGKNKBKHCHM": 20107,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 919463924,
+    "AJGMCFNDKEG": "One small Gray Valley Sunset, and I'd like it extra-strong."
+  },
+  {
+    "PGKNKBKHCHM": 20108,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 230909188,
+    "AJGMCFNDKEG": "I'll have one medium extra-strong Gray Valley Sunset."
+  },
+  {
+    "PGKNKBKHCHM": 20109,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2768021404,
+    "AJGMCFNDKEG": "Make me one large Gray Valley Sunset, please."
+  },
+  {
+    "PGKNKBKHCHM": 20110,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 1316651932,
+    "AJGMCFNDKEG": "I'd like a Dusk, just a small one will do."
+  },
+  {
+    "PGKNKBKHCHM": 20111,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 2228326100,
+    "AJGMCFNDKEG": "Could I get one medium Dusk?"
+  },
+  {
+    "PGKNKBKHCHM": 20112,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 2989557860,
+    "AJGMCFNDKEG": "One large Dusk over here, please!"
+  },
+  {
+    "PGKNKBKHCHM": 20113,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 2997776956,
+    "AJGMCFNDKEG": "I'll go for a small Foamy Reef."
+  },
+  {
+    "PGKNKBKHCHM": 20114,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1219135548,
+    "AJGMCFNDKEG": "Do you serve medium Foamy Reefs? I'd like one."
+  },
+  {
+    "PGKNKBKHCHM": 20115,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 2831789348,
+    "AJGMCFNDKEG": "I'd like to have a large Foamy Reef with extra fizz."
+  },
+  {
+    "PGKNKBKHCHM": 20116,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 2163419676,
+    "AJGMCFNDKEG": "One small Snow-Covered Kiss with extra milk, thanks!"
+  },
+  {
+    "PGKNKBKHCHM": 20117,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2596064388,
+    "AJGMCFNDKEG": "Could I get a medium-sized Snow-Covered Kiss?"
+  },
+  {
+    "PGKNKBKHCHM": 20118,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 2404855388,
+    "AJGMCFNDKEG": "Snow-Covered Kiss, large, and don't forget the extra milk!"
+  },
+  {
+    "PGKNKBKHCHM": 20201,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+    "OCHCPNIBIPF": 624371076,
+    "AJGMCFNDKEG": "Hahah! I'll have a medium Birch Sap."
+  },
+  {
+    "PGKNKBKHCHM": 20202,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 2712706492,
+    "AJGMCFNDKEG": "Do you have Birch Sap here? I'd like a large one."
+  },
+  {
+    "PGKNKBKHCHM": 20203,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 567679500,
+    "AJGMCFNDKEG": "I'd like a medium Birch Sap on the sour side."
+  },
+  {
+    "PGKNKBKHCHM": 20204,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 2692588652,
+    "AJGMCFNDKEG": "Could you get me a large sour Birch Sap?"
+  },
+  {
+    "PGKNKBKHCHM": 20205,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 3139757100,
+    "AJGMCFNDKEG": "Do you still have some Moonlit Alley? I'll have a small one of those."
+  },
+  {
+    "PGKNKBKHCHM": 20206,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 607965356,
+    "AJGMCFNDKEG": "I'd like to have one medium Moonlit Alley with extra Cocoa Paste."
+  },
+  {
+    "PGKNKBKHCHM": 20207,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 551560732,
+    "AJGMCFNDKEG": "Could I get a medium Moonlit Alley with extra milk?"
+  },
+  {
+    "PGKNKBKHCHM": 20208,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 3688496908,
+    "AJGMCFNDKEG": "I'd love to have a large Moonlit Alley with extra Cocoa Paste and Milk."
+  },
+  {
+    "PGKNKBKHCHM": 20209,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 2931882788,
+    "AJGMCFNDKEG": "Love Poem, small, please."
+  },
+  {
+    "PGKNKBKHCHM": 20210,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 1813719212,
+    "AJGMCFNDKEG": "Could I get a sweeter medium Love Poem?"
+  },
+  {
+    "PGKNKBKHCHM": 20211,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 3052628372,
+    "AJGMCFNDKEG": "I'd like a medium Love Poem with extra Milk."
+  },
+  {
+    "PGKNKBKHCHM": 20212,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 2231994852,
+    "AJGMCFNDKEG": "I'd like a large Love Poem, extra sweet, extra Milk."
+  },
+  {
+    "PGKNKBKHCHM": 20213,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 1042919236,
+    "AJGMCFNDKEG": "I'll just have a small Golden Eden, please."
+  },
+  {
+    "PGKNKBKHCHM": 20214,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1715475716,
+    "AJGMCFNDKEG": "Could I have a medium Golden Eden? Extra milk, if you please."
+  },
+  {
+    "PGKNKBKHCHM": 20215,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 3265526716,
+    "AJGMCFNDKEG": "Could you get me a medium Brightcrown?"
+  },
+  {
+    "PGKNKBKHCHM": 20216,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 469293924,
+    "AJGMCFNDKEG": "A large Brightcrown with extra milk, please."
+  },
+  {
+    "PGKNKBKHCHM": 20217,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 3312468316,
+    "AJGMCFNDKEG": "One medium Dawning Dew, please."
+  },
+  {
+    "PGKNKBKHCHM": 20218,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2960810556,
+    "AJGMCFNDKEG": "I'd like to have one large Dawning Dew with extra fizzy water, thanks!"
+  },
+  {
+    "PGKNKBKHCHM": 20219,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 1661828836,
+    "AJGMCFNDKEG": "One Caramel Pinecone with extra milk... just a small one, if you would."
+  },
+  {
+    "PGKNKBKHCHM": 20220,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 1055089356,
+    "AJGMCFNDKEG": "I'd like an extra-sweet medium Caramel Pinecone."
+  },
+  {
+    "PGKNKBKHCHM": 20221,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 3780876924,
+    "AJGMCFNDKEG": "I'd like to order a large Caramel Pinecone, extra milk and extra sweet."
+  },
+  {
+    "PGKNKBKHCHM": 20301,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 2340836444,
+    "AJGMCFNDKEG": "I'd like a small cup of the purest juice you've got."
+  },
+  {
+    "PGKNKBKHCHM": 20302,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1770901268,
+    "AJGMCFNDKEG": "One large juice, please. Simple will do, no need for anything special."
+  },
+  {
+    "PGKNKBKHCHM": 20303,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 1814671836,
+    "AJGMCFNDKEG": "Do you have Gray Valley Sunset here? I'd like a large and extra-strong one of those."
+  },
+  {
+    "PGKNKBKHCHM": 20304,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 3132263564,
+    "AJGMCFNDKEG": "Get me a coffee that has some impact to it. Medium, please."
+  },
+  {
+    "PGKNKBKHCHM": 20305,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+    "OCHCPNIBIPF": 435274604,
+    "AJGMCFNDKEG": "Do we have some kind of fizzier coffee around? I'd like a large one."
+  },
+  {
+    "PGKNKBKHCHM": 20306,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 2980450812,
+    "AJGMCFNDKEG": "One large Foamy Reef. Give me some of that extra fizz, too!"
+  },
+  {
+    "PGKNKBKHCHM": 20307,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 3242633116,
+    "AJGMCFNDKEG": "I'd like a small and sweet Milk Tea. I guess I'd like some caramel in it."
+  },
+  {
+    "PGKNKBKHCHM": 20308,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 3546758372,
+    "AJGMCFNDKEG": "Let's have one medium Love Poem. Extra sweet, please."
+  },
+  {
+    "PGKNKBKHCHM": 20309,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 1261284492,
+    "AJGMCFNDKEG": "Could I have a small Love Poem, please? I'd like a bit more Milk to go with that."
+  },
+  {
+    "PGKNKBKHCHM": 20310,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 2763152196,
+    "AJGMCFNDKEG": "I'll have a medium Love Poem with extra Caramel and Milk."
+  },
+  {
+    "PGKNKBKHCHM": 20311,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 411895948,
+    "AJGMCFNDKEG": "I'd love to have a small coffee with some extra milk."
+  },
+  {
+    "PGKNKBKHCHM": 20312,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 4028249908,
+    "AJGMCFNDKEG": "Are you still taking orders for a medium Night of Swirling Stars? I'd like one with extra milk."
+  },
+  {
+    "PGKNKBKHCHM": 20313,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 2521155788,
+    "AJGMCFNDKEG": "I'd like a large Night of Swirling Stars with extra Milk."
+  },
+  {
+    "PGKNKBKHCHM": 20314,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1239053868,
+    "AJGMCFNDKEG": "I'd like some of that smooth fruit juice... Can't quite recall the name, but just get me a small one."
+  },
+  {
+    "PGKNKBKHCHM": 20315,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 1394585548,
+    "AJGMCFNDKEG": "Get me a medium Sweet Cider Lake with some extra milk, please."
+  },
+  {
+    "PGKNKBKHCHM": 20316,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 557232028,
+    "AJGMCFNDKEG": "Could I have a large Sweet Cider Lake? I'd like some extra milk, too."
+  },
+  {
+    "PGKNKBKHCHM": 20317,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 3056268644,
+    "AJGMCFNDKEG": "I'd like to drink coffee, tea, and milk all at the same time... If you don't mind, I'd like a large-sized drink, too."
+  },
+  {
+    "PGKNKBKHCHM": 20318,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2607251028,
+    "AJGMCFNDKEG": "I think the drink in question is called Stroke of Night... Anyway, I'd like a medium-sized one."
+  },
+  {
+    "PGKNKBKHCHM": 20319,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 2463143172,
+    "AJGMCFNDKEG": "I'll take a medium Stroke of Night with extra milk, please."
+  },
+  {
+    "PGKNKBKHCHM": 20320,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 354557028,
+    "AJGMCFNDKEG": "I'll just have a small Boreal Watch with extra milk, thank you."
+  },
+  {
+    "PGKNKBKHCHM": 20321,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 2899166836,
+    "AJGMCFNDKEG": "I'd like to get a medium Boreal Watch... with extra mint."
+  },
+  {
+    "PGKNKBKHCHM": 20322,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 2982991324,
+    "AJGMCFNDKEG": "One large Boreal Watch over here please. Extra milk and mint both!"
+  },
+  {
+    "PGKNKBKHCHM": 20401,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Elder_Mengde_Man01",
+    "OCHCPNIBIPF": 3432586972,
+    "AJGMCFNDKEG": "I'd love to have a small cup of very potent coffee, something to really wake me up."
+  },
+  {
+    "PGKNKBKHCHM": 20402,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 943614108,
+    "AJGMCFNDKEG": "I'd like to have a strong coffee with a very intense flavor. Just a small one will do."
+  },
+  {
+    "PGKNKBKHCHM": 20403,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 3482104116,
+    "AJGMCFNDKEG": "A medium Athenaeum, extra-strong, please."
+  },
+  {
+    "PGKNKBKHCHM": 20404,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 3378429940,
+    "AJGMCFNDKEG": "I'd like some juice to get me going for a meal. Medium will do."
+  },
+  {
+    "PGKNKBKHCHM": 20405,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 2865148748,
+    "AJGMCFNDKEG": "Could I get some juice to get my stomach going? I'll have a medium-sized one, on the sour side."
+  },
+  {
+    "PGKNKBKHCHM": 20406,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1896883076,
+    "AJGMCFNDKEG": "I'd like to get a large, slightly more sour Birch Sap."
+  },
+  {
+    "PGKNKBKHCHM": 20407,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 896699892,
+    "AJGMCFNDKEG": "I'd like a small glass of juice with some milk foam on top, thanks."
+  },
+  {
+    "PGKNKBKHCHM": 20408,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 4061899692,
+    "AJGMCFNDKEG": "Could I get some of that juice with milk foam on top? I'll have a medium-sized glass."
+  },
+  {
+    "PGKNKBKHCHM": 20409,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 4075911548,
+    "AJGMCFNDKEG": "Hey, could I have a large Snow-Covered Kiss with extra milk?"
+  },
+  {
+    "PGKNKBKHCHM": 20410,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 1164260476,
+    "AJGMCFNDKEG": "I'd like some smooth afternoon tea. A small cup will do."
+  },
+  {
+    "PGKNKBKHCHM": 20411,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 2446504172,
+    "AJGMCFNDKEG": "Is there anything here suited to afternoon tea? I'd like it medium-sized with a little extra milk."
+  },
+  {
+    "PGKNKBKHCHM": 20412,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2405863956,
+    "AJGMCFNDKEG": "I'd like to have a large Scholar's Afternoon with a bit of extra milk."
+  },
+  {
+    "PGKNKBKHCHM": 20413,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female01",
+    "OCHCPNIBIPF": 3147018740,
+    "AJGMCFNDKEG": "Do you have some kind of refreshing, sweet and sour tea? I'd like a medium-sized one of those."
+  },
+  {
+    "PGKNKBKHCHM": 20414,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female02",
+    "OCHCPNIBIPF": 2919221724,
+    "AJGMCFNDKEG": "I would like a medium refreshing, sweet and sour tea. Extra sour, if you please."
+  },
+  {
+    "PGKNKBKHCHM": 20415,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 3270072452,
+    "AJGMCFNDKEG": "A large Tart Brilliance. I'd like it to be a bit more sour."
+  },
+  {
+    "PGKNKBKHCHM": 20416,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 2497623860,
+    "AJGMCFNDKEG": "I'd like some refreshing and fizzy juice. A small-sized one, please."
+  },
+  {
+    "PGKNKBKHCHM": 20417,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2358689124,
+    "AJGMCFNDKEG": "I'll have a medium-sized Barbatos' Boon with some extra fizz."
+  },
+  {
+    "PGKNKBKHCHM": 20418,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_MuscleMan_Mengde_01",
+    "OCHCPNIBIPF": 3587938388,
+    "AJGMCFNDKEG": "I'd like a medium-sized Barbatos' Boon with a more refreshing taste."
+  },
+  {
+    "PGKNKBKHCHM": 20419,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Female03",
+    "OCHCPNIBIPF": 657688284,
+    "AJGMCFNDKEG": "I could go for a large Barbatos' Boon right now. Extra fizz and extra mint for me, please."
+  },
+  {
+    "PGKNKBKHCHM": 20420,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male01",
+    "OCHCPNIBIPF": 3193451444,
+    "AJGMCFNDKEG": "I'd like to have one small Laughter and Cheer with additional milk."
+  },
+  {
+    "PGKNKBKHCHM": 20421,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male02",
+    "OCHCPNIBIPF": 1620932284,
+    "AJGMCFNDKEG": "I'll take a medium Laughter and Cheer with extra Cocoa Paste."
+  },
+  {
+    "PGKNKBKHCHM": 20422,
+    "DNAJCCINKHO": 80,
+    "DEOOGNEJGAK": "ART/UI/Atlas/NPCIcon/NPC_Mengde_Male03",
+    "OCHCPNIBIPF": 2363655188,
+    "AJGMCFNDKEG": "I'll have a large Laughter and Cheer with extra Cocoa Paste and Milk, thanks."
+  }
+]

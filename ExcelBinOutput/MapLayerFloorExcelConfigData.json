@@ -1,0 +1,1513 @@
+[
+  {
+    "PGKNKBKHCHM": 3110101,
+    "JFMJFLLNFDC": 31101,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 282262735,
+    "DCJKDDHFMDP": "Araumi Ruins: B1",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 417561169,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3110102,
+    "JFMJFLLNFDC": 31101,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1899167247,
+    "DCJKDDHFMDP": "Araumi Ruins: B2",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1809358985,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3180101,
+    "JFMJFLLNFDC": 31801,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3008415679,
+    "DCJKDDHFMDP": "Tsurumi Island Ruins: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1133537457,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3180102,
+    "JFMJFLLNFDC": 31801,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1987227367,
+    "DCJKDDHFMDP": "Tsurumi Island Ruins: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 137623697,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3200101,
+    "JFMJFLLNFDC": 32001,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3674153447,
+    "DCJKDDHFMDP": "Fungus-Lit Cavern Path",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3527524185,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3200201,
+    "JFMJFLLNFDC": 32002,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2000478111,
+    "DCJKDDHFMDP": "Electro Regisvine's Shaded Lair",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 542152265,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3200301,
+    "JFMJFLLNFDC": 32003,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 30625991,
+    "DCJKDDHFMDP": "Chatrakam Cave: Southern Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2699202177,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3200401,
+    "JFMJFLLNFDC": 32004,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3957636303,
+    "DCJKDDHFMDP": "Chatrakam Cave: Northern Underground Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 555231217,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3200501,
+    "JFMJFLLNFDC": 32005,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 573230127,
+    "DCJKDDHFMDP": "Mawtiyima: Concealed Sanctuary",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7306622
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3837892241,
+    "DGNNCLLGILO": "Mawtiyima: Concealed Sanctuary"
+  },
+  {
+    "PGKNKBKHCHM": 3210101,
+    "JFMJFLLNFDC": 32101,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 278993855,
+    "DCJKDDHFMDP": "Concealed Passage",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7302702
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2701348865,
+    "DGNNCLLGILO": "Cavern's Postern"
+  },
+  {
+    "PGKNKBKHCHM": 3210102,
+    "JFMJFLLNFDC": 32101,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 648881623,
+    "DCJKDDHFMDP": "Hidden Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7302705
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1391613849,
+    "DGNNCLLGILO": "Dev's Cavern"
+  },
+  {
+    "PGKNKBKHCHM": 3210201,
+    "JFMJFLLNFDC": 32102,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2861786471,
+    "DCJKDDHFMDP": "Devantaka Mountain: Water-Sealed Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3567217729,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3210301,
+    "JFMJFLLNFDC": 32103,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2769497455,
+    "DCJKDDHFMDP": "Devantaka Mountain: Beneath the Giant",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2319089361,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3210401,
+    "JFMJFLLNFDC": 32104,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1254843607,
+    "DCJKDDHFMDP": "Lost Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1262110593,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220101,
+    "JFMJFLLNFDC": 32201,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2906278879,
+    "DCJKDDHFMDP": "Mountain Cavern: F1",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3078635633,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220102,
+    "JFMJFLLNFDC": 32201,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 2988778903,
+    "DCJKDDHFMDP": "Mountain Cavern: F2",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1945009649,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220103,
+    "JFMJFLLNFDC": 32201,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 3999047687,
+    "DCJKDDHFMDP": "Mountain Cavern: F3",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1953333129,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220104,
+    "JFMJFLLNFDC": 32201,
+    "DIAJCGJEEJC": -4,
+    "GGNINNGIGDK": 131671703,
+    "DCJKDDHFMDP": "Mountain Cavern: F4",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2025394177,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220201,
+    "JFMJFLLNFDC": 32202,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 886631407,
+    "DCJKDDHFMDP": "Jadeplume Terrorshroom's Lair",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 773050113,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3220301,
+    "JFMJFLLNFDC": 32203,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 108352167,
+    "DCJKDDHFMDP": "Vanarana: Southern Path",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 4140872385,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3230101,
+    "JFMJFLLNFDC": 32301,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2810274031,
+    "DCJKDDHFMDP": "Winding Path Beneath the Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3991646777,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3230201,
+    "JFMJFLLNFDC": 32302,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 4235473311,
+    "DCJKDDHFMDP": "Apam Woods: Subterranean Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7301823
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3739484097,
+    "DGNNCLLGILO": "The Rain's End"
+  },
+  {
+    "PGKNKBKHCHM": 3230301,
+    "JFMJFLLNFDC": 32303,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2746926383,
+    "DCJKDDHFMDP": "Craggy Waterway",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7307010
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2207745985,
+    "DGNNCLLGILO": "Waterway to Ashvattha's Concourse"
+  },
+  {
+    "PGKNKBKHCHM": 3240101,
+    "JFMJFLLNFDC": 32401,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3664436927,
+    "DCJKDDHFMDP": "Hidden Cavern: I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7306108
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2173354065,
+    "DGNNCLLGILO": "Zohrah Mushroom's Sanctum"
+  },
+  {
+    "PGKNKBKHCHM": 3240201,
+    "JFMJFLLNFDC": 32402,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1946743471,
+    "DCJKDDHFMDP": "Hidden Cavern: II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7306114
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 278019689,
+    "DGNNCLLGILO": "Zohrah Mushroom's Prison"
+  },
+  {
+    "PGKNKBKHCHM": 3250101,
+    "JFMJFLLNFDC": 32501,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3605825047,
+    "DCJKDDHFMDP": "Old Vanarana: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7303610
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1002887409,
+    "DGNNCLLGILO": "Old Vanarana: Sand-Embraced Home"
+  },
+  {
+    "PGKNKBKHCHM": 3250102,
+    "JFMJFLLNFDC": 32501,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 390572935,
+    "DCJKDDHFMDP": "Old Vanarana: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7303638
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1891522913,
+    "DGNNCLLGILO": "Old Vanarana: Land of Grounded Dreams"
+  },
+  {
+    "PGKNKBKHCHM": 3260101,
+    "JFMJFLLNFDC": 32601,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 762793631,
+    "DCJKDDHFMDP": "Abdju Road: Upper Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 507025321,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3260102,
+    "JFMJFLLNFDC": 32601,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 4038947359,
+    "DCJKDDHFMDP": "Abdju Road: Lower Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2886628041,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3260201,
+    "JFMJFLLNFDC": 32602,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1252410303,
+    "DCJKDDHFMDP": "Underground Area",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7321101
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3536133129,
+    "DGNNCLLGILO": "Dar al-Shifa: Subterranean Halls"
+  },
+  {
+    "PGKNKBKHCHM": 3260301,
+    "JFMJFLLNFDC": 32603,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 4247847807,
+    "DCJKDDHFMDP": "Dendro Hypostasis: Rooted Hollow",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 976674201,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3270101,
+    "JFMJFLLNFDC": 32701,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1774959151,
+    "DCJKDDHFMDP": "Khemenu Temple: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305311
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 481680145,
+    "DGNNCLLGILO": "Khemenu Temple: Entrance Hall"
+  },
+  {
+    "PGKNKBKHCHM": 3270102,
+    "JFMJFLLNFDC": 32701,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1438541839,
+    "DCJKDDHFMDP": "Khemenu Temple: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305325
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3279402409,
+    "DGNNCLLGILO": "Khemenu Temple: Underground Area"
+  },
+  {
+    "PGKNKBKHCHM": 3270103,
+    "JFMJFLLNFDC": 32701,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 2065747335,
+    "DCJKDDHFMDP": "Khemenu Temple: Unknown Area III",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305325
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2028793073,
+    "DGNNCLLGILO": "Khemenu Temple: Underground Depths"
+  },
+  {
+    "PGKNKBKHCHM": 3270104,
+    "JFMJFLLNFDC": 32701,
+    "DIAJCGJEEJC": -4,
+    "GGNINNGIGDK": 2483624455,
+    "DCJKDDHFMDP": "Khemenu Temple: Unknown Area IV",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305329
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 919548433,
+    "DGNNCLLGILO": "Khemenu Temple: Chamber of Secrets"
+  },
+  {
+    "PGKNKBKHCHM": 3270201,
+    "JFMJFLLNFDC": 32702,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3856451207,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305446
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1974787433,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret: Main Hall"
+  },
+  {
+    "PGKNKBKHCHM": 3270202,
+    "JFMJFLLNFDC": 32702,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 280415935,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305405
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3306021073,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret: Middle Level"
+  },
+  {
+    "PGKNKBKHCHM": 3270203,
+    "JFMJFLLNFDC": 32702,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 1311124999,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret: Unknown Area III",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7308310
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 336663761,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret: Lower Level"
+  },
+  {
+    "PGKNKBKHCHM": 3270301,
+    "JFMJFLLNFDC": 32703,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1082420607,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Northwest: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3259575625,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Northwest: Rock Cavern Upper Level"
+  },
+  {
+    "PGKNKBKHCHM": 3270302,
+    "JFMJFLLNFDC": 32703,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1600926967,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Northwest: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2761296289,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Northwest: Rock Cavern Middle Level"
+  },
+  {
+    "PGKNKBKHCHM": 3270303,
+    "JFMJFLLNFDC": 32703,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 1143194855,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Northwest: Unknown Area III",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1323968489,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Northwest: Rock Cavern Lower Level"
+  },
+  {
+    "PGKNKBKHCHM": 3270401,
+    "JFMJFLLNFDC": 32704,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2492159927,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Southwest: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3598732633,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Southwest: Rock Cavern Area"
+  },
+  {
+    "PGKNKBKHCHM": 3270402,
+    "JFMJFLLNFDC": 32704,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 4189967255,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Southwest: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 433250953,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Southwest: Middle Level Passage"
+  },
+  {
+    "PGKNKBKHCHM": 3270403,
+    "JFMJFLLNFDC": 32704,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 3639509519,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Southwest: Unknown Area III",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7308303
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 963439153,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Southwest: Lower Ruins"
+  },
+  {
+    "PGKNKBKHCHM": 3270501,
+    "JFMJFLLNFDC": 32705,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3098965087,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Eastern Section: Unknown Area I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1404347993,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Eastern Section: Sekhem Hall"
+  },
+  {
+    "PGKNKBKHCHM": 3270502,
+    "JFMJFLLNFDC": 32705,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1735534487,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret Eastern Section: Unknown Area II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7305442
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2390840817,
+    "DGNNCLLGILO": "The Mausoleum of King Deshret Eastern Section: Rock Cavern Area"
+  },
+  {
+    "PGKNKBKHCHM": 3270601,
+    "JFMJFLLNFDC": 32706,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3365272935,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret, Southern Section: Underground Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1516172537,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3270701,
+    "JFMJFLLNFDC": 32707,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3341605199,
+    "DCJKDDHFMDP": "The Mausoleum of King Deshret, Southwest Section: Underground Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 739677937,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3280101,
+    "JFMJFLLNFDC": 32801,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2847789919,
+    "DCJKDDHFMDP": "Valley of Dahri, Mountain Interior: Upper Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1907542921,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3280102,
+    "JFMJFLLNFDC": 32801,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 2436714911,
+    "DCJKDDHFMDP": "Valley of Dahri, Mountain Interior: Lower Cavern",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1213845993,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3280201,
+    "JFMJFLLNFDC": 32802,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2331478863,
+    "DCJKDDHFMDP": "Secret Base",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7311004
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3069428369,
+    "DGNNCLLGILO": "Thutmose's Secret Base"
+  },
+  {
+    "PGKNKBKHCHM": 3300101,
+    "JFMJFLLNFDC": 33001,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 422621823,
+    "DCJKDDHFMDP": "Unknown Cave Beneath the Desert: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7325115
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3870821129,
+    "DGNNCLLGILO": "Hangeh Afrasiyab: Upper Level"
+  },
+  {
+    "PGKNKBKHCHM": 3300102,
+    "JFMJFLLNFDC": 33001,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 2739413975,
+    "DCJKDDHFMDP": "Unknown Cave Beneath the Desert: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7325115
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 326084161,
+    "DGNNCLLGILO": "Hangeh Afrasiyab: Lower Level"
+  },
+  {
+    "PGKNKBKHCHM": 3300201,
+    "JFMJFLLNFDC": 33002,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 213024159,
+    "DCJKDDHFMDP": "Gate of Zulqarnain: Subterranean Defile",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1084335025,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3310101,
+    "JFMJFLLNFDC": 33101,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 353441679,
+    "DCJKDDHFMDP": "Unknown Ruins in the Desert Depths: I",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7325602
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3923730185,
+    "DGNNCLLGILO": "Madinat al-Nuhas: Upper Level"
+  },
+  {
+    "PGKNKBKHCHM": 3310102,
+    "JFMJFLLNFDC": 33101,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 3346149111,
+    "DCJKDDHFMDP": "Unknown Ruins in the Desert Depths: II",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7325602
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2870048721,
+    "DGNNCLLGILO": "Madinat al-Nuhas: Lower Level"
+  },
+  {
+    "PGKNKBKHCHM": 3310201,
+    "JFMJFLLNFDC": 33102,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3581425119,
+    "DCJKDDHFMDP": "Chemin Oublie",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 200946841,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3310301,
+    "JFMJFLLNFDC": 33103,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 4003846223,
+    "DCJKDDHFMDP": "Amrita Pool",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 727089105,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3310401,
+    "JFMJFLLNFDC": 33104,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2532622423,
+    "DCJKDDHFMDP": "Within the Mother Tree",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7323205
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1546079993,
+    "DGNNCLLGILO": "Harvisptokhm"
+  },
+  {
+    "PGKNKBKHCHM": 3320101,
+    "JFMJFLLNFDC": 33201,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 37115079,
+    "DCJKDDHFMDP": "Hidden Temple: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7321966
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 579550529,
+    "DGNNCLLGILO": "Temple of Gurabad: Upper Level"
+  },
+  {
+    "PGKNKBKHCHM": 3320102,
+    "JFMJFLLNFDC": 33201,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 3478501255,
+    "DCJKDDHFMDP": "Hidden Temple: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7321966
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 3567056673,
+    "DGNNCLLGILO": "Temple of Gurabad: Lower Level"
+  },
+  {
+    "PGKNKBKHCHM": 3320201,
+    "JFMJFLLNFDC": 33202,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3643542495,
+    "DCJKDDHFMDP": "Apep's Resort",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3608914825,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320301,
+    "JFMJFLLNFDC": 33203,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2515073271,
+    "DCJKDDHFMDP": "Unearthly Prison",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7321964
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 4096247745,
+    "DGNNCLLGILO": "Liloupar's Cell"
+  },
+  {
+    "PGKNKBKHCHM": 3320401,
+    "JFMJFLLNFDC": 33204,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2918693447,
+    "DCJKDDHFMDP": "Enigmatic Land",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7310338
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 165068089,
+    "DGNNCLLGILO": "The Orchard of Pairidaeza"
+  },
+  {
+    "PGKNKBKHCHM": 3320501,
+    "JFMJFLLNFDC": 33205,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 4088021815,
+    "DCJKDDHFMDP": "Mt. Damavand Ruins: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3881345721,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320502,
+    "JFMJFLLNFDC": 33205,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 3542935959,
+    "DCJKDDHFMDP": "Mt. Damavand Ruins: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2971969185,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320601,
+    "JFMJFLLNFDC": 33206,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 694644087,
+    "DCJKDDHFMDP": "Wenut Tunnels: Upper Passage",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 976529169,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320602,
+    "JFMJFLLNFDC": 33206,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 3397118263,
+    "DCJKDDHFMDP": "Wenut Tunnels: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3376899657,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320603,
+    "JFMJFLLNFDC": 33206,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 2099981279,
+    "DCJKDDHFMDP": "Wenut Tunnels: Middle Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2863251105,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3320604,
+    "JFMJFLLNFDC": 33206,
+    "DIAJCGJEEJC": -4,
+    "GGNINNGIGDK": 3576280223,
+    "DCJKDDHFMDP": "Wenut Tunnels: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3211990161,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3330201,
+    "JFMJFLLNFDC": 33302,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 788865695,
+    "DCJKDDHFMDP": "Poisson",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3509493681,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3330301,
+    "JFMJFLLNFDC": 33303,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2050577663,
+    "DCJKDDHFMDP": "\"Throne of Emperor of Fire and Iron\"",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 314280977,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3340101,
+    "JFMJFLLNFDC": 33401,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 4072607535,
+    "DCJKDDHFMDP": "Source of All Waters: The Great Fontaine Lake",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2298628241,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3340301,
+    "JFMJFLLNFDC": 33403,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2937555911,
+    "DCJKDDHFMDP": "Within Elynas",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400605
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2057056977,
+    "DGNNCLLGILO": "Within Elynas: Northern Zone"
+  },
+  {
+    "PGKNKBKHCHM": 3340302,
+    "JFMJFLLNFDC": 33403,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 646950047,
+    "DCJKDDHFMDP": "Within Elynas",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400605
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 1072439193,
+    "DGNNCLLGILO": "Within Elynas: Southern Zone"
+  },
+  {
+    "PGKNKBKHCHM": 3340401,
+    "JFMJFLLNFDC": 33404,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 2108814671,
+    "DCJKDDHFMDP": "Scorching Cave: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2825932137,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3340402,
+    "JFMJFLLNFDC": 33404,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3247766671,
+    "DCJKDDHFMDP": "Scorching Cave: Upper Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2637815265,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3340501,
+    "JFMJFLLNFDC": 33405,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 811488335,
+    "DCJKDDHFMDP": "Shipwreck",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3896808617,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3350101,
+    "JFMJFLLNFDC": 33501,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1603192359,
+    "DCJKDDHFMDP": "Mysterious Underwater Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400145
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2923225481,
+    "DGNNCLLGILO": "Annapausis"
+  },
+  {
+    "PGKNKBKHCHM": 3350102,
+    "JFMJFLLNFDC": 33501,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 1814257455,
+    "DCJKDDHFMDP": "Mysterious Underwater Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400309
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 416931089,
+    "DGNNCLLGILO": "Convoluted Corridor at the Top of the Tall Tower"
+  },
+  {
+    "PGKNKBKHCHM": 3350103,
+    "JFMJFLLNFDC": 33501,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 2499913255,
+    "DCJKDDHFMDP": "Mysterious Underwater Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400314
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 983239137,
+    "DGNNCLLGILO": "After Escaping the Convoluted Corridor"
+  },
+  {
+    "PGKNKBKHCHM": 3350201,
+    "JFMJFLLNFDC": 33502,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 331031607,
+    "DCJKDDHFMDP": "Fleuve Cendre",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3265425849,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3350301,
+    "JFMJFLLNFDC": 33503,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 457113215,
+    "DCJKDDHFMDP": "Submerged Ruins: Outskirts",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 970353745,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3350302,
+    "JFMJFLLNFDC": 33503,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 916801991,
+    "DCJKDDHFMDP": "Court of Fontaine - Submerged Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400808
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 586793833,
+    "DGNNCLLGILO": "Submerged Ruins: Central Quartier"
+  },
+  {
+    "PGKNKBKHCHM": 3350303,
+    "JFMJFLLNFDC": 33503,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 2246506007,
+    "DCJKDDHFMDP": "Court of Fontaine - Submerged Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7400829
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 2112150385,
+    "DGNNCLLGILO": "Submerged Ruins: Northern Quartier"
+  },
+  {
+    "PGKNKBKHCHM": 3350401,
+    "JFMJFLLNFDC": 33504,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2831975535,
+    "DCJKDDHFMDP": "Reimbursement River",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1032023737,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360101,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2541538623,
+    "DCJKDDHFMDP": "Fortress of Meropide: Reception Area",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2640671337,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360102,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 3025592639,
+    "DCJKDDHFMDP": "Fortress of Meropide: Prison Block",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3676184761,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360103,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 1402437535,
+    "DCJKDDHFMDP": "Fortress of Meropide: Administrative Area",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3682413945,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360104,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -4,
+    "GGNINNGIGDK": 1382584079,
+    "DCJKDDHFMDP": "",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 190387881,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360105,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -5,
+    "GGNINNGIGDK": 3508781015,
+    "DCJKDDHFMDP": "",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2925764425,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360106,
+    "JFMJFLLNFDC": 33601,
+    "DIAJCGJEEJC": -6,
+    "GGNINNGIGDK": 4006643983,
+    "DCJKDDHFMDP": "",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 4236472417,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360201,
+    "JFMJFLLNFDC": 33602,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1711511615,
+    "DCJKDDHFMDP": "\"The Court of the Millennial Pearl Seahorse\"",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2657551513,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360301,
+    "JFMJFLLNFDC": 33603,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 80131047,
+    "DCJKDDHFMDP": "Submerged Stony Path",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1813159105,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360501,
+    "JFMJFLLNFDC": 33605,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2912254327,
+    "DCJKDDHFMDP": "Kuisel's Clockwork Workshop: Entrance",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3774444521,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360502,
+    "JFMJFLLNFDC": 33605,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 22729431,
+    "DCJKDDHFMDP": "Kuisel's Clockwork Workshop: Middle Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1578666753,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360503,
+    "JFMJFLLNFDC": 33605,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 2506930271,
+    "DCJKDDHFMDP": "Kuisel's Clockwork Workshop: Lower Level",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 137773417,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3360601,
+    "JFMJFLLNFDC": 33606,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 3415845191,
+    "DCJKDDHFMDP": "Underwater Cave",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 1275510321,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3370101,
+    "JFMJFLLNFDC": 33701,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 8041415,
+    "DCJKDDHFMDP": "Abandoned Laboratory: Upper Water Area",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 3182695065,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3370102,
+    "JFMJFLLNFDC": 33701,
+    "DIAJCGJEEJC": -2,
+    "GGNINNGIGDK": 4214904143,
+    "DCJKDDHFMDP": "Abandoned Laboratory: Ruin Outskirts",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 1,
+      "ICGBLOEECIB": [
+        {
+          "CDOIPGMKDFF": 7408103
+        }
+      ]
+    },
+    "PMAJIOPMMHG": 741590265,
+    "DGNNCLLGILO": "Abandoned Laboratory: Ruins"
+  },
+  {
+    "PGKNKBKHCHM": 3370103,
+    "JFMJFLLNFDC": 33701,
+    "DIAJCGJEEJC": -3,
+    "GGNINNGIGDK": 4207369143,
+    "DCJKDDHFMDP": "Abandoned Laboratory: Lower Ruins",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 2367694073,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3370201,
+    "JFMJFLLNFDC": 33702,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 1245607487,
+    "DCJKDDHFMDP": "Bravais' Hidden Study",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 4089418897,
+    "DGNNCLLGILO": ""
+  },
+  {
+    "PGKNKBKHCHM": 3370301,
+    "JFMJFLLNFDC": 33703,
+    "DIAJCGJEEJC": -1,
+    "GGNINNGIGDK": 2676112303,
+    "DCJKDDHFMDP": "Hydrological Data Central Processing Station",
+    "KDKACJNAMOK": {
+      "JFNIMDOBDHK": 0,
+      "ICGBLOEECIB": []
+    },
+    "PMAJIOPMMHG": 730654809,
+    "DGNNCLLGILO": ""
+  }
+]

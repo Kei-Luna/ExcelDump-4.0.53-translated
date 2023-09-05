@@ -1,0 +1,144 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 1
+      }
+    ],
+    "GOKLHECJDLA": 9101,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 15
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      }
+    ],
+    "GOKLHECJDLA": 9102,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 25
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 1
+      },
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      }
+    ],
+    "GOKLHECJDLA": 9103,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 35
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 2
+      },
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 4
+      }
+    ],
+    "GOKLHECJDLA": 9104,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 45
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 3
+      },
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 8
+      }
+    ],
+    "GOKLHECJDLA": 9105,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 55
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 4
+      },
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 8
+      }
+    ],
+    "GOKLHECJDLA": 9106,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 65
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "KOJEJJEGEJG": [
+      {
+        "CDOIPGMKDFF": 5
+      },
+      {
+        "CDOIPGMKDFF": 6
+      },
+      {
+        "CDOIPGMKDFF": 7
+      },
+      {
+        "CDOIPGMKDFF": 8
+      }
+    ],
+    "GOKLHECJDLA": 9107,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 75
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "KOJEJJEGEJG": [],
+    "GOKLHECJDLA": 9108,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 84
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "KOJEJJEGEJG": [],
+    "GOKLHECJDLA": 9109,
+    "IONLFHOBECC": 20,
+    "CMMEHKPEPBB": 94
+  }
+]

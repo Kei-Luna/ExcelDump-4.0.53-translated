@@ -1,0 +1,92 @@
+[
+  {
+    "PGKNKBKHCHM": 10010101,
+    "AOHNMKJJIJI": 2574141246,
+    "CEAGMFFHAJO": "Area I: Sunlit Mountainside",
+    "BDMEOBOGFKM": 1199144944,
+    "ADCPMMFMIEK": "Use Endora's skill to catch Oceanid Creatures\\nProgress: {0}%",
+    "FFDEEJFCKCG": 1578910864,
+    "EPCPPMDPEFJ": "{0} Exploration Progress: {1}%",
+    "DBPDKBEBDIB": 100101,
+    "FDKPFMPGMMK": [
+      {
+        "CDOIPGMKDFF": 3102001
+      }
+    ],
+    "IKIJCPEGOAP": 3010101,
+    "OFACDHMPHKJ": 15,
+    "FCDOPNHIHFP": 600018
+  },
+  {
+    "PGKNKBKHCHM": 10010102,
+    "AOHNMKJJIJI": 103706502,
+    "CEAGMFFHAJO": "Area II: Wavering Waterweeds",
+    "BDMEOBOGFKM": 2113245480,
+    "ADCPMMFMIEK": "Use Endora's skill to catch Oceanid Creatures\\nProgress: {0}%",
+    "FFDEEJFCKCG": 718082312,
+    "EPCPPMDPEFJ": "{0} Exploration Progress: {1}%",
+    "DBPDKBEBDIB": 100101,
+    "FDKPFMPGMMK": [
+      {
+        "CDOIPGMKDFF": 3002001
+      }
+    ],
+    "IKIJCPEGOAP": 3010102,
+    "OFACDHMPHKJ": 15,
+    "FCDOPNHIHFP": 600020
+  },
+  {
+    "PGKNKBKHCHM": 10010103,
+    "AOHNMKJJIJI": 3420015438,
+    "CEAGMFFHAJO": "Area III: Edge of the Horizon",
+    "BDMEOBOGFKM": 1398222568,
+    "ADCPMMFMIEK": "Use Endora's skill to catch Oceanid Creatures\\nProgress: {0}%",
+    "FFDEEJFCKCG": 1027092128,
+    "EPCPPMDPEFJ": "{0} Exploration Progress: {1}%",
+    "DBPDKBEBDIB": 100101,
+    "FDKPFMPGMMK": [
+      {
+        "CDOIPGMKDFF": 3105001
+      }
+    ],
+    "IKIJCPEGOAP": 3010103,
+    "OFACDHMPHKJ": 15,
+    "FCDOPNHIHFP": 600022
+  },
+  {
+    "PGKNKBKHCHM": 10010104,
+    "AOHNMKJJIJI": 3911306934,
+    "CEAGMFFHAJO": "Area IV: Mesmerizing Lakeshore",
+    "BDMEOBOGFKM": 2267120984,
+    "ADCPMMFMIEK": "Use Endora's skill to catch Oceanid Creatures\\nProgress: {0}%",
+    "FFDEEJFCKCG": 223474328,
+    "EPCPPMDPEFJ": "{0} Exploration Progress: {1}%",
+    "DBPDKBEBDIB": 100101,
+    "FDKPFMPGMMK": [
+      {
+        "CDOIPGMKDFF": 3104001
+      }
+    ],
+    "IKIJCPEGOAP": 3010104,
+    "OFACDHMPHKJ": 15,
+    "FCDOPNHIHFP": 600024
+  },
+  {
+    "PGKNKBKHCHM": 10010105,
+    "AOHNMKJJIJI": 3072707206,
+    "CEAGMFFHAJO": "Area V: Homeward Path",
+    "BDMEOBOGFKM": 30987984,
+    "ADCPMMFMIEK": "Use Endora's skill to catch Oceanid Creatures\\nProgress: {0}%",
+    "FFDEEJFCKCG": 1524244712,
+    "EPCPPMDPEFJ": "{0} Exploration Progress: {1}%",
+    "DBPDKBEBDIB": 100101,
+    "FDKPFMPGMMK": [
+      {
+        "CDOIPGMKDFF": 3101001
+      }
+    ],
+    "IKIJCPEGOAP": 3010105,
+    "OFACDHMPHKJ": 15,
+    "FCDOPNHIHFP": 600026
+  }
+]

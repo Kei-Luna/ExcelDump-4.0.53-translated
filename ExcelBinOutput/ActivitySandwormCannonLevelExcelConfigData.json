@@ -1,0 +1,113 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "BCJEBPNJNLN": 43001,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15128101
+      }
+    ],
+    "MMHADCPEMNK": 73511,
+    "HFIMPPIOOLD": 73512,
+    "LBAHHHOCHCL": 1,
+    "PNAKJFCALEO": 13047,
+    "KJNIJNGLHDJ": 776711416,
+    "KGGEJLPHNKC": "Proposal & Gathering",
+    "IFFDHOICLNK": "UI_ACTIVITY_SANDWORMCANNON_LEVEL_1_DESC",
+    "AKPLNMBKEPO": 1113356277,
+    "HCCNCPJEJHP": "DMG dealt by all party members using catalysts will be increased by 20%.",
+    "DKLADOGIOFA": "30342,30343",
+    "AIGDGIGDIDF": "UI_DungeonPic_SandwormCannon",
+    "IOINGIACDMF": "UI_Icon_SandwormCannon"
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "BCJEBPNJNLN": 43002,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15128201
+      }
+    ],
+    "MMHADCPEMNK": 73513,
+    "HFIMPPIOOLD": 73514,
+    "LBAHHHOCHCL": 1,
+    "PNAKJFCALEO": 13048,
+    "KJNIJNGLHDJ": 1443276120,
+    "KGGEJLPHNKC": "Introduction & Testing",
+    "IFFDHOICLNK": "UI_ACTIVITY_SANDWORMCANNON_LEVEL_2_DESC",
+    "AKPLNMBKEPO": 3526105573,
+    "HCCNCPJEJHP": "All DMG dealt by all party members' Normal, Charged, and Plunging Attacks will be increased by 20%.",
+    "DKLADOGIOFA": "30342,30343",
+    "AIGDGIGDIDF": "UI_DungeonPic_SandwormCannon",
+    "IOINGIACDMF": "UI_Icon_SandwormCannon"
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "BCJEBPNJNLN": 43003,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15128301
+      }
+    ],
+    "MMHADCPEMNK": 73515,
+    "HFIMPPIOOLD": 73516,
+    "LBAHHHOCHCL": 2,
+    "PNAKJFCALEO": 13049,
+    "KJNIJNGLHDJ": 3601022272,
+    "KGGEJLPHNKC": "Body & Demonstration",
+    "IFFDHOICLNK": "UI_ACTIVITY_SANDWORMCANNON_LEVEL_3_DESC",
+    "AKPLNMBKEPO": 4037745157,
+    "HCCNCPJEJHP": "All party members have their Elemental Mastery increased by 100.",
+    "DKLADOGIOFA": "30342,30343",
+    "AIGDGIGDIDF": "UI_DungeonPic_SandwormCannon",
+    "IOINGIACDMF": "UI_Icon_SandwormCannon"
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "BCJEBPNJNLN": 43004,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15128401
+      }
+    ],
+    "MMHADCPEMNK": 73517,
+    "HFIMPPIOOLD": 73518,
+    "LBAHHHOCHCL": 3,
+    "PNAKJFCALEO": 13049,
+    "KJNIJNGLHDJ": 3555625720,
+    "KGGEJLPHNKC": "Conclusion & Presentation",
+    "IFFDHOICLNK": "UI_ACTIVITY_SANDWORMCANNON_LEVEL_4_DESC",
+    "AKPLNMBKEPO": 218125637,
+    "HCCNCPJEJHP": "ATK SPD of all party members who use Polearms, Claymores, and Swords will be increased by 20%.",
+    "DKLADOGIOFA": "30342,30343",
+    "AIGDGIGDIDF": "UI_DungeonPic_SandwormCannon",
+    "IOINGIACDMF": "UI_Icon_SandwormCannon"
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "BCJEBPNJNLN": 43005,
+    "GOMNCDKNDLG": [
+      {
+        "CDOIPGMKDFF": 15128501
+      },
+      {
+        "CDOIPGMKDFF": 15128502
+      },
+      {
+        "CDOIPGMKDFF": 15128503
+      }
+    ],
+    "MMHADCPEMNK": 73519,
+    "HFIMPPIOOLD": 0,
+    "LBAHHHOCHCL": 4,
+    "PNAKJFCALEO": 13050,
+    "KJNIJNGLHDJ": 2744256416,
+    "KGGEJLPHNKC": "Completion & Consummation",
+    "IFFDHOICLNK": "UI_ACTIVITY_SANDWORMCANNON_LEVEL_5_DESC",
+    "AKPLNMBKEPO": 572600701,
+    "HCCNCPJEJHP": "Elemental Burst DMG dealt by all party members will be increased by 20%.",
+    "DKLADOGIOFA": "30342,30343",
+    "AIGDGIGDIDF": "UI_DungeonPic_SandwormCannon",
+    "IOINGIACDMF": "UI_Icon_SandwormCannon"
+  }
+]

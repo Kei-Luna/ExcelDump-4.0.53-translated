@@ -1,0 +1,2554 @@
+[
+  {
+    "PGKNKBKHCHM": 1,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 23030101
+      },
+      {
+        "CDOIPGMKDFF": 23040101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 474485041,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15503,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 2116056172,
+    "PMPMKOPBJHA": "Fatui Cicin Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Summoner_01",
+    "OCHCPNIBIPF": 2873961103,
+    "AJGMCFNDKEG": "A Fatui mage who can command Cicins in battle.\\nSimilarly to the way that Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.\\nThey seem to wander the land aimlessly, as if compelled by some unknown duty.",
+    "OLDLAACJHPO": 1425803254,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 2,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22010101
+      },
+      {
+        "CDOIPGMKDFF": 22010201
+      },
+      {
+        "CDOIPGMKDFF": 22010301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1847382081,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15501,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1211246492,
+    "PMPMKOPBJHA": "Abyss Mage",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Abyss_Water_01",
+    "OCHCPNIBIPF": 3160129879,
+    "AJGMCFNDKEG": "Abyss creatures who can command the power of the elements in combat to a certain extent.\\nFor unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say Abyss Mages utter a long-forgotten language from which they draw magical power.",
+    "OLDLAACJHPO": 371397750,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 3,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24010101
+      },
+      {
+        "CDOIPGMKDFF": 24010301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3358195073,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15504,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 7930300,
+    "PMPMKOPBJHA": "Ruin Guard",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Defender_Noner_01",
+    "OCHCPNIBIPF": 3599879231,
+    "AJGMCFNDKEG": "An ancient humanoid war machine.\\nThey are said to be remnants from a lost ancient nation. Some believe that they were developed not as war machines, but as protectors of the ruins.\\nThough that hypothesis does not explain why would they choose to employ explosive weaponry inside the very ruins they are supposed to protect...",
+    "OLDLAACJHPO": 4016562134,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 4,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21020101
+      },
+      {
+        "CDOIPGMKDFF": 21020201
+      },
+      {
+        "CDOIPGMKDFF": 21020301
+      },
+      {
+        "CDOIPGMKDFF": 21020601
+      },
+      {
+        "CDOIPGMKDFF": 21020601
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2161128561,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15500,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 3562720660,
+    "PMPMKOPBJHA": "Mitachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_None_01",
+    "OCHCPNIBIPF": 2163980335,
+    "AJGMCFNDKEG": "The most formidable warriors of the hilichurl tribes.\\nFighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger. All young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, and fight more battles.",
+    "OLDLAACJHPO": 914927254,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 5,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 23010101
+      },
+      {
+        "CDOIPGMKDFF": 23010201
+      },
+      {
+        "CDOIPGMKDFF": 23010301
+      },
+      {
+        "CDOIPGMKDFF": 23010401
+      },
+      {
+        "CDOIPGMKDFF": 23010501
+      },
+      {
+        "CDOIPGMKDFF": 23010601
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1313684513,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16007,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 1740952220,
+    "PMPMKOPBJHA": "Fatui Skirmisher",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
+    "OCHCPNIBIPF": 1364422791,
+    "AJGMCFNDKEG": "A soldier encased within a Fatui war machine.\\nThese skirmishers do not question if they shall live or die as they advance into nations far from home to complete reconnaissance missions and lay the groundwork for operations to come.\\nUnlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might.\\nTo complete their tasks and reduce losses in men and material, their tactics are thus more reliant on teamwork.",
+    "OLDLAACJHPO": 1462432238,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 6,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2791230489,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15100,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2296454212,
+    "PMPMKOPBJHA": "Electro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Electric",
+    "OCHCPNIBIPF": 622146887,
+    "AJGMCFNDKEG": "Code name: Aleph. A high-purity Electro entity.\\nElemental hypostases are the highest forms of elemental structures, usually formed either at a location bursting with elemental energy or at a clogged ley line.\\nElemental hypostases have developed defensive mechanisms based on their elemental attributes.",
+    "OLDLAACJHPO": 4000482334,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 7,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2660363209,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15110,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3813394428,
+    "PMPMKOPBJHA": "Anemo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Wind",
+    "OCHCPNIBIPF": 1898332639,
+    "AJGMCFNDKEG": "Code name: Beth. A high-purity Anemo entity.\\nElemental hypostases are life forms which have completely abandoned their former appearance and biological structure, making them able to reach the highest level of elemental purity.\\nResearch into hypostases is mainly led by scholars of Sumeru Akademiya, but due to the level of danger that they pose, little of substance is known about hypostases beyond their scientific name and code name.",
+    "OLDLAACJHPO": 1756062334,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 8,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26020101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1006015889,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15130,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 525736108,
+    "PMPMKOPBJHA": "Cryo Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Ice",
+    "OCHCPNIBIPF": 894077983,
+    "AJGMCFNDKEG": "A monster formed from a vine that was imbued with the essence of biting frost within the ley lines.\\nSome studies suggest that plants are like the organs of the world, harmonizing the turbulent elemental energies of the ley lines. Concrete examples of this phenomena are Mist Flowers, Whopperflowers, and the like, which brim over with elemental energy.\\nIn certain circumstances, certain plants will turn into creatures of monstrous size and intent — such as the Cryo Regisvines — in the course of many years.",
+    "OLDLAACJHPO": 927437942,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 9,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 29020102
+      }
+    ],
+    "DOFHDEEONBM": 454,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      },
+      {
+        "CDOIPGMKDFF": 1003
+      },
+      {
+        "CDOIPGMKDFF": 2003
+      },
+      {
+        "CDOIPGMKDFF": 2005
+      }
+    ],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2382290441,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15010,
+    "LBCBLIFJAGL": 0,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2324314052,
+    "PMPMKOPBJHA": "Lupus Boreas, Dominator of Wolves",
+    "ADLKHHCGHAH": "UI_MonsterIcon_LupiBoreas",
+    "OCHCPNIBIPF": 2964908743,
+    "AJGMCFNDKEG": "A noble soul that watches over Wolvendom.\\nWhen the safety of the wolves is threatened, it will take the form of a wolf and bare its fangs and claws. It is said that its powers were given to it by an ancient god.",
+    "OLDLAACJHPO": 1361566470,
+    "KCLODHOPLDI": "Rumor has it that a great eternal power rests at Wolvendom, watching over the wolves...",
+    "EGIBNEPHIGD": [
+      {
+        "CDOIPGMKDFF": 800206
+      },
+      {
+        "CDOIPGMKDFF": 800207
+      },
+      {
+        "CDOIPGMKDFF": 800208
+      },
+      {
+        "CDOIPGMKDFF": 800209
+      }
+    ]
+  },
+  {
+    "PGKNKBKHCHM": 10,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 23020101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3453953129,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15502,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1030983868,
+    "PMPMKOPBJHA": "Fatui Agent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Fire_01",
+    "OCHCPNIBIPF": 1163312791,
+    "AJGMCFNDKEG": "A Fatui secret agent.\\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\" If there is one thing the Fatui are not known for, it is leniency, and whoever dares to oppose them will invoke the full force of their wrath upon them.",
+    "OLDLAACJHPO": 3576467670,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 11,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24010201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 488316681,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15504,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 243568684,
+    "PMPMKOPBJHA": "Ruin Hunter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Formathr_None",
+    "OCHCPNIBIPF": 3684190943,
+    "AJGMCFNDKEG": "A giant alien war machine.\\nThey are said to be remnants from a lost ancient nation. Apparently, the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness. They are extremely dangerous both in melee and ranged combat.\\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height.",
+    "OLDLAACJHPO": 973997142,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 12,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26010101
+      },
+      {
+        "CDOIPGMKDFF": 26010201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 963828529,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16008,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 562652100,
+    "PMPMKOPBJHA": "Whopperflower",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Mimik_Ice",
+    "OCHCPNIBIPF": 3558974463,
+    "AJGMCFNDKEG": "A bizarre mimetic plant monster that harnesses the elements in combat.\\nThese plants lurk under the surface and ambush unsuspecting prey. With the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant tree that sways and spews elemental power...",
+    "OLDLAACJHPO": 3262262566,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 13,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2998782569,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15120,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2498400124,
+    "PMPMKOPBJHA": "Geo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Rock",
+    "OCHCPNIBIPF": 2273147727,
+    "AJGMCFNDKEG": "Code name: Gimel. A high-purity Geo entity.\\nElemental hypostases are ultra-compact structures with a high mass.\\nConcentrated elemental energy forms a solid shell around the core of the hypostasis, leaving only the core reactive to elemental stimuli.",
+    "OLDLAACJHPO": 3627861054,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 14,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20050101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 4017621113,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15150,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 859677348,
+    "PMPMKOPBJHA": "Oceanid",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Oceanid",
+    "OCHCPNIBIPF": 2848133519,
+    "AJGMCFNDKEG": "A life-form created from condensed Hydro elements of incredible purity.\\nOften attached to bodies of water. It is said that as water bodies become purer, the Hydro elements within grow more abundant, causing the Oceanids to grow more powerful.\\nIt is also said by some that Oceanids were once sea creatures from a home far away who carried the fragments of a long-dead god to the many corners of this world. Perhaps they did this so that the love their god held for this world could be spread through the waters to all the land...",
+    "OLDLAACJHPO": 2573390758,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 15,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26020201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1547145569,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15140,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3427645324,
+    "PMPMKOPBJHA": "Pyro Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Fire",
+    "OCHCPNIBIPF": 3116937319,
+    "AJGMCFNDKEG": "A giant vine that has absorbed the ancient flame that rages within the ley lines.\\nIt is restless as if filled with endless fury.\\nPoets, bards, and even some academics believe that elements also contain emotions and hopes. If this is true, then one can only wonder what emotions cause the Pyro Regisvine to burn eternally, writhing like one longing to be free of the confines of the earth...",
+    "OLDLAACJHPO": 1179122462,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 16,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26030101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3734043241,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15505,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 888016324,
+    "PMPMKOPBJHA": "Geovishap Hatchling",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Wyrm_Rock",
+    "OCHCPNIBIPF": 4137825743,
+    "AJGMCFNDKEG": "A young vishap with a hard Geo exoskeleton.\\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle. Experts from Sumeru Akademiya believe that they become dragons when fully grown. By avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+    "OLDLAACJHPO": 3126765454,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 17,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21010401
+      },
+      {
+        "CDOIPGMKDFF": 21010501
+      },
+      {
+        "CDOIPGMKDFF": 21010901
+      },
+      {
+        "CDOIPGMKDFF": 21011001
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1711036305,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16005,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 605593892,
+    "PMPMKOPBJHA": "Hilichurl Shooter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_Electric_Range",
+    "OCHCPNIBIPF": 4268108703,
+    "AJGMCFNDKEG": "Hilichurls that use crossbows to attack at range.\\nGiven their limited mental capacity, learning to wield a crossbow is extremely difficult for them, which leads one to wonder how they could craft such intricate equipment in the first place. One could speculate that there's an organization working behind the scenes to provide equipment and training to these hilichurls, seemingly scattered across the land...",
+    "OLDLAACJHPO": 598432798,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 18,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21010101
+      },
+      {
+        "CDOIPGMKDFF": 21010201
+      },
+      {
+        "CDOIPGMKDFF": 21010301
+      },
+      {
+        "CDOIPGMKDFF": 21010601
+      },
+      {
+        "CDOIPGMKDFF": 21010701
+      },
+      {
+        "CDOIPGMKDFF": 21011201
+      },
+      {
+        "CDOIPGMKDFF": 21011301
+      },
+      {
+        "CDOIPGMKDFF": 21011401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 271573993,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16004,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 1978754172,
+    "PMPMKOPBJHA": "Hilichurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hili_None_01",
+    "OCHCPNIBIPF": 3867846519,
+    "AJGMCFNDKEG": "Primitive humanoid monsters that can be found all across Teyvat.\\nMost people have already given up on trying to communicate with the hilichurls, believing that they are monsters simply incapable of communication.",
+    "OLDLAACJHPO": 1600128438,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 19,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21030101
+      },
+      {
+        "CDOIPGMKDFF": 21030201
+      },
+      {
+        "CDOIPGMKDFF": 21030301
+      },
+      {
+        "CDOIPGMKDFF": 21030401
+      },
+      {
+        "CDOIPGMKDFF": 21030501
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2076557481,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16006,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 3793925636,
+    "PMPMKOPBJHA": "Samachurl",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Shaman_Wind_01",
+    "OCHCPNIBIPF": 2152833887,
+    "AJGMCFNDKEG": "Shamans of the hilichurl tribes. They display a limited ability to harness elemental energy.\\n\"While their masks are made with the intent of instilling fear in their enemies, their designs come across as more charming than frightening.\" — Jacob Musk",
+    "OLDLAACJHPO": 482563934,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 20,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20010101
+      },
+      {
+        "CDOIPGMKDFF": 20010201
+      },
+      {
+        "CDOIPGMKDFF": 20010301
+      },
+      {
+        "CDOIPGMKDFF": 20010401
+      },
+      {
+        "CDOIPGMKDFF": 20010501
+      },
+      {
+        "CDOIPGMKDFF": 20010601
+      },
+      {
+        "CDOIPGMKDFF": 20010701
+      },
+      {
+        "CDOIPGMKDFF": 20010801
+      },
+      {
+        "CDOIPGMKDFF": 20010901
+      },
+      {
+        "CDOIPGMKDFF": 20011001
+      },
+      {
+        "CDOIPGMKDFF": 20011101
+      },
+      {
+        "CDOIPGMKDFF": 20011201
+      },
+      {
+        "CDOIPGMKDFF": 20011301
+      },
+      {
+        "CDOIPGMKDFF": 20011401
+      },
+      {
+        "CDOIPGMKDFF": 20011501
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3533964977,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16000,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 3463468772,
+    "PMPMKOPBJHA": "Slime",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Slime_Water_03",
+    "OCHCPNIBIPF": 2182239071,
+    "AJGMCFNDKEG": "A pudgy elemental life form.\\nIt's said that desserts made from slimes of different elements will have incredibly distinctive flavors.",
+    "OLDLAACJHPO": 3727808190,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 21,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 25010201
+      },
+      {
+        "CDOIPGMKDFF": 25010301
+      },
+      {
+        "CDOIPGMKDFF": 25010401
+      },
+      {
+        "CDOIPGMKDFF": 25010501
+      },
+      {
+        "CDOIPGMKDFF": 25010601
+      },
+      {
+        "CDOIPGMKDFF": 25010701
+      },
+      {
+        "CDOIPGMKDFF": 25020201
+      },
+      {
+        "CDOIPGMKDFF": 25030201
+      },
+      {
+        "CDOIPGMKDFF": 25030301
+      },
+      {
+        "CDOIPGMKDFF": 25060101
+      },
+      {
+        "CDOIPGMKDFF": 25070101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 4194505801,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16003,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 1142558500,
+    "PMPMKOPBJHA": "Treasure Hoarder",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+    "OCHCPNIBIPF": 798059871,
+    "AJGMCFNDKEG": "A ragtag group of bandits whose traces can be found all across the lands, even in the deepest depths of uncharted domains.\\nAlthough their main purpose is hunting treasure, they are also known to get rough with unfortunate bystanders who happen to be nearby.\\nIt's said that the group's founder, Reed Miller, defined the Treasure Hoarders as \"an organization of mutual cooperation.\"",
+    "OLDLAACJHPO": 2221217286,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 22,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21020501
+      },
+      {
+        "CDOIPGMKDFF": 21020401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 526800897,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15506,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1609885756,
+    "PMPMKOPBJHA": "Hilichurl Chieftain",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Brute_Rock_None",
+    "OCHCPNIBIPF": 1276916615,
+    "AJGMCFNDKEG": "A mitachurl that has mutated due to an accumulation of a large amount of elements in its body. They are bigger, stronger, and absolutely ferocious.\\nHilichurls worship no gods and follow no order or discipline. The strongest and the most ferocious one among them is seen as fit to lead the tribe.",
+    "OLDLAACJHPO": 2099514902,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 23,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26050101
+      },
+      {
+        "CDOIPGMKDFF": 26050201
+      },
+      {
+        "CDOIPGMKDFF": 26050301
+      },
+      {
+        "CDOIPGMKDFF": 26050401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 826310809,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15160,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3797091836,
+    "PMPMKOPBJHA": "Primo Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Primo_Rock",
+    "OCHCPNIBIPF": 1184710679,
+    "AJGMCFNDKEG": "After many years, the awesomely powerful Primo Geovishaps have grown accustomed to changes in their elemental environment.\\nFolktales hold that after the great \"draconic calamity\" that led to the ruin of Tianqiu Valley, the Geovishaps and Primo Geovishaps burrowed deep into the earth, awaiting their chance to rise once more...",
+    "OLDLAACJHPO": 3121213006,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 24,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26040101
+      },
+      {
+        "CDOIPGMKDFF": 26040102
+      },
+      {
+        "CDOIPGMKDFF": 26040103
+      },
+      {
+        "CDOIPGMKDFF": 26040104
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 4190640001,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15509,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 3727063148,
+    "PMPMKOPBJHA": "Geovishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Rock",
+    "OCHCPNIBIPF": 10157591,
+    "AJGMCFNDKEG": "A mature Geovishap.\\nIt is said that after many years have passed, Geovishap Hatchlings will shed the armor that originally protected them and become Geovishaps. However, these two and the older, greater Primo Geovishaps have spent many years hibernating under the mountains, and have only emerged and become active in recent times. As such, none can personally attest to having witnessed or recorded such a thing in person.",
+    "OLDLAACJHPO": 889747054,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 25,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040501
+      }
+    ],
+    "DOFHDEEONBM": 396,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      },
+      {
+        "CDOIPGMKDFF": 1003
+      }
+    ],
+    "AFKCLIOGODO": [
+      {
+        "CDOIPGMKDFF": 70141
+      }
+    ],
+    "EIPAEPGMJHA": 303692577,
+    "ECPBOCBFAGL": "Go to the campsite outside Dragonspine and speak to Iris to take this quest",
+    "JGIGGNHNJED": 15170,
+    "LBCBLIFJAGL": 0,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2071681052,
+    "PMPMKOPBJHA": "Cryo Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Ice",
+    "OCHCPNIBIPF": 3070647783,
+    "AJGMCFNDKEG": "Code name: Daleth. A high-purity Cryo entity.\\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. Perhaps these differences can account for their high level of homeostasis and their almost mechanical movements.",
+    "OLDLAACJHPO": 3493708718,
+    "KCLODHOPLDI": "A great nail fell down to Dragonspine in a bygone era, and has been pouring energy into the Ley Lines here ever since. Who knows what strange new phenomena might occur on the mountain when the nail is dislodged?",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 26,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 25090101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 750036065,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15171,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2151581004,
+    "PMPMKOPBJHA": "Maguu Kenki",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Ningyo",
+    "OCHCPNIBIPF": 2280343023,
+    "AJGMCFNDKEG": "An autonomous humanoid swordsman.\\nIt is said that this machine was made using the cumulative memory of the first-generation master of a certain sword school known for its secret technique, Tengu Sweeper. However, it malfunctioned, lost control, and was ultimately discarded.\\nSome sing that this blade-ghost wanders about in a place where fate was severed.",
+    "OLDLAACJHPO": 2908620662,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 27,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040601
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 555675129,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15173,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 832422796,
+    "PMPMKOPBJHA": "Pyro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Fire",
+    "OCHCPNIBIPF": 3259488015,
+    "AJGMCFNDKEG": "Code Name: Ayin. A high-purity Pyro entity.\\nElemental hypostases have the ability to often enter a sort of \"emergency restart\" phase when they are about to be destroyed and can revive themselves in this way. Such rapid regeneration is not possessed even by most creatures for whom survival is the top priority.",
+    "OLDLAACJHPO": 3865151206,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 28,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24021101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1950557337,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15172,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1727977044,
+    "PMPMKOPBJHA": "Perpetual Mechanical Array",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Perpetual",
+    "OCHCPNIBIPF": 2186659455,
+    "AJGMCFNDKEG": "A strange, alien machine.\\nThey say that it is a war machine left behind by a nation that has already been destroyed. Composed of several different parts, it can adapt to its combat environment and employ a variety of attacks.\\nThis machine, comprised of cubic shapes, is on some level very much like the elemental hypostases.",
+    "OLDLAACJHPO": 4118988294,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 29,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 25080101
+      },
+      {
+        "CDOIPGMKDFF": 25080201
+      },
+      {
+        "CDOIPGMKDFF": 25080301
+      },
+      {
+        "CDOIPGMKDFF": 25100101
+      },
+      {
+        "CDOIPGMKDFF": 25100201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1528499009,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16009,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 1355468644,
+    "PMPMKOPBJHA": "Nobushi",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "OCHCPNIBIPF": 1998355319,
+    "AJGMCFNDKEG": "Despite often appearing in groups, the Nobushi do not have a centralized organization. Depending on their temperament or the nature of their crimes, they are also known as the \"homeless ones,\" \"vagabonds,\" \"Kairagi,\" \"ne'er-do-wells,\" or even \"the rioters,\" or just simply known collectively as \"those rogues.\"\\nThey are often samurai who have fallen into banditry, and some will even ally themselves with the Treasure Hoarders or the Fatui for survival or monetary gain.",
+    "OLDLAACJHPO": 3335300718,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 30,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 23050101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3958413873,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15511,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1113337244,
+    "PMPMKOPBJHA": "Fatui: Snezhnayan Maiden",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Maiden_Water",
+    "OCHCPNIBIPF": 117139007,
+    "AJGMCFNDKEG": "A member of a special Fatui honor guard from Snezhnaya.\\nWilling to do anything to achieve the grand goals of the Fatui, they are the stark opposite of the dignity indicated by the title \"Maiden.\"",
+    "OLDLAACJHPO": 155840950,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 31,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24020101
+      },
+      {
+        "CDOIPGMKDFF": 24020201
+      },
+      {
+        "CDOIPGMKDFF": 24020301
+      },
+      {
+        "CDOIPGMKDFF": 24020401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 360757921,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15510,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 3635803396,
+    "PMPMKOPBJHA": "Ruin Sentinels",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta",
+    "OCHCPNIBIPF": 1002475759,
+    "AJGMCFNDKEG": "Various bizarrely-shaped machines that have taken different forms and functions as an adaption to different goals.\\nLegend has it that they were war machines left behind by a nation that has now been destroyed. Leaving its hard armor and powerful abilities aside, some believe that the design of these ruin machines has greater value in the study of biomimesis than the more common Ruin Guards.",
+    "OLDLAACJHPO": 2752709702,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 32,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3599820625,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15174,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2882330044,
+    "PMPMKOPBJHA": "Hydro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Water",
+    "OCHCPNIBIPF": 2592202711,
+    "AJGMCFNDKEG": "Code Name: He. A high-purity Hydro entity.\\nHypostases have strong rejection properties, and will mercilessly expel any that test them.\\nThe logic behind such behavior remains a mystery.",
+    "OLDLAACJHPO": 837744126,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 33,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20070101
+      }
+    ],
+    "DOFHDEEONBM": 18000,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      },
+      {
+        "CDOIPGMKDFF": 1003
+      },
+      {
+        "CDOIPGMKDFF": 1101
+      },
+      {
+        "CDOIPGMKDFF": 1102
+      },
+      {
+        "CDOIPGMKDFF": 1103
+      },
+      {
+        "CDOIPGMKDFF": 1104
+      },
+      {
+        "CDOIPGMKDFF": 1105
+      },
+      {
+        "CDOIPGMKDFF": 1201
+      }
+    ],
+    "AFKCLIOGODO": [
+      {
+        "CDOIPGMKDFF": 2011
+      },
+      {
+        "CDOIPGMKDFF": 2012
+      },
+      {
+        "CDOIPGMKDFF": 2013
+      },
+      {
+        "CDOIPGMKDFF": 72155
+      },
+      {
+        "CDOIPGMKDFF": 72156
+      },
+      {
+        "CDOIPGMKDFF": 72157
+      },
+      {
+        "CDOIPGMKDFF": 72158
+      }
+    ],
+    "EIPAEPGMJHA": 4035183641,
+    "ECPBOCBFAGL": "Talk to Katheryne at Inazuma City and accept the commission to go to Seirai Island",
+    "JGIGGNHNJED": 15175,
+    "LBCBLIFJAGL": 0,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3574516420,
+    "PMPMKOPBJHA": "Thunder Manifestation",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Raijin",
+    "OCHCPNIBIPF": 515157471,
+    "AJGMCFNDKEG": "An unusual Electro life form that weaves thunder and lightning as a song unto the resentment that drives its every move.\\nEven though this creature may seem similar to the Oceanids, it lacks their intelligence.\\nThey say that this is an elemental being driven by pure regret.",
+    "OLDLAACJHPO": 2015445734,
+    "KCLODHOPLDI": "Amidst the storms of Amakumo Peak, you hear a raging, thunderous cry...",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 34,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20060101
+      },
+      {
+        "CDOIPGMKDFF": 20060201
+      },
+      {
+        "CDOIPGMKDFF": 20060301
+      },
+      {
+        "CDOIPGMKDFF": 20060701
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1477881953,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16011,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 3232038316,
+    "PMPMKOPBJHA": "Specter",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sylph_Wind_01",
+    "OCHCPNIBIPF": 374028479,
+    "AJGMCFNDKEG": "A monster born from highly-concentrated elements that can float in the air.\\nOn the whole, they are little sprites that have a gentle temperament, much like Slimes, but they can sometimes explode into a rage.",
+    "OLDLAACJHPO": 3493916862,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 35,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22050101
+      },
+      {
+        "CDOIPGMKDFF": 22050201
+      },
+      {
+        "CDOIPGMKDFF": 22040101
+      },
+      {
+        "CDOIPGMKDFF": 22040201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2042236209,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15513,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 614784292,
+    "PMPMKOPBJHA": "Wolves of the Rift",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Riftstalker_Rock",
+    "OCHCPNIBIPF": 3856405135,
+    "AJGMCFNDKEG": "Ominous, alien beasts with dull colors that travel in packs much as wolves do.\\nIt is said that they have the power to dissolve the world's borders.",
+    "OLDLAACJHPO": 3323643558,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 36,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22060101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3348264737,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15176,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 4062848028,
+    "PMPMKOPBJHA": "Golden Wolflord",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hound_Planelurker",
+    "OCHCPNIBIPF": 3762017839,
+    "AJGMCFNDKEG": "A twisted beast from another world.\\nThis creature is the ruler of the Riftwolves, and wields the power to command them to dissolve space itself.",
+    "OLDLAACJHPO": 306795822,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 37,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26050701
+      }
+    ],
+    "DOFHDEEONBM": 18000,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      },
+      {
+        "CDOIPGMKDFF": 1003
+      },
+      {
+        "CDOIPGMKDFF": 1101
+      },
+      {
+        "CDOIPGMKDFF": 1102
+      },
+      {
+        "CDOIPGMKDFF": 1103
+      },
+      {
+        "CDOIPGMKDFF": 1104
+      },
+      {
+        "CDOIPGMKDFF": 1105
+      }
+    ],
+    "AFKCLIOGODO": [
+      {
+        "CDOIPGMKDFF": 72145
+      },
+      {
+        "CDOIPGMKDFF": 72146
+      },
+      {
+        "CDOIPGMKDFF": 72147
+      },
+      {
+        "CDOIPGMKDFF": 72148
+      },
+      {
+        "CDOIPGMKDFF": 72149
+      },
+      {
+        "CDOIPGMKDFF": 72233
+      },
+      {
+        "CDOIPGMKDFF": 72242
+      },
+      {
+        "CDOIPGMKDFF": 72177
+      }
+    ],
+    "EIPAEPGMJHA": 3032726961,
+    "ECPBOCBFAGL": "Go to Sangonomiya Shrine and talk to Tsuyuko to accept this quest",
+    "JGIGGNHNJED": 15177,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 30
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 2546599012,
+    "PMPMKOPBJHA": "Bathysmal Vishap Herd",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_TwinBossFight",
+    "OCHCPNIBIPF": 4107313847,
+    "AJGMCFNDKEG": "A powerful group of Bathysmal Vishaps.\\nThey have been specifically bred and selected by the people of Enkanomiya, which has given them their exceptional strength. Of course, no vishap would consider this some sort of debt to be repaid.\\nThe strongest members of this herd can use different elements, which they wield as a show of their hatred.",
+    "OLDLAACJHPO": 1217983390,
+    "KCLODHOPLDI": "In the ocean depths they await — yes, they await their moment to hunt...",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 38,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26050601
+      },
+      {
+        "CDOIPGMKDFF": 26050901
+      },
+      {
+        "CDOIPGMKDFF": 26051001
+      },
+      {
+        "CDOIPGMKDFF": 26051101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3588167401,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15509,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 2468058460,
+    "PMPMKOPBJHA": "Bathysmal Vishap",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Drake_Deepsea_Water",
+    "OCHCPNIBIPF": 247811999,
+    "AJGMCFNDKEG": "A mighty race of vishaps that dwell within the deep seas.\\nThat they hate light is not due to an overly fragile sense of sight. Instead, it is because they have had the selfless sunlight and the surface world taken from them that they refuse to countenance man-made light.",
+    "OLDLAACJHPO": 1841625726,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 39,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24010401
+      }
+    ],
+    "DOFHDEEONBM": 1025,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [
+      {
+        "CDOIPGMKDFF": 1001
+      },
+      {
+        "CDOIPGMKDFF": 1002
+      },
+      {
+        "CDOIPGMKDFF": 1003
+      },
+      {
+        "CDOIPGMKDFF": 1101
+      },
+      {
+        "CDOIPGMKDFF": 1102
+      },
+      {
+        "CDOIPGMKDFF": 1103
+      }
+    ],
+    "AFKCLIOGODO": [
+      {
+        "CDOIPGMKDFF": 71044
+      }
+    ],
+    "EIPAEPGMJHA": 1188870225,
+    "ECPBOCBFAGL": "Speak to Muning at The Chasm to get the quest to delve into The Chasm: Underground Mines",
+    "JGIGGNHNJED": 15178,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 28
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1493560740,
+    "PMPMKOPBJHA": "Ruin Serpent",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Nithhoggr_None",
+    "OCHCPNIBIPF": 813509223,
+    "AJGMCFNDKEG": "A bizarrely-shaped machine that prowls the underground areas of The Chasm.\\nIt has a formidable gear in front of it that can carve through rock as if it were butter. It was by this power that it was able to dig a tunnel to The Chasm from \"somewhere.\"",
+    "OLDLAACJHPO": 2925273550,
+    "KCLODHOPLDI": "From within the depths of The Chasm come faint bursts of machine motion...",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 40,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22070101
+      },
+      {
+        "CDOIPGMKDFF": 22070102
+      },
+      {
+        "CDOIPGMKDFF": 22070201
+      },
+      {
+        "CDOIPGMKDFF": 22070202
+      },
+      {
+        "CDOIPGMKDFF": 22070301
+      },
+      {
+        "CDOIPGMKDFF": 22070302
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1937983185,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15515,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 4082729428,
+    "PMPMKOPBJHA": "The Black Serpents",
+    "ADLKHHCGHAH": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire",
+    "OCHCPNIBIPF": 687048607,
+    "AJGMCFNDKEG": "Once upon a time, these were knights of the realm and carriers of significant status.\\nThe long years and a curse seems to have robbed them of their reason and memory. Now, all that remains within that armor is the will to \"fight for something, someone, and some matter.\"\\nDepending on how much wear and tear they have undergone, they are by turns known as \"Shadowy Husks\" or \"Black Serpent Knights.\"",
+    "OLDLAACJHPO": 347213606,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 41,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26020301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1498736137,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15180,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1519505956,
+    "PMPMKOPBJHA": "Electro Regisvine",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Regisvine_Electric",
+    "OCHCPNIBIPF": 2302915527,
+    "AJGMCFNDKEG": "A giant plant that violently releases electric charges stored within the Ley Lines.\\nElectro awakens plants and boosts soil fertility. If the Regisvine was indeed created to harmonize the turbulent energies of the Ley Lines, then it might be the earth's wish to see the presence of lush forests in Sumeru.",
+    "OLDLAACJHPO": 3530499686,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 42,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26110101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 724324257,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15179,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1939319708,
+    "PMPMKOPBJHA": "Jadeplume Terrorshroom",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Raptor",
+    "OCHCPNIBIPF": 1324083599,
+    "AJGMCFNDKEG": "The lord of fungal beasts that lives in the heart of the woods and in the company of its kin.\\nFungi grow wherever it is damp and fertile. They can always adapt to adversity, and their spores can spread anywhere there is room. Given time, this proud-looking bird-like beast might evolve into something yet more magnificent.",
+    "OLDLAACJHPO": 1805149974,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 43,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24030101
+      },
+      {
+        "CDOIPGMKDFF": 24030201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 157505705,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15518,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 2653939388,
+    "PMPMKOPBJHA": "Ruin Drake",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gargoyle",
+    "OCHCPNIBIPF": 2346128543,
+    "AJGMCFNDKEG": "A war machine that is said to be left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps.\\nAs an ancient life form, Vishaps have the ability to \"absorb\" — or perhaps the right word is \"counteract\" — elemental powers. To enhance that ability, the Ruin Drakes were built with some structural and functional enhancements, and its energy system has a unique design.",
+    "OLDLAACJHPO": 1103490398,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 44,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 25210101
+      },
+      {
+        "CDOIPGMKDFF": 25210102
+      },
+      {
+        "CDOIPGMKDFF": 25210103
+      },
+      {
+        "CDOIPGMKDFF": 25210201
+      },
+      {
+        "CDOIPGMKDFF": 25210202
+      },
+      {
+        "CDOIPGMKDFF": 25210203
+      },
+      {
+        "CDOIPGMKDFF": 25210301
+      },
+      {
+        "CDOIPGMKDFF": 25210302
+      },
+      {
+        "CDOIPGMKDFF": 25210303
+      },
+      {
+        "CDOIPGMKDFF": 25210401
+      },
+      {
+        "CDOIPGMKDFF": 25210402
+      },
+      {
+        "CDOIPGMKDFF": 25210403
+      },
+      {
+        "CDOIPGMKDFF": 25210501
+      },
+      {
+        "CDOIPGMKDFF": 25210502
+      },
+      {
+        "CDOIPGMKDFF": 25210503
+      },
+      {
+        "CDOIPGMKDFF": 25310101
+      },
+      {
+        "CDOIPGMKDFF": 25310201
+      },
+      {
+        "CDOIPGMKDFF": 25310301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1665444433,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16014,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 1906390052,
+    "PMPMKOPBJHA": "The Eremites",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
+    "OCHCPNIBIPF": 668317647,
+    "AJGMCFNDKEG": "A group of loosely-organized mercenary corps. Will work for anyone as long as the pay is good.\\n\"The Eremites\" is an umbrella term that people from outside the desert have coined for them. But beneath this name, there are separate entities such as the sellsword group known as the Farrokhzadan and the tribe of Tanit.\\nAs a people led not by gods, most of these desert descendants wield their blades to make a living and offer their skills to those who pay.",
+    "OLDLAACJHPO": 2566205262,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 45,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26090201
+      },
+      {
+        "CDOIPGMKDFF": 26090401
+      },
+      {
+        "CDOIPGMKDFF": 26090501
+      },
+      {
+        "CDOIPGMKDFF": 26090701
+      },
+      {
+        "CDOIPGMKDFF": 26090801
+      },
+      {
+        "CDOIPGMKDFF": 26090901
+      },
+      {
+        "CDOIPGMKDFF": 26120101
+      },
+      {
+        "CDOIPGMKDFF": 26120201
+      },
+      {
+        "CDOIPGMKDFF": 26120301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 514961929,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15516,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 506268972,
+    "PMPMKOPBJHA": "Fungus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
+    "OCHCPNIBIPF": 423506559,
+    "AJGMCFNDKEG": "To put it shortly, the Fungus is the congregation of overgrown and over-evolved spores.\\n<color=#F39000FF>Exposing it to Pyro or Electro will Scorch or Activate it, respectively. While in either one of said states, the Fungus will drop special materials</color>\\nIt is said the infestation of Fungi is the result of a lab accident. At first, a certain sage had hopes of utilizing spores for medical purposes. If that is true, the person had clearly underestimated the spores' adaptive and reproductive powers.",
+    "OLDLAACJHPO": 2135060918,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 46,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24030301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 628968785,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15181,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3554162420,
+    "PMPMKOPBJHA": "Aeonblight Drake",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Gargoyle_Fafnir",
+    "OCHCPNIBIPF": 669137191,
+    "AJGMCFNDKEG": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\\nThis mysterious, tireless mechanical monstrosity seems to be proof that the now-destroyed realm had reached heights that mortals should never have.",
+    "OLDLAACJHPO": 1076478350,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 47,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24050101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1785603489,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15182,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1979409620,
+    "PMPMKOPBJHA": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Starchild",
+    "OCHCPNIBIPF": 1249383527,
+    "AJGMCFNDKEG": "A perpetual-motion device from an ancient civilization.\\nIt governs the many ruin machines that are scattered throughout the desert and still seems to carry the will of its lonely ruler.",
+    "OLDLAACJHPO": 121041574,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 48,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24040101
+      },
+      {
+        "CDOIPGMKDFF": 24040201
+      },
+      {
+        "CDOIPGMKDFF": 24040301
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 725025041,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15519,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1853899828,
+    "PMPMKOPBJHA": "Primal Construct",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Monolith_Ordinator",
+    "OCHCPNIBIPF": 3142204727,
+    "AJGMCFNDKEG": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord.\\nIt is said that the master of the sands once dreamed of an eternal paradise. Today, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines.",
+    "OLDLAACJHPO": 2345564286,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 49,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20040701
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 2173582761,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15183,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3093228236,
+    "PMPMKOPBJHA": "Dendro Hypostasis",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Effigy_Grass",
+    "OCHCPNIBIPF": 473918847,
+    "AJGMCFNDKEG": "Code Name: Zayin. A high-purity Dendro entity.\\nThere are significant deviations in behavior between this being and the other Elemental Hypostases, though no one has yet produced a reliable conclusion as to why this is the case.",
+    "OLDLAACJHPO": 789620134,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 50,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26130101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1017620017,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15184,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1557360244,
+    "PMPMKOPBJHA": "Setekh Wenut",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Sandworm",
+    "OCHCPNIBIPF": 4003938663,
+    "AJGMCFNDKEG": "An eyeless predator that dwells within the depths of the desert and uses sound and vibrations to seek out its prey.\\nThey sometimes take on forms very similar to those of plants, and some say that this is because they were once the scions of the lord of plants. Others say that this is their way of fooling their prey to seek fruits or food in their deadly shade.",
+    "OLDLAACJHPO": 2268305878,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 51,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26100301
+      },
+      {
+        "CDOIPGMKDFF": 26100401
+      },
+      {
+        "CDOIPGMKDFF": 26100501
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 221156657,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15520,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 2046904764,
+    "PMPMKOPBJHA": "Consecrated Beast",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Vulture_Sacred_Fire",
+    "OCHCPNIBIPF": 1324581999,
+    "AJGMCFNDKEG": "A lifeform that became twisted and warped by eating some great being.",
+    "OLDLAACJHPO": 1646248790,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 52,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 21040101
+      },
+      {
+        "CDOIPGMKDFF": 21040201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1209134089,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15521,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 12757692,
+    "PMPMKOPBJHA": "Hilichurl Rogue",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Hilistray_Wind",
+    "OCHCPNIBIPF": 4124504655,
+    "AJGMCFNDKEG": "Hilichurl wanderers unaffiliated to any specific tribe or group. They can often be found roving the wilds.\\nSometimes, they may also lend their aid to other hilichurls for a variety of reasons.",
+    "OLDLAACJHPO": 2963261838,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 53,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22100101
+      },
+      {
+        "CDOIPGMKDFF": 22100201
+      },
+      {
+        "CDOIPGMKDFF": 22100301
+      },
+      {
+        "CDOIPGMKDFF": 22100401
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1789358545,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15185,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3262865284,
+    "PMPMKOPBJHA": "Iniquitous Baptist",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Invoker_Archdeacon",
+    "OCHCPNIBIPF": 2649913591,
+    "AJGMCFNDKEG": "A creature of the Abyss that, through the dark's stygian powers, has gained additional appendages via \"evolution.\"\\nIt is capable of wielding multiple types of elemental powers.",
+    "OLDLAACJHPO": 3761757982,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 54,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24060101
+      },
+      {
+        "CDOIPGMKDFF": 24060102
+      },
+      {
+        "CDOIPGMKDFF": 24065101
+      },
+      {
+        "CDOIPGMKDFF": 24065102
+      },
+      {
+        "CDOIPGMKDFF": 24060201
+      },
+      {
+        "CDOIPGMKDFF": 24060202
+      },
+      {
+        "CDOIPGMKDFF": 24065201
+      },
+      {
+        "CDOIPGMKDFF": 24065202
+      },
+      {
+        "CDOIPGMKDFF": 24060301
+      },
+      {
+        "CDOIPGMKDFF": 24060302
+      },
+      {
+        "CDOIPGMKDFF": 24065301
+      },
+      {
+        "CDOIPGMKDFF": 24065302
+      },
+      {
+        "CDOIPGMKDFF": 24060401
+      },
+      {
+        "CDOIPGMKDFF": 24060402
+      },
+      {
+        "CDOIPGMKDFF": 24065401
+      },
+      {
+        "CDOIPGMKDFF": 24065402
+      },
+      {
+        "CDOIPGMKDFF": 24060501
+      },
+      {
+        "CDOIPGMKDFF": 24060502
+      },
+      {
+        "CDOIPGMKDFF": 24065501
+      },
+      {
+        "CDOIPGMKDFF": 24065502
+      },
+      {
+        "CDOIPGMKDFF": 24060701
+      },
+      {
+        "CDOIPGMKDFF": 24060702
+      },
+      {
+        "CDOIPGMKDFF": 24065701
+      },
+      {
+        "CDOIPGMKDFF": 24065702
+      },
+      {
+        "CDOIPGMKDFF": 24060801
+      },
+      {
+        "CDOIPGMKDFF": 24060802
+      },
+      {
+        "CDOIPGMKDFF": 24065801
+      },
+      {
+        "CDOIPGMKDFF": 24065802
+      },
+      {
+        "CDOIPGMKDFF": 24060901
+      },
+      {
+        "CDOIPGMKDFF": 24060902
+      },
+      {
+        "CDOIPGMKDFF": 24065901
+      },
+      {
+        "CDOIPGMKDFF": 24065902
+      },
+      {
+        "CDOIPGMKDFF": 24061001
+      },
+      {
+        "CDOIPGMKDFF": 24061002
+      },
+      {
+        "CDOIPGMKDFF": 24066001
+      },
+      {
+        "CDOIPGMKDFF": 24066002
+      },
+      {
+        "CDOIPGMKDFF": 24061101
+      },
+      {
+        "CDOIPGMKDFF": 24061102
+      },
+      {
+        "CDOIPGMKDFF": 24066101
+      },
+      {
+        "CDOIPGMKDFF": 24066102
+      },
+      {
+        "CDOIPGMKDFF": 24061105
+      },
+      {
+        "CDOIPGMKDFF": 24061106
+      },
+      {
+        "CDOIPGMKDFF": 24066105
+      },
+      {
+        "CDOIPGMKDFF": 24066106
+      },
+      {
+        "CDOIPGMKDFF": 24061201
+      },
+      {
+        "CDOIPGMKDFF": 24061202
+      },
+      {
+        "CDOIPGMKDFF": 24066201
+      },
+      {
+        "CDOIPGMKDFF": 24066202
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1409703913,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16019,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 2468162060,
+    "PMPMKOPBJHA": "Clockwork Meka",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01",
+    "OCHCPNIBIPF": 3023100615,
+    "AJGMCFNDKEG": "A machine made possible by the advanced engineering technology of Fontaine and its energy sources.\\nAlso an excellent assistant to thieves and brigands.",
+    "OLDLAACJHPO": 3682271070,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 55,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26151001
+      },
+      {
+        "CDOIPGMKDFF": 26151002
+      },
+      {
+        "CDOIPGMKDFF": 26151101
+      },
+      {
+        "CDOIPGMKDFF": 26151102
+      },
+      {
+        "CDOIPGMKDFF": 26152101
+      },
+      {
+        "CDOIPGMKDFF": 26152102
+      },
+      {
+        "CDOIPGMKDFF": 26152201
+      },
+      {
+        "CDOIPGMKDFF": 26152202
+      },
+      {
+        "CDOIPGMKDFF": 26153101
+      },
+      {
+        "CDOIPGMKDFF": 26153102
+      },
+      {
+        "CDOIPGMKDFF": 26154101
+      },
+      {
+        "CDOIPGMKDFF": 26154201
+      },
+      {
+        "CDOIPGMKDFF": 26154102
+      },
+      {
+        "CDOIPGMKDFF": 26154202
+      },
+      {
+        "CDOIPGMKDFF": 26155101
+      },
+      {
+        "CDOIPGMKDFF": 26155201
+      },
+      {
+        "CDOIPGMKDFF": 26155301
+      },
+      {
+        "CDOIPGMKDFF": 26156101
+      },
+      {
+        "CDOIPGMKDFF": 26156201
+      },
+      {
+        "CDOIPGMKDFF": 26157101
+      },
+      {
+        "CDOIPGMKDFF": 26157201
+      },
+      {
+        "CDOIPGMKDFF": 26160101
+      },
+      {
+        "CDOIPGMKDFF": 26160102
+      },
+      {
+        "CDOIPGMKDFF": 26160201
+      },
+      {
+        "CDOIPGMKDFF": 26160202
+      },
+      {
+        "CDOIPGMKDFF": 26160301
+      },
+      {
+        "CDOIPGMKDFF": 26160302
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3935035729,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 16017,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 1,
+    "FPKEHKLHHDC": 2077793580,
+    "PMPMKOPBJHA": "Fontemer Aberrant",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Larva_01",
+    "OCHCPNIBIPF": 3240260487,
+    "AJGMCFNDKEG": "An aquatic creature found throughout Fontaine.\\nPerhaps due to environmental requirements, it can seemingly only be found in Fontaine.",
+    "OLDLAACJHPO": 2665821030,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 56,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 20051001
+      },
+      {
+        "CDOIPGMKDFF": 20051101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 523396009,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15522,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 1640861332,
+    "PMPMKOPBJHA": "Tainted Hydro Phantasm",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Necalevia_Normal",
+    "OCHCPNIBIPF": 2622682463,
+    "AJGMCFNDKEG": "An elemental life form that arose from the waters of Fontaine, and that replaced the elegant Oceanids.",
+    "OLDLAACJHPO": 3207200062,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 57,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 22110101
+      },
+      {
+        "CDOIPGMKDFF": 22110201
+      },
+      {
+        "CDOIPGMKDFF": 22110301
+      },
+      {
+        "CDOIPGMKDFF": 22110402
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 866006585,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15524,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 3528525012,
+    "PMPMKOPBJHA": "Breacher Primus",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Ovacua_Order_01",
+    "OCHCPNIBIPF": 579999,
+    "AJGMCFNDKEG": "A strange and mysterious life form.\\nIt has no known similarities with any other creatures on Teyvat.",
+    "OLDLAACJHPO": 1859514470,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 58,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24070101
+      },
+      {
+        "CDOIPGMKDFF": 24070102
+      },
+      {
+        "CDOIPGMKDFF": 24070201
+      },
+      {
+        "CDOIPGMKDFF": 24070202
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 574238153,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15190,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 1516751516,
+    "PMPMKOPBJHA": "\"Icewind Suite\"",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Nutcracker",
+    "OCHCPNIBIPF": 3113772791,
+    "AJGMCFNDKEG": "A gift from the Fontaine Research Institute, it is composed of two pieces, Dirge of Coppelia and Nemesis of Coppelius.\\n\\n<color=#F39000FF>The dialogue choices selected determine the challenge and the reward attributes.</color>",
+    "OLDLAACJHPO": 1798408430,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 59,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26170101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1468197425,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15193,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 3738069748,
+    "PMPMKOPBJHA": "Emperor of Fire and Iron",
+    "ADLKHHCGHAH": "UI_MonsterIcon_HermitCrab_Primo",
+    "OCHCPNIBIPF": 1939762895,
+    "AJGMCFNDKEG": "An ancient ruler of the Fontemer Aberrant that lives in the caverns. It is said to have witnessed the seas of Fontaine before the first diluvian period.",
+    "OLDLAACJHPO": 2307519862,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 60,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 23060101
+      },
+      {
+        "CDOIPGMKDFF": 23060201
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 3658910929,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15525,
+    "LBCBLIFJAGL": 1,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 0,
+      "KIKDHACDEFF": 0
+    },
+    "GFFFFLGGMMN": 2,
+    "FPKEHKLHHDC": 3121910732,
+    "PMPMKOPBJHA": "Fatui Operative",
+    "ADLKHHCGHAH": "UI_MonsterIcon_Fatuus_Escadron_Ice",
+    "OCHCPNIBIPF": 602718767,
+    "AJGMCFNDKEG": "An elite agent among the Fatui possessing extraordinary skill and an indomitable will.",
+    "OLDLAACJHPO": 2792754174,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 61,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 24080101
+      },
+      {
+        "CDOIPGMKDFF": 24080102
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 1145359721,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15194,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 681219956,
+    "PMPMKOPBJHA": "Experimental Field Generator",
+    "ADLKHHCGHAH": "UI_MonsterIcon_MachinaIustitia_Gravitas",
+    "OCHCPNIBIPF": 2951314087,
+    "AJGMCFNDKEG": "A product of the Fontaine Research Institute of Kinetic Energy Engineering that has gone out of control due to an accident.",
+    "OLDLAACJHPO": 1132747958,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  },
+  {
+    "PGKNKBKHCHM": 62,
+    "EAGKKIIDIKF": [
+      {
+        "CDOIPGMKDFF": 26180101
+      }
+    ],
+    "DOFHDEEONBM": 0,
+    "KMCNPIGOBBI": 0,
+    "CLBKKGAIABB": [],
+    "AFKCLIOGODO": [],
+    "EIPAEPGMJHA": 4072972401,
+    "ECPBOCBFAGL": "",
+    "JGIGGNHNJED": 15195,
+    "LBCBLIFJAGL": 2,
+    "NFNJEDGDLKJ": {
+      "PHLELLMODGB": 1,
+      "KIKDHACDEFF": 20
+    },
+    "GFFFFLGGMMN": 3,
+    "FPKEHKLHHDC": 660424828,
+    "PMPMKOPBJHA": "Millennial Pearl Seahorse",
+    "ADLKHHCGHAH": "UI_MonsterIcon_SeaHorse_Primo_Electric",
+    "OCHCPNIBIPF": 1266176695,
+    "AJGMCFNDKEG": "An ancient suzerain of the Fontemer Aberrant that dwells in a cavern. Has a body possessed of illusory beauty and a temper fiercer than a raging thunderstorm.",
+    "OLDLAACJHPO": 2469566462,
+    "KCLODHOPLDI": "",
+    "EGIBNEPHIGD": []
+  }
+]
