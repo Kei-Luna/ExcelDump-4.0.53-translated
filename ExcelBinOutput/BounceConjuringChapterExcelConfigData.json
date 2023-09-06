@@ -1,9 +1,9 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "AFHEKFBIDNC": 1,
+    "id": 1,
+    "chapterId": 1,
     "MHBKFACJEMA": 4001,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1503202
       },
@@ -29,9 +29,9 @@
         "CDOIPGMKDFF": 1503207
       }
     ],
-    "ODFPNBBMHLK": 3108474832,
+    "titleTextMapHash": 3108474832,
     "HGOJDPCKIKP": "Incoming Kaboomballs!",
-    "OCHCPNIBIPF": 3696885130,
+    "descTextMapHash": 3696885130,
     "AJGMCFNDKEG": "The relentless Dodofortresses have suddenly appeared. It's time for Kaboomball Kombat!",
     "EOLAKNHBAEE": [
       {
@@ -60,10 +60,10 @@
     "PIHGHODHGKH": []
   },
   {
-    "PGKNKBKHCHM": 2,
-    "AFHEKFBIDNC": 2,
+    "id": 2,
+    "chapterId": 2,
     "MHBKFACJEMA": 4002,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1503211
       },
@@ -89,9 +89,9 @@
         "CDOIPGMKDFF": 1503218
       }
     ],
-    "ODFPNBBMHLK": 1491742216,
+    "titleTextMapHash": 1491742216,
     "HGOJDPCKIKP": "Absolute Frosty Defense Line!",
-    "OCHCPNIBIPF": 3262835082,
+    "descTextMapHash": 3262835082,
     "AJGMCFNDKEG": "The arrogant Dodofortresses have prepared a super-secret weapon — Kaboomballs with giga freezing powers!",
     "EOLAKNHBAEE": [
       {
@@ -117,10 +117,10 @@
     "PIHGHODHGKH": []
   },
   {
-    "PGKNKBKHCHM": 3,
-    "AFHEKFBIDNC": 3,
+    "id": 3,
+    "chapterId": 3,
     "MHBKFACJEMA": 4003,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1503219
       },
@@ -146,9 +146,9 @@
         "CDOIPGMKDFF": 1503226
       }
     ],
-    "ODFPNBBMHLK": 2808972280,
+    "titleTextMapHash": 2808972280,
     "HGOJDPCKIKP": "Dodofortress's All-Out Attack!",
-    "OCHCPNIBIPF": 2804427946,
+    "descTextMapHash": 2804427946,
     "AJGMCFNDKEG": "The impressive Dodofortresses have gathered all the power within the Kaboomballs to unleash an all-out attack!",
     "EOLAKNHBAEE": [
       {

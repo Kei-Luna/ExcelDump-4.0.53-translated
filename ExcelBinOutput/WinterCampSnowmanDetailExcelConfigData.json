@@ -8,7 +8,7 @@
     "ALFKNAFDCIK": 2009008,
     "PIMBAJPEECG": 4223290856,
     "JCJBKMMAADE": "Complete \"Shadows Amidst Snowstorms: Act I\" to unlock",
-    "COAEEEJINMI": 12009301
+    "watcherId": 12009301
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "ALFKNAFDCIK": 2009009,
     "PIMBAJPEECG": 1198010544,
     "JCJBKMMAADE": "",
-    "COAEEEJINMI": 12009302
+    "watcherId": 12009302
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "ALFKNAFDCIK": 2009010,
     "PIMBAJPEECG": 3428353648,
     "JCJBKMMAADE": "",
-    "COAEEEJINMI": 12009303
+    "watcherId": 12009303
   },
   {
     "id": 4,
@@ -41,6 +41,6 @@
     "ALFKNAFDCIK": 2009011,
     "PIMBAJPEECG": 870272528,
     "JCJBKMMAADE": "Complete \"Shadows Amidst Snowstorms: Act III\" to unlock",
-    "COAEEEJINMI": 12009304
+    "watcherId": 12009304
   }
 ]

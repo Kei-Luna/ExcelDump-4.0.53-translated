@@ -1,12 +1,12 @@
 [
   {
-    "AODPMHOCMJN": 1,
+    "stageId": 1,
     "GKOPAJHFCND": 3025101,
     "FMBFNAALEAP": 32802,
     "LBAHHHOCHCL": 1,
     "CONKHONOIHA": 1800,
     "HGKJHLJFGMH": 2,
-    "AANALLLBMJC": 70793319,
+    "stageNameTextMapHash": 70793319,
     "PFOENKJGKLG": "The Ominous Demesne",
     "OLNBBCBCINB": 1207062953,
     "BCGLBBLPHAC": "A domain shrouded in a mysterious mist. Here, danger lurks on all four sides, while deadly monsters and traps litter the area. Only valiant and skilled warriors may pass this way with any sort of ease.",
@@ -221,13 +221,13 @@
     "GPIDGNOOGHG": true
   },
   {
-    "AODPMHOCMJN": 2,
+    "stageId": 2,
     "GKOPAJHFCND": 3025102,
     "FMBFNAALEAP": 32802,
     "LBAHHHOCHCL": 4,
     "CONKHONOIHA": 1800,
     "HGKJHLJFGMH": 2,
-    "AANALLLBMJC": 4120989615,
+    "stageNameTextMapHash": 4120989615,
     "PFOENKJGKLG": "The Brutal Divergence",
     "OLNBBCBCINB": 1229094545,
     "BCGLBBLPHAC": "A complex, unpredictable domain guarded as much by its snaking paths as its wild monsters, which join forces to create harrowing layers of obstacles.",
@@ -403,13 +403,13 @@
     "GPIDGNOOGHG": true
   },
   {
-    "AODPMHOCMJN": 3,
+    "stageId": 3,
     "GKOPAJHFCND": 3025103,
     "FMBFNAALEAP": 32802,
     "LBAHHHOCHCL": 7,
     "CONKHONOIHA": 1800,
     "HGKJHLJFGMH": 2,
-    "AANALLLBMJC": 2710183151,
+    "stageNameTextMapHash": 2710183151,
     "PFOENKJGKLG": "The Vengeful Wood",
     "OLNBBCBCINB": 1725704377,
     "BCGLBBLPHAC": "A domain where resentment has become akin to a hazy sediment. The monsters locked in here are very powerful indeed, and thus you, too, must steel yourself to face them.",
@@ -603,13 +603,13 @@
     "GPIDGNOOGHG": true
   },
   {
-    "AODPMHOCMJN": 4,
+    "stageId": 4,
     "GKOPAJHFCND": 3025104,
     "FMBFNAALEAP": 32802,
     "LBAHHHOCHCL": 10,
     "CONKHONOIHA": 1800,
     "HGKJHLJFGMH": 2,
-    "AANALLLBMJC": 3451725815,
+    "stageNameTextMapHash": 3451725815,
     "PFOENKJGKLG": "The Echoes of Extinction",
     "OLNBBCBCINB": 718688937,
     "BCGLBBLPHAC": "A trial of passage for the Mystic Onmyou Chamber where exceptionally ferocious foes dwell. The only fate ordinary warriors might expect here is utter annihilation.",
@@ -917,13 +917,13 @@
     "GPIDGNOOGHG": false
   },
   {
-    "AODPMHOCMJN": 5,
+    "stageId": 5,
     "GKOPAJHFCND": 0,
     "FMBFNAALEAP": 0,
     "LBAHHHOCHCL": 10,
     "CONKHONOIHA": 0,
     "HGKJHLJFGMH": 2,
-    "AANALLLBMJC": 896361495,
+    "stageNameTextMapHash": 896361495,
     "PFOENKJGKLG": "The Rending Absolution",
     "OLNBBCBCINB": 4290712881,
     "BCGLBBLPHAC": "The most perilous place in the Mystic Onmyou Chamber. Even the greatest of wills will face a rending agony in this place... But this, too, is all inextricably part of reaching the pinnacle of martial prowess.",

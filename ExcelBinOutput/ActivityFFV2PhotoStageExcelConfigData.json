@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "PMDJAJEMIND": [
       {
         "CDOIPGMKDFF": 1
@@ -17,8 +17,8 @@
     "JJOFMLDOHBI": "UI_Icon_Activity_FleurFairV2_Photo01"
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 3,
+    "id": 2,
+    "openDay": 3,
     "PMDJAJEMIND": [
       {
         "CDOIPGMKDFF": 4
@@ -34,8 +34,8 @@
     "JJOFMLDOHBI": "UI_Icon_Activity_FleurFairV2_Photo02"
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 5,
+    "id": 3,
+    "openDay": 5,
     "PMDJAJEMIND": [
       {
         "CDOIPGMKDFF": 7

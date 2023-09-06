@@ -1,7 +1,7 @@
 [
   {
     "HDBGDHCELAC": 1,
-    "PDHFANIOLKO": 7500,
+    "dungeonId": 7500,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 7
@@ -110,10 +110,10 @@
         "CDOIPGMKDFF": 101
       }
     ],
-    "KLLJFHOLAGL": 396840996,
+    "mapNameTextMapHash": 396840996,
     "JIAPBHOACOH": "Whither the Wind Wends",
-    "NEHBNAOAPAI": 0,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_08",
+    "difficulty": 0,
+    "mapIconPath": "UI_TheatreMechanicusMap_08",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -167,7 +167,7 @@
   },
   {
     "HDBGDHCELAC": 2,
-    "PDHFANIOLKO": 7501,
+    "dungeonId": 7501,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 1
@@ -276,10 +276,10 @@
         "CDOIPGMKDFF": 201
       }
     ],
-    "KLLJFHOLAGL": 3980820492,
+    "mapNameTextMapHash": 3980820492,
     "JIAPBHOACOH": "Slumber Spirit's Bridge",
-    "NEHBNAOAPAI": 0,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_02",
+    "difficulty": 0,
+    "mapIconPath": "UI_TheatreMechanicusMap_02",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -341,7 +341,7 @@
   },
   {
     "HDBGDHCELAC": 3,
-    "PDHFANIOLKO": 7502,
+    "dungeonId": 7502,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 21
@@ -464,10 +464,10 @@
         "CDOIPGMKDFF": 301
       }
     ],
-    "KLLJFHOLAGL": 963710236,
+    "mapNameTextMapHash": 963710236,
     "JIAPBHOACOH": "Autumnal Resplendence",
-    "NEHBNAOAPAI": 0,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_03",
+    "difficulty": 0,
+    "mapIconPath": "UI_TheatreMechanicusMap_03",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -521,7 +521,7 @@
   },
   {
     "HDBGDHCELAC": 4,
-    "PDHFANIOLKO": 7503,
+    "dungeonId": 7503,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 6
@@ -653,10 +653,10 @@
         "CDOIPGMKDFF": 401
       }
     ],
-    "KLLJFHOLAGL": 2352896988,
+    "mapNameTextMapHash": 2352896988,
     "JIAPBHOACOH": "Springtide Advent",
-    "NEHBNAOAPAI": 0,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_04",
+    "difficulty": 0,
+    "mapIconPath": "UI_TheatreMechanicusMap_04",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -702,7 +702,7 @@
   },
   {
     "HDBGDHCELAC": 5,
-    "PDHFANIOLKO": 7504,
+    "dungeonId": 7504,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 7
@@ -817,10 +817,10 @@
         "CDOIPGMKDFF": 503
       }
     ],
-    "KLLJFHOLAGL": 272918012,
+    "mapNameTextMapHash": 272918012,
     "JIAPBHOACOH": "Whither the Wind Wends",
-    "NEHBNAOAPAI": 1,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_08",
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
+    "mapIconPath": "UI_TheatreMechanicusMap_08",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -874,7 +874,7 @@
   },
   {
     "HDBGDHCELAC": 6,
-    "PDHFANIOLKO": 7505,
+    "dungeonId": 7505,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 1
@@ -989,10 +989,10 @@
         "CDOIPGMKDFF": 603
       }
     ],
-    "KLLJFHOLAGL": 843523692,
+    "mapNameTextMapHash": 843523692,
     "JIAPBHOACOH": "Slumber Spirit's Bridge",
-    "NEHBNAOAPAI": 1,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_02",
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
+    "mapIconPath": "UI_TheatreMechanicusMap_02",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -1054,7 +1054,7 @@
   },
   {
     "HDBGDHCELAC": 7,
-    "PDHFANIOLKO": 7506,
+    "dungeonId": 7506,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 21
@@ -1183,10 +1183,10 @@
         "CDOIPGMKDFF": 703
       }
     ],
-    "KLLJFHOLAGL": 3539000316,
+    "mapNameTextMapHash": 3539000316,
     "JIAPBHOACOH": "Autumnal Resplendence",
-    "NEHBNAOAPAI": 1,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_03",
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
+    "mapIconPath": "UI_TheatreMechanicusMap_03",
     "NMBFCPIEFPI": [
       {
         "Key": {
@@ -1240,7 +1240,7 @@
   },
   {
     "HDBGDHCELAC": 8,
-    "PDHFANIOLKO": 7507,
+    "dungeonId": 7507,
     "IENAMECFFMI": [
       {
         "CDOIPGMKDFF": 6
@@ -1378,10 +1378,10 @@
         "CDOIPGMKDFF": 803
       }
     ],
-    "KLLJFHOLAGL": 51318284,
+    "mapNameTextMapHash": 51318284,
     "JIAPBHOACOH": "Springtide Advent",
-    "NEHBNAOAPAI": 1,
-    "ODHMCFIFFJK": "UI_TheatreMechanicusMap_04",
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
+    "mapIconPath": "UI_TheatreMechanicusMap_04",
     "NMBFCPIEFPI": [
       {
         "Key": {

@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1001,
+    "id": 1001,
     "ACDJCFMBAFF": 50311,
     "MIKKAOMEPNP": 50312,
     "CFKHJCPEKJD": [
@@ -30,7 +30,7 @@
       }
     ],
     "IALFMKKINAI": 2022201,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022201
       },
@@ -91,7 +91,7 @@
     "BEAIEONCHEL": "UI_Activity_Journey_GCGPick_04"
   },
   {
-    "PGKNKBKHCHM": 1002,
+    "id": 1002,
     "ACDJCFMBAFF": 50321,
     "MIKKAOMEPNP": 50322,
     "CFKHJCPEKJD": [
@@ -121,7 +121,7 @@
       }
     ],
     "IALFMKKINAI": 2022202,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022211
       },
@@ -182,7 +182,7 @@
     "BEAIEONCHEL": "UI_Activity_Journey_GCGPick_04"
   },
   {
-    "PGKNKBKHCHM": 1003,
+    "id": 1003,
     "ACDJCFMBAFF": 50331,
     "MIKKAOMEPNP": 50332,
     "CFKHJCPEKJD": [
@@ -212,7 +212,7 @@
       }
     ],
     "IALFMKKINAI": 2022203,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022221
       },
@@ -273,7 +273,7 @@
     "BEAIEONCHEL": "UI_Activity_Journey_GCGPick_05"
   },
   {
-    "PGKNKBKHCHM": 1004,
+    "id": 1004,
     "ACDJCFMBAFF": 50341,
     "MIKKAOMEPNP": 50342,
     "CFKHJCPEKJD": [
@@ -303,7 +303,7 @@
       }
     ],
     "IALFMKKINAI": 2022204,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022231
       },

@@ -1,1938 +1,1938 @@
 [
   {
-    "PGKNKBKHCHM": 101,
+    "id": 101,
     "nameTextMapHash": 2173510696,
     "PMPMKOPBJHA": "Dendro Slime",
     "icon": "UI_MonsterIcon_Slime_Grass_02"
   },
   {
-    "PGKNKBKHCHM": 102,
+    "id": 102,
     "nameTextMapHash": 220962224,
     "PMPMKOPBJHA": "Large Dendro Slime",
     "icon": "UI_MonsterIcon_Slime_Grass_03"
   },
   {
-    "PGKNKBKHCHM": 103,
+    "id": 103,
     "nameTextMapHash": 1511587408,
     "PMPMKOPBJHA": "Anemo Slime",
     "icon": "UI_MonsterIcon_Slime_Wind_02"
   },
   {
-    "PGKNKBKHCHM": 104,
+    "id": 104,
     "nameTextMapHash": 1527751472,
     "PMPMKOPBJHA": "Large Anemo Slime",
     "icon": "UI_MonsterIcon_Slime_Wind_03"
   },
   {
-    "PGKNKBKHCHM": 105,
+    "id": 105,
     "nameTextMapHash": 960731328,
     "PMPMKOPBJHA": "Electro Slime",
     "icon": "UI_MonsterIcon_Slime_Electric_02"
   },
   {
-    "PGKNKBKHCHM": 106,
+    "id": 106,
     "nameTextMapHash": 2835495304,
     "PMPMKOPBJHA": "Large Electro Slime",
     "icon": "UI_MonsterIcon_Slime_Electric_03"
   },
   {
-    "PGKNKBKHCHM": 107,
+    "id": 107,
     "nameTextMapHash": 3389920104,
     "PMPMKOPBJHA": "Mutant Electro Slime",
     "icon": "UI_MonsterIcon_Slime_Electric_03_Positive"
   },
   {
-    "PGKNKBKHCHM": 108,
+    "id": 108,
     "nameTextMapHash": 678013664,
     "PMPMKOPBJHA": "Cryo Slime",
     "icon": "UI_MonsterIcon_Slime_Ice_02"
   },
   {
-    "PGKNKBKHCHM": 109,
+    "id": 109,
     "nameTextMapHash": 2368926680,
     "PMPMKOPBJHA": "Large Cryo Slime",
     "icon": "UI_MonsterIcon_Slime_Ice_03"
   },
   {
-    "PGKNKBKHCHM": 110,
+    "id": 110,
     "nameTextMapHash": 1266302080,
     "PMPMKOPBJHA": "Hydro Slime",
     "icon": "UI_MonsterIcon_Slime_Water_02"
   },
   {
-    "PGKNKBKHCHM": 111,
+    "id": 111,
     "nameTextMapHash": 1883787496,
     "PMPMKOPBJHA": "Large Hydro Slime",
     "icon": "UI_MonsterIcon_Slime_Water_03"
   },
   {
-    "PGKNKBKHCHM": 112,
+    "id": 112,
     "nameTextMapHash": 3113209704,
     "PMPMKOPBJHA": "Pyro Slime",
     "icon": "UI_MonsterIcon_Slime_Fire_02"
   },
   {
-    "PGKNKBKHCHM": 113,
+    "id": 113,
     "nameTextMapHash": 3104668424,
     "PMPMKOPBJHA": "Large Pyro Slime",
     "icon": "UI_MonsterIcon_Slime_Fire_03"
   },
   {
-    "PGKNKBKHCHM": 114,
+    "id": 114,
     "nameTextMapHash": 1304425088,
     "PMPMKOPBJHA": "Geo Slime",
     "icon": "UI_MonsterIcon_Slime_Rock_02"
   },
   {
-    "PGKNKBKHCHM": 115,
+    "id": 115,
     "nameTextMapHash": 2254956112,
     "PMPMKOPBJHA": "Large Geo Slime",
     "icon": "UI_MonsterIcon_Slime_Rock_03"
   },
   {
-    "PGKNKBKHCHM": 116,
+    "id": 116,
     "nameTextMapHash": 544132088,
     "PMPMKOPBJHA": "Hydro Hypostasis Summon",
     "icon": "UI_MonsterIcon_Slime_Fire_02"
   },
   {
-    "PGKNKBKHCHM": 117,
+    "id": 117,
     "nameTextMapHash": 1415099112,
     "PMPMKOPBJHA": "Hydro Hypostasis Summon",
     "icon": "UI_MonsterIcon_Slime_Fire_03"
   },
   {
-    "PGKNKBKHCHM": 118,
+    "id": 118,
     "nameTextMapHash": 3935438856,
     "PMPMKOPBJHA": "Hydro Hypostasis Summon",
     "icon": "UI_MonsterIcon_Slime_Rock_02"
   },
   {
-    "PGKNKBKHCHM": 119,
+    "id": 119,
     "nameTextMapHash": 2540711056,
     "PMPMKOPBJHA": "Hydro Hypostasis Summon",
     "icon": "UI_MonsterIcon_Slime_Rock_03"
   },
   {
-    "PGKNKBKHCHM": 201,
+    "id": 201,
     "nameTextMapHash": 352893312,
     "PMPMKOPBJHA": "Eye of the Storm",
     "icon": "UI_MonsterIcon_Elemental_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 401,
+    "id": 401,
     "nameTextMapHash": 2576416432,
     "PMPMKOPBJHA": "Electro Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Electric"
   },
   {
-    "PGKNKBKHCHM": 402,
+    "id": 402,
     "nameTextMapHash": 1388893264,
     "PMPMKOPBJHA": "Anemo Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Wind"
   },
   {
-    "PGKNKBKHCHM": 403,
+    "id": 403,
     "nameTextMapHash": 1590609280,
     "PMPMKOPBJHA": "Geo Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Rock"
   },
   {
-    "PGKNKBKHCHM": 404,
+    "id": 404,
     "nameTextMapHash": 2176969488,
     "PMPMKOPBJHA": "Hydro Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Water"
   },
   {
-    "PGKNKBKHCHM": 405,
+    "id": 405,
     "nameTextMapHash": 937574560,
     "PMPMKOPBJHA": "Cryo Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Ice"
   },
   {
-    "PGKNKBKHCHM": 406,
+    "id": 406,
     "nameTextMapHash": 374969768,
     "PMPMKOPBJHA": "Pyro Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Fire"
   },
   {
-    "PGKNKBKHCHM": 407,
+    "id": 407,
     "nameTextMapHash": 2841278344,
     "PMPMKOPBJHA": "Dendro Hypostasis",
     "icon": "UI_MonsterIcon_Effigy_Grass"
   },
   {
-    "PGKNKBKHCHM": 501,
+    "id": 501,
     "nameTextMapHash": 1194478280,
     "PMPMKOPBJHA": "Oceanid",
     "icon": "UI_MonsterIcon_Oceanid"
   },
   {
-    "PGKNKBKHCHM": 502,
+    "id": 502,
     "nameTextMapHash": 3750306112,
     "PMPMKOPBJHA": "Hydro Mimic Boar",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 503,
+    "id": 503,
     "nameTextMapHash": 1411333056,
     "PMPMKOPBJHA": "Hydro Mimic Crane",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 504,
+    "id": 504,
     "nameTextMapHash": 3859189664,
     "PMPMKOPBJHA": "Hydro Mimic Crab",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 505,
+    "id": 505,
     "nameTextMapHash": 1517871784,
     "PMPMKOPBJHA": "Hydro Mimic Finch",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 506,
+    "id": 506,
     "nameTextMapHash": 2454508744,
     "PMPMKOPBJHA": "Hydro Mimic Mallard",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 507,
+    "id": 507,
     "nameTextMapHash": 2695145104,
     "PMPMKOPBJHA": "Hydro Mimic Squirrel",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 508,
+    "id": 508,
     "nameTextMapHash": 2270056128,
     "PMPMKOPBJHA": "Hydro Mimic Frog",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 509,
+    "id": 509,
     "nameTextMapHash": 1727202056,
     "PMPMKOPBJHA": "Hydro Mimic Raptor",
     "icon": "UI_MonsterIcon_Oceanid_Underling"
   },
   {
-    "PGKNKBKHCHM": 510,
+    "id": 510,
     "nameTextMapHash": 453148552,
     "PMPMKOPBJHA": "Tainted Water-Splitting Phantasm",
     "icon": "UI_MonsterIcon_Necalevia_Normal"
   },
   {
-    "PGKNKBKHCHM": 511,
+    "id": 511,
     "nameTextMapHash": 3501806728,
     "PMPMKOPBJHA": "Tainted Water-Spouting Phantasm",
     "icon": "UI_MonsterIcon_Necalevia_Big"
   },
   {
-    "PGKNKBKHCHM": 514,
+    "id": 514,
     "nameTextMapHash": 2970448672,
     "PMPMKOPBJHA": "Local Legend: Tainted Water-Splitting Phantasm",
     "icon": "UI_MonsterIcon_Necalevia_Normal"
   },
   {
-    "PGKNKBKHCHM": 515,
+    "id": 515,
     "nameTextMapHash": 3144622032,
     "PMPMKOPBJHA": "Local Legend: Tainted Water-Spouting Phantasm",
     "icon": "UI_MonsterIcon_Necalevia_Big"
   },
   {
-    "PGKNKBKHCHM": 601,
+    "id": 601,
     "nameTextMapHash": 3055427504,
     "PMPMKOPBJHA": "Hydro Specter",
     "icon": "UI_MonsterIcon_Sylph_Water_01"
   },
   {
-    "PGKNKBKHCHM": 602,
+    "id": 602,
     "nameTextMapHash": 1129726256,
     "PMPMKOPBJHA": "Geo Specter",
     "icon": "UI_MonsterIcon_Sylph_Rock_01"
   },
   {
-    "PGKNKBKHCHM": 603,
+    "id": 603,
     "nameTextMapHash": 1685659344,
     "PMPMKOPBJHA": "Anemo Specter",
     "icon": "UI_MonsterIcon_Sylph_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 604,
+    "id": 604,
     "nameTextMapHash": 1061667664,
     "PMPMKOPBJHA": "Cryo Specter",
     "icon": "UI_MonsterIcon_Sylph_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 605,
+    "id": 605,
     "nameTextMapHash": 4056559040,
     "PMPMKOPBJHA": "Electro Specter",
     "icon": "UI_MonsterIcon_Sylph_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 606,
+    "id": 606,
     "nameTextMapHash": 3663897528,
     "PMPMKOPBJHA": "Pyro Specter",
     "icon": "UI_MonsterIcon_Sylph_Fire_01"
   },
   {
-    "PGKNKBKHCHM": 607,
+    "id": 607,
     "nameTextMapHash": 2872478496,
     "PMPMKOPBJHA": "Dendro Specter",
     "icon": "UI_MonsterIcon_Sylph_Grass_01"
   },
   {
-    "PGKNKBKHCHM": 701,
+    "id": 701,
     "nameTextMapHash": 3258515928,
     "PMPMKOPBJHA": "Thunder Manifestation",
     "icon": "UI_MonsterIcon_Raijin"
   },
   {
-    "PGKNKBKHCHM": 10101,
+    "id": 10101,
     "nameTextMapHash": 2823299104,
     "PMPMKOPBJHA": "Hilichurl",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10102,
+    "id": 10102,
     "nameTextMapHash": 1502883680,
     "PMPMKOPBJHA": "Hilichurl Fighter",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10103,
+    "id": 10103,
     "nameTextMapHash": 2491960152,
     "PMPMKOPBJHA": "Wooden Shield Hilichurl Guard",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10104,
+    "id": 10104,
     "nameTextMapHash": 3261111696,
     "PMPMKOPBJHA": "Hilichurl Shooter",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10105,
+    "id": 10105,
     "nameTextMapHash": 41061376,
     "PMPMKOPBJHA": "Pyro Hilichurl Shooter",
     "icon": "UI_MonsterIcon_Hili_Fire_Range"
   },
   {
-    "PGKNKBKHCHM": 10106,
+    "id": 10106,
     "nameTextMapHash": 4024598056,
     "PMPMKOPBJHA": "Hilichurl Grenadier",
     "icon": "UI_MonsterIcon_Hili_Fire_Range"
   },
   {
-    "PGKNKBKHCHM": 10107,
+    "id": 10107,
     "nameTextMapHash": 3251673344,
     "PMPMKOPBJHA": "Hilichurl Berserker",
     "icon": "UI_MonsterIcon_Hili_Fire_Range"
   },
   {
-    "PGKNKBKHCHM": 10109,
+    "id": 10109,
     "nameTextMapHash": 2598026680,
     "PMPMKOPBJHA": "Cryo Hilichurl Shooter",
     "icon": "UI_MonsterIcon_Hili_Ice_Range"
   },
   {
-    "PGKNKBKHCHM": 10110,
+    "id": 10110,
     "nameTextMapHash": 2963928784,
     "PMPMKOPBJHA": "Electro Hilichurl Shooter",
     "icon": "UI_MonsterIcon_Hili_Electric_Range"
   },
   {
-    "PGKNKBKHCHM": 10112,
+    "id": 10112,
     "nameTextMapHash": 1779087448,
     "PMPMKOPBJHA": "Rock Shield Hilichurl Guard",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10113,
+    "id": 10113,
     "nameTextMapHash": 2456790112,
     "PMPMKOPBJHA": "Cryo Hilichurl Grenadier",
     "icon": "UI_MonsterIcon_Hili_Ice_Range"
   },
   {
-    "PGKNKBKHCHM": 10114,
+    "id": 10114,
     "nameTextMapHash": 3034104928,
     "PMPMKOPBJHA": "Ice Shield Hilichurl Guard",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 10115,
+    "id": 10115,
     "nameTextMapHash": 1868726720,
     "PMPMKOPBJHA": "Unusual Hilichurl",
     "icon": "UI_MonsterIcon_Hili_Wei"
   },
   {
-    "PGKNKBKHCHM": 10116,
+    "id": 10116,
     "nameTextMapHash": 2167729272,
     "PMPMKOPBJHA": "Electro Hilichurl Grenadier",
     "icon": "UI_MonsterIcon_Hili_Electric_Range"
   },
   {
-    "PGKNKBKHCHM": 10201,
+    "id": 10201,
     "nameTextMapHash": 2998946096,
     "PMPMKOPBJHA": "Wooden Shieldwall Mitachurl",
     "icon": "UI_MonsterIcon_Brute_None_01"
   },
   {
-    "PGKNKBKHCHM": 10202,
+    "id": 10202,
     "nameTextMapHash": 2414837496,
     "PMPMKOPBJHA": "Blazing Axe Mitachurl",
     "icon": "UI_MonsterIcon_Brute_None_01"
   },
   {
-    "PGKNKBKHCHM": 10203,
+    "id": 10203,
     "nameTextMapHash": 1611076776,
     "PMPMKOPBJHA": "Rock Shieldwall Mitachurl",
     "icon": "UI_MonsterIcon_Brute_None_01"
   },
   {
-    "PGKNKBKHCHM": 10204,
+    "id": 10204,
     "nameTextMapHash": 3926747992,
     "PMPMKOPBJHA": "Frostarm Lawachurl",
     "icon": "UI_MonsterIcon_Brute_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 10205,
+    "id": 10205,
     "nameTextMapHash": 1204583624,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
     "icon": "UI_MonsterIcon_Brute_Rock_None"
   },
   {
-    "PGKNKBKHCHM": 10206,
+    "id": 10206,
     "nameTextMapHash": 3749655912,
     "PMPMKOPBJHA": "Ice Shieldwall Mitachurl",
     "icon": "UI_MonsterIcon_Brute_None_01"
   },
   {
-    "PGKNKBKHCHM": 10207,
+    "id": 10207,
     "nameTextMapHash": 3382922248,
     "PMPMKOPBJHA": "Crackling Axe Mitachurl",
     "icon": "UI_MonsterIcon_Brute_None_01"
   },
   {
-    "PGKNKBKHCHM": 10208,
+    "id": 10208,
     "nameTextMapHash": 805439664,
     "PMPMKOPBJHA": "Thunderhelm Lawachurl",
     "icon": "UI_MonsterIcon_Brute_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 10301,
+    "id": 10301,
     "nameTextMapHash": 1980056728,
     "PMPMKOPBJHA": "Hydro Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Water_01"
   },
   {
-    "PGKNKBKHCHM": 10302,
+    "id": 10302,
     "nameTextMapHash": 1473826984,
     "PMPMKOPBJHA": "Dendro Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Grass_01"
   },
   {
-    "PGKNKBKHCHM": 10303,
+    "id": 10303,
     "nameTextMapHash": 10553112,
     "PMPMKOPBJHA": "Anemo Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 10304,
+    "id": 10304,
     "nameTextMapHash": 3338079384,
     "PMPMKOPBJHA": "Geo Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Rock_01"
   },
   {
-    "PGKNKBKHCHM": 10305,
+    "id": 10305,
     "nameTextMapHash": 1785924728,
     "PMPMKOPBJHA": "Cryo Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 10306,
+    "id": 10306,
     "nameTextMapHash": 1596748696,
     "PMPMKOPBJHA": "Electro Samachurl",
     "icon": "UI_MonsterIcon_Shaman_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 10401,
+    "id": 10401,
     "nameTextMapHash": 3952856048,
     "PMPMKOPBJHA": "Anemo Hilichurl Rogue",
     "icon": "UI_MonsterIcon_Hilistray_Wind"
   },
   {
-    "PGKNKBKHCHM": 10402,
+    "id": 10402,
     "nameTextMapHash": 2508757576,
     "PMPMKOPBJHA": "Hydro Hilichurl Rogue",
     "icon": "UI_MonsterIcon_Hilistray_Water"
   },
   {
-    "PGKNKBKHCHM": 20101,
+    "id": 20101,
     "nameTextMapHash": 2415438104,
     "PMPMKOPBJHA": "Pyro Abyss Mage",
     "icon": "UI_MonsterIcon_Abyss_Fire_01"
   },
   {
-    "PGKNKBKHCHM": 20102,
+    "id": 20102,
     "nameTextMapHash": 1321463096,
     "PMPMKOPBJHA": "Cryo Abyss Mage",
     "icon": "UI_MonsterIcon_Abyss_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 20103,
+    "id": 20103,
     "nameTextMapHash": 2267848368,
     "PMPMKOPBJHA": "Hydro Abyss Mage",
     "icon": "UI_MonsterIcon_Abyss_Water_01"
   },
   {
-    "PGKNKBKHCHM": 20104,
+    "id": 20104,
     "nameTextMapHash": 1299643312,
     "PMPMKOPBJHA": "Electro Abyss Mage",
     "icon": "UI_MonsterIcon_Abyss_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 20201,
+    "id": 20201,
     "nameTextMapHash": 2159496136,
     "PMPMKOPBJHA": "Abyss Herald: Wicked Torrents",
     "icon": "UI_MonsterIcon_Invoker_Herald_Water_01"
   },
   {
-    "PGKNKBKHCHM": 20202,
+    "id": 20202,
     "nameTextMapHash": 1561834088,
     "PMPMKOPBJHA": "Abyss Herald: Frost Fall",
     "icon": "UI_MonsterIcon_Invoker_Herald_Ice"
   },
   {
-    "PGKNKBKHCHM": 20301,
+    "id": 20301,
     "nameTextMapHash": 626343048,
     "PMPMKOPBJHA": "Abyss Lector: Violet Lightning",
     "icon": "UI_MonsterIcon_Invoker_Deacon_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 20302,
+    "id": 20302,
     "nameTextMapHash": 1167557096,
     "PMPMKOPBJHA": "Abyss Lector: Fathomless Flames",
     "icon": "UI_MonsterIcon_Invoker_Deacon_Fire"
   },
   {
-    "PGKNKBKHCHM": 20401,
+    "id": 20401,
     "nameTextMapHash": 4040204456,
     "PMPMKOPBJHA": "Rockfond Rifthound Whelp",
     "icon": "UI_MonsterIcon_Hound_Kanis_Rock"
   },
   {
-    "PGKNKBKHCHM": 20402,
+    "id": 20402,
     "nameTextMapHash": 717375112,
     "PMPMKOPBJHA": "Thundercraven Rifthound Whelp",
     "icon": "UI_MonsterIcon_Hound_Kanis_Electric"
   },
   {
-    "PGKNKBKHCHM": 20501,
+    "id": 20501,
     "nameTextMapHash": 2930642328,
     "PMPMKOPBJHA": "Rockfond Rifthound",
     "icon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
   },
   {
-    "PGKNKBKHCHM": 20502,
+    "id": 20502,
     "nameTextMapHash": 2530429496,
     "PMPMKOPBJHA": "Thundercraven Rifthound",
     "icon": "UI_MonsterIcon_Hound_Riftstalker_Electric"
   },
   {
-    "PGKNKBKHCHM": 20601,
+    "id": 20601,
     "nameTextMapHash": 2218442544,
     "PMPMKOPBJHA": "Golden Wolflord",
     "icon": "UI_MonsterIcon_Hound_Planelurker"
   },
   {
-    "PGKNKBKHCHM": 20701,
+    "id": 20701,
     "nameTextMapHash": 3775538896,
     "PMPMKOPBJHA": "Shadowy Husk: Standard Bearer",
     "icon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
   },
   {
-    "PGKNKBKHCHM": 20702,
+    "id": 20702,
     "nameTextMapHash": 1930273248,
     "PMPMKOPBJHA": "Shadowy Husk: Line Breaker",
     "icon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water"
   },
   {
-    "PGKNKBKHCHM": 20703,
+    "id": 20703,
     "nameTextMapHash": 784327392,
     "PMPMKOPBJHA": "Shadowy Husk: Defender",
     "icon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice"
   },
   {
-    "PGKNKBKHCHM": 20801,
+    "id": 20801,
     "nameTextMapHash": 3259944648,
     "PMPMKOPBJHA": "Black Serpent Knight: Windcutter",
     "icon": "UI_MonsterIcon_Darkwraith_Strong_Wind"
   },
   {
-    "PGKNKBKHCHM": 20802,
+    "id": 20802,
     "nameTextMapHash": 2575257792,
     "PMPMKOPBJHA": "Black Serpent Knight: Rockbreaker Ax",
     "icon": "UI_MonsterIcon_Darkwraith_Fat_Rock"
   },
   {
-    "PGKNKBKHCHM": 20901,
+    "id": 20901,
     "nameTextMapHash": 4127518744,
     "PMPMKOPBJHA": "",
     "icon": "UI_MonsterIcon_Darkwraith_Strong_Wind"
   },
   {
-    "PGKNKBKHCHM": 21001,
+    "id": 21001,
     "nameTextMapHash": 1414866248,
     "PMPMKOPBJHA": "Iniquitous Baptist - Invoker of Fire, Frost, and Fulmination",
     "icon": "UI_MonsterIcon_Invoker_Archdeacon"
   },
   {
-    "PGKNKBKHCHM": 21002,
+    "id": 21002,
     "nameTextMapHash": 1373576872,
     "PMPMKOPBJHA": "Iniquitous Baptist - Bringer of Flood, Flame, and Frost",
     "icon": "UI_MonsterIcon_Invoker_Archdeacon"
   },
   {
-    "PGKNKBKHCHM": 21003,
+    "id": 21003,
     "nameTextMapHash": 3745350432,
     "PMPMKOPBJHA": "Iniquitous Baptist - Caller of Flood, Flame, and Fulmination",
     "icon": "UI_MonsterIcon_Invoker_Archdeacon"
   },
   {
-    "PGKNKBKHCHM": 21004,
+    "id": 21004,
     "nameTextMapHash": 3477599544,
     "PMPMKOPBJHA": "Iniquitous Baptist - Summoner of Flood, Frost, and Fulmination",
     "icon": "UI_MonsterIcon_Invoker_Archdeacon"
   },
   {
-    "PGKNKBKHCHM": 21005,
+    "id": 21005,
     "nameTextMapHash": 1840128168,
     "PMPMKOPBJHA": "Iniquitous Baptist",
     "icon": "UI_MonsterIcon_Invoker_Archdeacon"
   },
   {
-    "PGKNKBKHCHM": 21101,
+    "id": 21101,
     "nameTextMapHash": 3303466144,
     "PMPMKOPBJHA": "Large Shatterstone Breacher Primus",
     "icon": "UI_MonsterIcon_Ovacua_Order_01"
   },
   {
-    "PGKNKBKHCHM": 21102,
+    "id": 21102,
     "nameTextMapHash": 3351302096,
     "PMPMKOPBJHA": "Shatterstone Breacher Primus",
     "icon": "UI_MonsterIcon_Ovacua_Order_02"
   },
   {
-    "PGKNKBKHCHM": 21103,
+    "id": 21103,
     "nameTextMapHash": 1920243392,
     "PMPMKOPBJHA": "Large Overgrown Breacher Primus",
     "icon": "UI_MonsterIcon_Ovacua_Chaos_01"
   },
   {
-    "PGKNKBKHCHM": 21104,
+    "id": 21104,
     "nameTextMapHash": 3120151760,
     "PMPMKOPBJHA": "Overgrown Breacher Primus",
     "icon": "UI_MonsterIcon_Ovacua_Chaos_02"
   },
   {
-    "PGKNKBKHCHM": 30101,
+    "id": 30101,
     "nameTextMapHash": 995929064,
     "PMPMKOPBJHA": "Fatui Skirmisher - Cryogunner Legionnaire",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 30102,
+    "id": 30102,
     "nameTextMapHash": 12762888,
     "PMPMKOPBJHA": "Fatui Skirmisher - Hydrogunner Legionnaire",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01"
   },
   {
-    "PGKNKBKHCHM": 30103,
+    "id": 30103,
     "nameTextMapHash": 1919409584,
     "PMPMKOPBJHA": "Fatui Skirmisher - Electrohammer Vanguard",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 30104,
+    "id": 30104,
     "nameTextMapHash": 3627495392,
     "PMPMKOPBJHA": "Fatui Skirmisher - Geochanter Bracer",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Staff_Rock_01"
   },
   {
-    "PGKNKBKHCHM": 30105,
+    "id": 30105,
     "nameTextMapHash": 1426306032,
     "PMPMKOPBJHA": "Fatui Skirmisher - Anemoboxer Vanguard",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Strong_Gloves_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 30106,
+    "id": 30106,
     "nameTextMapHash": 1434878968,
     "PMPMKOPBJHA": "Fatui Skirmisher - Pyroslinger Bracer",
     "icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
   },
   {
-    "PGKNKBKHCHM": 30201,
+    "id": 30201,
     "nameTextMapHash": 3750143024,
     "PMPMKOPBJHA": "Fatui Pyro Agent",
     "icon": "UI_MonsterIcon_Fatuus_Fire_01"
   },
   {
-    "PGKNKBKHCHM": 30301,
+    "id": 30301,
     "nameTextMapHash": 1010609776,
     "PMPMKOPBJHA": "Fatui Electro Cicin Mage",
     "icon": "UI_MonsterIcon_Fatuus_Summoner_01"
   },
   {
-    "PGKNKBKHCHM": 30401,
+    "id": 30401,
     "nameTextMapHash": 4010466472,
     "PMPMKOPBJHA": "Fatui Cryo Cicin Mage",
     "icon": "UI_MonsterIcon_Fatuus_Mage_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 30501,
+    "id": 30501,
     "nameTextMapHash": 1709717640,
     "PMPMKOPBJHA": "Mirror Maiden",
     "icon": "UI_MonsterIcon_Fatuus_Maiden_Water"
   },
   {
-    "PGKNKBKHCHM": 30601,
+    "id": 30601,
     "nameTextMapHash": 2059788056,
     "PMPMKOPBJHA": "Frost Operative",
     "icon": "UI_MonsterIcon_Fatuus_Escadron_Ice"
   },
   {
-    "PGKNKBKHCHM": 30602,
+    "id": 30602,
     "nameTextMapHash": 3887106408,
     "PMPMKOPBJHA": "Wind Operative",
     "icon": "UI_MonsterIcon_Fatuus_Escadron_Wind"
   },
   {
-    "PGKNKBKHCHM": 30603,
+    "id": 30603,
     "nameTextMapHash": 544837160,
     "PMPMKOPBJHA": "Local Legend: Frost Operative",
     "icon": "UI_MonsterIcon_Fatuus_Escadron_Ice"
   },
   {
-    "PGKNKBKHCHM": 30604,
+    "id": 30604,
     "nameTextMapHash": 3448422640,
     "PMPMKOPBJHA": "Local Legend: Wind Operative",
     "icon": "UI_MonsterIcon_Fatuus_Escadron_Wind"
   },
   {
-    "PGKNKBKHCHM": 40101,
+    "id": 40101,
     "nameTextMapHash": 1418628360,
     "PMPMKOPBJHA": "Ruin Guard",
     "icon": "UI_MonsterIcon_Defender_Noner_01"
   },
   {
-    "PGKNKBKHCHM": 40102,
+    "id": 40102,
     "nameTextMapHash": 4243053360,
     "PMPMKOPBJHA": "Ruin Hunter",
     "icon": "UI_MonsterIcon_Formathr_None"
   },
   {
-    "PGKNKBKHCHM": 40103,
+    "id": 40103,
     "nameTextMapHash": 399632552,
     "PMPMKOPBJHA": "Ruin Grader",
     "icon": "UI_MonsterIcon_Konungmathr"
   },
   {
-    "PGKNKBKHCHM": 40104,
+    "id": 40104,
     "nameTextMapHash": 2345695136,
     "PMPMKOPBJHA": "Ruin Serpent",
     "icon": "UI_MonsterIcon_Nithhoggr_None"
   },
   {
-    "PGKNKBKHCHM": 40201,
+    "id": 40201,
     "nameTextMapHash": 2360166000,
     "PMPMKOPBJHA": "Ruin Cruiser",
     "icon": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone"
   },
   {
-    "PGKNKBKHCHM": 40202,
+    "id": 40202,
     "nameTextMapHash": 2106038440,
     "PMPMKOPBJHA": "Ruin Destroyer",
     "icon": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora"
   },
   {
-    "PGKNKBKHCHM": 40203,
+    "id": 40203,
     "nameTextMapHash": 2390298952,
     "PMPMKOPBJHA": "Ruin Defender",
     "icon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
   },
   {
-    "PGKNKBKHCHM": 40204,
+    "id": 40204,
     "nameTextMapHash": 545245072,
     "PMPMKOPBJHA": "Ruin Scout",
     "icon": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler"
   },
   {
-    "PGKNKBKHCHM": 40211,
+    "id": 40211,
     "nameTextMapHash": 4062249480,
     "PMPMKOPBJHA": "Perpetual Mechanical Array",
     "icon": "UI_MonsterIcon_Apparatus_Perpetual"
   },
   {
-    "PGKNKBKHCHM": 40301,
+    "id": 40301,
     "nameTextMapHash": 1874960408,
     "PMPMKOPBJHA": "Ruin Drake: Skywatch",
     "icon": "UI_MonsterIcon_Gargoyle"
   },
   {
-    "PGKNKBKHCHM": 40302,
+    "id": 40302,
     "nameTextMapHash": 745177296,
     "PMPMKOPBJHA": "Ruin Drake: Earthguard",
     "icon": "UI_MonsterIcon_Gargoyle"
   },
   {
-    "PGKNKBKHCHM": 40303,
+    "id": 40303,
     "nameTextMapHash": 392391024,
     "PMPMKOPBJHA": "Aeonblight Drake",
     "icon": "UI_MonsterIcon_Gargoyle_Fafnir"
   },
   {
-    "PGKNKBKHCHM": 40401,
+    "id": 40401,
     "nameTextMapHash": 3640705344,
     "PMPMKOPBJHA": "Primal Construct: Repulsor",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 40402,
+    "id": 40402,
     "nameTextMapHash": 3433160376,
     "PMPMKOPBJHA": "Primal Construct: Reshaper",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 40403,
+    "id": 40403,
     "nameTextMapHash": 960036488,
     "PMPMKOPBJHA": "Primal Construct: Prospector",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 40501,
+    "id": 40501,
     "nameTextMapHash": 1856265352,
     "PMPMKOPBJHA": "Algorithm of Semi-Intransient Matrix of Overseer Network",
     "icon": "UI_MonsterIcon_Monolith_Starchild"
   },
   {
-    "PGKNKBKHCHM": 40601,
+    "id": 40601,
     "nameTextMapHash": 4140776160,
     "PMPMKOPBJHA": "Recon Log Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Sentry"
   },
   {
-    "PGKNKBKHCHM": 40602,
+    "id": 40602,
     "nameTextMapHash": 2485261272,
     "PMPMKOPBJHA": "Arithmetic Enhancer Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Pylon"
   },
   {
-    "PGKNKBKHCHM": 40603,
+    "id": 40603,
     "nameTextMapHash": 1066803048,
     "PMPMKOPBJHA": "Underwater Survey Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Recon"
   },
   {
-    "PGKNKBKHCHM": 40604,
+    "id": 40604,
     "nameTextMapHash": 1094395920,
     "PMPMKOPBJHA": "Geological Survey Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Probe"
   },
   {
-    "PGKNKBKHCHM": 40605,
+    "id": 40605,
     "nameTextMapHash": 1238666064,
     "PMPMKOPBJHA": "Underwater Patrol Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nautilus"
   },
   {
-    "PGKNKBKHCHM": 40606,
+    "id": 40606,
     "nameTextMapHash": 3995797928,
     "PMPMKOPBJHA": "Deepwater Assault Mek: Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Frigate"
   },
   {
-    "PGKNKBKHCHM": 40607,
+    "id": 40607,
     "nameTextMapHash": 1747337896,
     "PMPMKOPBJHA": "Nimble Harvester Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Assimilator"
   },
   {
-    "PGKNKBKHCHM": 40608,
+    "id": 40608,
     "nameTextMapHash": 4158727312,
     "PMPMKOPBJHA": "Assault Specialist Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
   },
   {
-    "PGKNKBKHCHM": 40609,
+    "id": 40609,
     "nameTextMapHash": 630223608,
     "PMPMKOPBJHA": "Suppression Specialist Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
   },
   {
-    "PGKNKBKHCHM": 40610,
+    "id": 40610,
     "nameTextMapHash": 1470451960,
     "PMPMKOPBJHA": "Annihilation Specialist Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Bradamante"
   },
   {
-    "PGKNKBKHCHM": 40611,
+    "id": 40611,
     "nameTextMapHash": 3919209288,
     "PMPMKOPBJHA": "Area Alert Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
   },
   {
-    "PGKNKBKHCHM": 40612,
+    "id": 40612,
     "nameTextMapHash": 892435448,
     "PMPMKOPBJHA": "Construction Specialist Mek - Ousia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Excavator"
   },
   {
-    "PGKNKBKHCHM": 40613,
+    "id": 40613,
     "nameTextMapHash": 381672496,
     "PMPMKOPBJHA": "Local Legend: Arithmetic Enhancer Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Pylon"
   },
   {
-    "PGKNKBKHCHM": 40651,
+    "id": 40651,
     "nameTextMapHash": 1256769200,
     "PMPMKOPBJHA": "Recon Log Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Sentry"
   },
   {
-    "PGKNKBKHCHM": 40652,
+    "id": 40652,
     "nameTextMapHash": 269023824,
     "PMPMKOPBJHA": "Arithmetic Enhancer Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Pylon"
   },
   {
-    "PGKNKBKHCHM": 40653,
+    "id": 40653,
     "nameTextMapHash": 4205809176,
     "PMPMKOPBJHA": "Underwater Survey Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Recon"
   },
   {
-    "PGKNKBKHCHM": 40654,
+    "id": 40654,
     "nameTextMapHash": 193809824,
     "PMPMKOPBJHA": "Geological Survey Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Probe"
   },
   {
-    "PGKNKBKHCHM": 40655,
+    "id": 40655,
     "nameTextMapHash": 1420341400,
     "PMPMKOPBJHA": "Underwater Patrol Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nautilus"
   },
   {
-    "PGKNKBKHCHM": 40656,
+    "id": 40656,
     "nameTextMapHash": 3444415920,
     "PMPMKOPBJHA": "Deepwater Assault Mek: Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Frigate"
   },
   {
-    "PGKNKBKHCHM": 40657,
+    "id": 40657,
     "nameTextMapHash": 3703841120,
     "PMPMKOPBJHA": "Nimble Harvester Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Assimilator"
   },
   {
-    "PGKNKBKHCHM": 40658,
+    "id": 40658,
     "nameTextMapHash": 3334344744,
     "PMPMKOPBJHA": "Assault Specialist Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
   },
   {
-    "PGKNKBKHCHM": 40659,
+    "id": 40659,
     "nameTextMapHash": 564435304,
     "PMPMKOPBJHA": "Suppression Specialist Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
   },
   {
-    "PGKNKBKHCHM": 40660,
+    "id": 40660,
     "nameTextMapHash": 4102663072,
     "PMPMKOPBJHA": "Annihilation Specialist Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Bradamante"
   },
   {
-    "PGKNKBKHCHM": 40661,
+    "id": 40661,
     "nameTextMapHash": 2677499600,
     "PMPMKOPBJHA": "Area Alert Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
   },
   {
-    "PGKNKBKHCHM": 40662,
+    "id": 40662,
     "nameTextMapHash": 2909631760,
     "PMPMKOPBJHA": "Construction Specialist Mek - Pneuma",
     "icon": "UI_MonsterIcon_MachinaIustitia_Excavator"
   },
   {
-    "PGKNKBKHCHM": 40681,
+    "id": 40681,
     "nameTextMapHash": 2479279968,
     "PMPMKOPBJHA": "Recon Log Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Sentry"
   },
   {
-    "PGKNKBKHCHM": 40682,
+    "id": 40682,
     "nameTextMapHash": 1945068152,
     "PMPMKOPBJHA": "Arithmetic Enhancer Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Pylon"
   },
   {
-    "PGKNKBKHCHM": 40683,
+    "id": 40683,
     "nameTextMapHash": 2641906440,
     "PMPMKOPBJHA": "Underwater Survey Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Recon"
   },
   {
-    "PGKNKBKHCHM": 40684,
+    "id": 40684,
     "nameTextMapHash": 1822391752,
     "PMPMKOPBJHA": "Geological Survey Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Probe"
   },
   {
-    "PGKNKBKHCHM": 40685,
+    "id": 40685,
     "nameTextMapHash": 723416032,
     "PMPMKOPBJHA": "Underwater Patrol Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nautilus"
   },
   {
-    "PGKNKBKHCHM": 40686,
+    "id": 40686,
     "nameTextMapHash": 3481979704,
     "PMPMKOPBJHA": "Deepwater Assault Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Frigate"
   },
   {
-    "PGKNKBKHCHM": 40687,
+    "id": 40687,
     "nameTextMapHash": 2198763648,
     "PMPMKOPBJHA": "Nimble Harvester Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Assimilator"
   },
   {
-    "PGKNKBKHCHM": 40688,
+    "id": 40688,
     "nameTextMapHash": 68049912,
     "PMPMKOPBJHA": "Assault Specialist Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_01"
   },
   {
-    "PGKNKBKHCHM": 40689,
+    "id": 40689,
     "nameTextMapHash": 1387101112,
     "PMPMKOPBJHA": "Suppression Specialist Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Ruggiero_02"
   },
   {
-    "PGKNKBKHCHM": 40690,
+    "id": 40690,
     "nameTextMapHash": 1733932512,
     "PMPMKOPBJHA": "Annihilation Specialist Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Bradamante"
   },
   {
-    "PGKNKBKHCHM": 40691,
+    "id": 40691,
     "nameTextMapHash": 3720326080,
     "PMPMKOPBJHA": "Area Alert Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_LengthShifter"
   },
   {
-    "PGKNKBKHCHM": 40692,
+    "id": 40692,
     "nameTextMapHash": 3581880152,
     "PMPMKOPBJHA": "Construction Specialist Mek",
     "icon": "UI_MonsterIcon_MachinaIustitia_Excavator"
   },
   {
-    "PGKNKBKHCHM": 40701,
+    "id": 40701,
     "nameTextMapHash": 2001226544,
     "PMPMKOPBJHA": "Icewind Suite: Nemesis of Coppelius",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
   },
   {
-    "PGKNKBKHCHM": 40702,
+    "id": 40702,
     "nameTextMapHash": 1043672848,
     "PMPMKOPBJHA": "Icewind Suite: Dirge of Coppelia",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
   },
   {
-    "PGKNKBKHCHM": 40703,
+    "id": 40703,
     "nameTextMapHash": 242731664,
     "PMPMKOPBJHA": "Icewind Suite",
     "icon": "UI_MonsterIcon_MachinaIustitia_Nutcracker"
   },
   {
-    "PGKNKBKHCHM": 40801,
+    "id": 40801,
     "nameTextMapHash": 3214543168,
     "PMPMKOPBJHA": "Experimental Field Generator",
     "icon": "UI_MonsterIcon_MachinaIustitia_Gravitas"
   },
   {
-    "PGKNKBKHCHM": 48101,
+    "id": 48101,
     "nameTextMapHash": 3995841000,
     "PMPMKOPBJHA": "Basic Defensive Pyro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48102,
+    "id": 48102,
     "nameTextMapHash": 1952925880,
     "PMPMKOPBJHA": "Advanced Defensive Pyro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48103,
+    "id": 48103,
     "nameTextMapHash": 2001019136,
     "PMPMKOPBJHA": "Basic Defensive Electro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48104,
+    "id": 48104,
     "nameTextMapHash": 973459312,
     "PMPMKOPBJHA": "Advanced Defensive Electro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48105,
+    "id": 48105,
     "nameTextMapHash": 391056656,
     "PMPMKOPBJHA": "Basic Defensive Hydro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48106,
+    "id": 48106,
     "nameTextMapHash": 693132112,
     "PMPMKOPBJHA": "Advanced Defensive Hydro Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48107,
+    "id": 48107,
     "nameTextMapHash": 706010336,
     "PMPMKOPBJHA": "Basic Defensive Cryo Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48108,
+    "id": 48108,
     "nameTextMapHash": 3289322152,
     "PMPMKOPBJHA": "Advanced Defensive Cryo Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48109,
+    "id": 48109,
     "nameTextMapHash": 4171513648,
     "PMPMKOPBJHA": "Basic Defensive Anemo Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48110,
+    "id": 48110,
     "nameTextMapHash": 146399424,
     "PMPMKOPBJHA": "Advanced Defensive Anemo Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 48111,
+    "id": 48111,
     "nameTextMapHash": 444889392,
     "PMPMKOPBJHA": "Defensive Physical Tower",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 49201,
+    "id": 49201,
     "nameTextMapHash": 1647913616,
     "PMPMKOPBJHA": "Automaton: Small Slime Balloon",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 49202,
+    "id": 49202,
     "nameTextMapHash": 2117269760,
     "PMPMKOPBJHA": "Automaton: Large Slime Balloon",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 49203,
+    "id": 49203,
     "nameTextMapHash": 652910120,
     "PMPMKOPBJHA": "Automaton: Fungus Balloon",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 49901,
+    "id": 49901,
     "nameTextMapHash": 1390139448,
     "PMPMKOPBJHA": "",
     "icon": "UI_MonsterIcon_Monolith_Ordinator"
   },
   {
-    "PGKNKBKHCHM": 50101,
+    "id": 50101,
     "nameTextMapHash": 2720944320,
     "PMPMKOPBJHA": "Treasure Hoarders: Liuliu",
     "icon": "UI_MonsterIcon_Thoarder_Male_NoWeapon_01"
   },
   {
-    "PGKNKBKHCHM": 50102,
+    "id": 50102,
     "nameTextMapHash": 3059200712,
     "PMPMKOPBJHA": "Treasure Hoarders: Scout",
     "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
   },
   {
-    "PGKNKBKHCHM": 50103,
+    "id": 50103,
     "nameTextMapHash": 1087023424,
     "PMPMKOPBJHA": "Treasure Hoarders: Pyro Potioneer",
     "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01"
   },
   {
-    "PGKNKBKHCHM": 50104,
+    "id": 50104,
     "nameTextMapHash": 3798548888,
     "PMPMKOPBJHA": "Treasure Hoarders: Hydro Potioneer",
     "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01"
   },
   {
-    "PGKNKBKHCHM": 50105,
+    "id": 50105,
     "nameTextMapHash": 1521590128,
     "PMPMKOPBJHA": "Treasure Hoarders: Electro Potioneer",
     "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 50106,
+    "id": 50106,
     "nameTextMapHash": 361009392,
     "PMPMKOPBJHA": "Treasure Hoarders: Cryo Potioneer",
     "icon": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 50107,
+    "id": 50107,
     "nameTextMapHash": 3123684272,
     "PMPMKOPBJHA": "Treasure Hoarders: Handyman",
     "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01"
   },
   {
-    "PGKNKBKHCHM": 50201,
+    "id": 50201,
     "nameTextMapHash": 3627181320,
     "PMPMKOPBJHA": "Treasure Hoarders: Raptor",
     "icon": "UI_MonsterIcon_Thoarder_Male_Crossbow_01"
   },
   {
-    "PGKNKBKHCHM": 50202,
+    "id": 50202,
     "nameTextMapHash": 3413949720,
     "PMPMKOPBJHA": "Treasure Hoarders: Marksman",
     "icon": "UI_MonsterIcon_Thoarder_Male_Hunter_01"
   },
   {
-    "PGKNKBKHCHM": 50301,
+    "id": 50301,
     "nameTextMapHash": 531388104,
     "PMPMKOPBJHA": "Treasure Hoarders: Carmen",
     "icon": "UI_MonsterIcon_Thoarder_Male_Shovel_01"
   },
   {
-    "PGKNKBKHCHM": 50302,
+    "id": 50302,
     "nameTextMapHash": 28706096,
     "PMPMKOPBJHA": "Treasure Hoarders: Gravedigger",
     "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_02"
   },
   {
-    "PGKNKBKHCHM": 50303,
+    "id": 50303,
     "nameTextMapHash": 1603081168,
     "PMPMKOPBJHA": "Treasure Hoarders: Seaman",
     "icon": "UI_MonsterIcon_Thoarder_Male_Sailor_01"
   },
   {
-    "PGKNKBKHCHM": 50401,
+    "id": 50401,
     "nameTextMapHash": 1914087968,
     "PMPMKOPBJHA": "Treasure Hoarders: Boss",
     "icon": "UI_MonsterIcon_Thoarder_Female_Hatchet_01"
   },
   {
-    "PGKNKBKHCHM": 50501,
+    "id": 50501,
     "nameTextMapHash": 1541768712,
     "PMPMKOPBJHA": "Millelith Soldier",
     "icon": "UI_MonsterIcon_Millelith_Male_01"
   },
   {
-    "PGKNKBKHCHM": 50502,
+    "id": 50502,
     "nameTextMapHash": 4161693360,
     "PMPMKOPBJHA": "Millelith Sergeant",
     "icon": "UI_MonsterIcon_Millelith_Male_02"
   },
   {
-    "PGKNKBKHCHM": 50503,
+    "id": 50503,
     "nameTextMapHash": 1175126584,
     "PMPMKOPBJHA": "Shogunate Infantry",
     "icon": "UI_MonsterIcon_Aahigaru_Male_01"
   },
   {
-    "PGKNKBKHCHM": 50504,
+    "id": 50504,
     "nameTextMapHash": 1300846616,
     "PMPMKOPBJHA": "Shogunate Infantry Captain",
     "icon": "UI_MonsterIcon_AahigaruTaisho_Male_01"
   },
   {
-    "PGKNKBKHCHM": 50505,
+    "id": 50505,
     "nameTextMapHash": 2581117880,
     "PMPMKOPBJHA": "Sangonomiya Cohort",
     "icon": "UI_MonsterIcon_Millelith_Male_02"
   },
   {
-    "PGKNKBKHCHM": 50601,
+    "id": 50601,
     "nameTextMapHash": 557874744,
     "PMPMKOPBJHA": "Treasure Hoarders: Pugilist",
     "icon": "UI_MonsterIcon_Thoarder_MuscleMan_Boxer_01"
   },
   {
-    "PGKNKBKHCHM": 50701,
+    "id": 50701,
     "nameTextMapHash": 2325739152,
     "PMPMKOPBJHA": "Treasure Hoarders: Crusher",
     "icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
   },
   {
-    "PGKNKBKHCHM": 50702,
+    "id": 50702,
     "nameTextMapHash": 4260216696,
     "PMPMKOPBJHA": "Treasure Hoarders: Wallenstein",
     "icon": "UI_MonsterIcon_Thoarder_MuscleMan_Miner_01"
   },
   {
-    "PGKNKBKHCHM": 50801,
+    "id": 50801,
     "nameTextMapHash": 2854295616,
     "PMPMKOPBJHA": "Nobushi: Jintouban",
     "icon": "UI_MonsterIcon_Samurai_Ronin_01"
   },
   {
-    "PGKNKBKHCHM": 50802,
+    "id": 50802,
     "nameTextMapHash": 2410706536,
     "PMPMKOPBJHA": "Nobushi: Hitsukeban",
     "icon": "UI_MonsterIcon_Samurai_Ronin_02"
   },
   {
-    "PGKNKBKHCHM": 50803,
+    "id": 50803,
     "nameTextMapHash": 628782592,
     "PMPMKOPBJHA": "Nobushi: Kikouban",
     "icon": "UI_MonsterIcon_Samurai_Ronin_03"
   },
   {
-    "PGKNKBKHCHM": 50804,
+    "id": 50804,
     "nameTextMapHash": 2183303536,
     "PMPMKOPBJHA": "Yoriki Samurai",
     "icon": "UI_MonsterIcon_Samurai_Hatamoto_01"
   },
   {
-    "PGKNKBKHCHM": 50901,
+    "id": 50901,
     "nameTextMapHash": 1759704776,
     "PMPMKOPBJHA": "Maguu Kenki",
     "icon": "UI_MonsterIcon_Samurai_Ningyo"
   },
   {
-    "PGKNKBKHCHM": 50902,
+    "id": 50902,
     "nameTextMapHash": 1312052256,
     "PMPMKOPBJHA": "Maguu Kenki: Lone Gale",
     "icon": "UI_MonsterIcon_Samurai_Ningyo_Wind"
   },
   {
-    "PGKNKBKHCHM": 50903,
+    "id": 50903,
     "nameTextMapHash": 2743685832,
     "PMPMKOPBJHA": "Maguu Kenki: Galloping Frost",
     "icon": "UI_MonsterIcon_Samurai_Ningyo_Ice"
   },
   {
-    "PGKNKBKHCHM": 50904,
+    "id": 50904,
     "nameTextMapHash": 2823011544,
     "PMPMKOPBJHA": "Maguu Kenki: Mask of Terror",
     "icon": "UI_MonsterIcon_Samurai_Ningyo_Mask"
   },
   {
-    "PGKNKBKHCHM": 51001,
+    "id": 51001,
     "nameTextMapHash": 756201560,
     "PMPMKOPBJHA": "Kairagi: Dancing Thunder",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_01"
   },
   {
-    "PGKNKBKHCHM": 51002,
+    "id": 51002,
     "nameTextMapHash": 2117605600,
     "PMPMKOPBJHA": "Kairagi: Fiery Might",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_02"
   },
   {
-    "PGKNKBKHCHM": 51003,
+    "id": 51003,
     "nameTextMapHash": 3213672968,
     "PMPMKOPBJHA": "Ochimusha: Ensorcelled Thunder",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_01"
   },
   {
-    "PGKNKBKHCHM": 51004,
+    "id": 51004,
     "nameTextMapHash": 3794652600,
     "PMPMKOPBJHA": "Ochimusha: Cankered Flame",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_02"
   },
   {
-    "PGKNKBKHCHM": 51101,
+    "id": 51101,
     "nameTextMapHash": 1974811384,
     "PMPMKOPBJHA": "Spirit of Omen: Stone Drake",
     "icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
   },
   {
-    "PGKNKBKHCHM": 51102,
+    "id": 51102,
     "nameTextMapHash": 212096752,
     "PMPMKOPBJHA": "Spirit of Omen: Wind Glede",
     "icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow"
   },
   {
-    "PGKNKBKHCHM": 51103,
+    "id": 51103,
     "nameTextMapHash": 1475388712,
     "PMPMKOPBJHA": "Spirit of Omen: Pyro Scorpion",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_05"
   },
   {
-    "PGKNKBKHCHM": 51104,
+    "id": 51104,
     "nameTextMapHash": 2282634880,
     "PMPMKOPBJHA": "Spirit of Omen: Dendro Spirit-Serpent",
     "icon": "UI_MonsterIcon_Samurai_Kairagi_05"
   },
   {
-    "PGKNKBKHCHM": 52101,
+    "id": 52101,
     "nameTextMapHash": 4033438760,
     "PMPMKOPBJHA": "Eremite Axe Vanguard",
     "icon": "UI_MonsterIcon_Eremite_Female_Hatchet"
   },
   {
-    "PGKNKBKHCHM": 52102,
+    "id": 52102,
     "nameTextMapHash": 570914008,
     "PMPMKOPBJHA": "Eremite Crossbow",
     "icon": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow"
   },
   {
-    "PGKNKBKHCHM": 52103,
+    "id": 52103,
     "nameTextMapHash": 208498888,
     "PMPMKOPBJHA": "Eremite Ravenbeak Halberdier",
     "icon": "UI_MonsterIcon_Eremite_Male_Standard_Pole"
   },
   {
-    "PGKNKBKHCHM": 52104,
+    "id": 52104,
     "nameTextMapHash": 941545672,
     "PMPMKOPBJHA": "Eremite Linebreaker",
     "icon": "UI_MonsterIcon_Eremite_MuscleMan_Gloves"
   },
   {
-    "PGKNKBKHCHM": 52105,
+    "id": 52105,
     "nameTextMapHash": 2346894216,
     "PMPMKOPBJHA": "Eremite Sword-Dancer",
     "icon": "UI_MonsterIcon_Eremite_MuscleMan_Simitar"
   },
   {
-    "PGKNKBKHCHM": 52106,
+    "id": 52106,
     "nameTextMapHash": 2817463448,
     "PMPMKOPBJHA": "",
     "icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
   },
   {
-    "PGKNKBKHCHM": 53101,
+    "id": 53101,
     "nameTextMapHash": 2370874928,
     "PMPMKOPBJHA": "Eremite Desert Clearwater",
     "icon": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger"
   },
   {
-    "PGKNKBKHCHM": 53102,
+    "id": 53102,
     "nameTextMapHash": 3916342008,
     "PMPMKOPBJHA": "Eremite Sunfrost",
     "icon": "UI_MonsterIcon_Eremite_Male_Standard_Glaive"
   },
   {
-    "PGKNKBKHCHM": 53103,
+    "id": 53103,
     "nameTextMapHash": 3814441896,
     "PMPMKOPBJHA": "Eremite Daythunder",
     "icon": "UI_MonsterIcon_Eremite_Male_Standard_Polearm"
   },
   {
-    "PGKNKBKHCHM": 54101,
+    "id": 54101,
     "nameTextMapHash": 3908443880,
     "PMPMKOPBJHA": "Eremite Stone Enchanter",
     "icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
   },
   {
-    "PGKNKBKHCHM": 54102,
+    "id": 54102,
     "nameTextMapHash": 4217422888,
     "PMPMKOPBJHA": "Eremite Galehunter",
     "icon": "UI_MonsterIcon_Eremite_Female_Standard_Longbow"
   },
   {
-    "PGKNKBKHCHM": 54103,
+    "id": 54103,
     "nameTextMapHash": 2089267960,
     "PMPMKOPBJHA": "Eremite Scorching Loremaster",
     "icon": "UI_MonsterIcon_Eremite_Female_Standard_Oracle"
   },
   {
-    "PGKNKBKHCHM": 54104,
+    "id": 54104,
     "nameTextMapHash": 1917817184,
     "PMPMKOPBJHA": "Eremite Floral Ring-Dancer",
     "icon": "UI_MonsterIcon_Eremite_Female_Standard_Dancer"
   },
   {
-    "PGKNKBKHCHM": 60101,
+    "id": 60101,
     "nameTextMapHash": 883066616,
     "PMPMKOPBJHA": "Cryo Whopperflower",
     "icon": "UI_MonsterIcon_Mimik_Ice"
   },
   {
-    "PGKNKBKHCHM": 60102,
+    "id": 60102,
     "nameTextMapHash": 516009168,
     "PMPMKOPBJHA": "Pyro Whopperflower",
     "icon": "UI_MonsterIcon_Mimik_Fire"
   },
   {
-    "PGKNKBKHCHM": 60103,
+    "id": 60103,
     "nameTextMapHash": 235094848,
     "PMPMKOPBJHA": "Electro Whopperflower",
     "icon": "UI_MonsterIcon_Mimik_Electric"
   },
   {
-    "PGKNKBKHCHM": 60201,
+    "id": 60201,
     "nameTextMapHash": 1058177408,
     "PMPMKOPBJHA": "Cryo Regisvine",
     "icon": "UI_MonsterIcon_Regisvine_Ice"
   },
   {
-    "PGKNKBKHCHM": 60202,
+    "id": 60202,
     "nameTextMapHash": 184117072,
     "PMPMKOPBJHA": "Pyro Regisvine",
     "icon": "UI_MonsterIcon_Regisvine_Fire"
   },
   {
-    "PGKNKBKHCHM": 60203,
+    "id": 60203,
     "nameTextMapHash": 3366866392,
     "PMPMKOPBJHA": "Electro Regisvine",
     "icon": "UI_MonsterIcon_Regisvine_Electric"
   },
   {
-    "PGKNKBKHCHM": 60301,
+    "id": 60301,
     "nameTextMapHash": 2176598456,
     "PMPMKOPBJHA": "Geovishap Hatchling",
     "icon": "UI_MonsterIcon_Wyrm_Rock"
   },
   {
-    "PGKNKBKHCHM": 60401,
+    "id": 60401,
     "nameTextMapHash": 94524776,
     "PMPMKOPBJHA": "Geovishap",
     "icon": "UI_MonsterIcon_Drake_Rock"
   },
   {
-    "PGKNKBKHCHM": 60501,
+    "id": 60501,
     "nameTextMapHash": 1057217072,
     "PMPMKOPBJHA": "Primo Geovishap",
     "icon": "UI_MonsterIcon_Drake_Primo_Rock"
   },
   {
-    "PGKNKBKHCHM": 60502,
+    "id": 60502,
     "nameTextMapHash": 2889994600,
     "PMPMKOPBJHA": "Primo Geovishap",
     "icon": "UI_MonsterIcon_Drake_Primo_Rock"
   },
   {
-    "PGKNKBKHCHM": 60503,
+    "id": 60503,
     "nameTextMapHash": 2849885272,
     "PMPMKOPBJHA": "Primo Geovishap",
     "icon": "UI_MonsterIcon_Drake_Primo_Rock"
   },
   {
-    "PGKNKBKHCHM": 60504,
+    "id": 60504,
     "nameTextMapHash": 118494128,
     "PMPMKOPBJHA": "Primo Geovishap",
     "icon": "UI_MonsterIcon_Drake_Primo_Rock"
   },
   {
-    "PGKNKBKHCHM": 60506,
+    "id": 60506,
     "nameTextMapHash": 2607892752,
     "PMPMKOPBJHA": "Primordial Bathysmal Vishap",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Water"
   },
   {
-    "PGKNKBKHCHM": 60507,
+    "id": 60507,
     "nameTextMapHash": 1409593464,
     "PMPMKOPBJHA": "Rimebiter Bathysmal Vishap",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Ice"
   },
   {
-    "PGKNKBKHCHM": 60508,
+    "id": 60508,
     "nameTextMapHash": 780741856,
     "PMPMKOPBJHA": "Bolteater Bathysmal Vishap",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Electric"
   },
   {
-    "PGKNKBKHCHM": 60509,
+    "id": 60509,
     "nameTextMapHash": 3368753712,
     "PMPMKOPBJHA": "Primordial Bathysmal Vishap Hatchling",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Water"
   },
   {
-    "PGKNKBKHCHM": 60510,
+    "id": 60510,
     "nameTextMapHash": 2861452928,
     "PMPMKOPBJHA": "Rimebiter Bathysmal Vishap Hatchling",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Ice"
   },
   {
-    "PGKNKBKHCHM": 60511,
+    "id": 60511,
     "nameTextMapHash": 3992097400,
     "PMPMKOPBJHA": "Bolteater Bathysmal Vishap Hatchling",
     "icon": "UI_MonsterIcon_Drake_Deepsea_Electric"
   },
   {
-    "PGKNKBKHCHM": 60601,
+    "id": 60601,
     "nameTextMapHash": 2662118744,
     "PMPMKOPBJHA": "Electro Cicin",
     "icon": "UI_MonsterIcon_Cicin_Thunder_01"
   },
   {
-    "PGKNKBKHCHM": 60602,
+    "id": 60602,
     "nameTextMapHash": 5464472,
     "PMPMKOPBJHA": "Hydro Cicin",
     "icon": "UI_MonsterIcon_Cicin_Water_01"
   },
   {
-    "PGKNKBKHCHM": 60603,
+    "id": 60603,
     "nameTextMapHash": 1902456384,
     "PMPMKOPBJHA": "Cryo Cicin",
     "icon": "UI_MonsterIcon_Cicin_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 60801,
+    "id": 60801,
     "nameTextMapHash": 4026370056,
     "PMPMKOPBJHA": "Beisht",
     "icon": "UI_MonsterIcon_Cicin_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 60901,
+    "id": 60901,
     "nameTextMapHash": 2148393144,
     "PMPMKOPBJHA": "Floating Hydro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
   },
   {
-    "PGKNKBKHCHM": 60902,
+    "id": 60902,
     "nameTextMapHash": 1307880752,
     "PMPMKOPBJHA": "Floating Dendro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Un_Delta_Grass"
   },
   {
-    "PGKNKBKHCHM": 60903,
+    "id": 60903,
     "nameTextMapHash": 3688247560,
     "PMPMKOPBJHA": "Floating Anemo Fungus",
     "icon": "UI_MonsterIcon_Fungus_Un_Delta_Wind"
   },
   {
-    "PGKNKBKHCHM": 60904,
+    "id": 60904,
     "nameTextMapHash": 4191543160,
     "PMPMKOPBJHA": "Whirling Electro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric"
   },
   {
-    "PGKNKBKHCHM": 60905,
+    "id": 60905,
     "nameTextMapHash": 4127966472,
     "PMPMKOPBJHA": "Whirling Cryo Fungus",
     "icon": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice"
   },
   {
-    "PGKNKBKHCHM": 60906,
+    "id": 60906,
     "nameTextMapHash": 1899331960,
     "PMPMKOPBJHA": "Whirling Pyro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire"
   },
   {
-    "PGKNKBKHCHM": 60907,
+    "id": 60907,
     "nameTextMapHash": 3502126912,
     "PMPMKOPBJHA": "Stretchy Pyro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire"
   },
   {
-    "PGKNKBKHCHM": 60908,
+    "id": 60908,
     "nameTextMapHash": 2124724528,
     "PMPMKOPBJHA": "Stretchy Anemo Fungus",
     "icon": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind"
   },
   {
-    "PGKNKBKHCHM": 60909,
+    "id": 60909,
     "nameTextMapHash": 2193662336,
     "PMPMKOPBJHA": "Stretchy Geo Fungus",
     "icon": "UI_MonsterIcon_Fungus_Deux_Beta_Rock"
   },
   {
-    "PGKNKBKHCHM": 60910,
+    "id": 60910,
     "nameTextMapHash": 3419745752,
     "PMPMKOPBJHA": "Stretchy Electro Fungus",
     "icon": "UI_MonsterIcon_Fungus_Deux_Delta_Electric"
   },
   {
-    "PGKNKBKHCHM": 61001,
+    "id": 61001,
     "nameTextMapHash": 2762852304,
     "PMPMKOPBJHA": "Consecrated Horned Crocodile",
     "icon": "UI_MonsterIcon_Gator_Sacred_Water"
   },
   {
-    "PGKNKBKHCHM": 61002,
+    "id": 61002,
     "nameTextMapHash": 3698647272,
     "PMPMKOPBJHA": "Consecrated Fanged Beast",
     "icon": "UI_MonsterIcon_Panther_Sacred_Grass"
   },
   {
-    "PGKNKBKHCHM": 61003,
+    "id": 61003,
     "nameTextMapHash": 471079112,
     "PMPMKOPBJHA": "Consecrated Red Vulture",
     "icon": "UI_MonsterIcon_Vulture_Sacred_Fire"
   },
   {
-    "PGKNKBKHCHM": 61004,
+    "id": 61004,
     "nameTextMapHash": 2093292568,
     "PMPMKOPBJHA": "Consecrated Scorpion",
     "icon": "UI_MonsterIcon_Scorpion_Sacred_Electric"
   },
   {
-    "PGKNKBKHCHM": 61005,
+    "id": 61005,
     "nameTextMapHash": 2495079336,
     "PMPMKOPBJHA": "Consecrated Flying Serpent",
     "icon": "UI_MonsterIcon_Chrysopelea_Sacred_Wind"
   },
   {
-    "PGKNKBKHCHM": 61101,
+    "id": 61101,
     "nameTextMapHash": 1551254368,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
     "icon": "UI_MonsterIcon_Fungus_Raptor"
   },
   {
-    "PGKNKBKHCHM": 61201,
+    "id": 61201,
     "nameTextMapHash": 3206484936,
     "PMPMKOPBJHA": "Winged Dendroshroom",
     "icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass"
   },
   {
-    "PGKNKBKHCHM": 61202,
+    "id": 61202,
     "nameTextMapHash": 3547346360,
     "PMPMKOPBJHA": "Winged Cryoshroom",
     "icon": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice"
   },
   {
-    "PGKNKBKHCHM": 61203,
+    "id": 61203,
     "nameTextMapHash": 3396957208,
     "PMPMKOPBJHA": "Grounded Hydroshroom",
     "icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water"
   },
   {
-    "PGKNKBKHCHM": 61204,
+    "id": 61204,
     "nameTextMapHash": 46325200,
     "PMPMKOPBJHA": "Grounded Geoshroom",
     "icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock"
   },
   {
-    "PGKNKBKHCHM": 61301,
+    "id": 61301,
     "nameTextMapHash": 4140228680,
     "PMPMKOPBJHA": "Setekh Wenut",
     "icon": "UI_MonsterIcon_Sandworm"
   },
   {
-    "PGKNKBKHCHM": 61510,
+    "id": 61510,
     "nameTextMapHash": 1540072464,
     "PMPMKOPBJHA": "Hunter's Ray",
     "icon": "UI_MonsterIcon_MantaRay_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61511,
+    "id": 61511,
     "nameTextMapHash": 406666840,
     "PMPMKOPBJHA": "Hunter's Ray",
     "icon": "UI_MonsterIcon_MantaRay_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61521,
+    "id": 61521,
     "nameTextMapHash": 1684159544,
     "PMPMKOPBJHA": "Armored Crab",
     "icon": "UI_MonsterIcon_HermitCrab_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61522,
+    "id": 61522,
     "nameTextMapHash": 1876836496,
     "PMPMKOPBJHA": "Armored Crab",
     "icon": "UI_MonsterIcon_HermitCrab_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61531,
+    "id": 61531,
     "nameTextMapHash": 1164130192,
     "PMPMKOPBJHA": "Blubberbeast",
     "icon": "UI_MonsterIcon_Seal_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61541,
+    "id": 61541,
     "nameTextMapHash": 2955045776,
     "PMPMKOPBJHA": "Hat Jellyfish",
     "icon": "UI_MonsterIcon_JellyFish_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61542,
+    "id": 61542,
     "nameTextMapHash": 2145912744,
     "PMPMKOPBJHA": "Hat Jellyfish",
     "icon": "UI_MonsterIcon_JellyFish_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61551,
+    "id": 61551,
     "nameTextMapHash": 2552310592,
     "PMPMKOPBJHA": "Bubbly Seahorse",
     "icon": "UI_MonsterIcon_SeaHorse_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61552,
+    "id": 61552,
     "nameTextMapHash": 2493399008,
     "PMPMKOPBJHA": "Bubbly Seahorse",
     "icon": "UI_MonsterIcon_SeaHorse_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61553,
+    "id": 61553,
     "nameTextMapHash": 297536392,
     "PMPMKOPBJHA": "Bubbly Seahorse",
     "icon": "UI_MonsterIcon_SeaHorse_Larva_03"
   },
   {
-    "PGKNKBKHCHM": 61561,
+    "id": 61561,
     "nameTextMapHash": 2667392352,
     "PMPMKOPBJHA": "Ball Octopus",
     "icon": "UI_MonsterIcon_Octopus_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61562,
+    "id": 61562,
     "nameTextMapHash": 2227292832,
     "PMPMKOPBJHA": "Ball Octopus",
     "icon": "UI_MonsterIcon_Octopus_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61571,
+    "id": 61571,
     "nameTextMapHash": 3467903536,
     "PMPMKOPBJHA": "Angelic Sea Hare",
     "icon": "UI_MonsterIcon_Aplysia_Larva_01"
   },
   {
-    "PGKNKBKHCHM": 61572,
+    "id": 61572,
     "nameTextMapHash": 2979417520,
     "PMPMKOPBJHA": "Angelic Sea Hare",
     "icon": "UI_MonsterIcon_Aplysia_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61601,
+    "id": 61601,
     "nameTextMapHash": 654631136,
     "PMPMKOPBJHA": "Sternshield Crab",
     "icon": "UI_MonsterIcon_HermitCrab_Mature"
   },
   {
-    "PGKNKBKHCHM": 61602,
+    "id": 61602,
     "nameTextMapHash": 4031845888,
     "PMPMKOPBJHA": "Cherubic Sea Hare",
     "icon": "UI_MonsterIcon_Aplysia_Mature"
   },
   {
-    "PGKNKBKHCHM": 61603,
+    "id": 61603,
     "nameTextMapHash": 597164232,
     "PMPMKOPBJHA": "Bubbler Seahorse",
     "icon": "UI_MonsterIcon_SeaHorse_Mature"
   },
   {
-    "PGKNKBKHCHM": 61621,
+    "id": 61621,
     "nameTextMapHash": 1008315040,
     "PMPMKOPBJHA": "Local Legend: Armored Crab",
     "icon": "UI_MonsterIcon_HermitCrab_Mature_02"
   },
   {
-    "PGKNKBKHCHM": 61622,
+    "id": 61622,
     "nameTextMapHash": 2197390984,
     "PMPMKOPBJHA": "Local Legend: Hunter's Ray",
     "icon": "UI_MonsterIcon_MantaRay_Larva_03"
   },
   {
-    "PGKNKBKHCHM": 61623,
+    "id": 61623,
     "nameTextMapHash": 3222616904,
     "PMPMKOPBJHA": "Local Legend: Blubberbeast",
     "icon": "UI_MonsterIcon_Seal_Larva_02"
   },
   {
-    "PGKNKBKHCHM": 61624,
+    "id": 61624,
     "nameTextMapHash": 2597609624,
     "PMPMKOPBJHA": "Local Legend: Cherubic Sea Hare",
     "icon": "UI_MonsterIcon_Aplysia_Mature"
   },
   {
-    "PGKNKBKHCHM": 61701,
+    "id": 61701,
     "nameTextMapHash": 2025251152,
     "PMPMKOPBJHA": "Emperor of Fire and Iron",
     "icon": "UI_MonsterIcon_HermitCrab_Primo"
   },
   {
-    "PGKNKBKHCHM": 61801,
+    "id": 61801,
     "nameTextMapHash": 1979419840,
     "PMPMKOPBJHA": "Millennial Pearl Seahorse",
     "icon": "UI_MonsterIcon_SeaHorse_Primo_Electric"
   },
   {
-    "PGKNKBKHCHM": 90101,
+    "id": 90101,
     "nameTextMapHash": 390703016,
     "PMPMKOPBJHA": "Stormterror",
     "icon": "UI_MonsterIcon_Dvalin"
   },
   {
-    "PGKNKBKHCHM": 90201,
+    "id": 90201,
     "nameTextMapHash": 1869267944,
     "PMPMKOPBJHA": "Lupus Boreas, Dominator of Wolves",
     "icon": "UI_MonsterIcon_LupiBoreas"
   },
   {
-    "PGKNKBKHCHM": 90301,
+    "id": 90301,
     "nameTextMapHash": 2530909488,
     "PMPMKOPBJHA": "Childe",
     "icon": "UI_MonsterIcon_Tartaglia"
   },
   {
-    "PGKNKBKHCHM": 90401,
+    "id": 90401,
     "nameTextMapHash": 3423290768,
     "PMPMKOPBJHA": "Azhdaha",
     "icon": "UI_MonsterIcon_Dahaka"
   },
   {
-    "PGKNKBKHCHM": 90501,
+    "id": 90501,
     "nameTextMapHash": 1726738920,
     "PMPMKOPBJHA": "La Signora",
     "icon": "UI_MonsterIcon_LaSignora"
   },
   {
-    "PGKNKBKHCHM": 90601,
+    "id": 90601,
     "nameTextMapHash": 1928397248,
     "PMPMKOPBJHA": "Raiden Shogun",
     "icon": "UI_MonsterIcon_Shougun_Mitakenarukami"
   },
   {
-    "PGKNKBKHCHM": 90602,
+    "id": 90602,
     "nameTextMapHash": 976885856,
     "PMPMKOPBJHA": "Magatsu Mitake Narukami no Mikoto",
     "icon": "UI_MonsterIcon_Shougun_Mitakenarukami"
   },
   {
-    "PGKNKBKHCHM": 90701,
+    "id": 90701,
     "nameTextMapHash": 2221926632,
     "PMPMKOPBJHA": "Shouki no Kami, the Prodigal",
     "icon": "UI_MonsterIcon_Nada"
   },
   {
-    "PGKNKBKHCHM": 90801,
+    "id": 90801,
     "nameTextMapHash": 3115382544,
     "PMPMKOPBJHA": "Guardian of Apep's Oasis",
     "icon": "UI_MonsterIcon_Apep"
   },
   {
-    "PGKNKBKHCHM": 90802,
+    "id": 90802,
     "nameTextMapHash": 1638498832,
     "PMPMKOPBJHA": "Preliminary Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 90803,
+    "id": 90803,
     "nameTextMapHash": 1151284056,
     "PMPMKOPBJHA": "Predatory Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 90804,
+    "id": 90804,
     "nameTextMapHash": 1258525040,
     "PMPMKOPBJHA": "Protective Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 90805,
+    "id": 90805,
     "nameTextMapHash": 1663159512,
     "PMPMKOPBJHA": "Provender Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 90806,
+    "id": 90806,
     "nameTextMapHash": 4179505856,
     "PMPMKOPBJHA": "Pernicious Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"
   },
   {
-    "PGKNKBKHCHM": 90807,
+    "id": 90807,
     "nameTextMapHash": 1154097192,
     "PMPMKOPBJHA": "Perch Proliferating Organism",
     "icon": "UI_MonsterIcon_Hili_None_01"

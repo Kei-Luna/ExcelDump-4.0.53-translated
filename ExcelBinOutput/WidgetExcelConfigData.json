@@ -12,7 +12,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220002,
@@ -27,7 +27,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220003,
@@ -42,7 +42,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220004,
@@ -57,7 +57,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220005,
@@ -72,7 +72,7 @@
       "{0} / {1} already exist in this world",
       "Effect Duration: {0}d {1}h remaining"
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220006,
@@ -87,7 +87,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220008,
@@ -102,7 +102,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220009,
@@ -117,7 +117,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220013,
@@ -132,7 +132,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220022,
@@ -147,7 +147,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220025,
@@ -162,7 +162,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220032,
@@ -177,7 +177,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220033,
@@ -192,7 +192,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220036,
@@ -207,7 +207,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220037,
@@ -222,7 +222,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220040,
@@ -237,7 +237,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220042,
@@ -252,7 +252,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 10006
+    "pushTipsId": 10006
   },
   {
     "DIANIMDAIGL": 220043,
@@ -267,7 +267,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7006
+    "pushTipsId": 7006
   },
   {
     "DIANIMDAIGL": 220044,
@@ -282,7 +282,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220045,
@@ -297,7 +297,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220046,
@@ -312,7 +312,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220047,
@@ -327,7 +327,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7007
+    "pushTipsId": 7007
   },
   {
     "DIANIMDAIGL": 220048,
@@ -342,7 +342,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7008
+    "pushTipsId": 7008
   },
   {
     "DIANIMDAIGL": 220049,
@@ -357,7 +357,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 6047
+    "pushTipsId": 6047
   },
   {
     "DIANIMDAIGL": 220050,
@@ -372,7 +372,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220051,
@@ -387,7 +387,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220052,
@@ -402,7 +402,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220053,
@@ -417,7 +417,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220056,
@@ -432,7 +432,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 11068
+    "pushTipsId": 11068
   },
   {
     "DIANIMDAIGL": 220057,
@@ -447,7 +447,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220058,
@@ -462,7 +462,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220059,
@@ -477,7 +477,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220061,
@@ -492,7 +492,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 11084
+    "pushTipsId": 11084
   },
   {
     "DIANIMDAIGL": 220063,
@@ -507,7 +507,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 12015
+    "pushTipsId": 12015
   },
   {
     "DIANIMDAIGL": 220064,
@@ -522,7 +522,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220065,
@@ -537,7 +537,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7009
+    "pushTipsId": 7009
   },
   {
     "DIANIMDAIGL": 220066,
@@ -552,7 +552,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220067,
@@ -567,7 +567,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220070,
@@ -582,7 +582,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220071,
@@ -597,7 +597,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220072,
@@ -612,7 +612,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220073,
@@ -627,7 +627,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220074,
@@ -642,7 +642,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220075,
@@ -657,7 +657,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 12085
+    "pushTipsId": 12085
   },
   {
     "DIANIMDAIGL": 220076,
@@ -672,7 +672,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 13072
+    "pushTipsId": 13072
   },
   {
     "DIANIMDAIGL": 220077,
@@ -687,7 +687,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220078,
@@ -702,7 +702,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220079,
@@ -717,7 +717,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 13072
+    "pushTipsId": 13072
   },
   {
     "DIANIMDAIGL": 220080,
@@ -732,7 +732,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220082,
@@ -747,7 +747,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 13089
+    "pushTipsId": 13089
   },
   {
     "DIANIMDAIGL": 220083,
@@ -762,7 +762,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 13090
+    "pushTipsId": 13090
   },
   {
     "DIANIMDAIGL": 220084,
@@ -777,7 +777,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220085,
@@ -792,7 +792,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 6140
+    "pushTipsId": 6140
   },
   {
     "DIANIMDAIGL": 220086,
@@ -807,7 +807,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220087,
@@ -822,7 +822,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220088,
@@ -837,7 +837,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7010
+    "pushTipsId": 7010
   },
   {
     "DIANIMDAIGL": 220089,
@@ -852,7 +852,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220090,
@@ -867,7 +867,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 13111
+    "pushTipsId": 13111
   },
   {
     "DIANIMDAIGL": 220091,
@@ -882,7 +882,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220093,
@@ -897,7 +897,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 7011
+    "pushTipsId": 7011
   },
   {
     "DIANIMDAIGL": 220094,
@@ -912,7 +912,7 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   },
   {
     "DIANIMDAIGL": 220095,
@@ -927,6 +927,6 @@
       "",
       ""
     ],
-    "BIMBKCLBCMD": 0
+    "pushTipsId": 0
   }
 ]

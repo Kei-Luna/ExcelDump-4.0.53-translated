@@ -1,6 +1,6 @@
 [
   {
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "CKADNKCGEIE": 0,
     "HNLFNPCMHDF": 2,
     "AAJDCIDBBJK": [
@@ -23,12 +23,12 @@
         "CDOIPGMKDFF": 9
       }
     ],
-    "KJEIIDAPBOO": 10011,
-    "ODFPNBBMHLK": 927082945,
+    "draftId": 10011,
+    "titleTextMapHash": 927082945,
     "HGOJDPCKIKP": "Swift Targeting",
-    "OCHCPNIBIPF": 2151460819,
+    "descTextMapHash": 2151460819,
     "AJGMCFNDKEG": "They say that veteran gunners treat the steering mechanism of their cannons as an instrument's key or string, finding its pitch and mastering it to aim with ease...",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023101
       },
@@ -40,7 +40,7 @@
       }
     ],
     "GLKKAEHOLKH": 13104,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2000
       },
@@ -55,7 +55,7 @@
     "OOKMPBJMLDP": 9
   },
   {
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "CKADNKCGEIE": 1,
     "HNLFNPCMHDF": 3,
     "AAJDCIDBBJK": [
@@ -81,12 +81,12 @@
         "CDOIPGMKDFF": 9
       }
     ],
-    "KJEIIDAPBOO": 10012,
-    "ODFPNBBMHLK": 3776737761,
+    "draftId": 10012,
+    "titleTextMapHash": 3776737761,
     "HGOJDPCKIKP": "Predictive Ballistics 101",
-    "OCHCPNIBIPF": 4036426499,
+    "descTextMapHash": 4036426499,
     "AJGMCFNDKEG": "One must align the \"rhythm\" of one's aim and the movement of mobile targets to hit them accurately, or else, pre-sight with care...",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023111
       },
@@ -98,7 +98,7 @@
       }
     ],
     "GLKKAEHOLKH": 13107,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2000
       },
@@ -113,7 +113,7 @@
     "OOKMPBJMLDP": 14
   },
   {
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "CKADNKCGEIE": 2,
     "HNLFNPCMHDF": 4,
     "AAJDCIDBBJK": [
@@ -142,12 +142,12 @@
         "CDOIPGMKDFF": 14
       }
     ],
-    "KJEIIDAPBOO": 10013,
-    "ODFPNBBMHLK": 1370545689,
+    "draftId": 10013,
+    "titleTextMapHash": 1370545689,
     "HGOJDPCKIKP": "Empirical Devastation",
-    "OCHCPNIBIPF": 1196411083,
+    "descTextMapHash": 1196411083,
     "AJGMCFNDKEG": "Gunners must also know any calculations of shell explosive power by heart when dealing with heavily-armored targets, such that enough damage may be dealt to effectively destroy them.",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023121
       },
@@ -159,7 +159,7 @@
       }
     ],
     "GLKKAEHOLKH": 13108,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2000
       },
@@ -174,7 +174,7 @@
     "OOKMPBJMLDP": 2
   },
   {
-    "MGGPNIDOBGF": 4,
+    "levelId": 4,
     "CKADNKCGEIE": 3,
     "HNLFNPCMHDF": 4,
     "AAJDCIDBBJK": [
@@ -200,12 +200,12 @@
         "CDOIPGMKDFF": 13
       }
     ],
-    "KJEIIDAPBOO": 10014,
-    "ODFPNBBMHLK": 4189246185,
+    "draftId": 10014,
+    "titleTextMapHash": 4189246185,
     "HGOJDPCKIKP": "Multi-Engagement Synthesis",
-    "OCHCPNIBIPF": 3817506251,
+    "descTextMapHash": 3817506251,
     "AJGMCFNDKEG": "Skilled gunners can calmly arrange firing sequences, manage ammunition, and engage multiple targets in a short period of time...",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023131
       },
@@ -217,7 +217,7 @@
       }
     ],
     "GLKKAEHOLKH": 13108,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2000
       },

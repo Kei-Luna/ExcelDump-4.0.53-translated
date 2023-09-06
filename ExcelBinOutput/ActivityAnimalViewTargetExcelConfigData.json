@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 101,
+    "id": 101,
     "IFIPJIHBKCC": 608129154,
     "KBFIPBPOPMJ": "\"Morton\"",
     "LHCOEMGJNOG": 1838835567,
@@ -39,7 +39,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 102,
+    "id": 102,
     "IFIPJIHBKCC": 752616386,
     "KBFIPBPOPMJ": "\"Nils\"",
     "LHCOEMGJNOG": 2273857031,
@@ -78,7 +78,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 103,
+    "id": 103,
     "IFIPJIHBKCC": 1971373898,
     "KBFIPBPOPMJ": "\"Wilbur\"",
     "LHCOEMGJNOG": 1780632623,
@@ -117,7 +117,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 201,
+    "id": 201,
     "IFIPJIHBKCC": 3525469506,
     "KBFIPBPOPMJ": "\"Ashe\"",
     "LHCOEMGJNOG": 449828711,
@@ -156,7 +156,7 @@
     "GJGPHBPOKLA": 0.65
   },
   {
-    "PGKNKBKHCHM": 202,
+    "id": 202,
     "IFIPJIHBKCC": 305356562,
     "KBFIPBPOPMJ": "\"Arca\"",
     "LHCOEMGJNOG": 3211652143,
@@ -195,7 +195,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 203,
+    "id": 203,
     "IFIPJIHBKCC": 3506400002,
     "KBFIPBPOPMJ": "\"Samir\"",
     "LHCOEMGJNOG": 2719662919,
@@ -234,7 +234,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 301,
+    "id": 301,
     "IFIPJIHBKCC": 4244932426,
     "KBFIPBPOPMJ": "\"Bottle Pecker\"",
     "LHCOEMGJNOG": 3160567727,
@@ -273,7 +273,7 @@
     "GJGPHBPOKLA": 1
   },
   {
-    "PGKNKBKHCHM": 302,
+    "id": 302,
     "IFIPJIHBKCC": 631256754,
     "KBFIPBPOPMJ": "\"Chirpy\"",
     "LHCOEMGJNOG": 2058986407,
@@ -312,7 +312,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 303,
+    "id": 303,
     "IFIPJIHBKCC": 11890882,
     "KBFIPBPOPMJ": "\"Nightcall\"",
     "LHCOEMGJNOG": 355459111,
@@ -351,7 +351,7 @@
     "GJGPHBPOKLA": 0.88
   },
   {
-    "PGKNKBKHCHM": 401,
+    "id": 401,
     "IFIPJIHBKCC": 2645494394,
     "KBFIPBPOPMJ": "\"Orby\"",
     "LHCOEMGJNOG": 1865793535,
@@ -390,7 +390,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 402,
+    "id": 402,
     "IFIPJIHBKCC": 210252178,
     "KBFIPBPOPMJ": "\"Scrubba\"",
     "LHCOEMGJNOG": 490818263,
@@ -429,7 +429,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 403,
+    "id": 403,
     "IFIPJIHBKCC": 1997044834,
     "KBFIPBPOPMJ": "\"Long Beak\"",
     "LHCOEMGJNOG": 217744231,
@@ -468,7 +468,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 501,
+    "id": 501,
     "IFIPJIHBKCC": 225168930,
     "KBFIPBPOPMJ": "\"Renart\"",
     "LHCOEMGJNOG": 3269318063,
@@ -507,7 +507,7 @@
     "GJGPHBPOKLA": 0.76
   },
   {
-    "PGKNKBKHCHM": 502,
+    "id": 502,
     "IFIPJIHBKCC": 928322794,
     "KBFIPBPOPMJ": "\"Cristo\"",
     "LHCOEMGJNOG": 2728877919,
@@ -546,7 +546,7 @@
     "GJGPHBPOKLA": 1
   },
   {
-    "PGKNKBKHCHM": 503,
+    "id": 503,
     "IFIPJIHBKCC": 647581290,
     "KBFIPBPOPMJ": "\"Gustav\"",
     "LHCOEMGJNOG": 3429775407,
@@ -585,7 +585,7 @@
     "GJGPHBPOKLA": 1
   },
   {
-    "PGKNKBKHCHM": 601,
+    "id": 601,
     "IFIPJIHBKCC": 805671370,
     "KBFIPBPOPMJ": "\"Agatha\"",
     "LHCOEMGJNOG": 2209969127,
@@ -624,7 +624,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 602,
+    "id": 602,
     "IFIPJIHBKCC": 2193104018,
     "KBFIPBPOPMJ": "\"Cole\"",
     "LHCOEMGJNOG": 3475119887,
@@ -663,7 +663,7 @@
     "GJGPHBPOKLA": 0.54
   },
   {
-    "PGKNKBKHCHM": 603,
+    "id": 603,
     "IFIPJIHBKCC": 2128980226,
     "KBFIPBPOPMJ": "\"Chesterton\"",
     "LHCOEMGJNOG": 302674679,

@@ -1,8 +1,8 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 1,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150101
       },
@@ -18,12 +18,12 @@
     "HDAFKIJGPJA": "The Forest's Greenery",
     "OLNBBCBCINB": 2798018526,
     "BCGLBBLPHAC": "Information is an adventurer's most important asset, so get familiar with and investigate Fontaine's wildlife! Perhaps it will be of benefit in your future adventures...",
-    "PNAKJFCALEO": 13118
+    "pushTipsID": 13118
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 2,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150107
       },
@@ -39,12 +39,12 @@
     "HDAFKIJGPJA": "Brave the Waves",
     "OLNBBCBCINB": 3378629510,
     "BCGLBBLPHAC": "In combat, one must take into account the environment. Take advantage of the terrain to defeat your opponents as easily as a flower floats down the current!",
-    "PNAKJFCALEO": 13118
+    "pushTipsID": 13118
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 3,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150110
       },
@@ -60,12 +60,12 @@
     "HDAFKIJGPJA": "Ripples on an Azure Sea",
     "OLNBBCBCINB": 531498574,
     "BCGLBBLPHAC": "Information is an adventurer's most important asset, so get familiar with and investigate Fontaine's wildlife! Perhaps it will be of benefit in your future adventures...",
-    "PNAKJFCALEO": 13118
+    "pushTipsID": 13118
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 4,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150113
       },
@@ -81,12 +81,12 @@
     "HDAFKIJGPJA": "Thornbreaker, Weedwhacker",
     "OLNBBCBCINB": 2998094182,
     "BCGLBBLPHAC": "Battle is the tempo of adventure. Be familiar with the characteristics of opponents, know their weaknesses, and advance towards victory, step by step!",
-    "PNAKJFCALEO": 13118
+    "pushTipsID": 13118
   },
   {
-    "PGKNKBKHCHM": 5,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 5,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150119
       },
@@ -99,12 +99,12 @@
     "HDAFKIJGPJA": "Constancy of Change",
     "OLNBBCBCINB": 2795210342,
     "BCGLBBLPHAC": "In chaotic battle, everchanging variation is the only constant. Use the appropriate strategy to erase their advantage, and victory will be within your grasp!",
-    "PNAKJFCALEO": 13119
+    "pushTipsID": 13119
   },
   {
-    "PGKNKBKHCHM": 6,
-    "LOGBHLAFFJA": 1,
-    "GOMNCDKNDLG": [
+    "id": 6,
+    "openDay": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15150125
       },
@@ -117,6 +117,6 @@
     "HDAFKIJGPJA": "Shattered Armor",
     "OLNBBCBCINB": 2169000622,
     "BCGLBBLPHAC": "The Emperor of Fire and Iron's attacks are brutal, but trail off quickly. Seize your chance and attack when the timing is right to shatter the enemy's thick armor!",
-    "PNAKJFCALEO": 13120
+    "pushTipsID": 13120
   }
 ]

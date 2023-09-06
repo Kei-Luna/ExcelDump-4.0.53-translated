@@ -1,16 +1,16 @@
 [
   {
     "CJLAKJHLENL": 1,
-    "OCHCPNIBIPF": 1030055025,
+    "descTextMapHash": 1030055025,
     "AJGMCFNDKEG": "Accurate Sample | Score Multiplier ×{0}",
-    "DCAHIFHODPP": 1,
+    "scoreRatio": 1,
     "LPDLOOIPJJB": 64
   },
   {
     "CJLAKJHLENL": 2,
-    "OCHCPNIBIPF": 40439033,
+    "descTextMapHash": 40439033,
     "AJGMCFNDKEG": "Strong Control Group | Score Multiplier ×{0}",
-    "DCAHIFHODPP": 2.5,
+    "scoreRatio": 2.5,
     "LPDLOOIPJJB": 84
   }
 ]

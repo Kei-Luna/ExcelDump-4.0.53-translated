@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "NKLNHEOMIIG": 1,
     "ABIOAMKOMEK": 20160107,
     "IKIJCPEGOAP": 3057201,
@@ -23,8 +23,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: When you switch characters, you will generate a cyclone that will pull nearby opponents in for 3s. This effect can trigger once every 5s.\\n2: Enhances the effect of the cyclone such that it will deal 1 instance of Anemo DMG to nearby opponents every 0.7s.\\n3: Enhances the effect of the cyclone by increasing the Anemo DMG it deals. The cyclone now persists for 5s."
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 1,
+    "id": 2,
+    "openDay": 1,
     "NKLNHEOMIIG": 1,
     "ABIOAMKOMEK": 20160108,
     "IKIJCPEGOAP": 3057202,
@@ -46,8 +46,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: When you switch characters, you will generate a cyclone that will pull nearby opponents in for 3s. This effect can trigger once every 5s.\\n2: Enhances the effect of the cyclone such that it will deal 1 instance of Anemo DMG to nearby opponents every 0.7s.\\n3: Enhances the effect of the cyclone by increasing the Anemo DMG it deals. The cyclone now persists for 5s."
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 1,
+    "id": 3,
+    "openDay": 1,
     "NKLNHEOMIIG": 1,
     "ABIOAMKOMEK": 20160109,
     "IKIJCPEGOAP": 3057203,
@@ -69,8 +69,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: When you switch characters, you will generate a cyclone that will pull nearby opponents in for 3s. This effect can trigger once every 5s.\\n2: Enhances the effect of the cyclone such that it will deal 1 instance of Anemo DMG to nearby opponents every 0.7s.\\n3: Enhances the effect of the cyclone by increasing the Anemo DMG it deals. The cyclone now persists for 5s."
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 1,
+    "id": 4,
+    "openDay": 1,
     "NKLNHEOMIIG": 1,
     "ABIOAMKOMEK": 20160110,
     "IKIJCPEGOAP": 3057204,
@@ -92,8 +92,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: When you switch characters, you will generate a cyclone that will pull nearby opponents in for 3s. This effect can trigger once every 5s.\\n2: Enhances the effect of the cyclone such that it will deal 1 instance of Anemo DMG to nearby opponents every 0.7s.\\n3: Enhances the effect of the cyclone by increasing the Anemo DMG it deals. The cyclone now persists for 5s."
   },
   {
-    "PGKNKBKHCHM": 5,
-    "LOGBHLAFFJA": 1,
+    "id": 5,
+    "openDay": 1,
     "NKLNHEOMIIG": 1,
     "ABIOAMKOMEK": 20160111,
     "IKIJCPEGOAP": 3057205,
@@ -117,8 +117,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: When you switch characters, you will generate a cyclone that will pull nearby opponents in for 3s. This effect can trigger once every 5s.\\n2: Enhances the effect of the cyclone such that it will deal 1 instance of Anemo DMG to nearby opponents every 0.7s.\\n3: Enhances the effect of the cyclone by increasing the Anemo DMG it deals. The cyclone now persists for 5s."
   },
   {
-    "PGKNKBKHCHM": 6,
-    "LOGBHLAFFJA": 4,
+    "id": 6,
+    "openDay": 4,
     "NKLNHEOMIIG": 2,
     "ABIOAMKOMEK": 20160112,
     "IKIJCPEGOAP": 3057206,
@@ -140,8 +140,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: Characters' jumping power is greatly increased and Plunging Attacks deal 40% increased DMG.\\n2: Characters' jumping power is greatly increased and Plunging Attacks deal 80% increased DMG.\\n3: Characters' jumping power is greatly increased, Stamina Consumption is decreased by 30%, and Plunging Attacks deal 150% increased DMG."
   },
   {
-    "PGKNKBKHCHM": 7,
-    "LOGBHLAFFJA": 4,
+    "id": 7,
+    "openDay": 4,
     "NKLNHEOMIIG": 2,
     "ABIOAMKOMEK": 20160113,
     "IKIJCPEGOAP": 3057207,
@@ -163,8 +163,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: Characters' jumping power is greatly increased and Plunging Attacks deal 40% increased DMG.\\n2: Characters' jumping power is greatly increased and Plunging Attacks deal 80% increased DMG.\\n3: Characters' jumping power is greatly increased, Stamina Consumption is decreased by 30%, and Plunging Attacks deal 150% increased DMG."
   },
   {
-    "PGKNKBKHCHM": 8,
-    "LOGBHLAFFJA": 4,
+    "id": 8,
+    "openDay": 4,
     "NKLNHEOMIIG": 2,
     "ABIOAMKOMEK": 20160114,
     "IKIJCPEGOAP": 3057208,
@@ -186,8 +186,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: Characters' jumping power is greatly increased and Plunging Attacks deal 40% increased DMG.\\n2: Characters' jumping power is greatly increased and Plunging Attacks deal 80% increased DMG.\\n3: Characters' jumping power is greatly increased, Stamina Consumption is decreased by 30%, and Plunging Attacks deal 150% increased DMG."
   },
   {
-    "PGKNKBKHCHM": 9,
-    "LOGBHLAFFJA": 4,
+    "id": 9,
+    "openDay": 4,
     "NKLNHEOMIIG": 2,
     "ABIOAMKOMEK": 20160115,
     "IKIJCPEGOAP": 3057209,
@@ -209,8 +209,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: Characters' jumping power is greatly increased and Plunging Attacks deal 40% increased DMG.\\n2: Characters' jumping power is greatly increased and Plunging Attacks deal 80% increased DMG.\\n3: Characters' jumping power is greatly increased, Stamina Consumption is decreased by 30%, and Plunging Attacks deal 150% increased DMG."
   },
   {
-    "PGKNKBKHCHM": 10,
-    "LOGBHLAFFJA": 4,
+    "id": 10,
+    "openDay": 4,
     "NKLNHEOMIIG": 2,
     "ABIOAMKOMEK": 20160116,
     "IKIJCPEGOAP": 3057210,
@@ -234,8 +234,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs according to the number of Sublime Anemograna you obtain:\\n1: Characters' jumping power is greatly increased and Plunging Attacks deal 40% increased DMG.\\n2: Characters' jumping power is greatly increased and Plunging Attacks deal 80% increased DMG.\\n3: Characters' jumping power is greatly increased, Stamina Consumption is decreased by 30%, and Plunging Attacks deal 150% increased DMG."
   },
   {
-    "PGKNKBKHCHM": 11,
-    "LOGBHLAFFJA": 7,
+    "id": 11,
+    "openDay": 7,
     "NKLNHEOMIIG": 3,
     "ABIOAMKOMEK": 20160117,
     "IKIJCPEGOAP": 3057211,
@@ -257,8 +257,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs after entering battle according to the number of Sublime Anemograna you obtain:\\n1: Active character will restore 6 Energy every 2s.\\n2: Active character will restore 12 Energy every 2s.\\n3: Active character will restore 12 Energy every 2s. Characters will deal 80% increased Elemental Burst DMG."
   },
   {
-    "PGKNKBKHCHM": 12,
-    "LOGBHLAFFJA": 7,
+    "id": 12,
+    "openDay": 7,
     "NKLNHEOMIIG": 3,
     "ABIOAMKOMEK": 20160118,
     "IKIJCPEGOAP": 3057212,
@@ -280,8 +280,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs after entering battle according to the number of Sublime Anemograna you obtain:\\n1: Active character will restore 6 Energy every 2s.\\n2: Active character will restore 12 Energy every 2s.\\n3: Active character will restore 12 Energy every 2s. Characters will deal 80% increased Elemental Burst DMG."
   },
   {
-    "PGKNKBKHCHM": 13,
-    "LOGBHLAFFJA": 7,
+    "id": 13,
+    "openDay": 7,
     "NKLNHEOMIIG": 3,
     "ABIOAMKOMEK": 20160119,
     "IKIJCPEGOAP": 3057213,
@@ -303,8 +303,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs after entering battle according to the number of Sublime Anemograna you obtain:\\n1: Active character will restore 6 Energy every 2s.\\n2: Active character will restore 12 Energy every 2s.\\n3: Active character will restore 12 Energy every 2s. Characters will deal 80% increased Elemental Burst DMG."
   },
   {
-    "PGKNKBKHCHM": 14,
-    "LOGBHLAFFJA": 7,
+    "id": 14,
+    "openDay": 7,
     "NKLNHEOMIIG": 3,
     "ABIOAMKOMEK": 20160120,
     "IKIJCPEGOAP": 3057214,
@@ -326,8 +326,8 @@
     "ACMKINKCHFC": "You will obtain the following buffs after entering battle according to the number of Sublime Anemograna you obtain:\\n1: Active character will restore 6 Energy every 2s.\\n2: Active character will restore 12 Energy every 2s.\\n3: Active character will restore 12 Energy every 2s. Characters will deal 80% increased Elemental Burst DMG."
   },
   {
-    "PGKNKBKHCHM": 15,
-    "LOGBHLAFFJA": 7,
+    "id": 15,
+    "openDay": 7,
     "NKLNHEOMIIG": 3,
     "ABIOAMKOMEK": 20160121,
     "IKIJCPEGOAP": 3057215,

@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "KAEJCCKHPIN": [
       {
         "CDOIPGMKDFF": 1001
@@ -10,7 +10,7 @@
       }
     ],
     "LPDLOOIPJJB": 100301,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "ENFLGIGKCGL": [
       [
         {
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "KAEJCCKHPIN": [
       {
         "CDOIPGMKDFF": 2001
@@ -76,7 +76,7 @@
       }
     ],
     "LPDLOOIPJJB": 200301,
-    "LOGBHLAFFJA": 3,
+    "openDay": 3,
     "ENFLGIGKCGL": [
       [
         {
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "KAEJCCKHPIN": [
       {
         "CDOIPGMKDFF": 3001
@@ -142,7 +142,7 @@
       }
     ],
     "LPDLOOIPJJB": 300301,
-    "LOGBHLAFFJA": 5,
+    "openDay": 5,
     "ENFLGIGKCGL": [
       [
         {

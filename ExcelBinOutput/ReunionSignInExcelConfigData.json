@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "ELNMEKONEEN": 1,
+    "dayIndex": 1,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006100
@@ -10,7 +10,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 2,
+    "dayIndex": 2,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006101
@@ -19,7 +19,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 3,
+    "dayIndex": 3,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006102
@@ -28,7 +28,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 4,
+    "dayIndex": 4,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006103
@@ -37,7 +37,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 5,
+    "dayIndex": 5,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006104
@@ -46,7 +46,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 6,
+    "dayIndex": 6,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006105
@@ -55,7 +55,7 @@
   },
   {
     "id": 1,
-    "ELNMEKONEEN": 7,
+    "dayIndex": 7,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006106
@@ -64,7 +64,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 1,
+    "dayIndex": 1,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006002
@@ -73,7 +73,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 2,
+    "dayIndex": 2,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006003
@@ -82,7 +82,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 3,
+    "dayIndex": 3,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006004
@@ -91,7 +91,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 4,
+    "dayIndex": 4,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006005
@@ -100,7 +100,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 5,
+    "dayIndex": 5,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006006
@@ -109,7 +109,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 6,
+    "dayIndex": 6,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006007
@@ -118,7 +118,7 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 7,
+    "dayIndex": 7,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006008
@@ -127,7 +127,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 1,
+    "dayIndex": 1,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006201
@@ -136,7 +136,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 2,
+    "dayIndex": 2,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006202
@@ -145,7 +145,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 3,
+    "dayIndex": 3,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006203
@@ -154,7 +154,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 4,
+    "dayIndex": 4,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006204
@@ -163,7 +163,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 5,
+    "dayIndex": 5,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006205
@@ -172,7 +172,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 6,
+    "dayIndex": 6,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006206
@@ -181,7 +181,7 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 7,
+    "dayIndex": 7,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006207
@@ -190,7 +190,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 1,
+    "dayIndex": 1,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006301
@@ -199,7 +199,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 2,
+    "dayIndex": 2,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006302
@@ -208,7 +208,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 3,
+    "dayIndex": 3,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006303
@@ -217,7 +217,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 4,
+    "dayIndex": 4,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006304
@@ -226,7 +226,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 5,
+    "dayIndex": 5,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006305
@@ -235,7 +235,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 6,
+    "dayIndex": 6,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006306
@@ -244,7 +244,7 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 7,
+    "dayIndex": 7,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006307
@@ -253,7 +253,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 1,
+    "dayIndex": 1,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006401
@@ -262,7 +262,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 2,
+    "dayIndex": 2,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006402
@@ -271,7 +271,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 3,
+    "dayIndex": 3,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006403
@@ -280,7 +280,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 4,
+    "dayIndex": 4,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006404
@@ -289,7 +289,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 5,
+    "dayIndex": 5,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006405
@@ -298,7 +298,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 6,
+    "dayIndex": 6,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006406
@@ -307,7 +307,7 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 7,
+    "dayIndex": 7,
     "IKIJCPEGOAP": [
       {
         "CDOIPGMKDFF": 3006407

@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "ELNMEKONEEN": 1,
-    "ODFPNBBMHLK": 598792585,
+    "dayIndex": 1,
+    "titleTextMapHash": 598792585,
     "HGOJDPCKIKP": "My Name Is Violet",
-    "PDHFANIOLKO": 4058,
-    "GOMNCDKNDLG": [
+    "dungeonId": 4058,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1511601
       },
@@ -146,11 +146,11 @@
   },
   {
     "id": 2,
-    "ELNMEKONEEN": 2,
-    "ODFPNBBMHLK": 1264268985,
+    "dayIndex": 2,
+    "titleTextMapHash": 1264268985,
     "HGOJDPCKIKP": "Museum of Innocence",
-    "PDHFANIOLKO": 4056,
-    "GOMNCDKNDLG": [
+    "dungeonId": 4056,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1511604
       },
@@ -299,11 +299,11 @@
   },
   {
     "id": 3,
-    "ELNMEKONEEN": 3,
-    "ODFPNBBMHLK": 1436573481,
+    "dayIndex": 3,
+    "titleTextMapHash": 1436573481,
     "HGOJDPCKIKP": "One of a Thousand Nights",
-    "PDHFANIOLKO": 4057,
-    "GOMNCDKNDLG": [
+    "dungeonId": 4057,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1511607
       },
@@ -436,11 +436,11 @@
   },
   {
     "id": 4,
-    "ELNMEKONEEN": 4,
-    "ODFPNBBMHLK": 1915129185,
+    "dayIndex": 4,
+    "titleTextMapHash": 1915129185,
     "HGOJDPCKIKP": "Cavemen",
-    "PDHFANIOLKO": 4059,
-    "GOMNCDKNDLG": [
+    "dungeonId": 4059,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1511610
       },
@@ -629,11 +629,11 @@
   },
   {
     "id": 5,
-    "ELNMEKONEEN": 5,
-    "ODFPNBBMHLK": 2822572217,
+    "dayIndex": 5,
+    "titleTextMapHash": 2822572217,
     "HGOJDPCKIKP": "Street Spirit",
-    "PDHFANIOLKO": 4060,
-    "GOMNCDKNDLG": [
+    "dungeonId": 4060,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1511613
       },

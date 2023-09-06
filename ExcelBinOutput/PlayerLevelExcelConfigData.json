@@ -1,7 +1,7 @@
 [
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 375,
     "IKIJCPEGOAP": 0,
     "BHNNFIGFPFL": 0,
@@ -10,7 +10,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 500,
     "IKIJCPEGOAP": 200002,
     "BHNNFIGFPFL": 0,
@@ -19,7 +19,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 625,
     "IKIJCPEGOAP": 200003,
     "BHNNFIGFPFL": 0,
@@ -28,7 +28,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 725,
     "IKIJCPEGOAP": 200004,
     "BHNNFIGFPFL": 0,
@@ -37,7 +37,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 850,
     "IKIJCPEGOAP": 200005,
     "BHNNFIGFPFL": 0,
@@ -46,7 +46,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 950,
     "IKIJCPEGOAP": 200006,
     "BHNNFIGFPFL": 0,
@@ -55,7 +55,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 1075,
     "IKIJCPEGOAP": 200007,
     "BHNNFIGFPFL": 0,
@@ -64,7 +64,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 1200,
     "IKIJCPEGOAP": 200008,
     "BHNNFIGFPFL": 0,
@@ -73,7 +73,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 1300,
     "IKIJCPEGOAP": 200009,
     "BHNNFIGFPFL": 0,
@@ -82,7 +82,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 1425,
     "IKIJCPEGOAP": 200010,
     "BHNNFIGFPFL": 0,
@@ -91,7 +91,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 1525,
     "IKIJCPEGOAP": 200011,
     "BHNNFIGFPFL": 0,
@@ -100,7 +100,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 1650,
     "IKIJCPEGOAP": 200012,
     "BHNNFIGFPFL": 0,
@@ -109,7 +109,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 1775,
     "IKIJCPEGOAP": 200013,
     "BHNNFIGFPFL": 0,
@@ -118,7 +118,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 1875,
     "IKIJCPEGOAP": 200014,
     "BHNNFIGFPFL": 0,
@@ -127,7 +127,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 2000,
     "IKIJCPEGOAP": 200015,
     "BHNNFIGFPFL": 0,
@@ -136,7 +136,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 2375,
     "IKIJCPEGOAP": 200016,
     "BHNNFIGFPFL": 0,
@@ -145,7 +145,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 17,
+    "level": 17,
     "CINPAMKMFGH": 2500,
     "IKIJCPEGOAP": 200017,
     "BHNNFIGFPFL": 0,
@@ -154,7 +154,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 18,
+    "level": 18,
     "CINPAMKMFGH": 2625,
     "IKIJCPEGOAP": 200018,
     "BHNNFIGFPFL": 0,
@@ -163,7 +163,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 19,
+    "level": 19,
     "CINPAMKMFGH": 2775,
     "IKIJCPEGOAP": 200019,
     "BHNNFIGFPFL": 0,
@@ -172,7 +172,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 20,
+    "level": 20,
     "CINPAMKMFGH": 2825,
     "IKIJCPEGOAP": 200020,
     "BHNNFIGFPFL": 1,
@@ -181,7 +181,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 21,
+    "level": 21,
     "CINPAMKMFGH": 3425,
     "IKIJCPEGOAP": 200021,
     "BHNNFIGFPFL": 0,
@@ -190,7 +190,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 22,
+    "level": 22,
     "CINPAMKMFGH": 3725,
     "IKIJCPEGOAP": 200022,
     "BHNNFIGFPFL": 0,
@@ -199,7 +199,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 23,
+    "level": 23,
     "CINPAMKMFGH": 4000,
     "IKIJCPEGOAP": 200023,
     "BHNNFIGFPFL": 0,
@@ -208,7 +208,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 24,
+    "level": 24,
     "CINPAMKMFGH": 4300,
     "IKIJCPEGOAP": 200024,
     "BHNNFIGFPFL": 0,
@@ -217,7 +217,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 25,
+    "level": 25,
     "CINPAMKMFGH": 4575,
     "IKIJCPEGOAP": 200025,
     "BHNNFIGFPFL": 2,
@@ -226,7 +226,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 26,
+    "level": 26,
     "CINPAMKMFGH": 4875,
     "IKIJCPEGOAP": 200026,
     "BHNNFIGFPFL": 0,
@@ -235,7 +235,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 27,
+    "level": 27,
     "CINPAMKMFGH": 5150,
     "IKIJCPEGOAP": 200027,
     "BHNNFIGFPFL": 0,
@@ -244,7 +244,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 28,
+    "level": 28,
     "CINPAMKMFGH": 5450,
     "IKIJCPEGOAP": 200028,
     "BHNNFIGFPFL": 0,
@@ -253,7 +253,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 29,
+    "level": 29,
     "CINPAMKMFGH": 5725,
     "IKIJCPEGOAP": 200029,
     "BHNNFIGFPFL": 0,
@@ -262,7 +262,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 30,
+    "level": 30,
     "CINPAMKMFGH": 6025,
     "IKIJCPEGOAP": 200030,
     "BHNNFIGFPFL": 3,
@@ -271,7 +271,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 31,
+    "level": 31,
     "CINPAMKMFGH": 6300,
     "IKIJCPEGOAP": 200031,
     "BHNNFIGFPFL": 0,
@@ -280,7 +280,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 32,
+    "level": 32,
     "CINPAMKMFGH": 6600,
     "IKIJCPEGOAP": 200032,
     "BHNNFIGFPFL": 0,
@@ -289,7 +289,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 33,
+    "level": 33,
     "CINPAMKMFGH": 6900,
     "IKIJCPEGOAP": 200033,
     "BHNNFIGFPFL": 0,
@@ -298,7 +298,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 34,
+    "level": 34,
     "CINPAMKMFGH": 7175,
     "IKIJCPEGOAP": 200034,
     "BHNNFIGFPFL": 0,
@@ -307,7 +307,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 35,
+    "level": 35,
     "CINPAMKMFGH": 7475,
     "IKIJCPEGOAP": 200035,
     "BHNNFIGFPFL": 4,
@@ -316,7 +316,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 36,
+    "level": 36,
     "CINPAMKMFGH": 7750,
     "IKIJCPEGOAP": 200036,
     "BHNNFIGFPFL": 0,
@@ -325,7 +325,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 37,
+    "level": 37,
     "CINPAMKMFGH": 8050,
     "IKIJCPEGOAP": 200037,
     "BHNNFIGFPFL": 0,
@@ -334,7 +334,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 38,
+    "level": 38,
     "CINPAMKMFGH": 8325,
     "IKIJCPEGOAP": 200038,
     "BHNNFIGFPFL": 0,
@@ -343,7 +343,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 39,
+    "level": 39,
     "CINPAMKMFGH": 8625,
     "IKIJCPEGOAP": 200039,
     "BHNNFIGFPFL": 0,
@@ -352,7 +352,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 40,
+    "level": 40,
     "CINPAMKMFGH": 10550,
     "IKIJCPEGOAP": 200040,
     "BHNNFIGFPFL": 5,
@@ -361,7 +361,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 41,
+    "level": 41,
     "CINPAMKMFGH": 11525,
     "IKIJCPEGOAP": 200041,
     "BHNNFIGFPFL": 0,
@@ -370,7 +370,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 42,
+    "level": 42,
     "CINPAMKMFGH": 12475,
     "IKIJCPEGOAP": 200042,
     "BHNNFIGFPFL": 0,
@@ -379,7 +379,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 43,
+    "level": 43,
     "CINPAMKMFGH": 13450,
     "IKIJCPEGOAP": 200043,
     "BHNNFIGFPFL": 0,
@@ -388,7 +388,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 44,
+    "level": 44,
     "CINPAMKMFGH": 14400,
     "IKIJCPEGOAP": 200044,
     "BHNNFIGFPFL": 0,
@@ -397,7 +397,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 45,
+    "level": 45,
     "CINPAMKMFGH": 15350,
     "IKIJCPEGOAP": 200045,
     "BHNNFIGFPFL": 6,
@@ -406,7 +406,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 46,
+    "level": 46,
     "CINPAMKMFGH": 16325,
     "IKIJCPEGOAP": 200046,
     "BHNNFIGFPFL": 0,
@@ -415,7 +415,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 47,
+    "level": 47,
     "CINPAMKMFGH": 17275,
     "IKIJCPEGOAP": 200047,
     "BHNNFIGFPFL": 0,
@@ -424,7 +424,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 48,
+    "level": 48,
     "CINPAMKMFGH": 18250,
     "IKIJCPEGOAP": 200048,
     "BHNNFIGFPFL": 0,
@@ -433,7 +433,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 49,
+    "level": 49,
     "CINPAMKMFGH": 19200,
     "IKIJCPEGOAP": 200049,
     "BHNNFIGFPFL": 0,
@@ -442,7 +442,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 50,
+    "level": 50,
     "CINPAMKMFGH": 26400,
     "IKIJCPEGOAP": 200050,
     "BHNNFIGFPFL": 7,
@@ -451,7 +451,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 51,
+    "level": 51,
     "CINPAMKMFGH": 28800,
     "IKIJCPEGOAP": 200051,
     "BHNNFIGFPFL": 0,
@@ -460,7 +460,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 52,
+    "level": 52,
     "CINPAMKMFGH": 31200,
     "IKIJCPEGOAP": 200052,
     "BHNNFIGFPFL": 0,
@@ -469,7 +469,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 53,
+    "level": 53,
     "CINPAMKMFGH": 33600,
     "IKIJCPEGOAP": 200053,
     "BHNNFIGFPFL": 0,
@@ -478,7 +478,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 54,
+    "level": 54,
     "CINPAMKMFGH": 36000,
     "IKIJCPEGOAP": 200054,
     "BHNNFIGFPFL": 0,
@@ -487,7 +487,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 55,
+    "level": 55,
     "CINPAMKMFGH": 232350,
     "IKIJCPEGOAP": 200055,
     "BHNNFIGFPFL": 8,
@@ -496,7 +496,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 56,
+    "level": 56,
     "CINPAMKMFGH": 258950,
     "IKIJCPEGOAP": 200056,
     "BHNNFIGFPFL": 0,
@@ -505,7 +505,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 57,
+    "level": 57,
     "CINPAMKMFGH": 285750,
     "IKIJCPEGOAP": 200057,
     "BHNNFIGFPFL": 0,
@@ -514,7 +514,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 58,
+    "level": 58,
     "CINPAMKMFGH": 312825,
     "IKIJCPEGOAP": 200058,
     "BHNNFIGFPFL": 0,
@@ -523,7 +523,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 59,
+    "level": 59,
     "CINPAMKMFGH": 340125,
     "IKIJCPEGOAP": 200059,
     "BHNNFIGFPFL": 0,
@@ -532,7 +532,7 @@
   },
   {
     "LBPMDJNJJJP": 0,
-    "GEGLKKJIIOG": 60,
+    "level": 60,
     "CINPAMKMFGH": 0,
     "IKIJCPEGOAP": 200060,
     "BHNNFIGFPFL": 0,

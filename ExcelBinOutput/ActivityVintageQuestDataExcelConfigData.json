@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "NNBGEKPHEEA": 40078,
+    "id": 1,
+    "questId": 40078,
     "ICHFGBNHIMP": 0,
     "IFJHDKFDKKP": 1,
     "HIJEBFIEDDM": 3331857252,
@@ -12,8 +12,8 @@
     "HIJBNAAAFEE": "As the harvest season arrives, the Mondstadt's Adventurers' Guild has received a great number of requests from the citizenry. You and Paimon have also arrived back in the city in response to Katheryne's call for aid..."
   },
   {
-    "PGKNKBKHCHM": 2,
-    "NNBGEKPHEEA": 40079,
+    "id": 2,
+    "questId": 40079,
     "ICHFGBNHIMP": 40078,
     "IFJHDKFDKKP": 4,
     "HIJEBFIEDDM": 4006777524,
@@ -24,8 +24,8 @@
     "HIJBNAAAFEE": "Razor decides to make some Thousand-Wind Wine personally to better understand his human parents. However, which ingredients, specifically, was Venti's song referring to?"
   },
   {
-    "PGKNKBKHCHM": 3,
-    "NNBGEKPHEEA": 40080,
+    "id": 3,
+    "questId": 40080,
     "ICHFGBNHIMP": 40079,
     "IFJHDKFDKKP": 7,
     "HIJEBFIEDDM": 547919828,

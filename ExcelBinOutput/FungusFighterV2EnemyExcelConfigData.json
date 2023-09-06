@@ -1,9 +1,9 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "FEBBCDEGNDN": 6,
     "PBMBNKJJEGN": 2,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerFire",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 1796876600,
@@ -21,10 +21,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "FEBBCDEGNDN": 7,
     "PBMBNKJJEGN": 2,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWater",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 2343677248,
@@ -42,10 +42,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "FEBBCDEGNDN": 8,
     "PBMBNKJJEGN": 1,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerElectric",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 3728844744,
@@ -63,10 +63,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "FEBBCDEGNDN": 9,
     "PBMBNKJJEGN": 1,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerIce",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 3262782208,
@@ -84,10 +84,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "FEBBCDEGNDN": 10,
     "PBMBNKJJEGN": 5,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWind",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 1326364368,
@@ -105,10 +105,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "FEBBCDEGNDN": 11,
     "PBMBNKJJEGN": 6,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerPhysics_01",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerPhysics_01",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerPhysics_01",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 367560184,
@@ -126,10 +126,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "FEBBCDEGNDN": 1,
     "PBMBNKJJEGN": 2,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerFire",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerFire",
     "IIHGHKCBGOJ": true,
     "nameTextMapHash": 1161943696,
@@ -147,10 +147,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "FEBBCDEGNDN": 2,
     "PBMBNKJJEGN": 4,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWater",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWater",
     "IIHGHKCBGOJ": true,
     "nameTextMapHash": 3512835512,
@@ -168,10 +168,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "FEBBCDEGNDN": 3,
     "PBMBNKJJEGN": 5,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerElectric",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerElectric",
     "IIHGHKCBGOJ": true,
     "nameTextMapHash": 2057280912,
@@ -189,10 +189,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "FEBBCDEGNDN": 4,
     "PBMBNKJJEGN": 3,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerIce",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerIce",
     "IIHGHKCBGOJ": true,
     "nameTextMapHash": 2121677760,
@@ -210,10 +210,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "FEBBCDEGNDN": 5,
     "PBMBNKJJEGN": 7,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerWind",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerWind",
     "IIHGHKCBGOJ": true,
     "nameTextMapHash": 510528136,
@@ -231,10 +231,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "FEBBCDEGNDN": 12,
     "PBMBNKJJEGN": 5,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Fire",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Fire",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Fire",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 3838535680,
@@ -252,10 +252,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "FEBBCDEGNDN": 16,
     "PBMBNKJJEGN": 8,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerAbsorber_01",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerAbsorber_01",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerAbsorber_01",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 1700624672,
@@ -273,10 +273,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "FEBBCDEGNDN": 13,
     "PBMBNKJJEGN": 6,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Water",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Water",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Water",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 1771559184,
@@ -294,10 +294,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 15,
+    "id": 15,
     "FEBBCDEGNDN": 15,
     "PBMBNKJJEGN": 6,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Ice",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Ice",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Ice",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 1754037704,
@@ -315,10 +315,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 16,
+    "id": 16,
     "FEBBCDEGNDN": 14,
     "PBMBNKJJEGN": 7,
-    "HHKNLMAHBAO": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Electric",
+    "iconPath": "ART/UI/Atlas/ItemIcon/UI_Property_Prop_TowerRune_Electric",
     "ANBMKFIKINJ": "ART/UI/Atlas/MonsterSmallIcon/UI_ActivitySmallIcon_TowerRune_Electric",
     "IIHGHKCBGOJ": false,
     "nameTextMapHash": 497192752,

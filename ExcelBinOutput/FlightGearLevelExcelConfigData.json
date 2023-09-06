@@ -1,14 +1,14 @@
 [
   {
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "HNLFNPCMHDF": 2,
-    "BCJEBPNJNLN": 52101,
+    "galleryId": 52101,
     "DBPDKBEBDIB": 510010193,
     "GDEMBAAKIOB": 20230101,
     "KAPCFEAIGOP": 13109,
     "KIILONAEMIF": "UI_ACTIVITY_PENADV_FLIGHTGEAR_LOADING_TIPS",
     "HCEPGCDFLGG": 2.5,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023201
       },
@@ -20,7 +20,7 @@
       }
     ],
     "GOCHECIEFGC": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1000
       },
@@ -33,15 +33,15 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "HNLFNPCMHDF": 3,
-    "BCJEBPNJNLN": 52102,
+    "galleryId": 52102,
     "DBPDKBEBDIB": 510010137,
     "GDEMBAAKIOB": 20230102,
     "KAPCFEAIGOP": 13109,
     "KIILONAEMIF": "UI_ACTIVITY_PENADV_FLIGHTGEAR_LOADING_TIPS",
     "HCEPGCDFLGG": 2.5,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023211
       },
@@ -53,7 +53,7 @@
       }
     ],
     "GOCHECIEFGC": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1000
       },
@@ -66,15 +66,15 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "HNLFNPCMHDF": 4,
-    "BCJEBPNJNLN": 52103,
+    "galleryId": 52103,
     "DBPDKBEBDIB": 510010136,
     "GDEMBAAKIOB": 20230103,
     "KAPCFEAIGOP": 13109,
     "KIILONAEMIF": "UI_ACTIVITY_PENADV_FLIGHTGEAR_LOADING_TIPS",
     "HCEPGCDFLGG": 2.5,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023221
       },
@@ -86,7 +86,7 @@
       }
     ],
     "GOCHECIEFGC": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1000
       },
@@ -99,15 +99,15 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 4,
+    "levelId": 4,
     "HNLFNPCMHDF": 4,
-    "BCJEBPNJNLN": 52104,
+    "galleryId": 52104,
     "DBPDKBEBDIB": 510010135,
     "GDEMBAAKIOB": 20230104,
     "KAPCFEAIGOP": 13109,
     "KIILONAEMIF": "UI_ACTIVITY_PENADV_FLIGHTGEAR_LOADING_TIPS",
     "HCEPGCDFLGG": 2.5,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023231
       },
@@ -119,7 +119,7 @@
       }
     ],
     "GOCHECIEFGC": 10119,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1000
       },

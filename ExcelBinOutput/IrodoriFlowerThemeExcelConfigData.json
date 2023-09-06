@@ -24,8 +24,8 @@
     ],
     "JELHHOEBFHM": 2012112,
     "INGOEAGJAOP": 2012116,
-    "COAEEEJINMI": 12012301,
-    "NNBGEKPHEEA": 72687
+    "watcherId": 12012301,
+    "questId": 72687
   },
   {
     "DLLDONGOANF": 2,
@@ -52,8 +52,8 @@
     ],
     "JELHHOEBFHM": 2012113,
     "INGOEAGJAOP": 2012117,
-    "COAEEEJINMI": 12012302,
-    "NNBGEKPHEEA": 72688
+    "watcherId": 12012302,
+    "questId": 72688
   },
   {
     "DLLDONGOANF": 3,
@@ -80,8 +80,8 @@
     ],
     "JELHHOEBFHM": 2012114,
     "INGOEAGJAOP": 2012118,
-    "COAEEEJINMI": 12012303,
-    "NNBGEKPHEEA": 72689
+    "watcherId": 12012303,
+    "questId": 72689
   },
   {
     "DLLDONGOANF": 4,
@@ -108,7 +108,7 @@
     ],
     "JELHHOEBFHM": 2012115,
     "INGOEAGJAOP": 2012119,
-    "COAEEEJINMI": 12012304,
-    "NNBGEKPHEEA": 72690
+    "watcherId": 12012304,
+    "questId": 72690
   }
 ]

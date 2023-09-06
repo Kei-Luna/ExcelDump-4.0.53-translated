@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "GPKOLDCEFJA": 1506849915,
     "FMOAMKOPEAA": "Xenochromatic Fontemer Aberrant",
     "CJGEPBAMGIF": [
@@ -15,7 +15,7 @@
         "CDOIPGMKDFF": 3
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147101
       },
@@ -25,8 +25,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 2,
+    "id": 2,
+    "openDay": 2,
     "GPKOLDCEFJA": 3375450027,
     "FMOAMKOPEAA": "Clockwork Meka",
     "CJGEPBAMGIF": [
@@ -67,7 +67,7 @@
         "CDOIPGMKDFF": 15
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147201
       },
@@ -77,8 +77,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 3,
+    "id": 3,
+    "openDay": 3,
     "GPKOLDCEFJA": 131786171,
     "FMOAMKOPEAA": "Fontainian Canine",
     "CJGEPBAMGIF": [
@@ -92,7 +92,7 @@
         "CDOIPGMKDFF": 18
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147301
       },
@@ -102,8 +102,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 4,
+    "id": 4,
+    "openDay": 4,
     "GPKOLDCEFJA": 582289619,
     "FMOAMKOPEAA": "Fontainian Bird",
     "CJGEPBAMGIF": [
@@ -138,7 +138,7 @@
         "CDOIPGMKDFF": 32
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147401
       },
@@ -148,8 +148,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
-    "LOGBHLAFFJA": 5,
+    "id": 5,
+    "openDay": 5,
     "GPKOLDCEFJA": 3820331435,
     "FMOAMKOPEAA": "Sunken Object",
     "CJGEPBAMGIF": [
@@ -160,7 +160,7 @@
         "CDOIPGMKDFF": 26
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147501
       },
@@ -170,8 +170,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
-    "LOGBHLAFFJA": 6,
+    "id": 6,
+    "openDay": 6,
     "GPKOLDCEFJA": 760797635,
     "FMOAMKOPEAA": "Scenic Attraction",
     "CJGEPBAMGIF": [
@@ -182,7 +182,7 @@
         "CDOIPGMKDFF": 28
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15147601
       },

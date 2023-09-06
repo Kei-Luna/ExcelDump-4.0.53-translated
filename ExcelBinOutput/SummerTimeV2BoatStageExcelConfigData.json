@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "GOMNCDKNDLG": [
+    "stageId": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014401
       },
@@ -12,8 +12,8 @@
         "CDOIPGMKDFF": 12014403
       }
     ],
-    "BCJEBPNJNLN": 22002,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22002,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140101,
     "PHLELLMODGB": [
       0,
@@ -53,8 +53,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 2,
-    "GOMNCDKNDLG": [
+    "stageId": 2,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014404
       },
@@ -65,8 +65,8 @@
         "CDOIPGMKDFF": 12014406
       }
     ],
-    "BCJEBPNJNLN": 22003,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22003,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140201,
     "PHLELLMODGB": [
       0,
@@ -106,8 +106,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 3,
-    "GOMNCDKNDLG": [
+    "stageId": 3,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014407
       },
@@ -118,8 +118,8 @@
         "CDOIPGMKDFF": 12014409
       }
     ],
-    "BCJEBPNJNLN": 22001,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22001,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140301,
     "PHLELLMODGB": [
       0,
@@ -159,8 +159,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 4,
-    "GOMNCDKNDLG": [
+    "stageId": 4,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014410
       },
@@ -171,8 +171,8 @@
         "CDOIPGMKDFF": 12014412
       }
     ],
-    "BCJEBPNJNLN": 22004,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22004,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140401,
     "PHLELLMODGB": [
       0,
@@ -212,8 +212,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 5,
-    "GOMNCDKNDLG": [
+    "stageId": 5,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014413
       },
@@ -224,8 +224,8 @@
         "CDOIPGMKDFF": 12014415
       }
     ],
-    "BCJEBPNJNLN": 22005,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22005,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140501,
     "PHLELLMODGB": [
       0,
@@ -265,8 +265,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 6,
-    "GOMNCDKNDLG": [
+    "stageId": 6,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014416
       },
@@ -277,8 +277,8 @@
         "CDOIPGMKDFF": 12014418
       }
     ],
-    "BCJEBPNJNLN": 22006,
-    "BIMBKCLBCMD": 6062,
+    "galleryId": 22006,
+    "pushTipsId": 6062,
     "GHIHIPPKLMN": 20140601,
     "PHLELLMODGB": [
       0,

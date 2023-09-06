@@ -1,10 +1,10 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "ELNMEKONEEN": 2,
+    "stageId": 1,
+    "dayIndex": 2,
     "ANHKMMCJONG": 7703,
     "AONIKIHMFMO": 7704,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014001
       },
@@ -35,7 +35,7 @@
     "GMNNPDLIPPC": "As the Courtyard in Spring Once Appeared",
     "LJIAFCGEPNJ": 1244039537,
     "HIJBNAAAFEE": "The first day on the island was rather peaceful, yet things start to get strange the next morning... It seems to be just the beginning. You and the others trace the strange phenomena to an island and find a bonsai that is not supposed to be there.",
-    "BIMBKCLBCMD": 6068,
+    "pushTipsId": 6068,
     "PDOGDHJJMOC": 48,
     "DFOIPBHEMIA": 1146,
     "PHPGPNCGLIE": 1138,
@@ -46,11 +46,11 @@
     "LKONKGIOOHB": "Misty Hills, Foggy Vales"
   },
   {
-    "AODPMHOCMJN": 2,
-    "ELNMEKONEEN": 3,
+    "stageId": 2,
+    "dayIndex": 3,
     "ANHKMMCJONG": 7701,
     "AONIKIHMFMO": 7702,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014101
       },
@@ -81,7 +81,7 @@
     "GMNNPDLIPPC": "Blazin' Trails",
     "LJIAFCGEPNJ": 702924265,
     "HIJBNAAAFEE": "Following Mona's divination result, the party heads to another island. There, you see a strangely shaped plant which looks like... some kind of musical instrument?",
-    "BIMBKCLBCMD": 6069,
+    "pushTipsId": 6069,
     "PDOGDHJJMOC": 52,
     "DFOIPBHEMIA": 1137,
     "PHPGPNCGLIE": 0,
@@ -92,11 +92,11 @@
     "LKONKGIOOHB": "The Islands' Stirring Strings"
   },
   {
-    "AODPMHOCMJN": 3,
-    "ELNMEKONEEN": 4,
+    "stageId": 3,
+    "dayIndex": 4,
     "ANHKMMCJONG": 7705,
     "AONIKIHMFMO": 7706,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014201
       },
@@ -127,7 +127,7 @@
     "GMNNPDLIPPC": "Immernachtreich Apokalypse",
     "LJIAFCGEPNJ": 601350425,
     "HIJBNAAAFEE": "Fischl has not returned, so the party decides to explore the island first and confirm whether there is a mirage as the divination result indicated and to whom it belongs. Soon, everyone finds a night raven statue, along with a mysterious book that it has brought here — Hymn of the Holy Land. After touching the book, you and the others enter the mirage within...",
-    "BIMBKCLBCMD": 6070,
+    "pushTipsId": 6070,
     "PDOGDHJJMOC": 50,
     "DFOIPBHEMIA": 1141,
     "PHPGPNCGLIE": 1142,
@@ -138,11 +138,11 @@
     "LKONKGIOOHB": "Immernachtreich Keep"
   },
   {
-    "AODPMHOCMJN": 4,
-    "ELNMEKONEEN": 5,
+    "stageId": 4,
+    "dayIndex": 5,
     "ANHKMMCJONG": 7707,
     "AONIKIHMFMO": 7708,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12014301
       },
@@ -173,7 +173,7 @@
     "GMNNPDLIPPC": "The Ancient Azure Stars",
     "LJIAFCGEPNJ": 2892892593,
     "HIJBNAAAFEE": "Without the need for further divination, everyone heads to the final island in search of the next mirage. There, you and the others find a water pool. It seems that this story has something to do with Mona.",
-    "BIMBKCLBCMD": 6071,
+    "pushTipsId": 6071,
     "PDOGDHJJMOC": 54,
     "DFOIPBHEMIA": 1139,
     "PHPGPNCGLIE": 0,

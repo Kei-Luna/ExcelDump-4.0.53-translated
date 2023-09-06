@@ -1,8 +1,8 @@
 [
   {
-    "MGGPNIDOBGF": 1,
-    "ONJHLPJABCK": 3070,
-    "IPEMKJBCPGE": 48011,
+    "levelId": 1,
+    "dungeonID": 3070,
+    "galleryID": 48011,
     "HEJJMGNNCPE": 1,
     "HLGFNFHODCP": [
       {
@@ -12,12 +12,12 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "LOGBHLAFFJA": 1,
-    "KJNIJNGLHDJ": 2026010802,
+    "openDay": 1,
+    "levelTitleTextMapHash": 2026010802,
     "KGGEJLPHNKC": "Dice Stratagem: I",
     "PKJKLDMKAEM": 2943758311,
     "AEDNGHHCFMJ": "Using Suppressive Rolls will spend <color=#FFCC33>all</color> your present Invokation Dice and release a shockwave, dealing AoE DMG to nearby opponents and randomly granting <color=#FFCC33>1–3</color> buffs.\\nThe <color=#FFCC33>more</color> dice of the same Element as the active character spent, the <color=#FFCC33>higher</color> DMG the shockwave deals, and the more likely you will gain multiple buffs.",
-    "DGEMDEMDFEC": [
+    "monsterList": [
       {
         "CDOIPGMKDFF": 21020201
       },
@@ -49,7 +49,7 @@
         "CDOIPGMKDFF": 21030601
       }
     ],
-    "CFAHBODGNFP": [
+    "rateList": [
       {
         "CDOIPGMKDFF": 500
       },
@@ -63,7 +63,7 @@
         "CDOIPGMKDFF": 8000
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022401
       },
@@ -76,9 +76,9 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 2,
-    "ONJHLPJABCK": 3071,
-    "IPEMKJBCPGE": 48012,
+    "levelId": 2,
+    "dungeonID": 3071,
+    "galleryID": 48012,
     "HEJJMGNNCPE": 2,
     "HLGFNFHODCP": [
       {
@@ -88,12 +88,12 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "LOGBHLAFFJA": 3,
-    "KJNIJNGLHDJ": 299114410,
+    "openDay": 3,
+    "levelTitleTextMapHash": 299114410,
     "KGGEJLPHNKC": "Dice Stratagem: II",
     "PKJKLDMKAEM": 1919569191,
     "AEDNGHHCFMJ": "Using Suppressive Rolls will spend <color=#FFCC33>all</color> your present Invokation Dice and release a shockwave, dealing AoE DMG to nearby opponents and randomly granting <color=#FFCC33>1–3</color> buffs.\\nThe <color=#FFCC33>more</color> dice of the same Element as the active character spent, the <color=#FFCC33>higher</color> DMG the shockwave deals, and the more likely you will gain multiple buffs.",
-    "DGEMDEMDFEC": [
+    "monsterList": [
       {
         "CDOIPGMKDFF": 21020201
       },
@@ -140,7 +140,7 @@
         "CDOIPGMKDFF": 20060401
       }
     ],
-    "CFAHBODGNFP": [
+    "rateList": [
       {
         "CDOIPGMKDFF": 500
       },
@@ -154,7 +154,7 @@
         "CDOIPGMKDFF": 8000
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022404
       },
@@ -167,9 +167,9 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 3,
-    "ONJHLPJABCK": 3072,
-    "IPEMKJBCPGE": 48013,
+    "levelId": 3,
+    "dungeonID": 3072,
+    "galleryID": 48013,
     "HEJJMGNNCPE": 3,
     "HLGFNFHODCP": [
       {
@@ -179,12 +179,12 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "LOGBHLAFFJA": 5,
-    "KJNIJNGLHDJ": 3941930410,
+    "openDay": 5,
+    "levelTitleTextMapHash": 3941930410,
     "KGGEJLPHNKC": "Dice Stratagem: III",
     "PKJKLDMKAEM": 2121782847,
     "AEDNGHHCFMJ": "Using Suppressive Rolls will spend <color=#FFCC33>all</color> your present Invokation Dice and release a shockwave, dealing AoE DMG to nearby opponents and randomly granting <color=#FFCC33>1–3</color> buffs.\\nThe <color=#FFCC33>more</color> dice of the same Element as the active character spent, the <color=#FFCC33>higher</color> DMG the shockwave deals, and the more likely you will gain multiple buffs.",
-    "DGEMDEMDFEC": [
+    "monsterList": [
       {
         "CDOIPGMKDFF": 24010101
       },
@@ -219,7 +219,7 @@
         "CDOIPGMKDFF": 24020301
       }
     ],
-    "CFAHBODGNFP": [
+    "rateList": [
       {
         "CDOIPGMKDFF": 500
       },
@@ -233,7 +233,7 @@
         "CDOIPGMKDFF": 8000
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022407
       },
@@ -246,9 +246,9 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 4,
-    "ONJHLPJABCK": 3073,
-    "IPEMKJBCPGE": 48014,
+    "levelId": 4,
+    "dungeonID": 3073,
+    "galleryID": 48014,
     "HEJJMGNNCPE": 4,
     "HLGFNFHODCP": [
       {
@@ -258,12 +258,12 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "LOGBHLAFFJA": 7,
-    "KJNIJNGLHDJ": 1188015186,
+    "openDay": 7,
+    "levelTitleTextMapHash": 1188015186,
     "KGGEJLPHNKC": "Dice Stratagem: IV",
     "PKJKLDMKAEM": 679193175,
     "AEDNGHHCFMJ": "Using Suppressive Rolls will spend <color=#FFCC33>all</color> your present Invokation Dice and release a shockwave, dealing AoE DMG to nearby opponents and randomly granting <color=#FFCC33>1–3</color> buffs.\\nThe <color=#FFCC33>more</color> dice of the same Element as the active character spent, the <color=#FFCC33>higher</color> DMG the shockwave deals, and the more likely you will gain multiple buffs.",
-    "DGEMDEMDFEC": [
+    "monsterList": [
       {
         "CDOIPGMKDFF": 26120401
       },
@@ -304,7 +304,7 @@
         "CDOIPGMKDFF": 20011301
       }
     ],
-    "CFAHBODGNFP": [
+    "rateList": [
       {
         "CDOIPGMKDFF": 500
       },
@@ -318,7 +318,7 @@
         "CDOIPGMKDFF": 8000
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12022410
       },

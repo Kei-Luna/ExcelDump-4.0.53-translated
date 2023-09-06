@@ -1,9 +1,9 @@
 [
   {
-    "MGGPNIDOBGF": 1,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 1,
-    "PDHFANIOLKO": 3040,
+    "levelId": 1,
+    "scheduleId": 5067001,
+    "openDay": 1,
+    "dungeonId": 3040,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6012
@@ -18,7 +18,7 @@
         "CDOIPGMKDFF": 6010
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067001
       },
@@ -51,9 +51,9 @@
         "CDOIPGMKDFF": 3
       }
     ],
-    "KJNIJNGLHDJ": 1772716524,
+    "levelTitleTextMapHash": 1772716524,
     "KGGEJLPHNKC": "Elemental Presets",
-    "FFBHECLIMOH": 2768189644,
+    "levelDescTextMapHash": 2768189644,
     "OGHIHPCCIHM": "Special ores and crystals will react to the elements. This is the most basic of basics. But before that, we need to select the crystals that will indeed produce such reactions with the elements — the Vibro-Crystals!",
     "GGLPNCEFNNO": [
       {
@@ -162,7 +162,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -180,10 +180,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 2,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 2,
-    "PDHFANIOLKO": 3041,
+    "levelId": 2,
+    "scheduleId": 5067001,
+    "openDay": 2,
+    "dungeonId": 3041,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6037
@@ -198,7 +198,7 @@
         "CDOIPGMKDFF": 6035
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067004
       },
@@ -231,9 +231,9 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "KJNIJNGLHDJ": 621067724,
+    "levelTitleTextMapHash": 621067724,
     "KGGEJLPHNKC": "Diffracted Hypothesis",
-    "FFBHECLIMOH": 2318678892,
+    "levelDescTextMapHash": 2318678892,
     "OGHIHPCCIHM": "According to the hypotheses that can be formed using present conclusions, Vibro-Crystals will only begin to resonate after reacting with the elements in a natural environment. This experimental step is meant to prove this point.",
     "GGLPNCEFNNO": [
       {
@@ -309,7 +309,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -327,10 +327,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 3,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 3,
-    "PDHFANIOLKO": 3042,
+    "levelId": 3,
+    "scheduleId": 5067001,
+    "openDay": 3,
+    "dungeonId": 3042,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6039
@@ -345,7 +345,7 @@
         "CDOIPGMKDFF": 6005
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067007
       },
@@ -378,9 +378,9 @@
         "CDOIPGMKDFF": 9
       }
     ],
-    "KJNIJNGLHDJ": 4085446932,
+    "levelTitleTextMapHash": 4085446932,
     "KGGEJLPHNKC": "Stimulating Deduction",
-    "FFBHECLIMOH": 842093068,
+    "levelDescTextMapHash": 842093068,
     "OGHIHPCCIHM": "In their natural environments, Vibro-Crystals cannot produce any stable connection between Transmitting and Receiving crystals. As such, we must attempt to stimulate them using more intense Elemental Reactions.",
     "GGLPNCEFNNO": [
       {
@@ -492,7 +492,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -510,10 +510,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 4,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 4,
-    "PDHFANIOLKO": 3044,
+    "levelId": 4,
+    "scheduleId": 5067001,
+    "openDay": 4,
+    "dungeonId": 3044,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6028
@@ -528,7 +528,7 @@
         "CDOIPGMKDFF": 6011
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067010
       },
@@ -561,9 +561,9 @@
         "CDOIPGMKDFF": 12
       }
     ],
-    "KJNIJNGLHDJ": 1345855564,
+    "levelTitleTextMapHash": 1345855564,
     "KGGEJLPHNKC": "Fluid Principles",
-    "FFBHECLIMOH": 2880493020,
+    "levelDescTextMapHash": 2880493020,
     "OGHIHPCCIHM": "With the reactions stimulated, we must now change the parameters of the testing ground to search for a point of balance amidst all the fluidity and change. That will allow the elemental reactions involved to have a stable conversion to harmonic energy.",
     "GGLPNCEFNNO": [
       {
@@ -663,7 +663,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -681,10 +681,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 5,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 5,
-    "PDHFANIOLKO": 3043,
+    "levelId": 5,
+    "scheduleId": 5067001,
+    "openDay": 5,
+    "dungeonId": 3043,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6036
@@ -699,7 +699,7 @@
         "CDOIPGMKDFF": 6004
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067013
       },
@@ -732,9 +732,9 @@
         "CDOIPGMKDFF": 15
       }
     ],
-    "KJNIJNGLHDJ": 563516124,
+    "levelTitleTextMapHash": 563516124,
     "KGGEJLPHNKC": "Stable Response",
-    "FFBHECLIMOH": 2311765508,
+    "levelDescTextMapHash": 2311765508,
     "OGHIHPCCIHM": "As the harmonic motion stabilizes, we can change various parameters to observe their effects and gather various types of data to reach the final result.",
     "GGLPNCEFNNO": [
       {
@@ -819,7 +819,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -837,10 +837,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 6,
-    "HHCCDHCMELE": 5067001,
-    "LOGBHLAFFJA": 6,
-    "PDHFANIOLKO": 3045,
+    "levelId": 6,
+    "scheduleId": 5067001,
+    "openDay": 6,
+    "dungeonId": 3045,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6006
@@ -855,7 +855,7 @@
         "CDOIPGMKDFF": 6032
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15067016
       },
@@ -888,9 +888,9 @@
         "CDOIPGMKDFF": 18
       }
     ],
-    "KJNIJNGLHDJ": 3623967556,
+    "levelTitleTextMapHash": 3623967556,
     "KGGEJLPHNKC": "The Conversion Enigma",
-    "FFBHECLIMOH": 577629156,
+    "levelDescTextMapHash": 577629156,
     "OGHIHPCCIHM": "There is a fundamental secret hidden within the relationships between the harmonics, the Transmitting and Receiving Crystals, and their conditions and effects — and that is the conversion of essence itself...",
     "GGLPNCEFNNO": [
       {
@@ -993,7 +993,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1011,10 +1011,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 7,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 1,
-    "PDHFANIOLKO": 8600,
+    "levelId": 7,
+    "scheduleId": 5123001,
+    "openDay": 1,
+    "dungeonId": 8600,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6022
@@ -1029,7 +1029,7 @@
         "CDOIPGMKDFF": 6010
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123001
       },
@@ -1062,9 +1062,9 @@
         "CDOIPGMKDFF": 21
       }
     ],
-    "KJNIJNGLHDJ": 1371202892,
+    "levelTitleTextMapHash": 1371202892,
     "KGGEJLPHNKC": "Heat Deflection",
-    "FFBHECLIMOH": 1813550492,
+    "levelDescTextMapHash": 1813550492,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1152,7 +1152,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1170,10 +1170,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 8,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 2,
-    "PDHFANIOLKO": 8601,
+    "levelId": 8,
+    "scheduleId": 5123001,
+    "openDay": 2,
+    "dungeonId": 8601,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6058
@@ -1188,7 +1188,7 @@
         "CDOIPGMKDFF": 6019
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123004
       },
@@ -1221,9 +1221,9 @@
         "CDOIPGMKDFF": 24
       }
     ],
-    "KJNIJNGLHDJ": 340001372,
+    "levelTitleTextMapHash": 340001372,
     "KGGEJLPHNKC": "Wind Redirection",
-    "FFBHECLIMOH": 3616019804,
+    "levelDescTextMapHash": 3616019804,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1323,7 +1323,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1341,10 +1341,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 9,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 3,
-    "PDHFANIOLKO": 8602,
+    "levelId": 9,
+    "scheduleId": 5123001,
+    "openDay": 3,
+    "dungeonId": 8602,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6062
@@ -1359,7 +1359,7 @@
         "CDOIPGMKDFF": 6010
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123007
       },
@@ -1392,9 +1392,9 @@
         "CDOIPGMKDFF": 27
       }
     ],
-    "KJNIJNGLHDJ": 113366100,
+    "levelTitleTextMapHash": 113366100,
     "KGGEJLPHNKC": "Warmth Observation",
-    "FFBHECLIMOH": 1896646860,
+    "levelDescTextMapHash": 1896646860,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1469,7 +1469,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1487,10 +1487,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 10,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 4,
-    "PDHFANIOLKO": 8603,
+    "levelId": 10,
+    "scheduleId": 5123001,
+    "openDay": 4,
+    "dungeonId": 8603,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6053
@@ -1505,7 +1505,7 @@
         "CDOIPGMKDFF": 6010
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123010
       },
@@ -1538,9 +1538,9 @@
         "CDOIPGMKDFF": 30
       }
     ],
-    "KJNIJNGLHDJ": 2053611732,
+    "levelTitleTextMapHash": 2053611732,
     "KGGEJLPHNKC": "Energy Vitalization",
-    "FFBHECLIMOH": 3826171508,
+    "levelDescTextMapHash": 3826171508,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1635,7 +1635,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1653,10 +1653,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 11,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 5,
-    "PDHFANIOLKO": 8604,
+    "levelId": 11,
+    "scheduleId": 5123001,
+    "openDay": 5,
+    "dungeonId": 8604,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6006
@@ -1671,7 +1671,7 @@
         "CDOIPGMKDFF": 6057
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123013
       },
@@ -1704,9 +1704,9 @@
         "CDOIPGMKDFF": 33
       }
     ],
-    "KJNIJNGLHDJ": 2849889484,
+    "levelTitleTextMapHash": 2849889484,
     "KGGEJLPHNKC": "Freezing Conduction",
-    "FFBHECLIMOH": 4079810172,
+    "levelDescTextMapHash": 4079810172,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1810,7 +1810,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },
@@ -1828,10 +1828,10 @@
     "LAFCNIEMHBD": 20
   },
   {
-    "MGGPNIDOBGF": 12,
-    "HHCCDHCMELE": 5123001,
-    "LOGBHLAFFJA": 6,
-    "PDHFANIOLKO": 8605,
+    "levelId": 12,
+    "scheduleId": 5123001,
+    "openDay": 6,
+    "dungeonId": 8605,
     "HMJBJDAHMHG": [
       {
         "CDOIPGMKDFF": 6060
@@ -1846,7 +1846,7 @@
         "CDOIPGMKDFF": 6005
       }
     ],
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15123016
       },
@@ -1879,9 +1879,9 @@
         "CDOIPGMKDFF": 36
       }
     ],
-    "KJNIJNGLHDJ": 1893084132,
+    "levelTitleTextMapHash": 1893084132,
     "KGGEJLPHNKC": "Controlled Conversion",
-    "FFBHECLIMOH": 4075817828,
+    "levelDescTextMapHash": 4075817828,
     "OGHIHPCCIHM": "",
     "GGLPNCEFNNO": [
       {
@@ -1985,7 +1985,7 @@
         ]
       }
     ],
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 5000
       },

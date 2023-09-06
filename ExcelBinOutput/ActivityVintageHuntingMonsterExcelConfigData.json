@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "IPJBKHBOCFN": 187407864,
     "monsterName": "Scarletbeak Duck",
     "EAGKKIIDIKF": [
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "IPJBKHBOCFN": 3702246040,
     "monsterName": "Forest Boar",
     "EAGKKIIDIKF": [
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "IPJBKHBOCFN": 1364607016,
     "monsterName": "Crimson Fox",
     "EAGKKIIDIKF": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "IPJBKHBOCFN": 3546296424,
     "monsterName": "White Pigeon",
     "EAGKKIIDIKF": [

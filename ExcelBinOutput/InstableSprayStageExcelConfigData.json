@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "LOGBHLAFFJA": 1,
+    "stageId": 1,
+    "openDay": 1,
     "BOFCOLHFDPC": 1099514193,
     "HPEDKPFPEKN": "Thundergrass Resonance",
     "OLNBBCBCINB": 2330058402,
@@ -17,7 +17,7 @@
         "CDOIPGMKDFF": 109
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1512901
       },
@@ -30,8 +30,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 2,
-    "LOGBHLAFFJA": 3,
+    "stageId": 2,
+    "openDay": 3,
     "BOFCOLHFDPC": 1763379753,
     "HPEDKPFPEKN": "Thermal Differential",
     "OLNBBCBCINB": 3278430706,
@@ -47,7 +47,7 @@
         "CDOIPGMKDFF": 106
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1512904
       },
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 3,
-    "LOGBHLAFFJA": 5,
+    "stageId": 3,
+    "openDay": 5,
     "BOFCOLHFDPC": 749575313,
     "HPEDKPFPEKN": "Invasive Vitality",
     "OLNBBCBCINB": 4079219706,
@@ -77,7 +77,7 @@
         "CDOIPGMKDFF": 103
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1512907
       },
@@ -90,8 +90,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 4,
-    "LOGBHLAFFJA": 7,
+    "stageId": 4,
+    "openDay": 7,
     "BOFCOLHFDPC": 3033430985,
     "HPEDKPFPEKN": "Armed and Armored",
     "OLNBBCBCINB": 2484812794,
@@ -107,7 +107,7 @@
         "CDOIPGMKDFF": 112
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1512910
       },

@@ -1,7 +1,7 @@
 [
   {
     "JLDICDCNOOH": 0,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 0,
     "DMHHNJDANOI": [
       {
@@ -88,7 +88,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 600,
     "DMHHNJDANOI": [
       {
@@ -175,7 +175,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 750,
     "DMHHNJDANOI": [
       {
@@ -262,7 +262,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 875,
     "DMHHNJDANOI": [
       {
@@ -349,7 +349,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 1025,
     "DMHHNJDANOI": [
       {
@@ -436,7 +436,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 1175,
     "DMHHNJDANOI": [
       {
@@ -523,7 +523,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 1325,
     "DMHHNJDANOI": [
       {
@@ -610,7 +610,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 1500,
     "DMHHNJDANOI": [
       {
@@ -697,7 +697,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 1675,
     "DMHHNJDANOI": [
       {
@@ -784,7 +784,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 1850,
     "DMHHNJDANOI": [
       {
@@ -871,7 +871,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 2025,
     "DMHHNJDANOI": [
       {
@@ -958,7 +958,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 2200,
     "DMHHNJDANOI": [
       {
@@ -1045,7 +1045,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 2400,
     "DMHHNJDANOI": [
       {
@@ -1132,7 +1132,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 2600,
     "DMHHNJDANOI": [
       {
@@ -1219,7 +1219,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 3025,
     "DMHHNJDANOI": [
       {
@@ -1306,7 +1306,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 3525,
     "DMHHNJDANOI": [
       {
@@ -1393,7 +1393,7 @@
   },
   {
     "JLDICDCNOOH": 1,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 4075,
     "DMHHNJDANOI": [
       {
@@ -1480,7 +1480,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 1200,
     "DMHHNJDANOI": [
       {
@@ -1567,7 +1567,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 1500,
     "DMHHNJDANOI": [
       {
@@ -1654,7 +1654,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 1775,
     "DMHHNJDANOI": [
       {
@@ -1741,7 +1741,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 2050,
     "DMHHNJDANOI": [
       {
@@ -1828,7 +1828,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 2350,
     "DMHHNJDANOI": [
       {
@@ -1915,7 +1915,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 2675,
     "DMHHNJDANOI": [
       {
@@ -2002,7 +2002,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 3000,
     "DMHHNJDANOI": [
       {
@@ -2089,7 +2089,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 3350,
     "DMHHNJDANOI": [
       {
@@ -2176,7 +2176,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 3700,
     "DMHHNJDANOI": [
       {
@@ -2263,7 +2263,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 4050,
     "DMHHNJDANOI": [
       {
@@ -2350,7 +2350,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 4425,
     "DMHHNJDANOI": [
       {
@@ -2437,7 +2437,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 4800,
     "DMHHNJDANOI": [
       {
@@ -2524,7 +2524,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 5200,
     "DMHHNJDANOI": [
       {
@@ -2611,7 +2611,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 6050,
     "DMHHNJDANOI": [
       {
@@ -2698,7 +2698,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 7050,
     "DMHHNJDANOI": [
       {
@@ -2785,7 +2785,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 8150,
     "DMHHNJDANOI": [
       {
@@ -2872,7 +2872,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 17,
+    "level": 17,
     "CINPAMKMFGH": 9400,
     "DMHHNJDANOI": [
       {
@@ -2959,7 +2959,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 18,
+    "level": 18,
     "CINPAMKMFGH": 10825,
     "DMHHNJDANOI": [
       {
@@ -3046,7 +3046,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 19,
+    "level": 19,
     "CINPAMKMFGH": 12425,
     "DMHHNJDANOI": [
       {
@@ -3133,7 +3133,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 20,
+    "level": 20,
     "CINPAMKMFGH": 14225,
     "DMHHNJDANOI": [
       {
@@ -3220,7 +3220,7 @@
   },
   {
     "JLDICDCNOOH": 2,
-    "GEGLKKJIIOG": 21,
+    "level": 21,
     "CINPAMKMFGH": 16275,
     "DMHHNJDANOI": [
       {
@@ -3307,7 +3307,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 1800,
     "DMHHNJDANOI": [
       {
@@ -3394,7 +3394,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 2225,
     "DMHHNJDANOI": [
       {
@@ -3481,7 +3481,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 2650,
     "DMHHNJDANOI": [
       {
@@ -3568,7 +3568,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 3100,
     "DMHHNJDANOI": [
       {
@@ -3655,7 +3655,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 3550,
     "DMHHNJDANOI": [
       {
@@ -3742,7 +3742,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 4000,
     "DMHHNJDANOI": [
       {
@@ -3829,7 +3829,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 4500,
     "DMHHNJDANOI": [
       {
@@ -3916,7 +3916,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 5000,
     "DMHHNJDANOI": [
       {
@@ -4003,7 +4003,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 5525,
     "DMHHNJDANOI": [
       {
@@ -4090,7 +4090,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 6075,
     "DMHHNJDANOI": [
       {
@@ -4177,7 +4177,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 6625,
     "DMHHNJDANOI": [
       {
@@ -4264,7 +4264,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 7225,
     "DMHHNJDANOI": [
       {
@@ -4351,7 +4351,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 7825,
     "DMHHNJDANOI": [
       {
@@ -4438,7 +4438,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 9100,
     "DMHHNJDANOI": [
       {
@@ -4525,7 +4525,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 10550,
     "DMHHNJDANOI": [
       {
@@ -4612,7 +4612,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 12225,
     "DMHHNJDANOI": [
       {
@@ -4699,7 +4699,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 17,
+    "level": 17,
     "CINPAMKMFGH": 14100,
     "DMHHNJDANOI": [
       {
@@ -4786,7 +4786,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 18,
+    "level": 18,
     "CINPAMKMFGH": 16225,
     "DMHHNJDANOI": [
       {
@@ -4873,7 +4873,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 19,
+    "level": 19,
     "CINPAMKMFGH": 18625,
     "DMHHNJDANOI": [
       {
@@ -4960,7 +4960,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 20,
+    "level": 20,
     "CINPAMKMFGH": 21350,
     "DMHHNJDANOI": [
       {
@@ -5047,7 +5047,7 @@
   },
   {
     "JLDICDCNOOH": 3,
-    "GEGLKKJIIOG": 21,
+    "level": 21,
     "CINPAMKMFGH": 24400,
     "DMHHNJDANOI": [
       {
@@ -5134,7 +5134,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 2400,
     "DMHHNJDANOI": [
       {
@@ -5221,7 +5221,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 2975,
     "DMHHNJDANOI": [
       {
@@ -5308,7 +5308,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 3550,
     "DMHHNJDANOI": [
       {
@@ -5395,7 +5395,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 4125,
     "DMHHNJDANOI": [
       {
@@ -5482,7 +5482,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 4725,
     "DMHHNJDANOI": [
       {
@@ -5569,7 +5569,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 5350,
     "DMHHNJDANOI": [
       {
@@ -5656,7 +5656,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 6000,
     "DMHHNJDANOI": [
       {
@@ -5743,7 +5743,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 6675,
     "DMHHNJDANOI": [
       {
@@ -5830,7 +5830,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 7375,
     "DMHHNJDANOI": [
       {
@@ -5917,7 +5917,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 8100,
     "DMHHNJDANOI": [
       {
@@ -6004,7 +6004,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 8850,
     "DMHHNJDANOI": [
       {
@@ -6091,7 +6091,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 9625,
     "DMHHNJDANOI": [
       {
@@ -6178,7 +6178,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 10425,
     "DMHHNJDANOI": [
       {
@@ -6265,7 +6265,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 12125,
     "DMHHNJDANOI": [
       {
@@ -6352,7 +6352,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 14075,
     "DMHHNJDANOI": [
       {
@@ -6439,7 +6439,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 16300,
     "DMHHNJDANOI": [
       {
@@ -6526,7 +6526,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 17,
+    "level": 17,
     "CINPAMKMFGH": 18800,
     "DMHHNJDANOI": [
       {
@@ -6613,7 +6613,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 18,
+    "level": 18,
     "CINPAMKMFGH": 21650,
     "DMHHNJDANOI": [
       {
@@ -6700,7 +6700,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 19,
+    "level": 19,
     "CINPAMKMFGH": 24850,
     "DMHHNJDANOI": [
       {
@@ -6787,7 +6787,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 20,
+    "level": 20,
     "CINPAMKMFGH": 28450,
     "DMHHNJDANOI": [
       {
@@ -6874,7 +6874,7 @@
   },
   {
     "JLDICDCNOOH": 4,
-    "GEGLKKJIIOG": 21,
+    "level": 21,
     "CINPAMKMFGH": 32550,
     "DMHHNJDANOI": [
       {
@@ -6961,7 +6961,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 3000,
     "DMHHNJDANOI": [
       {
@@ -7048,7 +7048,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 3725,
     "DMHHNJDANOI": [
       {
@@ -7135,7 +7135,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 4425,
     "DMHHNJDANOI": [
       {
@@ -7222,7 +7222,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 5150,
     "DMHHNJDANOI": [
       {
@@ -7309,7 +7309,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 5900,
     "DMHHNJDANOI": [
       {
@@ -7396,7 +7396,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 6675,
     "DMHHNJDANOI": [
       {
@@ -7483,7 +7483,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 7500,
     "DMHHNJDANOI": [
       {
@@ -7570,7 +7570,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 8350,
     "DMHHNJDANOI": [
       {
@@ -7657,7 +7657,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 9225,
     "DMHHNJDANOI": [
       {
@@ -7744,7 +7744,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 10125,
     "DMHHNJDANOI": [
       {
@@ -7831,7 +7831,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 11,
+    "level": 11,
     "CINPAMKMFGH": 11050,
     "DMHHNJDANOI": [
       {
@@ -7918,7 +7918,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 12,
+    "level": 12,
     "CINPAMKMFGH": 12025,
     "DMHHNJDANOI": [
       {
@@ -8005,7 +8005,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 13,
+    "level": 13,
     "CINPAMKMFGH": 13025,
     "DMHHNJDANOI": [
       {
@@ -8092,7 +8092,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 14,
+    "level": 14,
     "CINPAMKMFGH": 15150,
     "DMHHNJDANOI": [
       {
@@ -8179,7 +8179,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 15,
+    "level": 15,
     "CINPAMKMFGH": 17600,
     "DMHHNJDANOI": [
       {
@@ -8266,7 +8266,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 16,
+    "level": 16,
     "CINPAMKMFGH": 20375,
     "DMHHNJDANOI": [
       {
@@ -8353,7 +8353,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 17,
+    "level": 17,
     "CINPAMKMFGH": 23500,
     "DMHHNJDANOI": [
       {
@@ -8440,7 +8440,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 18,
+    "level": 18,
     "CINPAMKMFGH": 27050,
     "DMHHNJDANOI": [
       {
@@ -8527,7 +8527,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 19,
+    "level": 19,
     "CINPAMKMFGH": 31050,
     "DMHHNJDANOI": [
       {
@@ -8614,7 +8614,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 20,
+    "level": 20,
     "CINPAMKMFGH": 35575,
     "DMHHNJDANOI": [
       {
@@ -8701,7 +8701,7 @@
   },
   {
     "JLDICDCNOOH": 5,
-    "GEGLKKJIIOG": 21,
+    "level": 21,
     "CINPAMKMFGH": 40675,
     "DMHHNJDANOI": [
       {

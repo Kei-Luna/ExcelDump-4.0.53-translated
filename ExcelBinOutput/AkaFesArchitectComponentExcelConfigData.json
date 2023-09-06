@@ -1,114 +1,114 @@
 [
   {
-    "PGKNKBKHCHM": 6001,
+    "id": 6001,
     "OJPAOACGCAF": 250,
     "HKONFEMGOFN": 100,
     "GMAIBJPCNHP": "ART/Effect/SceneInteractive/EffObject/Eff_SceneObj_UGC_AreaRing_01"
   },
   {
-    "PGKNKBKHCHM": 6002,
+    "id": 6002,
     "OJPAOACGCAF": 150,
     "HKONFEMGOFN": 50,
     "GMAIBJPCNHP": "ART/Effect/SceneInteractive/EffObject/Eff_SceneObj_UGC_AreaBox_01"
   },
   {
-    "PGKNKBKHCHM": 6003,
+    "id": 6003,
     "OJPAOACGCAF": 75,
     "HKONFEMGOFN": 25,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6004,
+    "id": 6004,
     "OJPAOACGCAF": 50,
     "HKONFEMGOFN": 25,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6007,
+    "id": 6007,
     "OJPAOACGCAF": 25,
     "HKONFEMGOFN": 10,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6008,
+    "id": 6008,
     "OJPAOACGCAF": 25,
     "HKONFEMGOFN": 10,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6009,
+    "id": 6009,
     "OJPAOACGCAF": 30,
     "HKONFEMGOFN": 15,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6010,
+    "id": 6010,
     "OJPAOACGCAF": 15,
     "HKONFEMGOFN": 5,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6011,
+    "id": 6011,
     "OJPAOACGCAF": 50,
     "HKONFEMGOFN": 25,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6012,
+    "id": 6012,
     "OJPAOACGCAF": 15,
     "HKONFEMGOFN": 5,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6013,
+    "id": 6013,
     "OJPAOACGCAF": 15,
     "HKONFEMGOFN": 5,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6014,
+    "id": 6014,
     "OJPAOACGCAF": 10,
     "HKONFEMGOFN": 5,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6015,
+    "id": 6015,
     "OJPAOACGCAF": 80,
     "HKONFEMGOFN": 40,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6016,
+    "id": 6016,
     "OJPAOACGCAF": 100,
     "HKONFEMGOFN": 50,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6017,
+    "id": 6017,
     "OJPAOACGCAF": 80,
     "HKONFEMGOFN": 40,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6018,
+    "id": 6018,
     "OJPAOACGCAF": 80,
     "HKONFEMGOFN": 40,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6019,
+    "id": 6019,
     "OJPAOACGCAF": 80,
     "HKONFEMGOFN": 40,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6020,
+    "id": 6020,
     "OJPAOACGCAF": 30,
     "HKONFEMGOFN": 10,
     "GMAIBJPCNHP": ""
   },
   {
-    "PGKNKBKHCHM": 6021,
+    "id": 6021,
     "OJPAOACGCAF": 30,
     "HKONFEMGOFN": 10,
     "GMAIBJPCNHP": ""

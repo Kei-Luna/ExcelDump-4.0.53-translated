@@ -3,11 +3,11 @@
     "id": 1,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 5
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 240
       }
     ]
@@ -16,11 +16,11 @@
     "id": 2,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 5
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 270
       }
     ]
@@ -29,11 +29,11 @@
     "id": 3,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 5
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 300
       }
     ]
@@ -42,11 +42,11 @@
     "id": 4,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 5
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 330
       }
     ]
@@ -55,11 +55,11 @@
     "id": 5,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 5
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 360
       }
     ]
@@ -68,11 +68,11 @@
     "id": 6,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 15
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 800
       }
     ]
@@ -81,11 +81,11 @@
     "id": 7,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 15
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 900
       }
     ]
@@ -94,11 +94,11 @@
     "id": 8,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 15
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1000
       }
     ]
@@ -107,11 +107,11 @@
     "id": 9,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 15
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1100
       }
     ]
@@ -120,11 +120,11 @@
     "id": 10,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 15
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1200
       }
     ]
@@ -133,11 +133,11 @@
     "id": 11,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 20
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1200
       }
     ]
@@ -146,11 +146,11 @@
     "id": 12,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 20
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1350
       }
     ]
@@ -159,11 +159,11 @@
     "id": 13,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 20
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1500
       }
     ]
@@ -172,11 +172,11 @@
     "id": 14,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 20
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1650
       }
     ]
@@ -185,11 +185,11 @@
     "id": 15,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 20
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 1800
       }
     ]
@@ -198,11 +198,11 @@
     "id": 16,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 50
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 4000
       }
     ]
@@ -211,11 +211,11 @@
     "id": 17,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 50
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 4500
       }
     ]
@@ -224,11 +224,11 @@
     "id": 18,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 50
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 5000
       }
     ]
@@ -237,11 +237,11 @@
     "id": 19,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 50
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 5500
       }
     ]
@@ -250,11 +250,11 @@
     "id": 20,
     "IPLDLEAKPGH": [
       {
-        "ECDEIIONFFL": 101,
+        "materialId": 101,
         "DLFMGLGGJKB": 50
       },
       {
-        "ECDEIIONFFL": 102,
+        "materialId": 102,
         "DLFMGLGGJKB": 6000
       }
     ]

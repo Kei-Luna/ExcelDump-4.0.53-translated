@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "type": 1,
     "nameTextMapHash": 3071628724,
     "PMPMKOPBJHA": "Serenitea Pot",
@@ -27,7 +27,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "type": 2,
     "nameTextMapHash": 2157852924,
     "PMPMKOPBJHA": "Golden Apple Archipelago",
@@ -48,7 +48,7 @@
     "LGAEIBJKMGJ": -655.726
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "type": 0,
     "nameTextMapHash": 706446876,
     "PMPMKOPBJHA": "Mondstadt",
@@ -69,7 +69,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "type": 0,
     "nameTextMapHash": 1982412604,
     "PMPMKOPBJHA": "Liyue",
@@ -90,7 +90,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "type": 0,
     "nameTextMapHash": 869248244,
     "PMPMKOPBJHA": "Inazuma",
@@ -111,7 +111,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "type": 3,
     "nameTextMapHash": 1862653596,
     "PMPMKOPBJHA": "Enkanomiya",
@@ -132,7 +132,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "type": 4,
     "nameTextMapHash": 2887066388,
     "PMPMKOPBJHA": "Three Realms Gateway Offering",
@@ -153,7 +153,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "type": 5,
     "nameTextMapHash": 297471884,
     "PMPMKOPBJHA": "The Chasm: Underground Mines",
@@ -174,7 +174,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "type": 6,
     "nameTextMapHash": 3682200372,
     "PMPMKOPBJHA": "Golden Apple Archipelago",
@@ -195,7 +195,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "type": 0,
     "nameTextMapHash": 1074864084,
     "PMPMKOPBJHA": "Sumeru",
@@ -216,7 +216,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "type": 8,
     "nameTextMapHash": 4293069292,
     "PMPMKOPBJHA": "The Cat's Tail",
@@ -237,7 +237,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "type": 10,
     "nameTextMapHash": 1719443972,
     "PMPMKOPBJHA": "Veluriyam Mirage",
@@ -258,7 +258,7 @@
     "LGAEIBJKMGJ": 0
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "type": 0,
     "nameTextMapHash": 2386365724,
     "PMPMKOPBJHA": "Fontaine",

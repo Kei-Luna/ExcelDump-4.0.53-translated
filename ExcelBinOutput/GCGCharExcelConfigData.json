@@ -9,11 +9,11 @@
       0
     ],
     "MOHEPOENHHN": "",
-    "PGKNKBKHCHM": 1001,
+    "id": 1001,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1835448835,
     "PMPMKOPBJHA": "",
-    "OCHCPNIBIPF": 413563292,
+    "descTextMapHash": 413563292,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -38,11 +38,11 @@
       0
     ],
     "MOHEPOENHHN": "",
-    "PGKNKBKHCHM": 1002,
+    "id": 1002,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1183929331,
     "PMPMKOPBJHA": "",
-    "OCHCPNIBIPF": 595281076,
+    "descTextMapHash": 595281076,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -67,11 +67,11 @@
       0
     ],
     "MOHEPOENHHN": "",
-    "PGKNKBKHCHM": 1003,
+    "id": 1003,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 782437499,
     "PMPMKOPBJHA": "",
-    "OCHCPNIBIPF": 4283862172,
+    "descTextMapHash": 4283862172,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -99,11 +99,11 @@
       0
     ],
     "MOHEPOENHHN": "Ganyu",
-    "PGKNKBKHCHM": 1101,
+    "id": 1101,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3061219907,
     "PMPMKOPBJHA": "Ganyu",
-    "OCHCPNIBIPF": 2499957556,
+    "descTextMapHash": 2499957556,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -137,11 +137,11 @@
       0
     ],
     "MOHEPOENHHN": "Diona",
-    "PGKNKBKHCHM": 1102,
+    "id": 1102,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4240059515,
     "PMPMKOPBJHA": "Diona",
-    "OCHCPNIBIPF": 1041041068,
+    "descTextMapHash": 1041041068,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -172,11 +172,11 @@
       0
     ],
     "MOHEPOENHHN": "Kaeya",
-    "PGKNKBKHCHM": 1103,
+    "id": 1103,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2566603099,
     "PMPMKOPBJHA": "Kaeya",
-    "OCHCPNIBIPF": 1060447580,
+    "descTextMapHash": 1060447580,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -207,11 +207,11 @@
       0
     ],
     "MOHEPOENHHN": "Chongyun",
-    "PGKNKBKHCHM": 1104,
+    "id": 1104,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3902531243,
     "PMPMKOPBJHA": "Chongyun",
-    "OCHCPNIBIPF": 2158949916,
+    "descTextMapHash": 2158949916,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -242,11 +242,11 @@
       0
     ],
     "MOHEPOENHHN": "Kamisato Ayaka",
-    "PGKNKBKHCHM": 1105,
+    "id": 1105,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1424937891,
     "PMPMKOPBJHA": "Kamisato Ayaka",
-    "OCHCPNIBIPF": 3318216076,
+    "descTextMapHash": 3318216076,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -280,11 +280,11 @@
       0
     ],
     "MOHEPOENHHN": "Eula",
-    "PGKNKBKHCHM": 1106,
+    "id": 1106,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3601498363,
     "PMPMKOPBJHA": "Eula",
-    "OCHCPNIBIPF": 2777978188,
+    "descTextMapHash": 2777978188,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -315,11 +315,11 @@
       0
     ],
     "MOHEPOENHHN": "Shenhe",
-    "PGKNKBKHCHM": 1107,
+    "id": 1107,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2641232067,
     "PMPMKOPBJHA": "Shenhe",
-    "OCHCPNIBIPF": 921539788,
+    "descTextMapHash": 921539788,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -350,11 +350,11 @@
       0
     ],
     "MOHEPOENHHN": "Qiqi",
-    "PGKNKBKHCHM": 1108,
+    "id": 1108,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1607916123,
     "PMPMKOPBJHA": "Qiqi",
-    "OCHCPNIBIPF": 1882357156,
+    "descTextMapHash": 1882357156,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -385,11 +385,11 @@
       0
     ],
     "MOHEPOENHHN": "Barbara",
-    "PGKNKBKHCHM": 1201,
+    "id": 1201,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3065471483,
     "PMPMKOPBJHA": "Barbara",
-    "OCHCPNIBIPF": 4206654324,
+    "descTextMapHash": 4206654324,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -420,11 +420,11 @@
       0
     ],
     "MOHEPOENHHN": "Xingqiu",
-    "PGKNKBKHCHM": 1202,
+    "id": 1202,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1799449267,
     "PMPMKOPBJHA": "Xingqiu",
-    "OCHCPNIBIPF": 565498684,
+    "descTextMapHash": 565498684,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -455,11 +455,11 @@
       0
     ],
     "MOHEPOENHHN": "Mona",
-    "PGKNKBKHCHM": 1203,
+    "id": 1203,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1598282587,
     "PMPMKOPBJHA": "Mona",
-    "OCHCPNIBIPF": 2323159780,
+    "descTextMapHash": 2323159780,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -493,11 +493,11 @@
       0
     ],
     "MOHEPOENHHN": "Tartaglia",
-    "PGKNKBKHCHM": 1204,
+    "id": 1204,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2512334251,
     "PMPMKOPBJHA": "Tartaglia",
-    "OCHCPNIBIPF": 1581389756,
+    "descTextMapHash": 1581389756,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -537,11 +537,11 @@
       0
     ],
     "MOHEPOENHHN": "Sangonomiya Kokomi",
-    "PGKNKBKHCHM": 1205,
+    "id": 1205,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1717079779,
     "PMPMKOPBJHA": "Sangonomiya Kokomi",
-    "OCHCPNIBIPF": 3836348244,
+    "descTextMapHash": 3836348244,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -572,11 +572,11 @@
       0
     ],
     "MOHEPOENHHN": "Kamisato Ayato",
-    "PGKNKBKHCHM": 1206,
+    "id": 1206,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3354973283,
     "PMPMKOPBJHA": "Kamisato Ayato",
-    "OCHCPNIBIPF": 494780588,
+    "descTextMapHash": 494780588,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -607,11 +607,11 @@
       0
     ],
     "MOHEPOENHHN": "Candace",
-    "PGKNKBKHCHM": 1207,
+    "id": 1207,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 906884395,
     "PMPMKOPBJHA": "Candace",
-    "OCHCPNIBIPF": 4038991444,
+    "descTextMapHash": 4038991444,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -645,11 +645,11 @@
       0
     ],
     "MOHEPOENHHN": "Diluc",
-    "PGKNKBKHCHM": 1301,
+    "id": 1301,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 461926547,
     "PMPMKOPBJHA": "Diluc",
-    "OCHCPNIBIPF": 3463671060,
+    "descTextMapHash": 3463671060,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -680,11 +680,11 @@
       0
     ],
     "MOHEPOENHHN": "Xiangling",
-    "PGKNKBKHCHM": 1302,
+    "id": 1302,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 577501795,
     "PMPMKOPBJHA": "Xiangling",
-    "OCHCPNIBIPF": 266415180,
+    "descTextMapHash": 266415180,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -715,11 +715,11 @@
       0
     ],
     "MOHEPOENHHN": "Bennett",
-    "PGKNKBKHCHM": 1303,
+    "id": 1303,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4269319299,
     "PMPMKOPBJHA": "Bennett",
-    "OCHCPNIBIPF": 964759332,
+    "descTextMapHash": 964759332,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -750,11 +750,11 @@
       0
     ],
     "MOHEPOENHHN": "Amber",
-    "PGKNKBKHCHM": 1304,
+    "id": 1304,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4063691203,
     "PMPMKOPBJHA": "Amber",
-    "OCHCPNIBIPF": 1707481780,
+    "descTextMapHash": 1707481780,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -785,11 +785,11 @@
       0
     ],
     "MOHEPOENHHN": "Yoimiya",
-    "PGKNKBKHCHM": 1305,
+    "id": 1305,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2945402323,
     "PMPMKOPBJHA": "Yoimiya",
-    "OCHCPNIBIPF": 452048396,
+    "descTextMapHash": 452048396,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -820,11 +820,11 @@
       0
     ],
     "MOHEPOENHHN": "Klee",
-    "PGKNKBKHCHM": 1306,
+    "id": 1306,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 367075467,
     "PMPMKOPBJHA": "Klee",
-    "OCHCPNIBIPF": 1470907924,
+    "descTextMapHash": 1470907924,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -855,11 +855,11 @@
       0
     ],
     "MOHEPOENHHN": "Hu Tao",
-    "PGKNKBKHCHM": 1307,
+    "id": 1307,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 234776043,
     "PMPMKOPBJHA": "Hu Tao",
-    "OCHCPNIBIPF": 3529277060,
+    "descTextMapHash": 3529277060,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -890,11 +890,11 @@
       0
     ],
     "MOHEPOENHHN": "Yanfei",
-    "PGKNKBKHCHM": 1308,
+    "id": 1308,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1957258987,
     "PMPMKOPBJHA": "Yanfei",
-    "OCHCPNIBIPF": 788411684,
+    "descTextMapHash": 788411684,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -925,11 +925,11 @@
       0
     ],
     "MOHEPOENHHN": "Dehya",
-    "PGKNKBKHCHM": 1309,
+    "id": 1309,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1327787379,
     "PMPMKOPBJHA": "Dehya",
-    "OCHCPNIBIPF": 326947732,
+    "descTextMapHash": 326947732,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -966,11 +966,11 @@
       0
     ],
     "MOHEPOENHHN": "Fischl",
-    "PGKNKBKHCHM": 1401,
+    "id": 1401,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1567838547,
     "PMPMKOPBJHA": "Fischl",
-    "OCHCPNIBIPF": 1675953204,
+    "descTextMapHash": 1675953204,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1001,11 +1001,11 @@
       0
     ],
     "MOHEPOENHHN": "Razor",
-    "PGKNKBKHCHM": 1402,
+    "id": 1402,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3234104019,
     "PMPMKOPBJHA": "Razor",
-    "OCHCPNIBIPF": 3073607980,
+    "descTextMapHash": 3073607980,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1036,11 +1036,11 @@
       0
     ],
     "MOHEPOENHHN": "Keqing",
-    "PGKNKBKHCHM": 1403,
+    "id": 1403,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3693197331,
     "PMPMKOPBJHA": "Keqing",
-    "OCHCPNIBIPF": 1358433164,
+    "descTextMapHash": 1358433164,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1071,11 +1071,11 @@
       0
     ],
     "MOHEPOENHHN": "Cyno",
-    "PGKNKBKHCHM": 1404,
+    "id": 1404,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4290733483,
     "PMPMKOPBJHA": "Cyno",
-    "OCHCPNIBIPF": 2896881132,
+    "descTextMapHash": 2896881132,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1109,11 +1109,11 @@
       0
     ],
     "MOHEPOENHHN": "Beidou",
-    "PGKNKBKHCHM": 1405,
+    "id": 1405,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2592096643,
     "PMPMKOPBJHA": "Beidou",
-    "OCHCPNIBIPF": 1256671188,
+    "descTextMapHash": 1256671188,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1147,11 +1147,11 @@
       0
     ],
     "MOHEPOENHHN": "Kujou Sara",
-    "PGKNKBKHCHM": 1406,
+    "id": 1406,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3340042259,
     "PMPMKOPBJHA": "Kujou Sara",
-    "OCHCPNIBIPF": 4148306364,
+    "descTextMapHash": 4148306364,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1182,11 +1182,11 @@
       0
     ],
     "MOHEPOENHHN": "Raiden Shogun",
-    "PGKNKBKHCHM": 1407,
+    "id": 1407,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1320870459,
     "PMPMKOPBJHA": "Raiden Shogun",
-    "OCHCPNIBIPF": 1587500788,
+    "descTextMapHash": 1587500788,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1220,11 +1220,11 @@
       0
     ],
     "MOHEPOENHHN": "Yae Miko",
-    "PGKNKBKHCHM": 1408,
+    "id": 1408,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1567633499,
     "PMPMKOPBJHA": "Yae Miko",
-    "OCHCPNIBIPF": 2980167508,
+    "descTextMapHash": 2980167508,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1255,11 +1255,11 @@
       0
     ],
     "MOHEPOENHHN": "Lisa",
-    "PGKNKBKHCHM": 1409,
+    "id": 1409,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2313939235,
     "PMPMKOPBJHA": "Lisa",
-    "OCHCPNIBIPF": 3963199612,
+    "descTextMapHash": 3963199612,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -1290,11 +1290,11 @@
       0
     ],
     "MOHEPOENHHN": "Sucrose",
-    "PGKNKBKHCHM": 1501,
+    "id": 1501,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 892710019,
     "PMPMKOPBJHA": "Sucrose",
-    "OCHCPNIBIPF": 84456876,
+    "descTextMapHash": 84456876,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1325,11 +1325,11 @@
       0
     ],
     "MOHEPOENHHN": "Jean",
-    "PGKNKBKHCHM": 1502,
+    "id": 1502,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 905232227,
     "PMPMKOPBJHA": "Jean",
-    "OCHCPNIBIPF": 929989084,
+    "descTextMapHash": 929989084,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1360,11 +1360,11 @@
       0
     ],
     "MOHEPOENHHN": "Venti",
-    "PGKNKBKHCHM": 1503,
+    "id": 1503,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3104160795,
     "PMPMKOPBJHA": "Venti",
-    "OCHCPNIBIPF": 190476108,
+    "descTextMapHash": 190476108,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1395,11 +1395,11 @@
       0
     ],
     "MOHEPOENHHN": "Xiao",
-    "PGKNKBKHCHM": 1504,
+    "id": 1504,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2397854827,
     "PMPMKOPBJHA": "Xiao",
-    "OCHCPNIBIPF": 459221084,
+    "descTextMapHash": 459221084,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1430,11 +1430,11 @@
       0
     ],
     "MOHEPOENHHN": "Kaedehara Kazuha",
-    "PGKNKBKHCHM": 1505,
+    "id": 1505,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 516948163,
     "PMPMKOPBJHA": "Kaedehara Kazuha",
-    "OCHCPNIBIPF": 1274832260,
+    "descTextMapHash": 1274832260,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1468,11 +1468,11 @@
       0
     ],
     "MOHEPOENHHN": "Wanderer",
-    "PGKNKBKHCHM": 1506,
+    "id": 1506,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2783583035,
     "PMPMKOPBJHA": "{REALNAME[ID(1)|DELAYHANDLE(true)]}",
-    "OCHCPNIBIPF": 3861972756,
+    "descTextMapHash": 3861972756,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -1503,11 +1503,11 @@
       0
     ],
     "MOHEPOENHHN": "Ningguang",
-    "PGKNKBKHCHM": 1601,
+    "id": 1601,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1378814643,
     "PMPMKOPBJHA": "Ningguang",
-    "OCHCPNIBIPF": 3416520564,
+    "descTextMapHash": 3416520564,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -1538,11 +1538,11 @@
       0
     ],
     "MOHEPOENHHN": "Noelle",
-    "PGKNKBKHCHM": 1602,
+    "id": 1602,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1231525899,
     "PMPMKOPBJHA": "Noelle",
-    "OCHCPNIBIPF": 3318235020,
+    "descTextMapHash": 3318235020,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -1573,11 +1573,11 @@
       0
     ],
     "MOHEPOENHHN": "Zhongli",
-    "PGKNKBKHCHM": 1603,
+    "id": 1603,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 633110899,
     "PMPMKOPBJHA": "Zhongli",
-    "OCHCPNIBIPF": 2938578468,
+    "descTextMapHash": 2938578468,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -1611,11 +1611,11 @@
       0
     ],
     "MOHEPOENHHN": "Albedo",
-    "PGKNKBKHCHM": 1604,
+    "id": 1604,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3255813755,
     "PMPMKOPBJHA": "Albedo",
-    "OCHCPNIBIPF": 1709313708,
+    "descTextMapHash": 1709313708,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -1646,11 +1646,11 @@
       0
     ],
     "MOHEPOENHHN": "Arataki Itto",
-    "PGKNKBKHCHM": 1605,
+    "id": 1605,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 656098779,
     "PMPMKOPBJHA": "Arataki Itto",
-    "OCHCPNIBIPF": 262426212,
+    "descTextMapHash": 262426212,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -1681,11 +1681,11 @@
       0
     ],
     "MOHEPOENHHN": "Collei",
-    "PGKNKBKHCHM": 1701,
+    "id": 1701,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3932994363,
     "PMPMKOPBJHA": "Collei",
-    "OCHCPNIBIPF": 2616746100,
+    "descTextMapHash": 2616746100,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -1716,11 +1716,11 @@
       0
     ],
     "MOHEPOENHHN": "Tighnari",
-    "PGKNKBKHCHM": 1702,
+    "id": 1702,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4077966563,
     "PMPMKOPBJHA": "Tighnari",
-    "OCHCPNIBIPF": 3126925300,
+    "descTextMapHash": 3126925300,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -1751,11 +1751,11 @@
       0
     ],
     "MOHEPOENHHN": "Nahida",
-    "PGKNKBKHCHM": 1703,
+    "id": 1703,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1443055659,
     "PMPMKOPBJHA": "Nahida",
-    "OCHCPNIBIPF": 3615118404,
+    "descTextMapHash": 3615118404,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -1789,11 +1789,11 @@
       0
     ],
     "MOHEPOENHHN": "Yaoyao",
-    "PGKNKBKHCHM": 1704,
+    "id": 1704,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3262283691,
     "PMPMKOPBJHA": "Yaoyao",
-    "OCHCPNIBIPF": 3442910724,
+    "descTextMapHash": 3442910724,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -1824,11 +1824,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Cryo Cicin Mage",
-    "PGKNKBKHCHM": 2101,
+    "id": 2101,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 11546443,
     "PMPMKOPBJHA": "Fatui Cryo Cicin Mage",
-    "OCHCPNIBIPF": 2614360628,
+    "descTextMapHash": 2614360628,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -1859,11 +1859,11 @@
       0
     ],
     "MOHEPOENHHN": "Rhodeia of Loch",
-    "PGKNKBKHCHM": 2201,
+    "id": 2201,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 561889595,
     "PMPMKOPBJHA": "Rhodeia of Loch",
-    "OCHCPNIBIPF": 3926501404,
+    "descTextMapHash": 3926501404,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -1897,11 +1897,11 @@
       0
     ],
     "MOHEPOENHHN": "Mirror Maiden",
-    "PGKNKBKHCHM": 2202,
+    "id": 2202,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3261122731,
     "PMPMKOPBJHA": "Mirror Maiden",
-    "OCHCPNIBIPF": 4025654060,
+    "descTextMapHash": 4025654060,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -1932,11 +1932,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Pyro Agent",
-    "PGKNKBKHCHM": 2301,
+    "id": 2301,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 998289547,
     "PMPMKOPBJHA": "Fatui Pyro Agent",
-    "OCHCPNIBIPF": 2748479956,
+    "descTextMapHash": 2748479956,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -1970,11 +1970,11 @@
       0
     ],
     "MOHEPOENHHN": "Abyss Lector: Fathomless Flames",
-    "PGKNKBKHCHM": 2302,
+    "id": 2302,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2490239675,
     "PMPMKOPBJHA": "Abyss Lector: Fathomless Flames",
-    "OCHCPNIBIPF": 661642780,
+    "descTextMapHash": 661642780,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2008,11 +2008,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Hypostasis",
-    "PGKNKBKHCHM": 2401,
+    "id": 2401,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1221897107,
     "PMPMKOPBJHA": "Electro Hypostasis",
-    "OCHCPNIBIPF": 709429596,
+    "descTextMapHash": 709429596,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -2052,11 +2052,11 @@
       301
     ],
     "MOHEPOENHHN": "Maguu Kenki",
-    "PGKNKBKHCHM": 2501,
+    "id": 2501,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2182008747,
     "PMPMKOPBJHA": "Maguu Kenki",
-    "OCHCPNIBIPF": 5360668,
+    "descTextMapHash": 5360668,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -2090,11 +2090,11 @@
       0
     ],
     "MOHEPOENHHN": "Stonehide Lawachurl",
-    "PGKNKBKHCHM": 2601,
+    "id": 2601,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3546879603,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
-    "OCHCPNIBIPF": 2704545956,
+    "descTextMapHash": 2704545956,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -2128,11 +2128,11 @@
       0
     ],
     "MOHEPOENHHN": "Jadeplume Terrorshroom",
-    "PGKNKBKHCHM": 2701,
+    "id": 2701,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2872895355,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
-    "OCHCPNIBIPF": 1184696892,
+    "descTextMapHash": 1184696892,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -2166,11 +2166,11 @@
       0
     ],
     "MOHEPOENHHN": "Hilichurl Fighter",
-    "PGKNKBKHCHM": 3001,
+    "id": 3001,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 445643323,
     "PMPMKOPBJHA": "Hilichurl Fighter",
-    "OCHCPNIBIPF": 2795798740,
+    "descTextMapHash": 2795798740,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       300,
@@ -2201,11 +2201,11 @@
       0
     ],
     "MOHEPOENHHN": "Hilichurl Shooter",
-    "PGKNKBKHCHM": 3002,
+    "id": 3002,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 367329795,
     "PMPMKOPBJHA": "Hilichurl Shooter",
-    "OCHCPNIBIPF": 1224448316,
+    "descTextMapHash": 1224448316,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       300,
@@ -2236,11 +2236,11 @@
       0
     ],
     "MOHEPOENHHN": "Nobushi: Jintouban",
-    "PGKNKBKHCHM": 3003,
+    "id": 3003,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1680265715,
     "PMPMKOPBJHA": "Nobushi: Jintouban",
-    "OCHCPNIBIPF": 3469099612,
+    "descTextMapHash": 3469099612,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       300,
@@ -2280,11 +2280,11 @@
       0
     ],
     "MOHEPOENHHN": "Ice Shieldwall Mitachurl",
-    "PGKNKBKHCHM": 3101,
+    "id": 3101,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1433725811,
     "PMPMKOPBJHA": "Ice Shieldwall Mitachurl",
-    "OCHCPNIBIPF": 275880212,
+    "descTextMapHash": 275880212,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -2321,11 +2321,11 @@
       0
     ],
     "MOHEPOENHHN": "Cryo Hilichurl Shooter",
-    "PGKNKBKHCHM": 3102,
+    "id": 3102,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3039609067,
     "PMPMKOPBJHA": "Cryo Hilichurl Shooter",
-    "OCHCPNIBIPF": 51305612,
+    "descTextMapHash": 51305612,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -2356,11 +2356,11 @@
       0
     ],
     "MOHEPOENHHN": "Cryo Abyss Mage",
-    "PGKNKBKHCHM": 3103,
+    "id": 3103,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3967696763,
     "PMPMKOPBJHA": "Cryo Abyss Mage",
-    "OCHCPNIBIPF": 3076048284,
+    "descTextMapHash": 3076048284,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -2397,11 +2397,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Cryogunner Legionnaire",
-    "PGKNKBKHCHM": 3104,
+    "id": 3104,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2334186843,
     "PMPMKOPBJHA": "Fatui Skirmisher - Cryogunner Legionnaire",
-    "OCHCPNIBIPF": 2306870100,
+    "descTextMapHash": 2306870100,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -2438,11 +2438,11 @@
       0
     ],
     "MOHEPOENHHN": "Winged Cryoshroom",
-    "PGKNKBKHCHM": 3105,
+    "id": 3105,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2105793971,
     "PMPMKOPBJHA": "Winged Cryoshroom",
-    "OCHCPNIBIPF": 789999860,
+    "descTextMapHash": 789999860,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -2476,11 +2476,11 @@
       0
     ],
     "MOHEPOENHHN": "Hydro Abyss Mage",
-    "PGKNKBKHCHM": 3201,
+    "id": 3201,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 870058251,
     "PMPMKOPBJHA": "Hydro Abyss Mage",
-    "OCHCPNIBIPF": 2374900892,
+    "descTextMapHash": 2374900892,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -2517,11 +2517,11 @@
       0
     ],
     "MOHEPOENHHN": "Hydro Samachurl",
-    "PGKNKBKHCHM": 3202,
+    "id": 3202,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3820571899,
     "PMPMKOPBJHA": "Hydro Samachurl",
-    "OCHCPNIBIPF": 2137762796,
+    "descTextMapHash": 2137762796,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -2552,11 +2552,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Hydrogunner Legionnaire",
-    "PGKNKBKHCHM": 3203,
+    "id": 3203,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4041719843,
     "PMPMKOPBJHA": "Fatui Skirmisher - Hydrogunner Legionnaire",
-    "OCHCPNIBIPF": 742111012,
+    "descTextMapHash": 742111012,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -2593,11 +2593,11 @@
       0
     ],
     "MOHEPOENHHN": "Hydro Slime",
-    "PGKNKBKHCHM": 3204,
+    "id": 3204,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 127025523,
     "PMPMKOPBJHA": "Hydro Slime",
-    "OCHCPNIBIPF": 784156164,
+    "descTextMapHash": 784156164,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -2628,11 +2628,11 @@
       0
     ],
     "MOHEPOENHHN": "Grounded Hydroshroom",
-    "PGKNKBKHCHM": 3205,
+    "id": 3205,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2166199211,
     "PMPMKOPBJHA": "Grounded Hydroshroom",
-    "OCHCPNIBIPF": 39346228,
+    "descTextMapHash": 39346228,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -2666,11 +2666,11 @@
       0
     ],
     "MOHEPOENHHN": "Pyro Abyss Mage",
-    "PGKNKBKHCHM": 3301,
+    "id": 3301,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3125253571,
     "PMPMKOPBJHA": "Pyro Abyss Mage",
-    "OCHCPNIBIPF": 2487609396,
+    "descTextMapHash": 2487609396,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2707,11 +2707,11 @@
       0
     ],
     "MOHEPOENHHN": "Blazing Axe Mitachurl",
-    "PGKNKBKHCHM": 3302,
+    "id": 3302,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 475125899,
     "PMPMKOPBJHA": "Blazing Axe Mitachurl",
-    "OCHCPNIBIPF": 3659184828,
+    "descTextMapHash": 3659184828,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2745,11 +2745,11 @@
       0
     ],
     "MOHEPOENHHN": "Kairagi: Fiery Might",
-    "PGKNKBKHCHM": 3303,
+    "id": 3303,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1411664003,
     "PMPMKOPBJHA": "Kairagi: Fiery Might",
-    "OCHCPNIBIPF": 3677711564,
+    "descTextMapHash": 3677711564,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2792,11 +2792,11 @@
       0
     ],
     "MOHEPOENHHN": "Hilichurl Berserker",
-    "PGKNKBKHCHM": 3304,
+    "id": 3304,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1065255147,
     "PMPMKOPBJHA": "Hilichurl Berserker",
-    "OCHCPNIBIPF": 2133306036,
+    "descTextMapHash": 2133306036,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2827,11 +2827,11 @@
       0
     ],
     "MOHEPOENHHN": "Nobushi: Hitsukeban",
-    "PGKNKBKHCHM": 3305,
+    "id": 3305,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 814017555,
     "PMPMKOPBJHA": "Nobushi: Hitsukeban",
-    "OCHCPNIBIPF": 2360852396,
+    "descTextMapHash": 2360852396,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2871,11 +2871,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Pyroslinger Bracer",
-    "PGKNKBKHCHM": 3306,
+    "id": 3306,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3886475619,
     "PMPMKOPBJHA": "Fatui Skirmisher - Pyroslinger Bracer",
-    "OCHCPNIBIPF": 2314765836,
+    "descTextMapHash": 2314765836,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -2912,11 +2912,11 @@
       0
     ],
     "MOHEPOENHHN": "Kairagi: Dancing Thunder",
-    "PGKNKBKHCHM": 3401,
+    "id": 3401,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3279837811,
     "PMPMKOPBJHA": "Kairagi: Dancing Thunder",
-    "OCHCPNIBIPF": 1033941292,
+    "descTextMapHash": 1033941292,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -2959,11 +2959,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Hilichurl Shooter",
-    "PGKNKBKHCHM": 3402,
+    "id": 3402,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 882224371,
     "PMPMKOPBJHA": "Electro Hilichurl Shooter",
-    "OCHCPNIBIPF": 2806824588,
+    "descTextMapHash": 2806824588,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -2994,11 +2994,11 @@
       0
     ],
     "MOHEPOENHHN": "Crackling Axe Mitachurl",
-    "PGKNKBKHCHM": 3403,
+    "id": 3403,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 641631291,
     "PMPMKOPBJHA": "Crackling Axe Mitachurl",
-    "OCHCPNIBIPF": 3638696012,
+    "descTextMapHash": 3638696012,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -3032,11 +3032,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Abyss Mage",
-    "PGKNKBKHCHM": 3404,
+    "id": 3404,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 335177331,
     "PMPMKOPBJHA": "Electro Abyss Mage",
-    "OCHCPNIBIPF": 816220548,
+    "descTextMapHash": 816220548,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -3073,11 +3073,11 @@
       0
     ],
     "MOHEPOENHHN": "Nobushi: Kikouban",
-    "PGKNKBKHCHM": 3405,
+    "id": 3405,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1743065499,
     "PMPMKOPBJHA": "Nobushi: Kikouban",
-    "OCHCPNIBIPF": 2017171972,
+    "descTextMapHash": 2017171972,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -3117,11 +3117,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Slime",
-    "PGKNKBKHCHM": 3406,
+    "id": 3406,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2040362227,
     "PMPMKOPBJHA": "Electro Slime",
-    "OCHCPNIBIPF": 58248892,
+    "descTextMapHash": 58248892,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -3152,11 +3152,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Electrohammer Vanguard",
-    "PGKNKBKHCHM": 3407,
+    "id": 3407,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3130710027,
     "PMPMKOPBJHA": "Fatui Skirmisher - Electrohammer Vanguard",
-    "OCHCPNIBIPF": 685571044,
+    "descTextMapHash": 685571044,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -3193,11 +3193,11 @@
       0
     ],
     "MOHEPOENHHN": "Anemo Samachurl",
-    "PGKNKBKHCHM": 3501,
+    "id": 3501,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2607734283,
     "PMPMKOPBJHA": "Anemo Samachurl",
-    "OCHCPNIBIPF": 3875409276,
+    "descTextMapHash": 3875409276,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -3228,11 +3228,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Anemoboxer Vanguard",
-    "PGKNKBKHCHM": 3502,
+    "id": 3502,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2278728323,
     "PMPMKOPBJHA": "Fatui Skirmisher - Anemoboxer Vanguard",
-    "OCHCPNIBIPF": 2922065252,
+    "descTextMapHash": 2922065252,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -3269,11 +3269,11 @@
       0
     ],
     "MOHEPOENHHN": "Rock Shieldwall Mitachurl",
-    "PGKNKBKHCHM": 3601,
+    "id": 3601,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 614900323,
     "PMPMKOPBJHA": "Rock Shieldwall Mitachurl",
-    "OCHCPNIBIPF": 3154077452,
+    "descTextMapHash": 3154077452,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -3307,11 +3307,11 @@
       0
     ],
     "MOHEPOENHHN": "Rockfond Rifthound",
-    "PGKNKBKHCHM": 3602,
+    "id": 3602,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2694476819,
     "PMPMKOPBJHA": "Rockfond Rifthound",
-    "OCHCPNIBIPF": 3801387588,
+    "descTextMapHash": 3801387588,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -3345,11 +3345,11 @@
       0
     ],
     "MOHEPOENHHN": "Geo Samachurl",
-    "PGKNKBKHCHM": 3603,
+    "id": 3603,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2522224483,
     "PMPMKOPBJHA": "Geo Samachurl",
-    "OCHCPNIBIPF": 4054768380,
+    "descTextMapHash": 4054768380,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -3380,11 +3380,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Skirmisher - Geochanter Bracer",
-    "PGKNKBKHCHM": 3604,
+    "id": 3604,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1956167835,
     "PMPMKOPBJHA": "Fatui Skirmisher - Geochanter Bracer",
-    "OCHCPNIBIPF": 858777444,
+    "descTextMapHash": 858777444,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -3418,11 +3418,11 @@
       0
     ],
     "MOHEPOENHHN": "Grounded Geoshroom",
-    "PGKNKBKHCHM": 3605,
+    "id": 3605,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 663020331,
     "PMPMKOPBJHA": "Grounded Geoshroom",
-    "OCHCPNIBIPF": 1207141756,
+    "descTextMapHash": 1207141756,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -3456,11 +3456,11 @@
       0
     ],
     "MOHEPOENHHN": "Winged Dendroshroom",
-    "PGKNKBKHCHM": 3701,
+    "id": 3701,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 967730771,
     "PMPMKOPBJHA": "Winged Dendroshroom",
-    "OCHCPNIBIPF": 401815452,
+    "descTextMapHash": 401815452,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -3494,11 +3494,11 @@
       0
     ],
     "MOHEPOENHHN": "Wooden Shieldwall Mitachurl",
-    "PGKNKBKHCHM": 3702,
+    "id": 3702,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3872555291,
     "PMPMKOPBJHA": "Wooden Shieldwall Mitachurl",
-    "OCHCPNIBIPF": 1810011052,
+    "descTextMapHash": 1810011052,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -3535,11 +3535,11 @@
       0
     ],
     "MOHEPOENHHN": "Dendro Samachurl",
-    "PGKNKBKHCHM": 3703,
+    "id": 3703,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 588793475,
     "PMPMKOPBJHA": "Dendro Samachurl",
-    "OCHCPNIBIPF": 1830850092,
+    "descTextMapHash": 1830850092,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -3570,11 +3570,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Cryo Cicin Mage",
-    "PGKNKBKHCHM": 4101,
+    "id": 4101,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2141090979,
     "PMPMKOPBJHA": "Fatui Cryo Cicin Mage",
-    "OCHCPNIBIPF": 1386660388,
+    "descTextMapHash": 1386660388,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -3605,11 +3605,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Cryo Cicin Mage",
-    "PGKNKBKHCHM": 4102,
+    "id": 4102,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 114384371,
     "PMPMKOPBJHA": "Fatui Cryo Cicin Mage",
-    "OCHCPNIBIPF": 3739023436,
+    "descTextMapHash": 3739023436,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       301,
@@ -3640,11 +3640,11 @@
       0
     ],
     "MOHEPOENHHN": "Rhodeia of Loch",
-    "PGKNKBKHCHM": 4201,
+    "id": 4201,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 488561555,
     "PMPMKOPBJHA": "Rhodeia of Loch",
-    "OCHCPNIBIPF": 3510183884,
+    "descTextMapHash": 3510183884,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -3681,11 +3681,11 @@
       0
     ],
     "MOHEPOENHHN": "Rhodeia of Loch",
-    "PGKNKBKHCHM": 4202,
+    "id": 4202,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3118616139,
     "PMPMKOPBJHA": "Rhodeia of Loch",
-    "OCHCPNIBIPF": 2479264508,
+    "descTextMapHash": 2479264508,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -3722,11 +3722,11 @@
       0
     ],
     "MOHEPOENHHN": "Mirror Maiden",
-    "PGKNKBKHCHM": 4203,
+    "id": 4203,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2446199267,
     "PMPMKOPBJHA": "Mirror Maiden",
-    "OCHCPNIBIPF": 1612038260,
+    "descTextMapHash": 1612038260,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -3757,11 +3757,11 @@
       0
     ],
     "MOHEPOENHHN": "Mirror Maiden",
-    "PGKNKBKHCHM": 4204,
+    "id": 4204,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3501934123,
     "PMPMKOPBJHA": "Mirror Maiden",
-    "OCHCPNIBIPF": 3292051268,
+    "descTextMapHash": 3292051268,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -3792,11 +3792,11 @@
       0
     ],
     "MOHEPOENHHN": "Rhodeia of Loch",
-    "PGKNKBKHCHM": 4205,
+    "id": 4205,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3076705907,
     "PMPMKOPBJHA": "Rhodeia of Loch",
-    "OCHCPNIBIPF": 2555312980,
+    "descTextMapHash": 2555312980,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -3833,11 +3833,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Pyro Agent",
-    "PGKNKBKHCHM": 4301,
+    "id": 4301,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2276323035,
     "PMPMKOPBJHA": "Fatui Pyro Agent",
-    "OCHCPNIBIPF": 1267117292,
+    "descTextMapHash": 1267117292,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -3871,11 +3871,11 @@
       0
     ],
     "MOHEPOENHHN": "Fatui Pyro Agent",
-    "PGKNKBKHCHM": 4302,
+    "id": 4302,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 171916627,
     "PMPMKOPBJHA": "Fatui Pyro Agent",
-    "OCHCPNIBIPF": 3942429276,
+    "descTextMapHash": 3942429276,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -3909,11 +3909,11 @@
       0
     ],
     "MOHEPOENHHN": "Abyss Lector: Fathomless Flames",
-    "PGKNKBKHCHM": 4303,
+    "id": 4303,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 847295947,
     "PMPMKOPBJHA": "Abyss Lector: Fathomless Flames",
-    "OCHCPNIBIPF": 3367426484,
+    "descTextMapHash": 3367426484,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -3953,11 +3953,11 @@
       0
     ],
     "MOHEPOENHHN": "Abyss Lector: Fathomless Flames",
-    "PGKNKBKHCHM": 4304,
+    "id": 4304,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1391964659,
     "PMPMKOPBJHA": "Abyss Lector: Fathomless Flames",
-    "OCHCPNIBIPF": 3910266948,
+    "descTextMapHash": 3910266948,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,
@@ -3997,11 +3997,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Hypostasis",
-    "PGKNKBKHCHM": 4401,
+    "id": 4401,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2525613859,
     "PMPMKOPBJHA": "Electro Hypostasis",
-    "OCHCPNIBIPF": 4116227996,
+    "descTextMapHash": 4116227996,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -4044,11 +4044,11 @@
       0
     ],
     "MOHEPOENHHN": "Electro Hypostasis",
-    "PGKNKBKHCHM": 4402,
+    "id": 4402,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1808572571,
     "PMPMKOPBJHA": "Electro Hypostasis",
-    "OCHCPNIBIPF": 4273377308,
+    "descTextMapHash": 4273377308,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -4091,11 +4091,11 @@
       0
     ],
     "MOHEPOENHHN": "Pure Electro Hypostasis",
-    "PGKNKBKHCHM": 4403,
+    "id": 4403,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 568232091,
     "PMPMKOPBJHA": "Pure Electro Hypostasis",
-    "OCHCPNIBIPF": 3646987196,
+    "descTextMapHash": 3646987196,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       304,
@@ -4135,11 +4135,11 @@
       0
     ],
     "MOHEPOENHHN": "Maguu Kenki",
-    "PGKNKBKHCHM": 4501,
+    "id": 4501,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3562686859,
     "PMPMKOPBJHA": "Maguu Kenki",
-    "OCHCPNIBIPF": 1063013636,
+    "descTextMapHash": 1063013636,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -4173,11 +4173,11 @@
       0
     ],
     "MOHEPOENHHN": "Maguu Kenki",
-    "PGKNKBKHCHM": 4502,
+    "id": 4502,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3826554443,
     "PMPMKOPBJHA": "Maguu Kenki",
-    "OCHCPNIBIPF": 363477028,
+    "descTextMapHash": 363477028,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       307,
@@ -4211,11 +4211,11 @@
       0
     ],
     "MOHEPOENHHN": "Stonehide Lawachurl",
-    "PGKNKBKHCHM": 4601,
+    "id": 4601,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 429032083,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
-    "OCHCPNIBIPF": 3728976644,
+    "descTextMapHash": 3728976644,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -4246,11 +4246,11 @@
       0
     ],
     "MOHEPOENHHN": "Stonehide Lawachurl",
-    "PGKNKBKHCHM": 4602,
+    "id": 4602,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 264767627,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
-    "OCHCPNIBIPF": 526083292,
+    "descTextMapHash": 526083292,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -4284,11 +4284,11 @@
       0
     ],
     "MOHEPOENHHN": "Stonehide Lawachurl",
-    "PGKNKBKHCHM": 4603,
+    "id": 4603,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1991653875,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
-    "OCHCPNIBIPF": 2713030732,
+    "descTextMapHash": 2713030732,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -4322,11 +4322,11 @@
       0
     ],
     "MOHEPOENHHN": "Stonehide Lawachurl",
-    "PGKNKBKHCHM": 4604,
+    "id": 4604,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1003296507,
     "PMPMKOPBJHA": "Stonehide Lawachurl",
-    "OCHCPNIBIPF": 2550034068,
+    "descTextMapHash": 2550034068,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       305,
@@ -4360,11 +4360,11 @@
       0
     ],
     "MOHEPOENHHN": "Jadeplume Terrorshroom",
-    "PGKNKBKHCHM": 4701,
+    "id": 4701,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4164086723,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
-    "OCHCPNIBIPF": 1459990892,
+    "descTextMapHash": 1459990892,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -4398,11 +4398,11 @@
       0
     ],
     "MOHEPOENHHN": "Jadeplume Terrorshroom",
-    "PGKNKBKHCHM": 4702,
+    "id": 4702,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 2465712315,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
-    "OCHCPNIBIPF": 3541157252,
+    "descTextMapHash": 3541157252,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -4436,11 +4436,11 @@
       0
     ],
     "MOHEPOENHHN": "Jadeplume Terrorshroom",
-    "PGKNKBKHCHM": 4703,
+    "id": 4703,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1505955163,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
-    "OCHCPNIBIPF": 1592381580,
+    "descTextMapHash": 1592381580,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -4474,11 +4474,11 @@
       0
     ],
     "MOHEPOENHHN": "Jadeplume Terrorshroom",
-    "PGKNKBKHCHM": 4704,
+    "id": 4704,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 1132028243,
     "PMPMKOPBJHA": "Jadeplume Terrorshroom",
-    "OCHCPNIBIPF": 2232040804,
+    "descTextMapHash": 2232040804,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       306,
@@ -4512,11 +4512,11 @@
       0
     ],
     "MOHEPOENHHN": "Hydro Abyss Mage",
-    "PGKNKBKHCHM": 5201,
+    "id": 5201,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 4001756827,
     "PMPMKOPBJHA": "Hydro Abyss Mage",
-    "OCHCPNIBIPF": 1263908940,
+    "descTextMapHash": 1263908940,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       302,
@@ -4556,11 +4556,11 @@
       0
     ],
     "MOHEPOENHHN": "Pyro Abyss Mage",
-    "PGKNKBKHCHM": 5301,
+    "id": 5301,
     "CLFKLBMDBFC": 1,
     "nameTextMapHash": 3741057515,
     "PMPMKOPBJHA": "Pyro Abyss Mage",
-    "OCHCPNIBIPF": 147560908,
+    "descTextMapHash": 147560908,
     "AJGMCFNDKEG": "",
     "EOMELPEKCAB": [
       303,

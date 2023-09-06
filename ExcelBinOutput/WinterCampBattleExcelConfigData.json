@@ -1,49 +1,49 @@
 [
   {
     "id": 1,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "GHIHIPPKLMN": 20090201,
     "GJPEIMLBDHA": 3029201
   },
   {
     "id": 2,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "GHIHIPPKLMN": 20090202,
     "GJPEIMLBDHA": 3029202
   },
   {
     "id": 3,
-    "LOGBHLAFFJA": 4,
+    "openDay": 4,
     "GHIHIPPKLMN": 20090203,
     "GJPEIMLBDHA": 3029203
   },
   {
     "id": 4,
-    "LOGBHLAFFJA": 4,
+    "openDay": 4,
     "GHIHIPPKLMN": 20090204,
     "GJPEIMLBDHA": 3029204
   },
   {
     "id": 5,
-    "LOGBHLAFFJA": 7,
+    "openDay": 7,
     "GHIHIPPKLMN": 20090205,
     "GJPEIMLBDHA": 3029205
   },
   {
     "id": 6,
-    "LOGBHLAFFJA": 7,
+    "openDay": 7,
     "GHIHIPPKLMN": 20090206,
     "GJPEIMLBDHA": 3029206
   },
   {
     "id": 7,
-    "LOGBHLAFFJA": 10,
+    "openDay": 10,
     "GHIHIPPKLMN": 20090207,
     "GJPEIMLBDHA": 3029207
   },
   {
     "id": 8,
-    "LOGBHLAFFJA": 10,
+    "openDay": 10,
     "GHIHIPPKLMN": 20090208,
     "GJPEIMLBDHA": 3029208
   }

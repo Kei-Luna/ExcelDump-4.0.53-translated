@@ -1,12 +1,12 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "DPLDFJBNDGH": true,
     "IGNGNHFMEGC": false,
     "OHJFAMKNNDF": 1,
     "IGMBBBEBPCB": 2898754250,
     "JBLLACEJNIA": "Element",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 301
       },
@@ -34,13 +34,13 @@
     "HLINPNOBDMF": ""
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "DPLDFJBNDGH": true,
     "IGNGNHFMEGC": false,
     "OHJFAMKNNDF": 1,
     "IGMBBBEBPCB": 4130406122,
     "JBLLACEJNIA": "Weapon",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 201
       },
@@ -62,13 +62,13 @@
     "HLINPNOBDMF": "Other Weapons"
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "DPLDFJBNDGH": true,
     "IGNGNHFMEGC": false,
     "OHJFAMKNNDF": 1,
     "IGMBBBEBPCB": 4139357962,
     "JBLLACEJNIA": "Affiliation",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 401
       },
@@ -96,13 +96,13 @@
     "HLINPNOBDMF": "Other Affiliation(s)"
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "DPLDFJBNDGH": false,
     "IGNGNHFMEGC": true,
     "OHJFAMKNNDF": 2,
     "IGMBBBEBPCB": 2068225106,
     "JBLLACEJNIA": "Type",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 2
       },
@@ -118,13 +118,13 @@
     "HLINPNOBDMF": ""
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "DPLDFJBNDGH": false,
     "IGNGNHFMEGC": true,
     "OHJFAMKNNDF": 1,
     "IGMBBBEBPCB": 2435174714,
     "JBLLACEJNIA": "Tag",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 3
       },
@@ -158,13 +158,13 @@
     "HLINPNOBDMF": "Other Tags"
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "DPLDFJBNDGH": false,
     "IGNGNHFMEGC": true,
     "OHJFAMKNNDF": 3,
     "IGMBBBEBPCB": 3654412338,
     "JBLLACEJNIA": "Cost",
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 0
       },

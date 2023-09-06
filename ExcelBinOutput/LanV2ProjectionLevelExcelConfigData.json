@@ -1,9 +1,9 @@
 [
   {
-    "MGGPNIDOBGF": 1,
-    "AODPMHOCMJN": 1,
-    "COAEEEJINMI": 12010601,
-    "GLIALHMPJCP": 1270069152,
+    "levelId": 1,
+    "stageId": 1,
+    "watcherId": 12010601,
+    "levelNameTextMapHash": 1270069152,
     "JDNCJPOGDKN": "Censer",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
@@ -44,7 +44,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_03_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_03_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_25_Vo",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [
@@ -101,7 +101,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -113,7 +113,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -127,10 +127,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 2,
-    "AODPMHOCMJN": 1,
-    "COAEEEJINMI": 12010602,
-    "GLIALHMPJCP": 1399174272,
+    "levelId": 2,
+    "stageId": 1,
+    "watcherId": 12010602,
+    "levelNameTextMapHash": 1399174272,
     "JDNCJPOGDKN": "Ship",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
@@ -171,7 +171,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_02_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_02_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_21_Vo",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [
@@ -228,7 +228,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -240,7 +240,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -254,10 +254,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 3,
-    "AODPMHOCMJN": 1,
-    "COAEEEJINMI": 12010603,
-    "GLIALHMPJCP": 1627081888,
+    "levelId": 3,
+    "stageId": 1,
+    "watcherId": 12010603,
+    "levelNameTextMapHash": 1627081888,
     "JDNCJPOGDKN": "Kite",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
@@ -298,7 +298,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_01_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_01_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_20_Vo",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [
@@ -355,7 +355,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -367,7 +367,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -381,10 +381,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 4,
-    "AODPMHOCMJN": 2,
-    "COAEEEJINMI": 12010604,
-    "GLIALHMPJCP": 2254330752,
+    "levelId": 4,
+    "stageId": 2,
+    "watcherId": 12010604,
+    "levelNameTextMapHash": 2254330752,
     "JDNCJPOGDKN": "Mountain",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
@@ -432,7 +432,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_17_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_17_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_27_Vo",
         "EBBNADKIPCJ": 11,
         "MIMACDHHCIM": [
@@ -489,7 +489,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_18_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_18_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_26_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -556,7 +556,7 @@
         "EKLIEAALGGI": 0.1
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -570,10 +570,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 5,
-    "AODPMHOCMJN": 2,
-    "COAEEEJINMI": 12010605,
-    "GLIALHMPJCP": 532233104,
+    "levelId": 5,
+    "stageId": 2,
+    "watcherId": 12010605,
+    "levelNameTextMapHash": 532233104,
     "JDNCJPOGDKN": "Scales",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
@@ -621,7 +621,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_16_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_16_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_29_Vo",
         "EBBNADKIPCJ": 11,
         "MIMACDHHCIM": [
@@ -678,7 +678,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_15_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_15_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_28_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -738,7 +738,7 @@
         "EKLIEAALGGI": 10
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -752,10 +752,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 6,
-    "AODPMHOCMJN": 2,
-    "COAEEEJINMI": 12010606,
-    "GLIALHMPJCP": 1775689848,
+    "levelId": 6,
+    "stageId": 2,
+    "watcherId": 12010606,
+    "levelNameTextMapHash": 1775689848,
     "JDNCJPOGDKN": "Mora",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06s",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06",
@@ -803,7 +803,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_14_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_14_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_30_Vo",
         "EBBNADKIPCJ": 11,
         "MIMACDHHCIM": [
@@ -860,7 +860,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_13_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_13_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_31_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -917,7 +917,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -931,10 +931,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 7,
-    "AODPMHOCMJN": 3,
-    "COAEEEJINMI": 12010608,
-    "GLIALHMPJCP": 3747915856,
+    "levelId": 7,
+    "stageId": 3,
+    "watcherId": 12010608,
+    "levelNameTextMapHash": 3747915856,
     "JDNCJPOGDKN": "Deer",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
@@ -1011,7 +1011,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_10_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_10_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_34_Vo",
         "EBBNADKIPCJ": 1,
         "MIMACDHHCIM": [
@@ -1068,7 +1068,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_12_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_12_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_35_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -1125,7 +1125,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -1139,10 +1139,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 8,
-    "AODPMHOCMJN": 3,
-    "COAEEEJINMI": 12010607,
-    "GLIALHMPJCP": 1322719296,
+    "levelId": 8,
+    "stageId": 3,
+    "watcherId": 12010607,
+    "levelNameTextMapHash": 1322719296,
     "JDNCJPOGDKN": "Blooming Flower",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
@@ -1219,7 +1219,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_07_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_07_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_33_Vo",
         "EBBNADKIPCJ": 1,
         "MIMACDHHCIM": [
@@ -1276,7 +1276,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_08_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_08_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_32_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -1333,7 +1333,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "",
+        "prefabPath": "",
         "JGEOLGAKFCE": "",
         "EBBNADKIPCJ": 0,
         "MIMACDHHCIM": [],
@@ -1347,10 +1347,10 @@
     ]
   },
   {
-    "MGGPNIDOBGF": 9,
-    "AODPMHOCMJN": 3,
-    "COAEEEJINMI": 12010609,
-    "GLIALHMPJCP": 4258426304,
+    "levelId": 9,
+    "stageId": 3,
+    "watcherId": 12010609,
+    "levelNameTextMapHash": 4258426304,
     "JDNCJPOGDKN": "Crane",
     "JCFNNBIOPHC": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
     "GAEHHDMDKIL": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
@@ -1427,7 +1427,7 @@
     ],
     "AJNJABLDFJM": [
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_04_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_04_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_36_Vo",
         "EBBNADKIPCJ": 1,
         "MIMACDHHCIM": [
@@ -1484,7 +1484,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_05_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_05_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_37_Vo",
         "EBBNADKIPCJ": 2,
         "MIMACDHHCIM": [
@@ -1541,7 +1541,7 @@
         "EKLIEAALGGI": 0
       },
       {
-        "HADEKKDJOMM": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_06_Vo",
+        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_06_Vo",
         "JGEOLGAKFCE": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_38_Vo",
         "EBBNADKIPCJ": 3,
         "MIMACDHHCIM": [

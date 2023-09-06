@@ -1,22 +1,22 @@
 [
   {
-    "PGKNKBKHCHM": 1001,
-    "HHCCDHCMELE": 5143001,
+    "id": 1001,
+    "scheduleId": 5143001,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60111,
-        "IHJMCPNGOAL": 1000
+        "id": 60111,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60112,
-        "IHJMCPNGOAL": 2000
+        "id": 60112,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60113,
-        "IHJMCPNGOAL": 3000
+        "id": 60113,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -45,30 +45,30 @@
     ],
     "nameTextMapHash": 3180630703,
     "PMPMKOPBJHA": "Desperate Struggle",
-    "LJOGEEFJNGO": 626027337,
+    "tabNameTextMapHash": 626027337,
     "NGNALIMPALP": "I",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Enemy_Rockdog",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Enemy_BruteRockShield",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_Rockdog"
   },
   {
-    "PGKNKBKHCHM": 1002,
-    "HHCCDHCMELE": 5143001,
+    "id": 1002,
+    "scheduleId": 5143001,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60121,
-        "IHJMCPNGOAL": 1000
+        "id": 60121,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60122,
-        "IHJMCPNGOAL": 2000
+        "id": 60122,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60123,
-        "IHJMCPNGOAL": 3000
+        "id": 60123,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -97,30 +97,30 @@
     ],
     "nameTextMapHash": 1010912983,
     "PMPMKOPBJHA": "Cleaving Frost",
-    "LJOGEEFJNGO": 4108564289,
+    "tabNameTextMapHash": 4108564289,
     "NGNALIMPALP": "II",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Enemy_RoninEle",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Monster_MageIce",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_RoninFire"
   },
   {
-    "PGKNKBKHCHM": 1003,
-    "HHCCDHCMELE": 5143001,
+    "id": 1003,
+    "scheduleId": 5143001,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60131,
-        "IHJMCPNGOAL": 1000
+        "id": 60131,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60132,
-        "IHJMCPNGOAL": 2000
+        "id": 60132,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60133,
-        "IHJMCPNGOAL": 3000
+        "id": 60133,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -149,30 +149,30 @@
     ],
     "nameTextMapHash": 3226593511,
     "PMPMKOPBJHA": "Tenacity's Flood",
-    "LJOGEEFJNGO": 3792035225,
+    "tabNameTextMapHash": 3792035225,
     "NGNALIMPALP": "III",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Monster_Fatuus",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatwater",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice"
   },
   {
-    "PGKNKBKHCHM": 1004,
-    "HHCCDHCMELE": 5143001,
+    "id": 1004,
+    "scheduleId": 5143001,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60101,
-        "IHJMCPNGOAL": 1000
+        "id": 60101,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60102,
-        "IHJMCPNGOAL": 2000
+        "id": 60102,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60103,
-        "IHJMCPNGOAL": 3000
+        "id": 60103,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -201,30 +201,30 @@
     ],
     "nameTextMapHash": 1450847159,
     "PMPMKOPBJHA": "Shroom Frontline",
-    "LJOGEEFJNGO": 2107307249,
+    "tabNameTextMapHash": 2107307249,
     "NGNALIMPALP": "IV",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Enemy_UnDeltaRock",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Enemy_UnDeltaIce",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
   },
   {
-    "PGKNKBKHCHM": 1005,
-    "HHCCDHCMELE": 5143001,
+    "id": 1005,
+    "scheduleId": 5143001,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60141,
-        "IHJMCPNGOAL": 1000
+        "id": 60141,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60142,
-        "IHJMCPNGOAL": 2000
+        "id": 60142,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60143,
-        "IHJMCPNGOAL": 3000
+        "id": 60143,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -253,30 +253,30 @@
     ],
     "nameTextMapHash": 3072250543,
     "PMPMKOPBJHA": "Lightning's Stride",
-    "LJOGEEFJNGO": 3108714505,
+    "tabNameTextMapHash": 3108714505,
     "NGNALIMPALP": "V",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
     "PHGOFLLMALF": "",
     "IPIFLPJOGME": ""
   },
   {
-    "PGKNKBKHCHM": 1011,
-    "HHCCDHCMELE": 5143002,
+    "id": 1011,
+    "scheduleId": 5143002,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60401,
-        "IHJMCPNGOAL": 1000
+        "id": 60401,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60402,
-        "IHJMCPNGOAL": 2000
+        "id": 60402,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60403,
-        "IHJMCPNGOAL": 3000
+        "id": 60403,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -305,30 +305,30 @@
     ],
     "nameTextMapHash": 4211562407,
     "PMPMKOPBJHA": "Harmonic Tactics",
-    "LJOGEEFJNGO": 3985256153,
+    "tabNameTextMapHash": 3985256153,
     "NGNALIMPALP": "I",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Enemy_ShamanWater",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Enemy_BruteAxe",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
   },
   {
-    "PGKNKBKHCHM": 1012,
-    "HHCCDHCMELE": 5143002,
+    "id": 1012,
+    "scheduleId": 5143002,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60421,
-        "IHJMCPNGOAL": 1000
+        "id": 60421,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60422,
-        "IHJMCPNGOAL": 2000
+        "id": 60422,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60423,
-        "IHJMCPNGOAL": 3000
+        "id": 60423,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -357,30 +357,30 @@
     ],
     "nameTextMapHash": 3364043647,
     "PMPMKOPBJHA": "Dauntless Pursuit",
-    "LJOGEEFJNGO": 3423732225,
+    "tabNameTextMapHash": 3423732225,
     "NGNALIMPALP": "II",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Monster_Fatuus"
   },
   {
-    "PGKNKBKHCHM": 1013,
-    "HHCCDHCMELE": 5143002,
+    "id": 1013,
+    "scheduleId": 5143002,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60411,
-        "IHJMCPNGOAL": 1000
+        "id": 60411,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60412,
-        "IHJMCPNGOAL": 2000
+        "id": 60412,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60413,
-        "IHJMCPNGOAL": 3000
+        "id": 60413,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -409,30 +409,30 @@
     ],
     "nameTextMapHash": 3694528999,
     "PMPMKOPBJHA": "Don't Push Your Luck",
-    "LJOGEEFJNGO": 1440745585,
+    "tabNameTextMapHash": 1440745585,
     "NGNALIMPALP": "III",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Enemy_BruteEleAxe",
     "PHGOFLLMALF": "UI_Gcg_CardFace_Char_Enemy_BruteIceShield",
     "IPIFLPJOGME": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
   },
   {
-    "PGKNKBKHCHM": 1014,
-    "HHCCDHCMELE": 5143002,
+    "id": 1014,
+    "scheduleId": 5143002,
     "PAIBJFGOPGF": [
       {
         "type": 1,
-        "PGKNKBKHCHM": 60431,
-        "IHJMCPNGOAL": 1000
+        "id": 60431,
+        "baseScore": 1000
       },
       {
         "type": 2,
-        "PGKNKBKHCHM": 60432,
-        "IHJMCPNGOAL": 2000
+        "id": 60432,
+        "baseScore": 2000
       },
       {
         "type": 3,
-        "PGKNKBKHCHM": 60433,
-        "IHJMCPNGOAL": 3000
+        "id": 60433,
+        "baseScore": 3000
       }
     ],
     "LPHNCGPHHGE": [
@@ -461,7 +461,7 @@
     ],
     "nameTextMapHash": 2073707223,
     "PMPMKOPBJHA": "Buttressed Combined Assault",
-    "LJOGEEFJNGO": 2091104881,
+    "tabNameTextMapHash": 2091104881,
     "NGNALIMPALP": "IV",
     "MBAPHFHJAKI": "UI_Gcg_CardFace_Char_Monster_Oceanid",
     "PHGOFLLMALF": "",

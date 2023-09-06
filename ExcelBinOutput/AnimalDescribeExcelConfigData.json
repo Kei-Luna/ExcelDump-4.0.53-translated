@@ -1,1920 +1,1920 @@
 [
   {
-    "PGKNKBKHCHM": 28010101,
+    "id": 28010101,
     "nameTextMapHash": 657550247,
     "PMPMKOPBJHA": "Golden Crab",
     "icon": "UI_AnimalIcon_Crab_01"
   },
   {
-    "PGKNKBKHCHM": 28010102,
+    "id": 28010102,
     "nameTextMapHash": 588161183,
     "PMPMKOPBJHA": "Sun Crab",
     "icon": "UI_AnimalIcon_Crab_02"
   },
   {
-    "PGKNKBKHCHM": 28010103,
+    "id": 28010103,
     "nameTextMapHash": 738372735,
     "PMPMKOPBJHA": "Ocean Crab",
     "icon": "UI_AnimalIcon_Crab_03"
   },
   {
-    "PGKNKBKHCHM": 28010104,
+    "id": 28010104,
     "nameTextMapHash": 2307797343,
     "PMPMKOPBJHA": "General Crab",
     "icon": "UI_AnimalIcon_Crab_04"
   },
   {
-    "PGKNKBKHCHM": 28010105,
+    "id": 28010105,
     "nameTextMapHash": 366115847,
     "PMPMKOPBJHA": "Pale Red Crab",
     "icon": "UI_AnimalIcon_Crab_05"
   },
   {
-    "PGKNKBKHCHM": 28010106,
+    "id": 28010106,
     "nameTextMapHash": 734074951,
     "PMPMKOPBJHA": "Crab",
     "icon": "UI_AnimalIcon_Crab_04"
   },
   {
-    "PGKNKBKHCHM": 28010201,
+    "id": 28010201,
     "nameTextMapHash": 3798373791,
     "PMPMKOPBJHA": "Blue Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_01"
   },
   {
-    "PGKNKBKHCHM": 28010202,
+    "id": 28010202,
     "nameTextMapHash": 44631351,
     "PMPMKOPBJHA": "Red Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_02"
   },
   {
-    "PGKNKBKHCHM": 28010203,
+    "id": 28010203,
     "nameTextMapHash": 2511175807,
     "PMPMKOPBJHA": "Green Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_03"
   },
   {
-    "PGKNKBKHCHM": 28010204,
+    "id": 28010204,
     "nameTextMapHash": 4195354079,
     "PMPMKOPBJHA": "Sunset Loach",
     "icon": "UI_AnimalIcon_Salamander_01"
   },
   {
-    "PGKNKBKHCHM": 28010205,
+    "id": 28010205,
     "nameTextMapHash": 746457295,
     "PMPMKOPBJHA": "Golden Loach",
     "icon": "UI_AnimalIcon_Salamander_02"
   },
   {
-    "PGKNKBKHCHM": 28010206,
+    "id": 28010206,
     "nameTextMapHash": 1661022343,
     "PMPMKOPBJHA": "Sunny Loach",
     "icon": "UI_AnimalIcon_Salamander_03"
   },
   {
-    "PGKNKBKHCHM": 28010207,
+    "id": 28010207,
     "nameTextMapHash": 2176025831,
     "PMPMKOPBJHA": "Marrow Lizard",
     "icon": "UI_AnimalIcon_Lizard_04"
   },
   {
-    "PGKNKBKHCHM": 28010208,
+    "id": 28010208,
     "nameTextMapHash": 1398547023,
     "PMPMKOPBJHA": "Red Tailed Lizard",
     "icon": "UI_AnimalIcon_Lizard_05"
   },
   {
-    "PGKNKBKHCHM": 28010301,
+    "id": 28010301,
     "nameTextMapHash": 2185772247,
     "PMPMKOPBJHA": "Frog",
     "icon": "UI_AnimalIcon_Frog_01"
   },
   {
-    "PGKNKBKHCHM": 28010302,
+    "id": 28010302,
     "nameTextMapHash": 1736637583,
     "PMPMKOPBJHA": "Mud Frog",
     "icon": "UI_AnimalIcon_Frog_02"
   },
   {
-    "PGKNKBKHCHM": 28010303,
+    "id": 28010303,
     "nameTextMapHash": 717127399,
     "PMPMKOPBJHA": "Blue Frog",
     "icon": "UI_AnimalIcon_Frog_03"
   },
   {
-    "PGKNKBKHCHM": 28010304,
+    "id": 28010304,
     "nameTextMapHash": 2626152479,
     "PMPMKOPBJHA": "Forest Tree Frog",
     "icon": "UI_AnimalIcon_Frog_04"
   },
   {
-    "PGKNKBKHCHM": 28010401,
+    "id": 28010401,
     "nameTextMapHash": 3408249759,
     "PMPMKOPBJHA": "Adorned Unagi",
     "icon": "UI_AnimalIcon_Eel_01"
   },
   {
-    "PGKNKBKHCHM": 28010402,
+    "id": 28010402,
     "nameTextMapHash": 3185785703,
     "PMPMKOPBJHA": "Deep Sea Unagi",
     "icon": "UI_AnimalIcon_Eel_02"
   },
   {
-    "PGKNKBKHCHM": 28010403,
+    "id": 28010403,
     "nameTextMapHash": 1679082111,
     "PMPMKOPBJHA": "Red-Finned Unagi",
     "icon": "UI_AnimalIcon_Eel_03"
   },
   {
-    "PGKNKBKHCHM": 28010404,
+    "id": 28010404,
     "nameTextMapHash": 615004095,
     "PMPMKOPBJHA": "Quicksand Eel",
     "icon": "UI_AnimalIcon_Eel_04"
   },
   {
-    "PGKNKBKHCHM": 28020101,
+    "id": 28020101,
     "nameTextMapHash": 3933711351,
     "PMPMKOPBJHA": "Snow Fox",
     "icon": "UI_AnimalIcon_Fox_01"
   },
   {
-    "PGKNKBKHCHM": 28020102,
+    "id": 28020102,
     "nameTextMapHash": 3867970319,
     "PMPMKOPBJHA": "Crimson Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28020103,
+    "id": 28020103,
     "nameTextMapHash": 1455557311,
     "PMPMKOPBJHA": "Gifting Snow Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28020104,
+    "id": 28020104,
     "nameTextMapHash": 2821655935,
     "PMPMKOPBJHA": "Super-Gifting Snow Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28020105,
+    "id": 28020105,
     "nameTextMapHash": 2279406903,
     "PMPMKOPBJHA": "Snow Fox",
     "icon": "UI_AnimalIcon_Fox_01"
   },
   {
-    "PGKNKBKHCHM": 28020106,
+    "id": 28020106,
     "nameTextMapHash": 881597999,
     "PMPMKOPBJHA": "Crimson Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28020108,
+    "id": 28020108,
     "nameTextMapHash": 4227544135,
     "PMPMKOPBJHA": "Desert Fox",
     "icon": "UI_AnimalIcon_Fox_03"
   },
   {
-    "PGKNKBKHCHM": 28020109,
+    "id": 28020109,
     "nameTextMapHash": 1404608903,
     "PMPMKOPBJHA": "Crimson Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28020110,
+    "id": 28020110,
     "nameTextMapHash": 3628398319,
     "PMPMKOPBJHA": "Desert Fox",
     "icon": "UI_AnimalIcon_Fox_03"
   },
   {
-    "PGKNKBKHCHM": 28020201,
+    "id": 28020201,
     "nameTextMapHash": 1182534439,
     "PMPMKOPBJHA": "Squirrel",
     "icon": "UI_AnimalIcon_Squirrel_01"
   },
   {
-    "PGKNKBKHCHM": 28020202,
+    "id": 28020202,
     "nameTextMapHash": 2065076943,
     "PMPMKOPBJHA": "Squirrel",
     "icon": "UI_AnimalIcon_Squirrel_01"
   },
   {
-    "PGKNKBKHCHM": 28020301,
+    "id": 28020301,
     "nameTextMapHash": 973656463,
     "PMPMKOPBJHA": "Forest Boar",
     "icon": "UI_AnimalIcon_Boar_01"
   },
   {
-    "PGKNKBKHCHM": 28020302,
+    "id": 28020302,
     "nameTextMapHash": 2815383775,
     "PMPMKOPBJHA": "Forest Piglet",
     "icon": "UI_AnimalIcon_Boar_02"
   },
   {
-    "PGKNKBKHCHM": 28020303,
+    "id": 28020303,
     "nameTextMapHash": 697564359,
     "PMPMKOPBJHA": "Snowboar",
     "icon": "UI_AnimalIcon_Boar_04"
   },
   {
-    "PGKNKBKHCHM": 28020304,
+    "id": 28020304,
     "nameTextMapHash": 855902935,
     "PMPMKOPBJHA": "Great Snowboar King",
     "icon": "UI_AnimalIcon_Boar_03"
   },
   {
-    "PGKNKBKHCHM": 28020305,
+    "id": 28020305,
     "nameTextMapHash": 958700775,
     "PMPMKOPBJHA": "Frozen Snowboar",
     "icon": "UI_AnimalIcon_Boar_04"
   },
   {
-    "PGKNKBKHCHM": 28020306,
+    "id": 28020306,
     "nameTextMapHash": 2971259863,
     "PMPMKOPBJHA": "Snowboar",
     "icon": "UI_AnimalIcon_Boar_04"
   },
   {
-    "PGKNKBKHCHM": 28020307,
+    "id": 28020307,
     "nameTextMapHash": 3005066679,
     "PMPMKOPBJHA": "Forest Boar",
     "icon": "UI_AnimalIcon_Boar_01"
   },
   {
-    "PGKNKBKHCHM": 28020308,
+    "id": 28020308,
     "nameTextMapHash": 3965504031,
     "PMPMKOPBJHA": "Frozen Snowboar",
     "icon": "UI_AnimalIcon_Boar_04"
   },
   {
-    "PGKNKBKHCHM": 28020309,
+    "id": 28020309,
     "nameTextMapHash": 4014403055,
     "PMPMKOPBJHA": "Great Snowboar King",
     "icon": "UI_AnimalIcon_Boar_03"
   },
   {
-    "PGKNKBKHCHM": 28020313,
+    "id": 28020313,
     "nameTextMapHash": 101541055,
     "PMPMKOPBJHA": "Shroomboar",
     "icon": "UI_AnimalIcon_Boar_Grass"
   },
   {
-    "PGKNKBKHCHM": 28020314,
+    "id": 28020314,
     "nameTextMapHash": 4293097687,
     "PMPMKOPBJHA": "Shroomboar",
     "icon": "UI_AnimalIcon_Boar_Grass_Small"
   },
   {
-    "PGKNKBKHCHM": 28020316,
+    "id": 28020316,
     "nameTextMapHash": 872226847,
     "PMPMKOPBJHA": "Shroomboar",
     "icon": "UI_AnimalIcon_Boar_Grass"
   },
   {
-    "PGKNKBKHCHM": 28020317,
+    "id": 28020317,
     "nameTextMapHash": 819571847,
     "PMPMKOPBJHA": "Shroomboar",
     "icon": "UI_AnimalIcon_Boar_Grass_Small"
   },
   {
-    "PGKNKBKHCHM": 28020401,
+    "id": 28020401,
     "nameTextMapHash": 3960706199,
     "PMPMKOPBJHA": "Northland Hound",
     "icon": "UI_AnimalIcon_DogPrick_01"
   },
   {
-    "PGKNKBKHCHM": 28020402,
+    "id": 28020402,
     "nameTextMapHash": 2017797455,
     "PMPMKOPBJHA": "Forest-Patrol Hound",
     "icon": "UI_AnimalIcon_DogPrick_04"
   },
   {
-    "PGKNKBKHCHM": 28020403,
+    "id": 28020403,
     "nameTextMapHash": 2059958447,
     "PMPMKOPBJHA": "Shiba",
     "icon": "UI_AnimalIcon_DogPrick_02"
   },
   {
-    "PGKNKBKHCHM": 28020404,
+    "id": 28020404,
     "nameTextMapHash": 1201043519,
     "PMPMKOPBJHA": "Black-Back Hound",
     "icon": "UI_AnimalIcon_DogPrick_03"
   },
   {
-    "PGKNKBKHCHM": 28020405,
+    "id": 28020405,
     "nameTextMapHash": 1923069063,
     "PMPMKOPBJHA": "Shiba",
     "icon": "UI_AnimalIcon_DogPrick_02"
   },
   {
-    "PGKNKBKHCHM": 28020406,
+    "id": 28020406,
     "nameTextMapHash": 1581653111,
     "PMPMKOPBJHA": "Northland Hound",
     "icon": "UI_AnimalIcon_DogPrick_01"
   },
   {
-    "PGKNKBKHCHM": 28020407,
+    "id": 28020407,
     "nameTextMapHash": 421834975,
     "PMPMKOPBJHA": "Northland Hound",
     "icon": "UI_AnimalIcon_DogPrick_01"
   },
   {
-    "PGKNKBKHCHM": 28020408,
+    "id": 28020408,
     "nameTextMapHash": 1527468023,
     "PMPMKOPBJHA": "Forest-Patrol Hound",
     "icon": "UI_AnimalIcon_DogPrick_04"
   },
   {
-    "PGKNKBKHCHM": 28020409,
+    "id": 28020409,
     "nameTextMapHash": 118208687,
     "PMPMKOPBJHA": "Shiba",
     "icon": "UI_AnimalIcon_DogPrick_02"
   },
   {
-    "PGKNKBKHCHM": 28020410,
+    "id": 28020410,
     "nameTextMapHash": 3682901583,
     "PMPMKOPBJHA": "Black-Back Hound",
     "icon": "UI_AnimalIcon_DogPrick_03"
   },
   {
-    "PGKNKBKHCHM": 28020411,
+    "id": 28020411,
     "nameTextMapHash": 4087905943,
     "PMPMKOPBJHA": "Chestnut Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_01"
   },
   {
-    "PGKNKBKHCHM": 28020412,
+    "id": 28020412,
     "nameTextMapHash": 1980600143,
     "PMPMKOPBJHA": "Glittergray Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_02"
   },
   {
-    "PGKNKBKHCHM": 28020413,
+    "id": 28020413,
     "nameTextMapHash": 716713855,
     "PMPMKOPBJHA": "Amber Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_03"
   },
   {
-    "PGKNKBKHCHM": 28020501,
+    "id": 28020501,
     "nameTextMapHash": 4293789527,
     "PMPMKOPBJHA": "Sapphire",
     "icon": "UI_AnimalIcon_Cat_01"
   },
   {
-    "PGKNKBKHCHM": 28020502,
+    "id": 28020502,
     "nameTextMapHash": 1607685319,
     "PMPMKOPBJHA": "Jade-Eyed Cat",
     "icon": "UI_AnimalIcon_Cat_02"
   },
   {
-    "PGKNKBKHCHM": 28020503,
+    "id": 28020503,
     "nameTextMapHash": 1659396423,
     "PMPMKOPBJHA": "Gray Snow Cat",
     "icon": "UI_AnimalIcon_Cat_03"
   },
   {
-    "PGKNKBKHCHM": 28020504,
+    "id": 28020504,
     "nameTextMapHash": 599076127,
     "PMPMKOPBJHA": "Northland Cat",
     "icon": "UI_AnimalIcon_Cat_04"
   },
   {
-    "PGKNKBKHCHM": 28020505,
+    "id": 28020505,
     "nameTextMapHash": 1483329455,
     "PMPMKOPBJHA": "Tiger-Striped Cat",
     "icon": "UI_AnimalIcon_Cat_05"
   },
   {
-    "PGKNKBKHCHM": 28020506,
+    "id": 28020506,
     "nameTextMapHash": 2069661207,
     "PMPMKOPBJHA": "Sheriff Cat",
     "icon": "UI_AnimalIcon_Cat_06"
   },
   {
-    "PGKNKBKHCHM": 28020507,
+    "id": 28020507,
     "nameTextMapHash": 1903532247,
     "PMPMKOPBJHA": "Black Cat",
     "icon": "UI_AnimalIcon_Cat_07"
   },
   {
-    "PGKNKBKHCHM": 28020508,
+    "id": 28020508,
     "nameTextMapHash": 974470127,
     "PMPMKOPBJHA": "Sapphire",
     "icon": "UI_AnimalIcon_Cat_01"
   },
   {
-    "PGKNKBKHCHM": 28020509,
+    "id": 28020509,
     "nameTextMapHash": 527406359,
     "PMPMKOPBJHA": "Gray Snow Cat",
     "icon": "UI_AnimalIcon_Cat_03"
   },
   {
-    "PGKNKBKHCHM": 28020510,
+    "id": 28020510,
     "nameTextMapHash": 3484094607,
     "PMPMKOPBJHA": "Jade-Eyed Cat",
     "icon": "UI_AnimalIcon_Cat_02"
   },
   {
-    "PGKNKBKHCHM": 28020511,
+    "id": 28020511,
     "nameTextMapHash": 896638575,
     "PMPMKOPBJHA": "Gray Snow Cat",
     "icon": "UI_AnimalIcon_Cat_03"
   },
   {
-    "PGKNKBKHCHM": 28020512,
+    "id": 28020512,
     "nameTextMapHash": 1854897527,
     "PMPMKOPBJHA": "Northland Cat",
     "icon": "UI_AnimalIcon_Cat_04"
   },
   {
-    "PGKNKBKHCHM": 28020513,
+    "id": 28020513,
     "nameTextMapHash": 2194399367,
     "PMPMKOPBJHA": "Tiger-Striped Cat",
     "icon": "UI_AnimalIcon_Cat_05"
   },
   {
-    "PGKNKBKHCHM": 28020601,
+    "id": 28020601,
     "nameTextMapHash": 688627367,
     "PMPMKOPBJHA": "Snow Weasel",
     "icon": "UI_AnimalIcon_Marten_01"
   },
   {
-    "PGKNKBKHCHM": 28020602,
+    "id": 28020602,
     "nameTextMapHash": 1906892255,
     "PMPMKOPBJHA": "Red-Tailed Weasel",
     "icon": "UI_AnimalIcon_Marten_02"
   },
   {
-    "PGKNKBKHCHM": 28020603,
+    "id": 28020603,
     "nameTextMapHash": 3958843119,
     "PMPMKOPBJHA": "Boot Weasel",
     "icon": "UI_AnimalIcon_Marten_03"
   },
   {
-    "PGKNKBKHCHM": 28020604,
+    "id": 28020604,
     "nameTextMapHash": 3526442463,
     "PMPMKOPBJHA": "Masked Weasel",
     "icon": "UI_AnimalIcon_Marten_04"
   },
   {
-    "PGKNKBKHCHM": 28020605,
+    "id": 28020605,
     "nameTextMapHash": 318560911,
     "PMPMKOPBJHA": "Bluethunder Weasel",
     "icon": "UI_AnimalIcon_Marten_05"
   },
   {
-    "PGKNKBKHCHM": 28020701,
+    "id": 28020701,
     "nameTextMapHash": 2330044031,
     "PMPMKOPBJHA": "Kitsune",
     "icon": "UI_AnimalIcon_Vulpes_01"
   },
   {
-    "PGKNKBKHCHM": 28020702,
+    "id": 28020702,
     "nameTextMapHash": 2763831159,
     "PMPMKOPBJHA": "Kitsune",
     "icon": "UI_AnimalIcon_Vulpes_01"
   },
   {
-    "PGKNKBKHCHM": 28020801,
+    "id": 28020801,
     "nameTextMapHash": 3677002623,
     "PMPMKOPBJHA": "Bake-Danuki",
     "icon": "UI_AnimalIcon_Inu_Tanuki_01"
   },
   {
-    "PGKNKBKHCHM": 28020802,
+    "id": 28020802,
     "nameTextMapHash": 1323850143,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_Inu_Tanuki_02"
   },
   {
-    "PGKNKBKHCHM": 28020803,
+    "id": 28020803,
     "nameTextMapHash": 1473209047,
     "PMPMKOPBJHA": "Bake-Danuki",
     "icon": "UI_AnimalIcon_Inu_Tanuki_01"
   },
   {
-    "PGKNKBKHCHM": 28020901,
+    "id": 28020901,
     "nameTextMapHash": 2596128375,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_Inu_Tanuki_01"
   },
   {
-    "PGKNKBKHCHM": 28020902,
+    "id": 28020902,
     "nameTextMapHash": 881241927,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_Inu_Tanuki_01"
   },
   {
-    "PGKNKBKHCHM": 28021001,
+    "id": 28021001,
     "nameTextMapHash": 2829515111,
     "PMPMKOPBJHA": "Tent Tortoise",
     "icon": "UI_AnimalIcon_Tortoise_01"
   },
   {
-    "PGKNKBKHCHM": 28021101,
+    "id": 28021101,
     "nameTextMapHash": 2022182191,
     "PMPMKOPBJHA": "Lady Poodle",
     "icon": "UI_AnimalIcon_FontainePoddle_Lady_01"
   },
   {
-    "PGKNKBKHCHM": 28021102,
+    "id": 28021102,
     "nameTextMapHash": 1812208927,
     "PMPMKOPBJHA": "Guard Poodle",
     "icon": "UI_AnimalIcon_FontainePoddle_Guard_01"
   },
   {
-    "PGKNKBKHCHM": 28021103,
+    "id": 28021103,
     "nameTextMapHash": 550983127,
     "PMPMKOPBJHA": "Gentleman Poodle",
     "icon": "UI_AnimalIcon_FontainePoddle_Gentleman_01"
   },
   {
-    "PGKNKBKHCHM": 28021201,
+    "id": 28021201,
     "nameTextMapHash": 4036624127,
     "PMPMKOPBJHA": "Leisurely Otter",
     "icon": "UI_AnimalIcon_Beaver_01"
   },
   {
-    "PGKNKBKHCHM": 28030101,
+    "id": 28030101,
     "nameTextMapHash": 174214623,
     "PMPMKOPBJHA": "Azure Crane",
     "icon": "UI_AnimalIcon_Crane_01"
   },
   {
-    "PGKNKBKHCHM": 28030102,
+    "id": 28030102,
     "nameTextMapHash": 3469310543,
     "PMPMKOPBJHA": "Violet Ibis",
     "icon": "UI_AnimalIcon_Crane_02"
   },
   {
-    "PGKNKBKHCHM": 28030104,
+    "id": 28030104,
     "nameTextMapHash": 2190785471,
     "PMPMKOPBJHA": "Sacred Ibis",
     "icon": "UI_AnimalIcon_Crane_Lbis_01"
   },
   {
-    "PGKNKBKHCHM": 28030105,
+    "id": 28030105,
     "nameTextMapHash": 406504007,
     "PMPMKOPBJHA": "Azure Crane",
     "icon": "UI_AnimalIcon_Crane_01"
   },
   {
-    "PGKNKBKHCHM": 28030106,
+    "id": 28030106,
     "nameTextMapHash": 248454183,
     "PMPMKOPBJHA": "Sacred Ibis",
     "icon": "UI_AnimalIcon_Crane_Lbis_01"
   },
   {
-    "PGKNKBKHCHM": 28030201,
+    "id": 28030201,
     "nameTextMapHash": 4057646183,
     "PMPMKOPBJHA": "Brownwing Falcon",
     "icon": "UI_AnimalIcon_Falcon_01"
   },
   {
-    "PGKNKBKHCHM": 28030202,
+    "id": 28030202,
     "nameTextMapHash": 2265884447,
     "PMPMKOPBJHA": "Umbertail Falcon",
     "icon": "UI_AnimalIcon_Falcon_02"
   },
   {
-    "PGKNKBKHCHM": 28030203,
+    "id": 28030203,
     "nameTextMapHash": 2387599519,
     "PMPMKOPBJHA": "Lapis Glede",
     "icon": "UI_AnimalIcon_Falcon_03"
   },
   {
-    "PGKNKBKHCHM": 28030204,
+    "id": 28030204,
     "nameTextMapHash": 980868215,
     "PMPMKOPBJHA": "Silkwhite Falcon",
     "icon": "UI_AnimalIcon_Falcon_04"
   },
   {
-    "PGKNKBKHCHM": 28030301,
+    "id": 28030301,
     "nameTextMapHash": 1929596799,
     "PMPMKOPBJHA": "White Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_01"
   },
   {
-    "PGKNKBKHCHM": 28030302,
+    "id": 28030302,
     "nameTextMapHash": 2655808719,
     "PMPMKOPBJHA": "Brightcrown Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_02"
   },
   {
-    "PGKNKBKHCHM": 28030303,
+    "id": 28030303,
     "nameTextMapHash": 3128313167,
     "PMPMKOPBJHA": "Graywing Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_03"
   },
   {
-    "PGKNKBKHCHM": 28030304,
+    "id": 28030304,
     "nameTextMapHash": 1504052127,
     "PMPMKOPBJHA": "Crimsonflank Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_04"
   },
   {
-    "PGKNKBKHCHM": 28030305,
+    "id": 28030305,
     "nameTextMapHash": 3247228255,
     "PMPMKOPBJHA": "Black King Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_05"
   },
   {
-    "PGKNKBKHCHM": 28030306,
+    "id": 28030306,
     "nameTextMapHash": 1268321415,
     "PMPMKOPBJHA": "Crow",
     "icon": "UI_AnimalIcon_Crow_01"
   },
   {
-    "PGKNKBKHCHM": 28030307,
+    "id": 28030307,
     "nameTextMapHash": 3691874927,
     "PMPMKOPBJHA": "White Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_01"
   },
   {
-    "PGKNKBKHCHM": 28030308,
+    "id": 28030308,
     "nameTextMapHash": 1754546991,
     "PMPMKOPBJHA": "Brightcrown Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_02"
   },
   {
-    "PGKNKBKHCHM": 28030309,
+    "id": 28030309,
     "nameTextMapHash": 94325863,
     "PMPMKOPBJHA": "Graywing Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_03"
   },
   {
-    "PGKNKBKHCHM": 28030310,
+    "id": 28030310,
     "nameTextMapHash": 719081543,
     "PMPMKOPBJHA": "Crimsonflank Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_04"
   },
   {
-    "PGKNKBKHCHM": 28030311,
+    "id": 28030311,
     "nameTextMapHash": 304042095,
     "PMPMKOPBJHA": "Black King Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_05"
   },
   {
-    "PGKNKBKHCHM": 28030313,
+    "id": 28030313,
     "nameTextMapHash": 919396607,
     "PMPMKOPBJHA": "Dusk Bird",
     "icon": "UI_AnimalIcon_Pigeon_Beak"
   },
   {
-    "PGKNKBKHCHM": 28030314,
+    "id": 28030314,
     "nameTextMapHash": 1133139351,
     "PMPMKOPBJHA": "Crow",
     "icon": "UI_AnimalIcon_Crow_01"
   },
   {
-    "PGKNKBKHCHM": 28030315,
+    "id": 28030315,
     "nameTextMapHash": 210105367,
     "PMPMKOPBJHA": "Dusk Bird",
     "icon": "UI_AnimalIcon_Pigeon_Beak"
   },
   {
-    "PGKNKBKHCHM": 28030316,
+    "id": 28030316,
     "nameTextMapHash": 3313513743,
     "PMPMKOPBJHA": "Dusk Bird",
     "icon": "UI_AnimalIcon_Pigeon_Beak"
   },
   {
-    "PGKNKBKHCHM": 28030401,
+    "id": 28030401,
     "nameTextMapHash": 3461304015,
     "PMPMKOPBJHA": "Crimson Finch",
     "icon": "UI_AnimalIcon_Tit_01"
   },
   {
-    "PGKNKBKHCHM": 28030402,
+    "id": 28030402,
     "nameTextMapHash": 1513551351,
     "PMPMKOPBJHA": "Golden Finch",
     "icon": "UI_AnimalIcon_Tit_02"
   },
   {
-    "PGKNKBKHCHM": 28030403,
+    "id": 28030403,
     "nameTextMapHash": 2317930615,
     "PMPMKOPBJHA": "Snow Finch",
     "icon": "UI_AnimalIcon_Tit_03"
   },
   {
-    "PGKNKBKHCHM": 28030404,
+    "id": 28030404,
     "nameTextMapHash": 288494063,
     "PMPMKOPBJHA": "Emerald Finch",
     "icon": "UI_AnimalIcon_Tit_04"
   },
   {
-    "PGKNKBKHCHM": 28030405,
+    "id": 28030405,
     "nameTextMapHash": 1056178935,
     "PMPMKOPBJHA": "Golden Finch",
     "icon": "UI_AnimalIcon_Tit_02"
   },
   {
-    "PGKNKBKHCHM": 28030406,
+    "id": 28030406,
     "nameTextMapHash": 4158858903,
     "PMPMKOPBJHA": "Crimson Finch",
     "icon": "UI_AnimalIcon_Tit_01"
   },
   {
-    "PGKNKBKHCHM": 28030407,
+    "id": 28030407,
     "nameTextMapHash": 328640199,
     "PMPMKOPBJHA": "Golden Finch",
     "icon": "UI_AnimalIcon_Tit_02"
   },
   {
-    "PGKNKBKHCHM": 28030408,
+    "id": 28030408,
     "nameTextMapHash": 3220988671,
     "PMPMKOPBJHA": "Snow Finch",
     "icon": "UI_AnimalIcon_Tit_03"
   },
   {
-    "PGKNKBKHCHM": 28030409,
+    "id": 28030409,
     "nameTextMapHash": 4188090863,
     "PMPMKOPBJHA": "Emerald Finch",
     "icon": "UI_AnimalIcon_Tit_04"
   },
   {
-    "PGKNKBKHCHM": 28030410,
+    "id": 28030410,
     "nameTextMapHash": 1142110311,
     "PMPMKOPBJHA": "Emerald Finch",
     "icon": "UI_AnimalIcon_Tit_04"
   },
   {
-    "PGKNKBKHCHM": 28030501,
+    "id": 28030501,
     "nameTextMapHash": 3675584791,
     "PMPMKOPBJHA": "Scarletbeak Duck",
     "icon": "UI_AnimalIcon_Wigeon_01"
   },
   {
-    "PGKNKBKHCHM": 28030502,
+    "id": 28030502,
     "nameTextMapHash": 126149831,
     "PMPMKOPBJHA": "Emerald Duck",
     "icon": "UI_AnimalIcon_Wigeon_03"
   },
   {
-    "PGKNKBKHCHM": 28030504,
+    "id": 28030504,
     "nameTextMapHash": 536111647,
     "PMPMKOPBJHA": "Scarletbeak Duck",
     "icon": "UI_AnimalIcon_Wigeon_01"
   },
   {
-    "PGKNKBKHCHM": 28030601,
+    "id": 28030601,
     "nameTextMapHash": 1545150703,
     "PMPMKOPBJHA": "Snow-Winged Goose",
     "icon": "UI_AnimalIcon_Swan_01"
   },
   {
-    "PGKNKBKHCHM": 28030602,
+    "id": 28030602,
     "nameTextMapHash": 653159135,
     "PMPMKOPBJHA": "Darkwing Goose",
     "icon": "UI_AnimalIcon_Swan_02"
   },
   {
-    "PGKNKBKHCHM": 28030701,
+    "id": 28030701,
     "nameTextMapHash": 1896491007,
     "PMPMKOPBJHA": "Flatcrest Fulmar",
     "icon": "UI_AnimalIcon_Albatross_01"
   },
   {
-    "PGKNKBKHCHM": 28030702,
+    "id": 28030702,
     "nameTextMapHash": 4258195407,
     "PMPMKOPBJHA": "Violetgold Angler Gull",
     "icon": "UI_AnimalIcon_Seagull_01"
   },
   {
-    "PGKNKBKHCHM": 28030703,
+    "id": 28030703,
     "nameTextMapHash": 2193625047,
     "PMPMKOPBJHA": "Slate Umbrellafinch",
     "icon": "UI_AnimalIcon_Eggplant_01"
   },
   {
-    "PGKNKBKHCHM": 28030704,
+    "id": 28030704,
     "nameTextMapHash": 3741808727,
     "PMPMKOPBJHA": "Burgundy Umbrellafinch",
     "icon": "UI_AnimalIcon_Eggplant_02"
   },
   {
-    "PGKNKBKHCHM": 28030705,
+    "id": 28030705,
     "nameTextMapHash": 3182120447,
     "PMPMKOPBJHA": "Magenta Fantail Pigeon",
     "icon": "UI_AnimalIcon_Fantail_01"
   },
   {
-    "PGKNKBKHCHM": 28030706,
+    "id": 28030706,
     "nameTextMapHash": 3328912639,
     "PMPMKOPBJHA": "Viridian Fantail Pigeon",
     "icon": "UI_AnimalIcon_Fantail_02"
   },
   {
-    "PGKNKBKHCHM": 28030707,
+    "id": 28030707,
     "nameTextMapHash": 1526467879,
     "PMPMKOPBJHA": "Redcrown Finch",
     "icon": "UI_AnimalIcon_Larvivora_01"
   },
   {
-    "PGKNKBKHCHM": 28030708,
+    "id": 28030708,
     "nameTextMapHash": 383484423,
     "PMPMKOPBJHA": "Bluecrown Finch",
     "icon": "UI_AnimalIcon_Larvivora_02"
   },
   {
-    "PGKNKBKHCHM": 28040101,
+    "id": 28040101,
     "nameTextMapHash": 4119292863,
     "PMPMKOPBJHA": "Black-Back Bass",
     "icon": "UI_AnimalIcon_Fish_01"
   },
   {
-    "PGKNKBKHCHM": 28040102,
+    "id": 28040102,
     "nameTextMapHash": 2906144015,
     "PMPMKOPBJHA": "Blue-Fin Bass",
     "icon": "UI_AnimalIcon_Fish_02"
   },
   {
-    "PGKNKBKHCHM": 28040103,
+    "id": 28040103,
     "nameTextMapHash": 1025548983,
     "PMPMKOPBJHA": "Golden Bass",
     "icon": "UI_AnimalIcon_Fish_03"
   },
   {
-    "PGKNKBKHCHM": 28040104,
+    "id": 28040104,
     "nameTextMapHash": 2113437175,
     "PMPMKOPBJHA": "Black-Back Bass",
     "icon": "UI_AnimalIcon_Fish_01"
   },
   {
-    "PGKNKBKHCHM": 28040105,
+    "id": 28040105,
     "nameTextMapHash": 772246791,
     "PMPMKOPBJHA": "Black-Back Bass",
     "icon": "UI_AnimalIcon_Fish_01"
   },
   {
-    "PGKNKBKHCHM": 28040106,
+    "id": 28040106,
     "nameTextMapHash": 3829079151,
     "PMPMKOPBJHA": "Blue-Fin Bass",
     "icon": "UI_AnimalIcon_Fish_02"
   },
   {
-    "PGKNKBKHCHM": 28040107,
+    "id": 28040107,
     "nameTextMapHash": 1351013895,
     "PMPMKOPBJHA": "Golden Bass",
     "icon": "UI_AnimalIcon_Fish_03"
   },
   {
-    "PGKNKBKHCHM": 28040108,
+    "id": 28040108,
     "nameTextMapHash": 4156347855,
     "PMPMKOPBJHA": "Black-Back Bass",
     "icon": "UI_AnimalIcon_Fish_01"
   },
   {
-    "PGKNKBKHCHM": 28040201,
+    "id": 28040201,
     "nameTextMapHash": 3937027927,
     "PMPMKOPBJHA": "Medaka",
     "icon": "UI_ItemIcon_131000"
   },
   {
-    "PGKNKBKHCHM": 28040202,
+    "id": 28040202,
     "nameTextMapHash": 2487421535,
     "PMPMKOPBJHA": "Glaze Medaka",
     "icon": "UI_ItemIcon_131001"
   },
   {
-    "PGKNKBKHCHM": 28040203,
+    "id": 28040203,
     "nameTextMapHash": 2905810071,
     "PMPMKOPBJHA": "Sweet-Flower Medaka",
     "icon": "UI_ItemIcon_131002"
   },
   {
-    "PGKNKBKHCHM": 28040204,
+    "id": 28040204,
     "nameTextMapHash": 12110151,
     "PMPMKOPBJHA": "Aizen Medaka",
     "icon": "UI_ItemIcon_131003"
   },
   {
-    "PGKNKBKHCHM": 28040205,
+    "id": 28040205,
     "nameTextMapHash": 3254794799,
     "PMPMKOPBJHA": "Dawncatcher",
     "icon": "UI_ItemIcon_131004"
   },
   {
-    "PGKNKBKHCHM": 28040206,
+    "id": 28040206,
     "nameTextMapHash": 3088448887,
     "PMPMKOPBJHA": "Crystalfish",
     "icon": "UI_ItemIcon_131005"
   },
   {
-    "PGKNKBKHCHM": 28040301,
+    "id": 28040301,
     "nameTextMapHash": 4176868343,
     "PMPMKOPBJHA": "Lunged Stickleback",
     "icon": "UI_ItemIcon_131006"
   },
   {
-    "PGKNKBKHCHM": 28040302,
+    "id": 28040302,
     "nameTextMapHash": 3815000391,
     "PMPMKOPBJHA": "Betta",
     "icon": "UI_ItemIcon_131007"
   },
   {
-    "PGKNKBKHCHM": 28040303,
+    "id": 28040303,
     "nameTextMapHash": 3248690431,
     "PMPMKOPBJHA": "Venomspine Fish",
     "icon": "UI_ItemIcon_131008"
   },
   {
-    "PGKNKBKHCHM": 28040304,
+    "id": 28040304,
     "nameTextMapHash": 1522626143,
     "PMPMKOPBJHA": "Akai Maou",
     "icon": "UI_ItemIcon_131009"
   },
   {
-    "PGKNKBKHCHM": 28040305,
+    "id": 28040305,
     "nameTextMapHash": 2614513047,
     "PMPMKOPBJHA": "Snowstrider",
     "icon": "UI_ItemIcon_131010"
   },
   {
-    "PGKNKBKHCHM": 28040401,
+    "id": 28040401,
     "nameTextMapHash": 2512573719,
     "PMPMKOPBJHA": "Golden Koi",
     "icon": "UI_ItemIcon_131011"
   },
   {
-    "PGKNKBKHCHM": 28040402,
+    "id": 28040402,
     "nameTextMapHash": 1581296415,
     "PMPMKOPBJHA": "Rusty Koi",
     "icon": "UI_ItemIcon_131012"
   },
   {
-    "PGKNKBKHCHM": 28040501,
+    "id": 28040501,
     "nameTextMapHash": 2413961287,
     "PMPMKOPBJHA": "Brown Shirakodai",
     "icon": "UI_ItemIcon_131013"
   },
   {
-    "PGKNKBKHCHM": 28040502,
+    "id": 28040502,
     "nameTextMapHash": 3068933831,
     "PMPMKOPBJHA": "Purple Shirakodai",
     "icon": "UI_ItemIcon_131014"
   },
   {
-    "PGKNKBKHCHM": 28040503,
+    "id": 28040503,
     "nameTextMapHash": 1579574119,
     "PMPMKOPBJHA": "Tea-Colored Shirakodai",
     "icon": "UI_ItemIcon_131015"
   },
   {
-    "PGKNKBKHCHM": 28040504,
+    "id": 28040504,
     "nameTextMapHash": 2030362415,
     "PMPMKOPBJHA": "Abiding Angelfish",
     "icon": "UI_ItemIcon_131016"
   },
   {
-    "PGKNKBKHCHM": 28040505,
+    "id": 28040505,
     "nameTextMapHash": 2820398223,
     "PMPMKOPBJHA": "Raimei Angelfish",
     "icon": "UI_ItemIcon_131017"
   },
   {
-    "PGKNKBKHCHM": 28040506,
+    "id": 28040506,
     "nameTextMapHash": 770846063,
     "PMPMKOPBJHA": "Moonfin",
     "icon": "UI_ItemIcon_131018"
   },
   {
-    "PGKNKBKHCHM": 28040601,
+    "id": 28040601,
     "nameTextMapHash": 653204391,
     "PMPMKOPBJHA": "Pufferfish",
     "icon": "UI_ItemIcon_131019"
   },
   {
-    "PGKNKBKHCHM": 28040602,
+    "id": 28040602,
     "nameTextMapHash": 4099751567,
     "PMPMKOPBJHA": "Bitter Pufferfish",
     "icon": "UI_ItemIcon_131020"
   },
   {
-    "PGKNKBKHCHM": 28040701,
+    "id": 28040701,
     "nameTextMapHash": 1693917103,
     "PMPMKOPBJHA": "Divda Ray",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28040702,
+    "id": 28040702,
     "nameTextMapHash": 3278301135,
     "PMPMKOPBJHA": "Formalo Ray",
     "icon": "UI_ItemIcon_131022"
   },
   {
-    "PGKNKBKHCHM": 28040703,
+    "id": 28040703,
     "nameTextMapHash": 2716805831,
     "PMPMKOPBJHA": "Floating Ray",
     "icon": "UI_AnimalIcon_Fishable_Ray_Stellamarisidae_01"
   },
   {
-    "PGKNKBKHCHM": 28040801,
+    "id": 28040801,
     "nameTextMapHash": 3497251007,
     "PMPMKOPBJHA": "True Fruit Angler",
     "icon": "UI_ItemIcon_131023"
   },
   {
-    "PGKNKBKHCHM": 28040802,
+    "id": 28040802,
     "nameTextMapHash": 2903749079,
     "PMPMKOPBJHA": "Peach of the Deep Waves",
     "icon": "UI_ItemIcon_131024"
   },
   {
-    "PGKNKBKHCHM": 28040803,
+    "id": 28040803,
     "nameTextMapHash": 346414831,
     "PMPMKOPBJHA": "Sandstorm Angler",
     "icon": "UI_ItemIcon_131025"
   },
   {
-    "PGKNKBKHCHM": 28040804,
+    "id": 28040804,
     "nameTextMapHash": 1187386023,
     "PMPMKOPBJHA": "Sunset Cloud Angler",
     "icon": "UI_ItemIcon_131026"
   },
   {
-    "PGKNKBKHCHM": 28040901,
+    "id": 28040901,
     "nameTextMapHash": 1001969703,
     "PMPMKOPBJHA": "Lazurite Axe Marlin",
     "icon": "UI_ItemIcon_131027"
   },
   {
-    "PGKNKBKHCHM": 28040902,
+    "id": 28040902,
     "nameTextMapHash": 228530231,
     "PMPMKOPBJHA": "Halcyon Jade Axe Marlin",
     "icon": "UI_ItemIcon_131028"
   },
   {
-    "PGKNKBKHCHM": 28040903,
+    "id": 28040903,
     "nameTextMapHash": 4248603999,
     "PMPMKOPBJHA": "Streaming Axe Marlin",
     "icon": "UI_ItemIcon_131029"
   },
   {
-    "PGKNKBKHCHM": 28041001,
+    "id": 28041001,
     "nameTextMapHash": 882890783,
     "PMPMKOPBJHA": "Rippling Heartfeather Bass",
     "icon": "UI_ItemIcon_131030"
   },
   {
-    "PGKNKBKHCHM": 28041002,
+    "id": 28041002,
     "nameTextMapHash": 651691263,
     "PMPMKOPBJHA": "Blazing Heartfeather Bass",
     "icon": "UI_ItemIcon_131031"
   },
   {
-    "PGKNKBKHCHM": 28041101,
+    "id": 28041101,
     "nameTextMapHash": 3064371567,
     "PMPMKOPBJHA": "Maintenance Mek: Initial Configuration",
     "icon": "UI_ItemIcon_131032"
   },
   {
-    "PGKNKBKHCHM": 28041102,
+    "id": 28041102,
     "nameTextMapHash": 3581380183,
     "PMPMKOPBJHA": "Maintenance Mek: Water Body Cleaner",
     "icon": "UI_ItemIcon_131033"
   },
   {
-    "PGKNKBKHCHM": 28041103,
+    "id": 28041103,
     "nameTextMapHash": 631893279,
     "PMPMKOPBJHA": "Maintenance Mek: Situation Controller",
     "icon": "UI_ItemIcon_131034"
   },
   {
-    "PGKNKBKHCHM": 28041104,
+    "id": 28041104,
     "nameTextMapHash": 172880415,
     "PMPMKOPBJHA": "Maintenance Mek: Platinum Collection",
     "icon": "UI_ItemIcon_131035"
   },
   {
-    "PGKNKBKHCHM": 28050101,
+    "id": 28050101,
     "nameTextMapHash": 4246864087,
     "PMPMKOPBJHA": "Anemo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 28050102,
+    "id": 28050102,
     "nameTextMapHash": 1847870663,
     "PMPMKOPBJHA": "Geo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Rock_01"
   },
   {
-    "PGKNKBKHCHM": 28050103,
+    "id": 28050103,
     "nameTextMapHash": 4154105087,
     "PMPMKOPBJHA": "Cryo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 28050104,
+    "id": 28050104,
     "nameTextMapHash": 2648764071,
     "PMPMKOPBJHA": "Electro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 28050105,
+    "id": 28050105,
     "nameTextMapHash": 2689373903,
     "PMPMKOPBJHA": "Coral Butterfly",
     "icon": "UI_AnimalIcon_Wisp_Tokoyo_01"
   },
   {
-    "PGKNKBKHCHM": 28050106,
+    "id": 28050106,
     "nameTextMapHash": 667182703,
     "PMPMKOPBJHA": "Dendro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Grass_01"
   },
   {
-    "PGKNKBKHCHM": 28050107,
+    "id": 28050107,
     "nameTextMapHash": 68414231,
     "PMPMKOPBJHA": "Hydro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Water_01"
   },
   {
-    "PGKNKBKHCHM": 28050201,
+    "id": 28050201,
     "nameTextMapHash": 1588653575,
     "PMPMKOPBJHA": "Amateur Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_01"
   },
   {
-    "PGKNKBKHCHM": 28050202,
+    "id": 28050202,
     "nameTextMapHash": 4204619367,
     "PMPMKOPBJHA": "Hoarder Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_02"
   },
   {
-    "PGKNKBKHCHM": 28050203,
+    "id": 28050203,
     "nameTextMapHash": 1746103711,
     "PMPMKOPBJHA": "Golden Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_03"
   },
   {
-    "PGKNKBKHCHM": 28050211,
+    "id": 28050211,
     "nameTextMapHash": 670472095,
     "PMPMKOPBJHA": "Amateur Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_01"
   },
   {
-    "PGKNKBKHCHM": 28050212,
+    "id": 28050212,
     "nameTextMapHash": 3618556023,
     "PMPMKOPBJHA": "Hoarder Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_02"
   },
   {
-    "PGKNKBKHCHM": 28050213,
+    "id": 28050213,
     "nameTextMapHash": 2102434415,
     "PMPMKOPBJHA": "Golden Weasel Thief",
     "icon": "UI_AnimalIcon_Thoarder_Weasel_03"
   },
   {
-    "PGKNKBKHCHM": 28050301,
+    "id": 28050301,
     "nameTextMapHash": 251055527,
     "PMPMKOPBJHA": "Lucklight Fly",
     "icon": "UI_AnimalIcon_Boltbug_Lightbug_01"
   },
   {
-    "PGKNKBKHCHM": 28050401,
+    "id": 28050401,
     "nameTextMapHash": 3572427535,
     "PMPMKOPBJHA": "Scarab",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050501,
+    "id": 28050501,
     "nameTextMapHash": 152885687,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050502,
+    "id": 28050502,
     "nameTextMapHash": 3106249535,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050503,
+    "id": 28050503,
     "nameTextMapHash": 2064129079,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050504,
+    "id": 28050504,
     "nameTextMapHash": 244190055,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050505,
+    "id": 28050505,
     "nameTextMapHash": 2553091015,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050506,
+    "id": 28050506,
     "nameTextMapHash": 1738831159,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_BoltBug_Scarab_01"
   },
   {
-    "PGKNKBKHCHM": 28050701,
+    "id": 28050701,
     "nameTextMapHash": 3808761623,
     "PMPMKOPBJHA": "Subdetection Unit",
     "icon": "UI_AnimalIcon_BoltBug_MachinaIustitia_01"
   },
   {
-    "PGKNKBKHCHM": 28060101,
+    "id": 28060101,
     "nameTextMapHash": 1154223999,
     "PMPMKOPBJHA": "Spinocrocodile",
     "icon": "UI_AnimalIcon_Gator_01"
   },
   {
-    "PGKNKBKHCHM": 28060201,
+    "id": 28060201,
     "nameTextMapHash": 559954199,
     "PMPMKOPBJHA": "Rishboland Tiger",
     "icon": "UI_AnimalIcon_Panther_01"
   },
   {
-    "PGKNKBKHCHM": 28060301,
+    "id": 28060301,
     "nameTextMapHash": 1975850911,
     "PMPMKOPBJHA": "Red Vulture",
     "icon": "UI_AnimalIcon_Vulture_01"
   },
   {
-    "PGKNKBKHCHM": 28060401,
+    "id": 28060401,
     "nameTextMapHash": 2708644839,
     "PMPMKOPBJHA": "Scorpion",
     "icon": "UI_AnimalIcon_Scorpion_01"
   },
   {
-    "PGKNKBKHCHM": 28060501,
+    "id": 28060501,
     "nameTextMapHash": 2470187495,
     "PMPMKOPBJHA": "Desert Sumpter Beast",
     "icon": "UI_AnimalIcon_Megamoth_Desert"
   },
   {
-    "PGKNKBKHCHM": 28060601,
+    "id": 28060601,
     "nameTextMapHash": 1967437879,
     "PMPMKOPBJHA": "Shaggy Sumpter Beast",
     "icon": "UI_AnimalIcon_Megamoth_Jungle"
   },
   {
-    "PGKNKBKHCHM": 28061501,
+    "id": 28061501,
     "nameTextMapHash": 1842448703,
     "PMPMKOPBJHA": "Flying Serpent",
     "icon": "UI_AnimalIcon_Chrysopelea"
   },
   {
-    "PGKNKBKHCHM": 28070101,
+    "id": 28070101,
     "nameTextMapHash": 2948066671,
     "PMPMKOPBJHA": "Manta Ray - Energy Fish (used for Underwater Gameplay Test)",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28070201,
+    "id": 28070201,
     "nameTextMapHash": 2519331551,
     "PMPMKOPBJHA": "Hermit Crab - Energy Fish (used for Underwater Gameplay Test)",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28070301,
+    "id": 28070301,
     "nameTextMapHash": 3508209031,
     "PMPMKOPBJHA": "Seal - Energy Fish (used for Underwater Gameplay Test)",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28070401,
+    "id": 28070401,
     "nameTextMapHash": 2134355055,
     "PMPMKOPBJHA": "Jellyfish - Energy Fish (used for Underwater Gameplay Test)",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28210101,
+    "id": 28210101,
     "nameTextMapHash": 1188963503,
     "PMPMKOPBJHA": "Golden Crab",
     "icon": "UI_AnimalIcon_Crab_01"
   },
   {
-    "PGKNKBKHCHM": 28210102,
+    "id": 28210102,
     "nameTextMapHash": 1943490999,
     "PMPMKOPBJHA": "Sun Crab",
     "icon": "UI_AnimalIcon_Crab_02"
   },
   {
-    "PGKNKBKHCHM": 28210103,
+    "id": 28210103,
     "nameTextMapHash": 2696934527,
     "PMPMKOPBJHA": "Ocean Crab",
     "icon": "UI_AnimalIcon_Crab_03"
   },
   {
-    "PGKNKBKHCHM": 28210104,
+    "id": 28210104,
     "nameTextMapHash": 19876751,
     "PMPMKOPBJHA": "General Crab",
     "icon": "UI_AnimalIcon_Crab_04"
   },
   {
-    "PGKNKBKHCHM": 28210105,
+    "id": 28210105,
     "nameTextMapHash": 1284421559,
     "PMPMKOPBJHA": "Pale Red Crab",
     "icon": "UI_AnimalIcon_Crab_05"
   },
   {
-    "PGKNKBKHCHM": 28210201,
+    "id": 28210201,
     "nameTextMapHash": 1979938279,
     "PMPMKOPBJHA": "Blue Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_01"
   },
   {
-    "PGKNKBKHCHM": 28210202,
+    "id": 28210202,
     "nameTextMapHash": 2888497311,
     "PMPMKOPBJHA": "Red Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_02"
   },
   {
-    "PGKNKBKHCHM": 28210203,
+    "id": 28210203,
     "nameTextMapHash": 2301470143,
     "PMPMKOPBJHA": "Green Horned Lizard",
     "icon": "UI_AnimalIcon_Lizard_03"
   },
   {
-    "PGKNKBKHCHM": 28210204,
+    "id": 28210204,
     "nameTextMapHash": 2578981575,
     "PMPMKOPBJHA": "Sunset Loach",
     "icon": "UI_AnimalIcon_Salamander_01"
   },
   {
-    "PGKNKBKHCHM": 28210205,
+    "id": 28210205,
     "nameTextMapHash": 672429495,
     "PMPMKOPBJHA": "Golden Loach",
     "icon": "UI_AnimalIcon_Salamander_02"
   },
   {
-    "PGKNKBKHCHM": 28210206,
+    "id": 28210206,
     "nameTextMapHash": 3978456967,
     "PMPMKOPBJHA": "Sunny Loach",
     "icon": "UI_AnimalIcon_Salamander_03"
   },
   {
-    "PGKNKBKHCHM": 28210207,
+    "id": 28210207,
     "nameTextMapHash": 3310144647,
     "PMPMKOPBJHA": "Marrow Lizard",
     "icon": "UI_AnimalIcon_Lizard_04"
   },
   {
-    "PGKNKBKHCHM": 28210208,
+    "id": 28210208,
     "nameTextMapHash": 2105555375,
     "PMPMKOPBJHA": "Red Tailed Lizard",
     "icon": "UI_AnimalIcon_Lizard_05"
   },
   {
-    "PGKNKBKHCHM": 28210301,
+    "id": 28210301,
     "nameTextMapHash": 1436240127,
     "PMPMKOPBJHA": "Frog",
     "icon": "UI_AnimalIcon_Frog_01"
   },
   {
-    "PGKNKBKHCHM": 28210302,
+    "id": 28210302,
     "nameTextMapHash": 327440479,
     "PMPMKOPBJHA": "Mud Frog",
     "icon": "UI_AnimalIcon_Frog_02"
   },
   {
-    "PGKNKBKHCHM": 28210303,
+    "id": 28210303,
     "nameTextMapHash": 454528711,
     "PMPMKOPBJHA": "Blue Frog",
     "icon": "UI_AnimalIcon_Frog_03"
   },
   {
-    "PGKNKBKHCHM": 28210304,
+    "id": 28210304,
     "nameTextMapHash": 1343431519,
     "PMPMKOPBJHA": "Forest Tree Frog",
     "icon": "UI_AnimalIcon_Frog_04"
   },
   {
-    "PGKNKBKHCHM": 28210401,
+    "id": 28210401,
     "nameTextMapHash": 1403696327,
     "PMPMKOPBJHA": "Adorned Unagi",
     "icon": "UI_AnimalIcon_Eel_01"
   },
   {
-    "PGKNKBKHCHM": 28210402,
+    "id": 28210402,
     "nameTextMapHash": 2685801871,
     "PMPMKOPBJHA": "Deep Sea Unagi",
     "icon": "UI_AnimalIcon_Eel_02"
   },
   {
-    "PGKNKBKHCHM": 28210403,
+    "id": 28210403,
     "nameTextMapHash": 3917674223,
     "PMPMKOPBJHA": "Red-Finned Unagi",
     "icon": "UI_AnimalIcon_Eel_03"
   },
   {
-    "PGKNKBKHCHM": 28210404,
+    "id": 28210404,
     "nameTextMapHash": 593707815,
     "PMPMKOPBJHA": "Quicksand Eel",
     "icon": "UI_AnimalIcon_Eel_04"
   },
   {
-    "PGKNKBKHCHM": 28220101,
+    "id": 28220101,
     "nameTextMapHash": 3680242855,
     "PMPMKOPBJHA": "Snow Fox",
     "icon": "UI_AnimalIcon_Fox_01"
   },
   {
-    "PGKNKBKHCHM": 28220102,
+    "id": 28220102,
     "nameTextMapHash": 4135399951,
     "PMPMKOPBJHA": "Crimson Fox",
     "icon": "UI_AnimalIcon_Fox_02"
   },
   {
-    "PGKNKBKHCHM": 28220108,
+    "id": 28220108,
     "nameTextMapHash": 3054471471,
     "PMPMKOPBJHA": "Desert Fox",
     "icon": "UI_AnimalIcon_Fox_03"
   },
   {
-    "PGKNKBKHCHM": 28220201,
+    "id": 28220201,
     "nameTextMapHash": 2660999167,
     "PMPMKOPBJHA": "Squirrel",
     "icon": "UI_AnimalIcon_Squirrel_01"
   },
   {
-    "PGKNKBKHCHM": 28220301,
+    "id": 28220301,
     "nameTextMapHash": 1959967951,
     "PMPMKOPBJHA": "Forest Boar",
     "icon": "UI_AnimalIcon_Boar_01"
   },
   {
-    "PGKNKBKHCHM": 28220303,
+    "id": 28220303,
     "nameTextMapHash": 1689640367,
     "PMPMKOPBJHA": "Snowboar",
     "icon": "UI_AnimalIcon_Boar_04"
   },
   {
-    "PGKNKBKHCHM": 28220401,
+    "id": 28220401,
     "nameTextMapHash": 3322500367,
     "PMPMKOPBJHA": "Northland Hound",
     "icon": "UI_AnimalIcon_DogPrick_01"
   },
   {
-    "PGKNKBKHCHM": 28220402,
+    "id": 28220402,
     "nameTextMapHash": 4274923919,
     "PMPMKOPBJHA": "Forest-Patrol Hound",
     "icon": "UI_AnimalIcon_DogPrick_04"
   },
   {
-    "PGKNKBKHCHM": 28220403,
+    "id": 28220403,
     "nameTextMapHash": 2189174583,
     "PMPMKOPBJHA": "Shiba",
     "icon": "UI_AnimalIcon_DogPrick_02"
   },
   {
-    "PGKNKBKHCHM": 28220404,
+    "id": 28220404,
     "nameTextMapHash": 1653594079,
     "PMPMKOPBJHA": "Black-Back Hound",
     "icon": "UI_AnimalIcon_DogPrick_03"
   },
   {
-    "PGKNKBKHCHM": 28220405,
+    "id": 28220405,
     "nameTextMapHash": 3722863863,
     "PMPMKOPBJHA": "Chestnut Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_01"
   },
   {
-    "PGKNKBKHCHM": 28220406,
+    "id": 28220406,
     "nameTextMapHash": 3102498503,
     "PMPMKOPBJHA": "Glittergray Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_02"
   },
   {
-    "PGKNKBKHCHM": 28220407,
+    "id": 28220407,
     "nameTextMapHash": 2248997975,
     "PMPMKOPBJHA": "Amber Hunting Hound",
     "icon": "UI_AnimalIcon_Dog_DropEar_03"
   },
   {
-    "PGKNKBKHCHM": 28220501,
+    "id": 28220501,
     "nameTextMapHash": 127144975,
     "PMPMKOPBJHA": "Sapphire",
     "icon": "UI_AnimalIcon_Cat_01"
   },
   {
-    "PGKNKBKHCHM": 28220502,
+    "id": 28220502,
     "nameTextMapHash": 3074168783,
     "PMPMKOPBJHA": "Jade-Eyed Cat",
     "icon": "UI_AnimalIcon_Cat_02"
   },
   {
-    "PGKNKBKHCHM": 28220503,
+    "id": 28220503,
     "nameTextMapHash": 4291548151,
     "PMPMKOPBJHA": "Gray Snow Cat",
     "icon": "UI_AnimalIcon_Cat_03"
   },
   {
-    "PGKNKBKHCHM": 28220504,
+    "id": 28220504,
     "nameTextMapHash": 1546705119,
     "PMPMKOPBJHA": "Northland Cat",
     "icon": "UI_AnimalIcon_Cat_04"
   },
   {
-    "PGKNKBKHCHM": 28220505,
+    "id": 28220505,
     "nameTextMapHash": 2874532703,
     "PMPMKOPBJHA": "Tiger-Striped Cat",
     "icon": "UI_AnimalIcon_Cat_05"
   },
   {
-    "PGKNKBKHCHM": 28220506,
+    "id": 28220506,
     "nameTextMapHash": 1121136727,
     "PMPMKOPBJHA": "Sheriff Cat",
     "icon": "UI_AnimalIcon_Cat_06"
   },
   {
-    "PGKNKBKHCHM": 28220601,
+    "id": 28220601,
     "nameTextMapHash": 4116906031,
     "PMPMKOPBJHA": "Snow Weasel",
     "icon": "UI_AnimalIcon_Marten_01"
   },
   {
-    "PGKNKBKHCHM": 28220602,
+    "id": 28220602,
     "nameTextMapHash": 2278607303,
     "PMPMKOPBJHA": "Red-Tailed Weasel",
     "icon": "UI_AnimalIcon_Marten_02"
   },
   {
-    "PGKNKBKHCHM": 28220603,
+    "id": 28220603,
     "nameTextMapHash": 1295619023,
     "PMPMKOPBJHA": "Boot Weasel",
     "icon": "UI_AnimalIcon_Marten_03"
   },
   {
-    "PGKNKBKHCHM": 28220604,
+    "id": 28220604,
     "nameTextMapHash": 1593168951,
     "PMPMKOPBJHA": "Masked Weasel",
     "icon": "UI_AnimalIcon_Marten_04"
   },
   {
-    "PGKNKBKHCHM": 28220605,
+    "id": 28220605,
     "nameTextMapHash": 4272555415,
     "PMPMKOPBJHA": "Bluethunder Weasel",
     "icon": "UI_AnimalIcon_Marten_05"
   },
   {
-    "PGKNKBKHCHM": 28220701,
+    "id": 28220701,
     "nameTextMapHash": 3135954583,
     "PMPMKOPBJHA": "Kitsune",
     "icon": "UI_AnimalIcon_Vulpes_01"
   },
   {
-    "PGKNKBKHCHM": 28220901,
+    "id": 28220901,
     "nameTextMapHash": 185301391,
     "PMPMKOPBJHA": "",
     "icon": "UI_AnimalIcon_Inu_Tanuki_01"
   },
   {
-    "PGKNKBKHCHM": 28230101,
+    "id": 28230101,
     "nameTextMapHash": 1639118127,
     "PMPMKOPBJHA": "Azure Crane",
     "icon": "UI_AnimalIcon_Crane_01"
   },
   {
-    "PGKNKBKHCHM": 28230102,
+    "id": 28230102,
     "nameTextMapHash": 747498127,
     "PMPMKOPBJHA": "Violet Ibis",
     "icon": "UI_AnimalIcon_Crane_02"
   },
   {
-    "PGKNKBKHCHM": 28230104,
+    "id": 28230104,
     "nameTextMapHash": 2983165199,
     "PMPMKOPBJHA": "Sacred Ibis",
     "icon": "UI_AnimalIcon_Crane_01_Lbis"
   },
   {
-    "PGKNKBKHCHM": 28230301,
+    "id": 28230301,
     "nameTextMapHash": 2289721935,
     "PMPMKOPBJHA": "White Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_01"
   },
   {
-    "PGKNKBKHCHM": 28230302,
+    "id": 28230302,
     "nameTextMapHash": 3853551519,
     "PMPMKOPBJHA": "Brightcrown Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_02"
   },
   {
-    "PGKNKBKHCHM": 28230303,
+    "id": 28230303,
     "nameTextMapHash": 2679241647,
     "PMPMKOPBJHA": "Graywing Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_03"
   },
   {
-    "PGKNKBKHCHM": 28230304,
+    "id": 28230304,
     "nameTextMapHash": 3078531519,
     "PMPMKOPBJHA": "Crimsonflank Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_04"
   },
   {
-    "PGKNKBKHCHM": 28230305,
+    "id": 28230305,
     "nameTextMapHash": 684432039,
     "PMPMKOPBJHA": "Black King Pigeon",
     "icon": "UI_AnimalIcon_Pigeon_05"
   },
   {
-    "PGKNKBKHCHM": 28230306,
+    "id": 28230306,
     "nameTextMapHash": 2360440943,
     "PMPMKOPBJHA": "Crow",
     "icon": "UI_AnimalIcon_Crow_01"
   },
   {
-    "PGKNKBKHCHM": 28230401,
+    "id": 28230401,
     "nameTextMapHash": 647834735,
     "PMPMKOPBJHA": "Crimson Finch",
     "icon": "UI_AnimalIcon_Tit_01"
   },
   {
-    "PGKNKBKHCHM": 28230402,
+    "id": 28230402,
     "nameTextMapHash": 4120006823,
     "PMPMKOPBJHA": "Golden Finch",
     "icon": "UI_AnimalIcon_Tit_02"
   },
   {
-    "PGKNKBKHCHM": 28230403,
+    "id": 28230403,
     "nameTextMapHash": 3957941615,
     "PMPMKOPBJHA": "Snow Finch",
     "icon": "UI_AnimalIcon_Tit_03"
   },
   {
-    "PGKNKBKHCHM": 28230404,
+    "id": 28230404,
     "nameTextMapHash": 1885771055,
     "PMPMKOPBJHA": "Emerald Finch",
     "icon": "UI_AnimalIcon_Tit_04"
   },
   {
-    "PGKNKBKHCHM": 28240201,
+    "id": 28240201,
     "nameTextMapHash": 879890303,
     "PMPMKOPBJHA": "Medaka",
     "icon": "UI_ItemIcon_131000"
   },
   {
-    "PGKNKBKHCHM": 28240202,
+    "id": 28240202,
     "nameTextMapHash": 216601175,
     "PMPMKOPBJHA": "Glaze Medaka",
     "icon": "UI_ItemIcon_131001"
   },
   {
-    "PGKNKBKHCHM": 28240203,
+    "id": 28240203,
     "nameTextMapHash": 671351215,
     "PMPMKOPBJHA": "Sweet-Flower Medaka",
     "icon": "UI_ItemIcon_131002"
   },
   {
-    "PGKNKBKHCHM": 28240204,
+    "id": 28240204,
     "nameTextMapHash": 3050943647,
     "PMPMKOPBJHA": "Aizen Medaka",
     "icon": "UI_ItemIcon_131003"
   },
   {
-    "PGKNKBKHCHM": 28240205,
+    "id": 28240205,
     "nameTextMapHash": 3327148191,
     "PMPMKOPBJHA": "Dawncatcher",
     "icon": "UI_ItemIcon_131004"
   },
   {
-    "PGKNKBKHCHM": 28240206,
+    "id": 28240206,
     "nameTextMapHash": 1801387791,
     "PMPMKOPBJHA": "Crystalfish",
     "icon": "UI_ItemIcon_131005"
   },
   {
-    "PGKNKBKHCHM": 28240301,
+    "id": 28240301,
     "nameTextMapHash": 4139828239,
     "PMPMKOPBJHA": "Lunged Stickleback",
     "icon": "UI_ItemIcon_131006"
   },
   {
-    "PGKNKBKHCHM": 28240302,
+    "id": 28240302,
     "nameTextMapHash": 543289727,
     "PMPMKOPBJHA": "Betta",
     "icon": "UI_ItemIcon_131007"
   },
   {
-    "PGKNKBKHCHM": 28240303,
+    "id": 28240303,
     "nameTextMapHash": 152023535,
     "PMPMKOPBJHA": "Venomspine Fish",
     "icon": "UI_ItemIcon_131008"
   },
   {
-    "PGKNKBKHCHM": 28240304,
+    "id": 28240304,
     "nameTextMapHash": 2271280295,
     "PMPMKOPBJHA": "Akai Maou",
     "icon": "UI_ItemIcon_131009"
   },
   {
-    "PGKNKBKHCHM": 28240305,
+    "id": 28240305,
     "nameTextMapHash": 1936169063,
     "PMPMKOPBJHA": "Snowstrider",
     "icon": "UI_ItemIcon_131010"
   },
   {
-    "PGKNKBKHCHM": 28240401,
+    "id": 28240401,
     "nameTextMapHash": 1097453527,
     "PMPMKOPBJHA": "Golden Koi",
     "icon": "UI_ItemIcon_131011"
   },
   {
-    "PGKNKBKHCHM": 28240402,
+    "id": 28240402,
     "nameTextMapHash": 44569455,
     "PMPMKOPBJHA": "Rusty Koi",
     "icon": "UI_ItemIcon_131012"
   },
   {
-    "PGKNKBKHCHM": 28240501,
+    "id": 28240501,
     "nameTextMapHash": 2696459679,
     "PMPMKOPBJHA": "Brown Shirakodai",
     "icon": "UI_ItemIcon_131013"
   },
   {
-    "PGKNKBKHCHM": 28240502,
+    "id": 28240502,
     "nameTextMapHash": 909166983,
     "PMPMKOPBJHA": "Purple Shirakodai",
     "icon": "UI_ItemIcon_131014"
   },
   {
-    "PGKNKBKHCHM": 28240503,
+    "id": 28240503,
     "nameTextMapHash": 1617846039,
     "PMPMKOPBJHA": "Tea-Colored Shirakodai",
     "icon": "UI_ItemIcon_131015"
   },
   {
-    "PGKNKBKHCHM": 28240504,
+    "id": 28240504,
     "nameTextMapHash": 4088930927,
     "PMPMKOPBJHA": "Abiding Angelfish",
     "icon": "UI_ItemIcon_131016"
   },
   {
-    "PGKNKBKHCHM": 28240505,
+    "id": 28240505,
     "nameTextMapHash": 2290337399,
     "PMPMKOPBJHA": "Raimei Angelfish",
     "icon": "UI_ItemIcon_131017"
   },
   {
-    "PGKNKBKHCHM": 28240506,
+    "id": 28240506,
     "nameTextMapHash": 3404134111,
     "PMPMKOPBJHA": "Moonfin",
     "icon": "UI_ItemIcon_131018"
   },
   {
-    "PGKNKBKHCHM": 28240601,
+    "id": 28240601,
     "nameTextMapHash": 3767917735,
     "PMPMKOPBJHA": "Pufferfish",
     "icon": "UI_ItemIcon_131019"
   },
   {
-    "PGKNKBKHCHM": 28240602,
+    "id": 28240602,
     "nameTextMapHash": 3375545327,
     "PMPMKOPBJHA": "Bitter Pufferfish",
     "icon": "UI_ItemIcon_131020"
   },
   {
-    "PGKNKBKHCHM": 28240701,
+    "id": 28240701,
     "nameTextMapHash": 2125109535,
     "PMPMKOPBJHA": "Divda Ray",
     "icon": "UI_ItemIcon_131021"
   },
   {
-    "PGKNKBKHCHM": 28240702,
+    "id": 28240702,
     "nameTextMapHash": 351294711,
     "PMPMKOPBJHA": "Formalo Ray",
     "icon": "UI_ItemIcon_131022"
   },
   {
-    "PGKNKBKHCHM": 28240801,
+    "id": 28240801,
     "nameTextMapHash": 3545099807,
     "PMPMKOPBJHA": "True Fruit Angler",
     "icon": "UI_ItemIcon_131023"
   },
   {
-    "PGKNKBKHCHM": 28240802,
+    "id": 28240802,
     "nameTextMapHash": 3166489199,
     "PMPMKOPBJHA": "Peach of the Deep Waves",
     "icon": "UI_ItemIcon_131024"
   },
   {
-    "PGKNKBKHCHM": 28240803,
+    "id": 28240803,
     "nameTextMapHash": 3065563431,
     "PMPMKOPBJHA": "Sandstorm Angler",
     "icon": "UI_ItemIcon_131025"
   },
   {
-    "PGKNKBKHCHM": 28240804,
+    "id": 28240804,
     "nameTextMapHash": 1557598871,
     "PMPMKOPBJHA": "Sunset Cloud Angler",
     "icon": "UI_ItemIcon_131026"
   },
   {
-    "PGKNKBKHCHM": 28240901,
+    "id": 28240901,
     "nameTextMapHash": 1969799079,
     "PMPMKOPBJHA": "Lazurite Axe Marlin",
     "icon": "UI_ItemIcon_131027"
   },
   {
-    "PGKNKBKHCHM": 28240902,
+    "id": 28240902,
     "nameTextMapHash": 1932088375,
     "PMPMKOPBJHA": "Halcyon Jade Axe Marlin",
     "icon": "UI_ItemIcon_131028"
   },
   {
-    "PGKNKBKHCHM": 28240903,
+    "id": 28240903,
     "nameTextMapHash": 492736863,
     "PMPMKOPBJHA": "Streaming Axe Marlin",
     "icon": "UI_ItemIcon_131029"
   },
   {
-    "PGKNKBKHCHM": 28241001,
+    "id": 28241001,
     "nameTextMapHash": 1393521767,
     "PMPMKOPBJHA": "Rippling Heartfeather Bass",
     "icon": "UI_ItemIcon_131030"
   },
   {
-    "PGKNKBKHCHM": 28241002,
+    "id": 28241002,
     "nameTextMapHash": 478715247,
     "PMPMKOPBJHA": "Blazing Heartfeather Bass",
     "icon": "UI_ItemIcon_131031"
   },
   {
-    "PGKNKBKHCHM": 28241101,
+    "id": 28241101,
     "nameTextMapHash": 695099191,
     "PMPMKOPBJHA": "Maintenance Mek: Initial Configuration",
     "icon": "UI_ItemIcon_131032"
   },
   {
-    "PGKNKBKHCHM": 28241102,
+    "id": 28241102,
     "nameTextMapHash": 1612585415,
     "PMPMKOPBJHA": "Maintenance Mek: Water Body Cleaner",
     "icon": "UI_ItemIcon_131033"
   },
   {
-    "PGKNKBKHCHM": 28241103,
+    "id": 28241103,
     "nameTextMapHash": 484850735,
     "PMPMKOPBJHA": "Maintenance Mek: Situation Controller",
     "icon": "UI_ItemIcon_131034"
   },
   {
-    "PGKNKBKHCHM": 28241104,
+    "id": 28241104,
     "nameTextMapHash": 3118430039,
     "PMPMKOPBJHA": "Maintenance Mek: Platinum Collection",
     "icon": "UI_ItemIcon_131035"
   },
   {
-    "PGKNKBKHCHM": 28250101,
+    "id": 28250101,
     "nameTextMapHash": 3775301575,
     "PMPMKOPBJHA": "Anemo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Wind_01"
   },
   {
-    "PGKNKBKHCHM": 28250102,
+    "id": 28250102,
     "nameTextMapHash": 2815984135,
     "PMPMKOPBJHA": "Geo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Rock_01"
   },
   {
-    "PGKNKBKHCHM": 28250103,
+    "id": 28250103,
     "nameTextMapHash": 3921163815,
     "PMPMKOPBJHA": "Cryo Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Ice_01"
   },
   {
-    "PGKNKBKHCHM": 28250104,
+    "id": 28250104,
     "nameTextMapHash": 4203456999,
     "PMPMKOPBJHA": "Electro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Electric_01"
   },
   {
-    "PGKNKBKHCHM": 28250105,
+    "id": 28250105,
     "nameTextMapHash": 3994212591,
     "PMPMKOPBJHA": "Coral Butterfly",
     "icon": "UI_AnimalIcon_Wisp_Tokoyo_01"
   },
   {
-    "PGKNKBKHCHM": 28250106,
+    "id": 28250106,
     "nameTextMapHash": 2848303671,
     "PMPMKOPBJHA": "Dendro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Grass_01"
   },
   {
-    "PGKNKBKHCHM": 28250107,
+    "id": 28250107,
     "nameTextMapHash": 2215347455,
     "PMPMKOPBJHA": "Hydro Crystalfly",
     "icon": "UI_AnimalIcon_Wisp_Water_01"
   },
   {
-    "PGKNKBKHCHM": 28250301,
+    "id": 28250301,
     "nameTextMapHash": 1324348423,
     "PMPMKOPBJHA": "Lucklight Fly",
     "icon": "UI_AnimalIcon_Boltbug_Lightbug_01"
   },
   {
-    "PGKNKBKHCHM": 28250401,
+    "id": 28250401,
     "nameTextMapHash": 2550947463,
     "PMPMKOPBJHA": "Scarab",
     "icon": "UI_AnimalIcon_Boltbug_Lightbug_01"
   },
   {
-    "PGKNKBKHCHM": 28250701,
+    "id": 28250701,
     "nameTextMapHash": 2131578999,
     "PMPMKOPBJHA": "Subdetection Unit",
     "icon": "UI_AnimalIcon_BoltBug_MachinaIustitia_01"

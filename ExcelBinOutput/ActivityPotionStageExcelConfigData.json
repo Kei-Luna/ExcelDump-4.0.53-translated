@@ -1,9 +1,9 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "LOGBHLAFFJA": 1,
+    "stageId": 1,
+    "openDay": 1,
     "NDEBNLCOOIE": 447,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15058001
       },
@@ -102,16 +102,16 @@
         "CDOIPGMKDFF": 24
       }
     ],
-    "ODFPNBBMHLK": 2760553325,
+    "titleTextMapHash": 2760553325,
     "HGOJDPCKIKP": "Dusty Wrack",
     "NFJAGFLMFLG": 1420313327,
     "GJOOPNNOPNJ": "This ruin is hidden amidst the mountains. The foes skulking in here are from different factions and pose an extreme threat."
   },
   {
-    "AODPMHOCMJN": 2,
-    "LOGBHLAFFJA": 3,
+    "stageId": 2,
+    "openDay": 3,
     "NDEBNLCOOIE": 449,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15058008
       },
@@ -210,16 +210,16 @@
         "CDOIPGMKDFF": 28
       }
     ],
-    "ODFPNBBMHLK": 1833627061,
+    "titleTextMapHash": 1833627061,
     "HGOJDPCKIKP": "Sealed Ruins",
     "NFJAGFLMFLG": 2929117791,
     "GJOOPNNOPNJ": "A long-lost ruin. The enemies within have grown wild and must be dealt with carefully."
   },
   {
-    "AODPMHOCMJN": 3,
-    "LOGBHLAFFJA": 5,
+    "stageId": 3,
+    "openDay": 5,
     "NDEBNLCOOIE": 451,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15058015
       },
@@ -318,7 +318,7 @@
         "CDOIPGMKDFF": 20
       }
     ],
-    "ODFPNBBMHLK": 372840093,
+    "titleTextMapHash": 372840093,
     "HGOJDPCKIKP": "Solitary Rampart",
     "NFJAGFLMFLG": 4077113335,
     "GJOOPNNOPNJ": "This unknown Domain is hidden deep underground and is filled with rare and powerful foes, making it unusually dangerous."

@@ -1,6 +1,6 @@
 [
   {
-    "ONJHLPJABCK": 2112,
+    "dungeonID": 2112,
     "CMCLFNNNLNL": 4,
     "GDHBBBJBMNF": "CustomLevelMap_1",
     "HBHINDEPAPB": 9437271082575460000,
@@ -11,7 +11,7 @@
     "KDJDDIOEEEB": "1,2;1,2;2,3"
   },
   {
-    "ONJHLPJABCK": 2113,
+    "dungeonID": 2113,
     "CMCLFNNNLNL": 2,
     "GDHBBBJBMNF": "CustomLevelMap_2",
     "HBHINDEPAPB": 3708003683116045000,
@@ -22,7 +22,7 @@
     "KDJDDIOEEEB": "1,2;2,3"
   },
   {
-    "ONJHLPJABCK": 2114,
+    "dungeonID": 2114,
     "CMCLFNNNLNL": 3,
     "GDHBBBJBMNF": "CustomLevelMap_3",
     "HBHINDEPAPB": 7940292303446815000,
@@ -33,7 +33,7 @@
     "KDJDDIOEEEB": "1,2;2,3;3,4"
   },
   {
-    "ONJHLPJABCK": 2115,
+    "dungeonID": 2115,
     "CMCLFNNNLNL": 1,
     "GDHBBBJBMNF": "CustomLevelMap_4",
     "HBHINDEPAPB": 14829454126744586000,
@@ -44,7 +44,7 @@
     "KDJDDIOEEEB": "1,2"
   },
   {
-    "ONJHLPJABCK": 2116,
+    "dungeonID": 2116,
     "CMCLFNNNLNL": 5,
     "GDHBBBJBMNF": "CustomLevelMap_5",
     "HBHINDEPAPB": 15108419644507695000,
@@ -55,7 +55,7 @@
     "KDJDDIOEEEB": ""
   },
   {
-    "ONJHLPJABCK": 2119,
+    "dungeonID": 2119,
     "CMCLFNNNLNL": 4,
     "GDHBBBJBMNF": "CustomLevelMap_1",
     "HBHINDEPAPB": 9437271082575460000,
@@ -66,7 +66,7 @@
     "KDJDDIOEEEB": "1,2;1,2;2,3"
   },
   {
-    "ONJHLPJABCK": 2120,
+    "dungeonID": 2120,
     "CMCLFNNNLNL": 2,
     "GDHBBBJBMNF": "CustomLevelMap_2",
     "HBHINDEPAPB": 3708003683116045000,
@@ -77,7 +77,7 @@
     "KDJDDIOEEEB": "1,2;2,3"
   },
   {
-    "ONJHLPJABCK": 2121,
+    "dungeonID": 2121,
     "CMCLFNNNLNL": 3,
     "GDHBBBJBMNF": "CustomLevelMap_3",
     "HBHINDEPAPB": 7940292303446815000,
@@ -88,7 +88,7 @@
     "KDJDDIOEEEB": "1,2;2,3;3,4"
   },
   {
-    "ONJHLPJABCK": 2122,
+    "dungeonID": 2122,
     "CMCLFNNNLNL": 1,
     "GDHBBBJBMNF": "CustomLevelMap_4",
     "HBHINDEPAPB": 14829454126744586000,
@@ -99,7 +99,7 @@
     "KDJDDIOEEEB": "1,2"
   },
   {
-    "ONJHLPJABCK": 2123,
+    "dungeonID": 2123,
     "CMCLFNNNLNL": 5,
     "GDHBBBJBMNF": "CustomLevelMap_5",
     "HBHINDEPAPB": 15108419644507695000,
@@ -110,7 +110,7 @@
     "KDJDDIOEEEB": ""
   },
   {
-    "ONJHLPJABCK": 9000,
+    "dungeonID": 9000,
     "CMCLFNNNLNL": 1,
     "GDHBBBJBMNF": "",
     "HBHINDEPAPB": 0,
@@ -121,7 +121,7 @@
     "KDJDDIOEEEB": ""
   },
   {
-    "ONJHLPJABCK": 9001,
+    "dungeonID": 9001,
     "CMCLFNNNLNL": 2,
     "GDHBBBJBMNF": "",
     "HBHINDEPAPB": 0,
@@ -132,7 +132,7 @@
     "KDJDDIOEEEB": ""
   },
   {
-    "ONJHLPJABCK": 9002,
+    "dungeonID": 9002,
     "CMCLFNNNLNL": 3,
     "GDHBBBJBMNF": "",
     "HBHINDEPAPB": 0,

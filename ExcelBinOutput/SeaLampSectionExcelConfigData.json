@@ -1,7 +1,7 @@
 [
   {
     "DJOCEHBHDAH": 1,
-    "DKFFECEOAKE": 2002,
+    "activityId": 2002,
     "GKJNDFLNKII": 7181910,
     "OKKIKONJIDK": [
       {
@@ -64,16 +64,16 @@
         "CDOIPGMKDFF": 1200219
       }
     ],
-    "OCHCPNIBIPF": 1834076162,
+    "descTextMapHash": 1834076162,
     "AJGMCFNDKEG": "Requirements: Complete <color=#FFCC33FF>\"The Origin of the Lanterns\"</color>",
-    "ODFPNBBMHLK": 3021504598,
+    "titleTextMapHash": 3021504598,
     "HGOJDPCKIKP": "Lantern Rite Tales I",
     "nameTextMapHash": 492687217,
     "PMPMKOPBJHA": "We've Only Just Begun"
   },
   {
     "DJOCEHBHDAH": 2,
-    "DKFFECEOAKE": 2002,
+    "activityId": 2002,
     "GKJNDFLNKII": 7182023,
     "OKKIKONJIDK": [
       {
@@ -136,16 +136,16 @@
         "CDOIPGMKDFF": 1200229
       }
     ],
-    "OCHCPNIBIPF": 2607518810,
+    "descTextMapHash": 2607518810,
     "AJGMCFNDKEG": "Requirements: Reach the <color=#FFCC33FF>\"Guests Flock From Afar\"</color> stage of Festive Fever, complete the quest <color=#FFCC33FF>\"Currents Deep Beneath the Lanterns\"</color>, and complete all requests under \"Lantern Rite Tales I\"",
-    "ODFPNBBMHLK": 3497461926,
+    "titleTextMapHash": 3497461926,
     "HGOJDPCKIKP": "Lantern Rite Tales II",
     "nameTextMapHash": 314591881,
     "PMPMKOPBJHA": "Guests Flock From Afar"
   },
   {
     "DJOCEHBHDAH": 3,
-    "DKFFECEOAKE": 2002,
+    "activityId": 2002,
     "GKJNDFLNKII": 7181519,
     "OKKIKONJIDK": [
       {
@@ -196,9 +196,9 @@
         "CDOIPGMKDFF": 1200241
       }
     ],
-    "OCHCPNIBIPF": 191236130,
+    "descTextMapHash": 191236130,
     "AJGMCFNDKEG": "Requirements: Reach the <color=#FFCC33FF>\"Glow of a Thousand Lanterns\"</color> stage of Festive Fever, complete the quest <color=#FFCC33FF>\"Light Upon the Sea\"</color>, and complete all requests under \"Lantern Rite Tales II\"",
-    "ODFPNBBMHLK": 3211738134,
+    "titleTextMapHash": 3211738134,
     "HGOJDPCKIKP": "Lantern Rite Tales III",
     "nameTextMapHash": 1125703753,
     "PMPMKOPBJHA": "Glow of a Thousand Lanterns"

@@ -3,7 +3,7 @@
     "BMLOHGDMIEM": 1,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 1,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_039",
+    "iconPath": "UI_Activity_Common_Buff_039",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -28,7 +28,7 @@
     "BMLOHGDMIEM": 2,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 1,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_039",
+    "iconPath": "UI_Activity_Common_Buff_039",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -53,7 +53,7 @@
     "BMLOHGDMIEM": 3,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 2,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_003",
+    "iconPath": "UI_Activity_Common_Buff_003",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -78,7 +78,7 @@
     "BMLOHGDMIEM": 4,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 2,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_003",
+    "iconPath": "UI_Activity_Common_Buff_003",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -103,7 +103,7 @@
     "BMLOHGDMIEM": 5,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 3,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_015",
+    "iconPath": "UI_Activity_Common_Buff_015",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 50
@@ -128,7 +128,7 @@
     "BMLOHGDMIEM": 6,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 3,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_015",
+    "iconPath": "UI_Activity_Common_Buff_015",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 50
@@ -153,7 +153,7 @@
     "BMLOHGDMIEM": 7,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 4,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_002",
+    "iconPath": "UI_Activity_Common_Buff_002",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -178,7 +178,7 @@
     "BMLOHGDMIEM": 8,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 4,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_002",
+    "iconPath": "UI_Activity_Common_Buff_002",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -203,7 +203,7 @@
     "BMLOHGDMIEM": 9,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 5,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_030",
+    "iconPath": "UI_Activity_Common_Buff_030",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -228,7 +228,7 @@
     "BMLOHGDMIEM": 10,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 5,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_030",
+    "iconPath": "UI_Activity_Common_Buff_030",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -253,7 +253,7 @@
     "BMLOHGDMIEM": 11,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 6,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_037",
+    "iconPath": "UI_Activity_Common_Buff_037",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -278,7 +278,7 @@
     "BMLOHGDMIEM": 12,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 6,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_037",
+    "iconPath": "UI_Activity_Common_Buff_037",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -303,7 +303,7 @@
     "BMLOHGDMIEM": 13,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 7,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "iconPath": "UI_Activity_Common_Buff_041",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 135
@@ -328,7 +328,7 @@
     "BMLOHGDMIEM": 14,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 7,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "iconPath": "UI_Activity_Common_Buff_041",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 270
@@ -353,7 +353,7 @@
     "BMLOHGDMIEM": 15,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 8,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_031",
+    "iconPath": "UI_Activity_Common_Buff_031",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -378,7 +378,7 @@
     "BMLOHGDMIEM": 16,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 8,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_031",
+    "iconPath": "UI_Activity_Common_Buff_031",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -403,7 +403,7 @@
     "BMLOHGDMIEM": 17,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 9,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_043",
+    "iconPath": "UI_Activity_Common_Buff_043",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 10
@@ -428,7 +428,7 @@
     "BMLOHGDMIEM": 18,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 9,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_043",
+    "iconPath": "UI_Activity_Common_Buff_043",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 20
@@ -453,7 +453,7 @@
     "BMLOHGDMIEM": 19,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 10,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "iconPath": "UI_Activity_Common_Buff_014",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 45
@@ -478,7 +478,7 @@
     "BMLOHGDMIEM": 20,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 10,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "iconPath": "UI_Activity_Common_Buff_014",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 90
@@ -503,7 +503,7 @@
     "BMLOHGDMIEM": 21,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 11,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_044",
+    "iconPath": "UI_Activity_Common_Buff_044",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -528,7 +528,7 @@
     "BMLOHGDMIEM": 22,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 11,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_044",
+    "iconPath": "UI_Activity_Common_Buff_044",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -553,7 +553,7 @@
     "BMLOHGDMIEM": 23,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 12,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_038",
+    "iconPath": "UI_Activity_Common_Buff_038",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -578,7 +578,7 @@
     "BMLOHGDMIEM": 24,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 12,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_038",
+    "iconPath": "UI_Activity_Common_Buff_038",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -603,7 +603,7 @@
     "BMLOHGDMIEM": 25,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 13,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "iconPath": "UI_Activity_Common_Buff_014",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 40
@@ -628,7 +628,7 @@
     "BMLOHGDMIEM": 26,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 13,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_014",
+    "iconPath": "UI_Activity_Common_Buff_014",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 80
@@ -653,7 +653,7 @@
     "BMLOHGDMIEM": 27,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 14,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_034",
+    "iconPath": "UI_Activity_Common_Buff_034",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -678,7 +678,7 @@
     "BMLOHGDMIEM": 28,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 14,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_034",
+    "iconPath": "UI_Activity_Common_Buff_034",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 5
@@ -703,7 +703,7 @@
     "BMLOHGDMIEM": 29,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 15,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_040",
+    "iconPath": "UI_Activity_Common_Buff_040",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 30
@@ -728,7 +728,7 @@
     "BMLOHGDMIEM": 30,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 15,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_040",
+    "iconPath": "UI_Activity_Common_Buff_040",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 60
@@ -753,7 +753,7 @@
     "BMLOHGDMIEM": 31,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 16,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "iconPath": "UI_Activity_Common_Buff_041",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 120
@@ -778,7 +778,7 @@
     "BMLOHGDMIEM": 32,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 16,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_041",
+    "iconPath": "UI_Activity_Common_Buff_041",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 240
@@ -803,7 +803,7 @@
     "BMLOHGDMIEM": 33,
     "CGKJHJAGGJD": 40,
     "CLAJONAEJAA": 17,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_035",
+    "iconPath": "UI_Activity_Common_Buff_035",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 50
@@ -828,7 +828,7 @@
     "BMLOHGDMIEM": 34,
     "CGKJHJAGGJD": 100,
     "CLAJONAEJAA": 17,
-    "HHKNLMAHBAO": "UI_Activity_Common_Buff_035",
+    "iconPath": "UI_Activity_Common_Buff_035",
     "HLAIHGHDAPD": [
       {
         "CDOIPGMKDFF": 50

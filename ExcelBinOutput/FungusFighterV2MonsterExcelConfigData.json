@@ -1,10 +1,10 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "FEBBCDEGNDN": 1,
     "PBMBNKJJEGN": 1,
     "CPFMHDIIILE": 36090191,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Gamma_Water",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Gamma_Water",
     "nameTextMapHash": 2317913440,
     "PMPMKOPBJHA": "Bongo-Head",
     "HHMPIBGBFPO": 1809608805,
@@ -23,11 +23,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "FEBBCDEGNDN": 8,
     "PBMBNKJJEGN": 4,
     "CPFMHDIIILE": 36090291,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Grass",
     "nameTextMapHash": 641978648,
     "PMPMKOPBJHA": "Magishroom",
     "HHMPIBGBFPO": 260731581,
@@ -46,11 +46,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "FEBBCDEGNDN": 3,
     "PBMBNKJJEGN": 2,
     "CPFMHDIIILE": 36090391,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Un_Delta_Wind",
     "nameTextMapHash": 3194781656,
     "PMPMKOPBJHA": "Twirly-Whirly",
     "HHMPIBGBFPO": 1628491629,
@@ -69,11 +69,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "FEBBCDEGNDN": 4,
     "PBMBNKJJEGN": 2,
     "CPFMHDIIILE": 36090491,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Epsilon_Electric",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Epsilon_Electric",
     "nameTextMapHash": 3075579696,
     "PMPMKOPBJHA": "Blitzara",
     "HHMPIBGBFPO": 542637197,
@@ -92,11 +92,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "FEBBCDEGNDN": 7,
     "PBMBNKJJEGN": 4,
     "CPFMHDIIILE": 36090591,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Alpha_Ice",
     "nameTextMapHash": 2245677168,
     "PMPMKOPBJHA": "Gusto-Frosto",
     "HHMPIBGBFPO": 3508915477,
@@ -115,11 +115,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "FEBBCDEGNDN": 6,
     "PBMBNKJJEGN": 3,
     "CPFMHDIIILE": 36090691,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Trois_Gamma_Fire",
     "nameTextMapHash": 3238277336,
     "PMPMKOPBJHA": "Kindlejoy",
     "HHMPIBGBFPO": 1327743365,
@@ -138,11 +138,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "FEBBCDEGNDN": 2,
     "PBMBNKJJEGN": 1,
     "CPFMHDIIILE": 36090791,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Alpha_Fire",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Alpha_Fire",
     "nameTextMapHash": 2395478832,
     "PMPMKOPBJHA": "Duelblaze",
     "HHMPIBGBFPO": 4093794797,
@@ -161,11 +161,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "FEBBCDEGNDN": 9,
     "PBMBNKJJEGN": 5,
     "CPFMHDIIILE": 36090891,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Epsilon_Wind",
     "nameTextMapHash": 1590777368,
     "PMPMKOPBJHA": "Stormstress",
     "HHMPIBGBFPO": 795392197,
@@ -184,11 +184,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "FEBBCDEGNDN": 5,
     "PBMBNKJJEGN": 2,
     "CPFMHDIIILE": 36090991,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Beta_Rock",
     "nameTextMapHash": 384790352,
     "PMPMKOPBJHA": "Rocksteady",
     "HHMPIBGBFPO": 1875404789,
@@ -207,11 +207,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "FEBBCDEGNDN": 10,
     "PBMBNKJJEGN": 5,
     "CPFMHDIIILE": 36091091,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Delta_Electric",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighter/UI_Icon_Fungus_Partner_Deux_Delta_Electric",
     "nameTextMapHash": 213991928,
     "PMPMKOPBJHA": "Stormsage",
     "HHMPIBGBFPO": 3993952597,

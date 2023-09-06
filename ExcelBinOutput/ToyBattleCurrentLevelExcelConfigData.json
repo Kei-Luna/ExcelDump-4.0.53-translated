@@ -1,7 +1,7 @@
 [
   {
     "MBKFJCNLKBI": 0,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240103,
     "OLOLDIHBOIA": 1,
     "AGBEGABMBDI": 2024,
@@ -13,7 +13,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024101
       },
@@ -24,7 +24,7 @@
         "CDOIPGMKDFF": 12024103
       }
     ],
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "PCCEHNBNJBD": [
       2
     ],
@@ -37,7 +37,7 @@
   },
   {
     "MBKFJCNLKBI": 1,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240101,
     "OLOLDIHBOIA": 2,
     "AGBEGABMBDI": 2024,
@@ -49,7 +49,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024111
       },
@@ -60,7 +60,7 @@
         "CDOIPGMKDFF": 12024113
       }
     ],
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "PCCEHNBNJBD": [
       2
     ],
@@ -73,7 +73,7 @@
   },
   {
     "MBKFJCNLKBI": 0,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240106,
     "OLOLDIHBOIA": 3,
     "AGBEGABMBDI": 2024,
@@ -85,7 +85,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024121
       },
@@ -96,7 +96,7 @@
         "CDOIPGMKDFF": 12024123
       }
     ],
-    "LOGBHLAFFJA": 3,
+    "openDay": 3,
     "PCCEHNBNJBD": [
       2
     ],
@@ -109,7 +109,7 @@
   },
   {
     "MBKFJCNLKBI": 1,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240105,
     "OLOLDIHBOIA": 4,
     "AGBEGABMBDI": 2024,
@@ -121,7 +121,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024131
       },
@@ -132,7 +132,7 @@
         "CDOIPGMKDFF": 12024133
       }
     ],
-    "LOGBHLAFFJA": 3,
+    "openDay": 3,
     "PCCEHNBNJBD": [
       2
     ],
@@ -145,7 +145,7 @@
   },
   {
     "MBKFJCNLKBI": 0,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240104,
     "OLOLDIHBOIA": 5,
     "AGBEGABMBDI": 2024,
@@ -157,7 +157,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024141
       },
@@ -168,7 +168,7 @@
         "CDOIPGMKDFF": 12024143
       }
     ],
-    "LOGBHLAFFJA": 5,
+    "openDay": 5,
     "PCCEHNBNJBD": [
       2
     ],
@@ -181,7 +181,7 @@
   },
   {
     "MBKFJCNLKBI": 1,
-    "PNAKJFCALEO": 13117,
+    "pushTipsID": 13117,
     "GHIHIPPKLMN": 20240102,
     "OLOLDIHBOIA": 6,
     "AGBEGABMBDI": 2024,
@@ -193,7 +193,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024151
       },
@@ -204,7 +204,7 @@
         "CDOIPGMKDFF": 12024153
       }
     ],
-    "LOGBHLAFFJA": 5,
+    "openDay": 5,
     "PCCEHNBNJBD": [
       2
     ],

@@ -1,9 +1,9 @@
 [
   {
-    "PGKNKBKHCHM": 1001,
-    "HHCCDHCMELE": 5152001,
+    "id": 1001,
+    "scheduleId": 5152001,
     "MCHOBJJJIKO": 60331,
-    "LJOGEEFJNGO": 640386854,
+    "tabNameTextMapHash": 640386854,
     "NGNALIMPALP": "I",
     "LEMEOOOLBOF": [
       {
@@ -30,10 +30,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1002,
-    "HHCCDHCMELE": 5152001,
+    "id": 1002,
+    "scheduleId": 5152001,
     "MCHOBJJJIKO": 60311,
-    "LJOGEEFJNGO": 1922354118,
+    "tabNameTextMapHash": 1922354118,
     "NGNALIMPALP": "II",
     "LEMEOOOLBOF": [
       {
@@ -51,10 +51,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1003,
-    "HHCCDHCMELE": 5152001,
+    "id": 1003,
+    "scheduleId": 5152001,
     "MCHOBJJJIKO": 60321,
-    "LJOGEEFJNGO": 1209883830,
+    "tabNameTextMapHash": 1209883830,
     "NGNALIMPALP": "III",
     "LEMEOOOLBOF": [
       {
@@ -72,10 +72,10 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1004,
-    "HHCCDHCMELE": 5152001,
+    "id": 1004,
+    "scheduleId": 5152001,
     "MCHOBJJJIKO": 60301,
-    "LJOGEEFJNGO": 783107198,
+    "tabNameTextMapHash": 783107198,
     "NGNALIMPALP": "IV",
     "LEMEOOOLBOF": [
       {

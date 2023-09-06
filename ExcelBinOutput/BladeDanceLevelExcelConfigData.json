@@ -1,12 +1,12 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "HNLFNPCMHDF": 2,
     "BIPPJBEDKNN": 15,
     "DMFAOJKMKAG": 150,
     "KAPCFEAIGOP": 13100,
     "DBPDKBEBDIB": 235914001,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023301
       },
@@ -17,7 +17,7 @@
         "CDOIPGMKDFF": 12023303
       }
     ],
-    "MIIMBBAKNPK": [
+    "buffList": [
       {
         "CDOIPGMKDFF": 1
       },
@@ -31,13 +31,13 @@
     "MADNOJNDELK": "When the prelude to a clash of arms begins, the ones who shall take the stage focus their intent on their weapons, welcoming the banquet of battle with absolute poise and calm."
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "HNLFNPCMHDF": 3,
     "BIPPJBEDKNN": 15,
     "DMFAOJKMKAG": 150,
     "KAPCFEAIGOP": 13100,
     "DBPDKBEBDIB": 235915002,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023311
       },
@@ -48,7 +48,7 @@
         "CDOIPGMKDFF": 12023313
       }
     ],
-    "MIIMBBAKNPK": [
+    "buffList": [
       {
         "CDOIPGMKDFF": 1
       },
@@ -62,13 +62,13 @@
     "MADNOJNDELK": "Each new opponent is a touchstone. Worthy foes are not frustrated by the other side's tireless attacks, but will maintain their form and sharpen their spirit..."
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "HNLFNPCMHDF": 4,
     "BIPPJBEDKNN": 15,
     "DMFAOJKMKAG": 150,
     "KAPCFEAIGOP": 13100,
     "DBPDKBEBDIB": 235916002,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023321
       },
@@ -79,7 +79,7 @@
         "CDOIPGMKDFF": 12023323
       }
     ],
-    "MIIMBBAKNPK": [
+    "buffList": [
       {
         "CDOIPGMKDFF": 1
       },
@@ -93,13 +93,13 @@
     "MADNOJNDELK": "When one's spirit is as keen as can be, you shall burn bright at center stage. At this time, the minutiae of your techniques will cease to matter. Rather, unleash your desire for battle to the fullest extent — let the stage burn!"
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "HNLFNPCMHDF": 4,
     "BIPPJBEDKNN": 15,
     "DMFAOJKMKAG": 150,
     "KAPCFEAIGOP": 13100,
     "DBPDKBEBDIB": 235917002,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12023331
       },
@@ -110,7 +110,7 @@
         "CDOIPGMKDFF": 12023333
       }
     ],
-    "MIIMBBAKNPK": [
+    "buffList": [
       {
         "CDOIPGMKDFF": 1
       },

@@ -1,6 +1,6 @@
 [
   {
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "CKADNKCGEIE": 0,
     "GHNNKDNHDKA": 1,
     "JMNKEOFKOBJ": [
@@ -17,11 +17,11 @@
         "CDOIPGMKDFF": 4
       }
     ],
-    "KJNIJNGLHDJ": 1386471552,
+    "levelTitleTextMapHash": 1386471552,
     "KGGEJLPHNKC": "Shelter of Fragrance and Lilies"
   },
   {
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "CKADNKCGEIE": 1,
     "GHNNKDNHDKA": 2,
     "JMNKEOFKOBJ": [
@@ -38,11 +38,11 @@
         "CDOIPGMKDFF": 8
       }
     ],
-    "KJNIJNGLHDJ": 1112008520,
+    "levelTitleTextMapHash": 1112008520,
     "KGGEJLPHNKC": "Withered Vessel, Hollowed Mind"
   },
   {
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "CKADNKCGEIE": 2,
     "GHNNKDNHDKA": 3,
     "JMNKEOFKOBJ": [
@@ -59,11 +59,11 @@
         "CDOIPGMKDFF": 12
       }
     ],
-    "KJNIJNGLHDJ": 3621590904,
+    "levelTitleTextMapHash": 3621590904,
     "KGGEJLPHNKC": "A Pilgrimage Upon Blade's Edge"
   },
   {
-    "MGGPNIDOBGF": 4,
+    "levelId": 4,
     "CKADNKCGEIE": 3,
     "GHNNKDNHDKA": 4,
     "JMNKEOFKOBJ": [
@@ -80,11 +80,11 @@
         "CDOIPGMKDFF": 16
       }
     ],
-    "KJNIJNGLHDJ": 3308424096,
+    "levelTitleTextMapHash": 3308424096,
     "KGGEJLPHNKC": "Silenced Percussion"
   },
   {
-    "MGGPNIDOBGF": 5,
+    "levelId": 5,
     "CKADNKCGEIE": 4,
     "GHNNKDNHDKA": 5,
     "JMNKEOFKOBJ": [
@@ -101,11 +101,11 @@
         "CDOIPGMKDFF": 20
       }
     ],
-    "KJNIJNGLHDJ": 2186995456,
+    "levelTitleTextMapHash": 2186995456,
     "KGGEJLPHNKC": "That Which Lingers"
   },
   {
-    "MGGPNIDOBGF": 6,
+    "levelId": 6,
     "CKADNKCGEIE": 5,
     "GHNNKDNHDKA": 6,
     "JMNKEOFKOBJ": [
@@ -122,7 +122,7 @@
         "CDOIPGMKDFF": 24
       }
     ],
-    "KJNIJNGLHDJ": 3257727872,
+    "levelTitleTextMapHash": 3257727872,
     "KGGEJLPHNKC": "Cacophony of the Tunigi Catastrophe"
   }
 ]

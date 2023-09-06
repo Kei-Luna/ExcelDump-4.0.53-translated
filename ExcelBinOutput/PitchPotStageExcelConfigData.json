@@ -1,10 +1,10 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "BCJEBPNJNLN": 61001,
-    "ODFPNBBMHLK": 1354703644,
+    "stageId": 1,
+    "galleryId": 61001,
+    "titleTextMapHash": 1354703644,
     "HGOJDPCKIKP": "Hundred-Pace Hurling Rites: I",
-    "PNAKJFCALEO": 13163,
+    "pushTipsID": 13163,
     "LAMOFJCHHBL": 15401254541601526000,
     "LNFLJOACIFK": [
       {
@@ -28,17 +28,17 @@
         "CDOIPGMKDFF": 12025303
       }
     ],
-    "KJEIIDAPBOO": 12001,
+    "draftId": 12001,
     "ONKEEOCIJOE": 100901,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "JEBCNLNHJIK": 14
   },
   {
-    "AODPMHOCMJN": 2,
-    "BCJEBPNJNLN": 61002,
-    "ODFPNBBMHLK": 1685910852,
+    "stageId": 2,
+    "galleryId": 61002,
+    "titleTextMapHash": 1685910852,
     "HGOJDPCKIKP": "Hundred-Pace Hurling Rites: II",
-    "PNAKJFCALEO": 13164,
+    "pushTipsID": 13164,
     "LAMOFJCHHBL": 14113670859143471000,
     "LNFLJOACIFK": [
       {
@@ -68,17 +68,17 @@
         "CDOIPGMKDFF": 12025306
       }
     ],
-    "KJEIIDAPBOO": 12002,
+    "draftId": 12002,
     "ONKEEOCIJOE": 100902,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "JEBCNLNHJIK": 14
   },
   {
-    "AODPMHOCMJN": 3,
-    "BCJEBPNJNLN": 61003,
-    "ODFPNBBMHLK": 427558684,
+    "stageId": 3,
+    "galleryId": 61003,
+    "titleTextMapHash": 427558684,
     "HGOJDPCKIKP": "Hundred-Pace Hurling Rites: III",
-    "PNAKJFCALEO": 13165,
+    "pushTipsID": 13165,
     "LAMOFJCHHBL": 2624128299173404700,
     "LNFLJOACIFK": [
       {
@@ -111,17 +111,17 @@
         "CDOIPGMKDFF": 12025309
       }
     ],
-    "KJEIIDAPBOO": 12003,
+    "draftId": 12003,
     "ONKEEOCIJOE": 100903,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "JEBCNLNHJIK": 14
   },
   {
-    "AODPMHOCMJN": 4,
-    "BCJEBPNJNLN": 61004,
-    "ODFPNBBMHLK": 2363059700,
+    "stageId": 4,
+    "galleryId": 61004,
+    "titleTextMapHash": 2363059700,
     "HGOJDPCKIKP": "Hundred-Pace Hurling Rites: IV",
-    "PNAKJFCALEO": 13166,
+    "pushTipsID": 13166,
     "LAMOFJCHHBL": 323054802914553860,
     "LNFLJOACIFK": [
       {
@@ -157,17 +157,17 @@
         "CDOIPGMKDFF": 12025312
       }
     ],
-    "KJEIIDAPBOO": 12004,
+    "draftId": 12004,
     "ONKEEOCIJOE": 100904,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "JEBCNLNHJIK": 14
   },
   {
-    "AODPMHOCMJN": 5,
-    "BCJEBPNJNLN": 61005,
-    "ODFPNBBMHLK": 2554423652,
+    "stageId": 5,
+    "galleryId": 61005,
+    "titleTextMapHash": 2554423652,
     "HGOJDPCKIKP": "Hundred-Pace Hurling Rites: Ritual Stage",
-    "PNAKJFCALEO": 13167,
+    "pushTipsID": 13167,
     "LAMOFJCHHBL": 5043652256522963000,
     "LNFLJOACIFK": [
       {
@@ -206,9 +206,9 @@
         "CDOIPGMKDFF": 12025315
       }
     ],
-    "KJEIIDAPBOO": 12005,
+    "draftId": 12005,
     "ONKEEOCIJOE": 100905,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "JEBCNLNHJIK": 14
   }
 ]

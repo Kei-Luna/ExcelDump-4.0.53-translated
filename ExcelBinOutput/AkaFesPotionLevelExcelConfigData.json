@@ -1,12 +1,12 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
-    "KJNIJNGLHDJ": 3491686080,
+    "id": 1,
+    "openDay": 1,
+    "levelTitleTextMapHash": 3491686080,
     "KGGEJLPHNKC": "Concocted Reaction: Part I",
-    "FFBHECLIMOH": 2638859760,
+    "levelDescTextMapHash": 2638859760,
     "OGHIHPCCIHM": "This Domain is hogged by hilichurls. According to other adventurer reports, there are even huge automatons... The appropriate application of concoctions will be necessary to defeat them.",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12021301
       },
@@ -17,7 +17,7 @@
         "CDOIPGMKDFF": 12021303
       }
     ],
-    "PDHFANIOLKO": 3066,
+    "dungeonId": 3066,
     "HPGJINOMDKJ": [
       {
         "CDOIPGMKDFF": 40101
@@ -88,13 +88,13 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 5,
-    "KJNIJNGLHDJ": 4105601688,
+    "id": 2,
+    "openDay": 5,
+    "levelTitleTextMapHash": 4105601688,
     "KGGEJLPHNKC": "Concocted Reaction: Part II",
-    "FFBHECLIMOH": 3295734072,
+    "levelDescTextMapHash": 3295734072,
     "OGHIHPCCIHM": "Large quantities of Fungi are occupying this Domain! One must use concoctions wisely to defeat them swiftly.",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12021304
       },
@@ -105,7 +105,7 @@
         "CDOIPGMKDFF": 12021306
       }
     ],
-    "PDHFANIOLKO": 3064,
+    "dungeonId": 3064,
     "HPGJINOMDKJ": [
       {
         "CDOIPGMKDFF": 61201
@@ -179,13 +179,13 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 7,
-    "KJNIJNGLHDJ": 2089478560,
+    "id": 3,
+    "openDay": 7,
+    "levelTitleTextMapHash": 2089478560,
     "KGGEJLPHNKC": "Concocted Reaction: Part III",
-    "FFBHECLIMOH": 2676121632,
+    "levelDescTextMapHash": 2676121632,
     "OGHIHPCCIHM": "Eremites and Treasure Hoarders are wandering in this Domain. Perhaps they believe that treasures that are worth risking their lives are hidden within... Defeat them by using concoctions accordingly.",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12021307
       },
@@ -196,7 +196,7 @@
         "CDOIPGMKDFF": 12021309
       }
     ],
-    "PDHFANIOLKO": 3065,
+    "dungeonId": 3065,
     "HPGJINOMDKJ": [
       {
         "CDOIPGMKDFF": 53101

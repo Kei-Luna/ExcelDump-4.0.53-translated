@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "GHIHIPPKLMN": 20090301,
     "EIAJBMPNOHH": [
       {
@@ -42,7 +42,7 @@
   },
   {
     "id": 2,
-    "LOGBHLAFFJA": 4,
+    "openDay": 4,
     "GHIHIPPKLMN": 20090302,
     "EIAJBMPNOHH": [
       {
@@ -83,7 +83,7 @@
   },
   {
     "id": 3,
-    "LOGBHLAFFJA": 7,
+    "openDay": 7,
     "GHIHIPPKLMN": 20090303,
     "EIAJBMPNOHH": [
       {
@@ -127,7 +127,7 @@
   },
   {
     "id": 4,
-    "LOGBHLAFFJA": 10,
+    "openDay": 10,
     "GHIHIPPKLMN": 20090304,
     "EIAJBMPNOHH": [
       {

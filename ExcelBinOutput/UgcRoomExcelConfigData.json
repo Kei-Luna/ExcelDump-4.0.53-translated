@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_01",
+    "prefabPath": "SceneObj_UGC_V2_Config_01",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01a_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01a_City",
     "KPDNCICLOBC": 20,
@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_02",
+    "prefabPath": "SceneObj_UGC_V2_Config_02",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01b_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01b_City",
     "KPDNCICLOBC": 20,
@@ -47,7 +47,7 @@
   },
   {
     "id": 3,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_03",
+    "prefabPath": "SceneObj_UGC_V2_Config_03",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01c_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01c_City",
     "KPDNCICLOBC": 20,
@@ -70,7 +70,7 @@
   },
   {
     "id": 4,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_04",
+    "prefabPath": "SceneObj_UGC_V2_Config_04",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01d_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01d_City",
     "KPDNCICLOBC": 20,
@@ -93,7 +93,7 @@
   },
   {
     "id": 5,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_05",
+    "prefabPath": "SceneObj_UGC_V2_Config_05",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01e_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01e_City",
     "KPDNCICLOBC": 20,
@@ -116,7 +116,7 @@
   },
   {
     "id": 6,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_06",
+    "prefabPath": "SceneObj_UGC_V2_Config_06",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01f_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01f_City",
     "KPDNCICLOBC": 20,
@@ -139,7 +139,7 @@
   },
   {
     "id": 7,
-    "HADEKKDJOMM": "SceneObj_UGC_V2_Config_07",
+    "prefabPath": "SceneObj_UGC_V2_Config_07",
     "LBHBHGFIHDL": "Area_LevelUgcEdit01g_City",
     "DLIPNNIJGPK": "Area_LevelUgcPlay01g_City",
     "KPDNCICLOBC": 20,

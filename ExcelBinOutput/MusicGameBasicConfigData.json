@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "NKLFLJDJJBK": 1,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "XiaoGong_Easy",
@@ -12,7 +12,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1362
       },
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "NKLFLJDJJBK": 1,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "XiaoGong_Normal",
@@ -110,7 +110,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1685
       },
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "NKLFLJDJJBK": 1,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "XiaoGong_Hard",
@@ -208,7 +208,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2480
       },
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "NKLFLJDJJBK": 2,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "YiDou_Easy",
@@ -306,7 +306,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1375
       },
@@ -392,7 +392,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "NKLFLJDJJBK": 2,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "YiDou_Normal",
@@ -404,7 +404,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1817
       },
@@ -490,7 +490,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "NKLFLJDJJBK": 2,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "YiDou_Hard",
@@ -502,7 +502,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2342
       },
@@ -588,7 +588,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "NKLFLJDJJBK": 3,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "WanYe_Easy",
@@ -600,7 +600,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1335
       },
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "NKLFLJDJJBK": 3,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "WanYe_Normal",
@@ -714,7 +714,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1870
       },
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "NKLFLJDJJBK": 3,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "WanYe_Hard",
@@ -828,7 +828,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2410
       },
@@ -930,7 +930,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "NKLFLJDJJBK": 4,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "TuoMa_Easy",
@@ -942,7 +942,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1055
       },
@@ -1028,7 +1028,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "NKLFLJDJJBK": 4,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "TuoMa_Normal",
@@ -1040,7 +1040,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1387
       },
@@ -1126,7 +1126,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "NKLFLJDJJBK": 4,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "TuoMa_Hard",
@@ -1138,7 +1138,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1777
       },
@@ -1224,7 +1224,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "NKLFLJDJJBK": 5,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "KeLi_Easy",
@@ -1236,7 +1236,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1075
       },
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "NKLFLJDJJBK": 5,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "KeLi_Normal",
@@ -1390,7 +1390,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1575
       },
@@ -1532,7 +1532,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 15,
+    "id": 15,
     "NKLFLJDJJBK": 5,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "KeLi_Hard",
@@ -1544,7 +1544,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2320
       },
@@ -1686,7 +1686,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 16,
+    "id": 16,
     "NKLFLJDJJBK": 6,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "ReTuoLongWang_Easy",
@@ -1698,7 +1698,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1112
       },
@@ -1784,7 +1784,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 17,
+    "id": 17,
     "NKLFLJDJJBK": 6,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "ReTuoLongWang_Normal",
@@ -1796,7 +1796,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1635
       },
@@ -1882,7 +1882,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 18,
+    "id": 18,
     "NKLFLJDJJBK": 6,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "ReTuoLongWang_Hard",
@@ -1894,7 +1894,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2252
       },
@@ -1980,7 +1980,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 19,
+    "id": 19,
     "NKLFLJDJJBK": 7,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "LeiShen_Easy",
@@ -1992,7 +1992,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1192
       },
@@ -2078,7 +2078,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 20,
+    "id": 20,
     "NKLFLJDJJBK": 7,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "LeiShen_Normal",
@@ -2090,7 +2090,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1750
       },
@@ -2176,7 +2176,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 21,
+    "id": 21,
     "NKLFLJDJJBK": 7,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "LeiShen_Hard",
@@ -2188,7 +2188,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2457
       },
@@ -2274,7 +2274,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 22,
+    "id": 22,
     "NKLFLJDJJBK": 8,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "FleurFair_Easy",
@@ -2286,7 +2286,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1007
       },
@@ -2380,7 +2380,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 23,
+    "id": 23,
     "NKLFLJDJJBK": 8,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "FleurFair_Normal",
@@ -2392,7 +2392,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1800
       },
@@ -2486,7 +2486,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 24,
+    "id": 24,
     "NKLFLJDJJBK": 8,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "FleurFair_Hard",
@@ -2498,7 +2498,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1992
       },
@@ -2592,7 +2592,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 25,
+    "id": 25,
     "NKLFLJDJJBK": 9,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Albedo_Easy",
@@ -2604,7 +2604,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1657
       },
@@ -2730,7 +2730,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 26,
+    "id": 26,
     "NKLFLJDJJBK": 9,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Albedo_Normal",
@@ -2742,7 +2742,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2547
       },
@@ -2868,7 +2868,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 27,
+    "id": 27,
     "NKLFLJDJJBK": 9,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Albedo_Hard",
@@ -2880,7 +2880,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2877
       },
@@ -3006,7 +3006,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 28,
+    "id": 28,
     "NKLFLJDJJBK": 10,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Eula_Easy",
@@ -3018,7 +3018,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1432
       },
@@ -3112,7 +3112,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 29,
+    "id": 29,
     "NKLFLJDJJBK": 10,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Eula_Normal",
@@ -3124,7 +3124,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 3030
       },
@@ -3218,7 +3218,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 30,
+    "id": 30,
     "NKLFLJDJJBK": 10,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Eula_Hard",
@@ -3230,7 +3230,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 3645
       },
@@ -3324,7 +3324,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 31,
+    "id": 31,
     "NKLFLJDJJBK": 11,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Stormterro_Easy",
@@ -3336,7 +3336,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2090
       },
@@ -3478,7 +3478,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 32,
+    "id": 32,
     "NKLFLJDJJBK": 11,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Stormterro_Normal",
@@ -3490,7 +3490,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2800
       },
@@ -3632,7 +3632,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 33,
+    "id": 33,
     "NKLFLJDJJBK": 11,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Stormterro_Hard",
@@ -3644,7 +3644,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 3500
       },
@@ -3786,7 +3786,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 34,
+    "id": 34,
     "NKLFLJDJJBK": 12,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Collei_Easy",
@@ -3798,7 +3798,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1190
       },
@@ -3892,7 +3892,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 35,
+    "id": 35,
     "NKLFLJDJJBK": 12,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Collei_Normal",
@@ -3904,7 +3904,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 1807
       },
@@ -3998,7 +3998,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 36,
+    "id": 36,
     "NKLFLJDJJBK": 12,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Collei_Hard",
@@ -4010,7 +4010,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2607
       },
@@ -4104,7 +4104,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 37,
+    "id": 37,
     "NKLFLJDJJBK": 13,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Tignari_Easy",
@@ -4116,7 +4116,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 980
       },
@@ -4218,7 +4218,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 38,
+    "id": 38,
     "NKLFLJDJJBK": 13,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Tignari_Normal",
@@ -4230,7 +4230,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2355
       },
@@ -4332,7 +4332,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 39,
+    "id": 39,
     "NKLFLJDJJBK": 13,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Tignari_Hard",
@@ -4344,7 +4344,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2742
       },
@@ -4446,7 +4446,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 40,
+    "id": 40,
     "NKLFLJDJJBK": 14,
     "DNMGGOMMGIG": 1,
     "EBMGFLMGPLF": "Venti_Easy",
@@ -4458,7 +4458,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2017
       },
@@ -4576,7 +4576,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 41,
+    "id": 41,
     "NKLFLJDJJBK": 14,
     "DNMGGOMMGIG": 2,
     "EBMGFLMGPLF": "Venti_Normal",
@@ -4588,7 +4588,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 2797
       },
@@ -4706,7 +4706,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 42,
+    "id": 42,
     "NKLFLJDJJBK": 14,
     "DNMGGOMMGIG": 3,
     "EBMGFLMGPLF": "Venti_Hard",
@@ -4718,7 +4718,7 @@
     "NBJNFBGLNPP": 1300,
     "KBAMEIKDJKG": 150,
     "JDAHKIMHNEK": 0,
-    "MNDKAMMMOOM": [
+    "scoreLevelList": [
       {
         "CDOIPGMKDFF": 3120
       },

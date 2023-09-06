@@ -1,8 +1,8 @@
 [
   {
-    "HHCCDHCMELE": 5099001,
+    "scheduleId": 5099001,
     "FAAJCHKKAOC": 3,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1509901
       },
@@ -45,9 +45,9 @@
     ]
   },
   {
-    "HHCCDHCMELE": 5141001,
+    "scheduleId": 5141001,
     "FAAJCHKKAOC": 3,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1514101
       },

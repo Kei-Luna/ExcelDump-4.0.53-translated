@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "GHIHIPPKLMN": 20150121,
     "NNOOCNLCODC": [
       {
@@ -25,16 +25,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 1851173796,
+    "levelNameTextMapHash": 1851173796,
     "JDNCJPOGDKN": "I",
-    "FFBHECLIMOH": 1693954602,
+    "levelDescTextMapHash": 1693954602,
     "OGHIHPCCIHM": "Over the Broken Bridge",
     "FCGLJOOLLNO": 3199211908,
     "ACNEFIBOAON": "Use the wind currents to deploy your wind glider"
   },
   {
     "id": 2,
-    "LOGBHLAFFJA": 3,
+    "openDay": 3,
     "GHIHIPPKLMN": 20150122,
     "NNOOCNLCODC": [
       {
@@ -58,16 +58,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 3258017388,
+    "levelNameTextMapHash": 3258017388,
     "JDNCJPOGDKN": "II",
-    "FFBHECLIMOH": 52956962,
+    "levelDescTextMapHash": 52956962,
     "OGHIHPCCIHM": "Down the Lone Path",
     "FCGLJOOLLNO": 1284707460,
     "ACNEFIBOAON": "Use the highly bouncy giant mushrooms on the ground"
   },
   {
     "id": 3,
-    "LOGBHLAFFJA": 4,
+    "openDay": 4,
     "GHIHIPPKLMN": 20150123,
     "NNOOCNLCODC": [
       {
@@ -91,16 +91,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 1808087220,
+    "levelNameTextMapHash": 1808087220,
     "JDNCJPOGDKN": "III",
-    "FFBHECLIMOH": 1440950282,
+    "levelDescTextMapHash": 1440950282,
     "OGHIHPCCIHM": "Landing Magpie",
     "FCGLJOOLLNO": 2124649892,
     "ACNEFIBOAON": "Use the wind currents to avoid falling"
   },
   {
     "id": 4,
-    "LOGBHLAFFJA": 5,
+    "openDay": 5,
     "GHIHIPPKLMN": 20150124,
     "NNOOCNLCODC": [
       {
@@ -124,16 +124,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 2009113748,
+    "levelNameTextMapHash": 2009113748,
     "JDNCJPOGDKN": "IV",
-    "FFBHECLIMOH": 2283298362,
+    "levelDescTextMapHash": 2283298362,
     "OGHIHPCCIHM": "Leaping Tiger",
     "FCGLJOOLLNO": 123279988,
     "ACNEFIBOAON": "Use the wind currents to avoid falling"
   },
   {
     "id": 5,
-    "LOGBHLAFFJA": 6,
+    "openDay": 6,
     "GHIHIPPKLMN": 20150125,
     "NNOOCNLCODC": [
       {
@@ -157,16 +157,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 2255241308,
+    "levelNameTextMapHash": 2255241308,
     "JDNCJPOGDKN": "V",
-    "FFBHECLIMOH": 2933359778,
+    "levelDescTextMapHash": 2933359778,
     "OGHIHPCCIHM": "Against the Flow",
     "FCGLJOOLLNO": 651496844,
     "ACNEFIBOAON": "Observe the location of the Adventure Coins carefully"
   },
   {
     "id": 6,
-    "LOGBHLAFFJA": 7,
+    "openDay": 7,
     "GHIHIPPKLMN": 20150126,
     "NNOOCNLCODC": [
       {
@@ -190,16 +190,16 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 196300924,
+    "levelNameTextMapHash": 196300924,
     "JDNCJPOGDKN": "VI",
-    "FFBHECLIMOH": 4185213362,
+    "levelDescTextMapHash": 4185213362,
     "OGHIHPCCIHM": "Tranquil Ruins",
     "FCGLJOOLLNO": 526922644,
     "ACNEFIBOAON": "Observe the location of the Adventure Coins carefully"
   },
   {
     "id": 7,
-    "LOGBHLAFFJA": 8,
+    "openDay": 8,
     "GHIHIPPKLMN": 20150127,
     "NNOOCNLCODC": [
       {
@@ -223,9 +223,9 @@
         "CDOIPGMKDFF": 3000
       }
     ],
-    "GLIALHMPJCP": 2244961036,
+    "levelNameTextMapHash": 2244961036,
     "JDNCJPOGDKN": "VII",
-    "FFBHECLIMOH": 2092900866,
+    "levelDescTextMapHash": 2092900866,
     "OGHIHPCCIHM": "A Drifting Leaf",
     "FCGLJOOLLNO": 3032812092,
     "ACNEFIBOAON": "Use the wind currents to avoid falling"

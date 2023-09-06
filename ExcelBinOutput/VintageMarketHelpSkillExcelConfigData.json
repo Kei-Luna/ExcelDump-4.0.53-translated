@@ -5,7 +5,7 @@
     "MAHNBOMIAPA": "Increase Product Quality by {0}%",
     "HBFFJKIDHKP": {
       "type": 5,
-      "FBALGDAGHLJ": "1;30"
+      "param": "1;30"
     }
   },
   {
@@ -14,7 +14,7 @@
     "MAHNBOMIAPA": "Increase Business Efficiency by {0}%",
     "HBFFJKIDHKP": {
       "type": 5,
-      "FBALGDAGHLJ": "2;30"
+      "param": "2;30"
     }
   },
   {
@@ -23,7 +23,7 @@
     "MAHNBOMIAPA": "Increase Holistic Service by {0}%",
     "HBFFJKIDHKP": {
       "type": 5,
-      "FBALGDAGHLJ": "3;30"
+      "param": "3;30"
     }
   }
 ]

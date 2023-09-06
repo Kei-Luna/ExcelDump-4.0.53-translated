@@ -1,20 +1,20 @@
 [
   {
-    "NEHBNAOAPAI": 1,
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
     "AKINAIIEDFH": 1,
     "NOADLODKFHH": 49,
     "HHMPIBGBFPO": 3267770377,
     "NHIEOOCGJGH": "Standard Operation Condition | Score Multiplier ×{0}"
   },
   {
-    "NEHBNAOAPAI": 2,
+    "difficulty": "DUEL_HEART_DIFFICULTY_HARD",
     "AKINAIIEDFH": 2,
     "NOADLODKFHH": 69,
     "HHMPIBGBFPO": 2265591937,
     "NHIEOOCGJGH": "Complex Operation Condition | Score Multiplier ×{0}"
   },
   {
-    "NEHBNAOAPAI": 3,
+    "difficulty": "DUEL_HEART_DIFFICULTY_MASTER",
     "AKINAIIEDFH": 4,
     "NOADLODKFHH": 89,
     "HHMPIBGBFPO": 914270089,

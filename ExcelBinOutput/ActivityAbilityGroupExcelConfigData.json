@@ -1,131 +1,131 @@
 [
   {
-    "EAPMBDGHKMC": 1,
+    "index": 1,
     "nameTextMapHash": 3008118213,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 2,
+    "index": 2,
     "nameTextMapHash": 3008458653,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 3,
+    "index": 3,
     "nameTextMapHash": 1638271837,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 4,
+    "index": 4,
     "nameTextMapHash": 640083085,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 5,
+    "index": 5,
     "nameTextMapHash": 335916733,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 6,
+    "index": 6,
     "nameTextMapHash": 550339981,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 7,
+    "index": 7,
     "nameTextMapHash": 1538947245,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 8,
+    "index": 8,
     "nameTextMapHash": 4003717693,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 9,
+    "index": 9,
     "nameTextMapHash": 2708926541,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 10,
+    "index": 10,
     "nameTextMapHash": 4233342277,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 11,
+    "index": 11,
     "nameTextMapHash": 46968813,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 12,
+    "index": 12,
     "nameTextMapHash": 3144402021,
     "PMPMKOPBJHA": ""
   },
   {
-    "EAPMBDGHKMC": 13,
+    "index": 13,
     "nameTextMapHash": 3273340957,
     "PMPMKOPBJHA": "Pyro RES increased by 40%."
   },
   {
-    "EAPMBDGHKMC": 14,
+    "index": 14,
     "nameTextMapHash": 2375275557,
     "PMPMKOPBJHA": "DEF increased by 50%."
   },
   {
-    "EAPMBDGHKMC": 15,
+    "index": 15,
     "nameTextMapHash": 923436573,
     "PMPMKOPBJHA": "Shield Strength increased by 50%."
   },
   {
-    "EAPMBDGHKMC": 16,
+    "index": 16,
     "nameTextMapHash": 396640573,
     "PMPMKOPBJHA": "CRIT Rate increased by 70%."
   },
   {
-    "EAPMBDGHKMC": 17,
+    "index": 17,
     "nameTextMapHash": 3694321061,
     "PMPMKOPBJHA": "ATK increased by 120%."
   },
   {
-    "EAPMBDGHKMC": 18,
+    "index": 18,
     "nameTextMapHash": 2140678277,
     "PMPMKOPBJHA": "Hydro, Cryo, and Electro DMG Bonus increased by 100%."
   },
   {
-    "EAPMBDGHKMC": 19,
+    "index": 19,
     "nameTextMapHash": 746070797,
     "PMPMKOPBJHA": "Normal and Charged ATK SPD increased by 20%."
   },
   {
-    "EAPMBDGHKMC": 20,
+    "index": 20,
     "nameTextMapHash": 3484983165,
     "PMPMKOPBJHA": "CRIT DMG increased by 140%."
   },
   {
-    "EAPMBDGHKMC": 21,
+    "index": 21,
     "nameTextMapHash": 1162029021,
     "PMPMKOPBJHA": "Stamina Consumption decreased by 80%."
   },
   {
-    "EAPMBDGHKMC": 22,
+    "index": 22,
     "nameTextMapHash": 891107381,
     "PMPMKOPBJHA": "Shield Strength increased by 100%."
   },
   {
-    "EAPMBDGHKMC": 23,
+    "index": 23,
     "nameTextMapHash": 3378727629,
     "PMPMKOPBJHA": "When a character hits an opponent, there is a 50% chance that this will release Rapids that deal Hydro DMG and restore 10% of the character's Max HP. Can occur once every 5s."
   },
   {
-    "EAPMBDGHKMC": 24,
+    "index": 24,
     "nameTextMapHash": 3785893149,
     "PMPMKOPBJHA": "Plunging Attacks deal 50% increased DMG. Additionally, Plunging Attacks will unleash a shockwave when they hit opponents, dealing one instance of AoE DMG."
   },
   {
-    "EAPMBDGHKMC": 25,
+    "index": 25,
     "nameTextMapHash": 1401035253,
     "PMPMKOPBJHA": "Charged Attacks from bow-wielding characters have 100% increased CRIT Rate. Additionally, Charged Attacks from bow-using characters will unleash a shockwave when they hit opponents, dealing one instance of AoE DMG. Can occur once every 1s."
   },
   {
-    "EAPMBDGHKMC": 26,
+    "index": 26,
     "nameTextMapHash": 1868185005,
     "PMPMKOPBJHA": "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave that deals one instance of AoE DMG. Can occur once every 2s."
   }

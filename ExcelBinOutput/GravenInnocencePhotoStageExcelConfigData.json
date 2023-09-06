@@ -1,10 +1,10 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "GPKOLDCEFJA": 141511837,
     "FMOAMKOPEAA": "Rainforest Creature",
-    "OCHCPNIBIPF": 1864610665,
+    "descTextMapHash": 1864610665,
     "AJGMCFNDKEG": "Clever and sensible Dusk Birds, honest and greedy Shroomboars, and quick-tempered Rishboland Tigers... They are all animals who feature frequently in fairy tales.\\nTake some pictures of Sumeru's unique fauna as a source of creative inspiration.",
     "CJGEPBAMGIF": [
       {
@@ -51,7 +51,7 @@
       }
     ],
     "HLLGEGGMCHF": 4,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12015401
       },
@@ -66,11 +66,11 @@
     "MMHADCPEMNK": []
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 5,
+    "id": 2,
+    "openDay": 5,
     "GPKOLDCEFJA": 921952461,
     "FMOAMKOPEAA": "Tri-Lakshana Creatures",
-    "OCHCPNIBIPF": 2659643497,
+    "descTextMapHash": 2659643497,
     "AJGMCFNDKEG": "The land of Sumeru features many species that contain an abundant amount of Dendro. They will enter an Activated state under the influence of Electro, and a Scorched state when affected by Pyro. Amurta's Researchers have collectively referred to them as \"Tri-Lakshana Creatures.\"",
     "CJGEPBAMGIF": [
       {
@@ -138,7 +138,7 @@
       }
     ],
     "HLLGEGGMCHF": 9,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12015404
       },
@@ -153,11 +153,11 @@
     "MMHADCPEMNK": []
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 8,
+    "id": 3,
+    "openDay": 8,
     "GPKOLDCEFJA": 3787445533,
     "FMOAMKOPEAA": "Animal Behavior",
-    "OCHCPNIBIPF": 476360377,
+    "descTextMapHash": 476360377,
     "AJGMCFNDKEG": "Animals are like humans in that they all have distinctive personalities. Even two individuals of the same species differ in temperament. <color=#F39000FF>Wait patiently</color> to record the various behaviors of <color=#F39000FF>different individuals</color>.\\nStill, taking pictures of an animal's aggressive behavior may involve putting yourself in peril...",
     "CJGEPBAMGIF": [
       {
@@ -189,7 +189,7 @@
       }
     ],
     "HLLGEGGMCHF": 9,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12015407
       },
@@ -204,11 +204,11 @@
     "MMHADCPEMNK": []
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 11,
+    "id": 4,
+    "openDay": 11,
     "GPKOLDCEFJA": 2105203285,
     "FMOAMKOPEAA": "Vanarana",
-    "OCHCPNIBIPF": 175458033,
+    "descTextMapHash": 175458033,
     "AJGMCFNDKEG": "Adults cannot see the Aranara, so as far as they can see, the pictures they've attempted to take of them just come out as landscapes.\\nBut even the landscapes in the photos can serve as a valuable reference.",
     "CJGEPBAMGIF": [
       {
@@ -231,7 +231,7 @@
       }
     ],
     "HLLGEGGMCHF": 3,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12015410
       },

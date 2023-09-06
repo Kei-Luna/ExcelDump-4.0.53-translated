@@ -1,26 +1,26 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "DAAFJAJNAPC": 1,
-    "COAEEEJINMI": 12015001,
-    "LOGBHLAFFJA": 1
+    "watcherId": 12015001,
+    "openDay": 1
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "DAAFJAJNAPC": 1,
-    "COAEEEJINMI": 12015002,
-    "LOGBHLAFFJA": 5
+    "watcherId": 12015002,
+    "openDay": 5
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "DAAFJAJNAPC": 1,
-    "COAEEEJINMI": 12015003,
-    "LOGBHLAFFJA": 8
+    "watcherId": 12015003,
+    "openDay": 8
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "DAAFJAJNAPC": 1,
-    "COAEEEJINMI": 12015004,
-    "LOGBHLAFFJA": 11
+    "watcherId": 12015004,
+    "openDay": 11
   }
 ]

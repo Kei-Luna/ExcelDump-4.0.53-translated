@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1001,
-    "HHCCDHCMELE": 5148001,
+    "id": 1001,
+    "scheduleId": 5148001,
     "MCHOBJJJIKO": 60221,
     "KFBOIHCOOKK": 4,
     "nameTextMapHash": 4073748993,
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1002,
-    "HHCCDHCMELE": 5148001,
+    "id": 1002,
+    "scheduleId": 5148001,
     "MCHOBJJJIKO": 60231,
     "KFBOIHCOOKK": 5,
     "nameTextMapHash": 1772194537,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1003,
-    "HHCCDHCMELE": 5148001,
+    "id": 1003,
+    "scheduleId": 5148001,
     "MCHOBJJJIKO": 60211,
     "KFBOIHCOOKK": 5,
     "nameTextMapHash": 1867167033,
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1004,
-    "HHCCDHCMELE": 5148001,
+    "id": 1004,
+    "scheduleId": 5148001,
     "MCHOBJJJIKO": 60201,
     "KFBOIHCOOKK": 5,
     "nameTextMapHash": 356305985,

@@ -1,7 +1,7 @@
 [
   {
-    "MGGPNIDOBGF": 1,
-    "GOMNCDKNDLG": [
+    "levelId": 1,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012218
       },
@@ -19,8 +19,8 @@
     "JOBFABBONGD": 1500
   },
   {
-    "MGGPNIDOBGF": 2,
-    "GOMNCDKNDLG": [
+    "levelId": 2,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012222
       },
@@ -38,8 +38,8 @@
     "JOBFABBONGD": 1500
   },
   {
-    "MGGPNIDOBGF": 3,
-    "GOMNCDKNDLG": [
+    "levelId": 3,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012226
       },
@@ -57,8 +57,8 @@
     "JOBFABBONGD": 1500
   },
   {
-    "MGGPNIDOBGF": 4,
-    "GOMNCDKNDLG": [
+    "levelId": 4,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012230
       },

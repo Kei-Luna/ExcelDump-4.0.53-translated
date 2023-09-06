@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "ODFPNBBMHLK": 4137993845,
+    "id": 1,
+    "titleTextMapHash": 4137993845,
     "HGOJDPCKIKP": "Domain of Deceit",
     "ONGHNFLDHGH": [
       {
@@ -76,8 +76,8 @@
     "GKOPAJHFCND": 3015201
   },
   {
-    "PGKNKBKHCHM": 2,
-    "ODFPNBBMHLK": 1167908237,
+    "id": 2,
+    "titleTextMapHash": 1167908237,
     "HGOJDPCKIKP": "Domain of Furious Thunder",
     "ONGHNFLDHGH": [
       {
@@ -176,8 +176,8 @@
     "GKOPAJHFCND": 3015202
   },
   {
-    "PGKNKBKHCHM": 3,
-    "ODFPNBBMHLK": 3848684877,
+    "id": 3,
+    "titleTextMapHash": 3848684877,
     "HGOJDPCKIKP": "Domain of Chaos",
     "ONGHNFLDHGH": [
       {
@@ -255,8 +255,8 @@
     "GKOPAJHFCND": 3015203
   },
   {
-    "PGKNKBKHCHM": 4,
-    "ODFPNBBMHLK": 1174397405,
+    "id": 4,
+    "titleTextMapHash": 1174397405,
     "HGOJDPCKIKP": "Domain of Heresy",
     "ONGHNFLDHGH": [
       {
@@ -346,8 +346,8 @@
     "GKOPAJHFCND": 3015204
   },
   {
-    "PGKNKBKHCHM": 5,
-    "ODFPNBBMHLK": 883537597,
+    "id": 5,
+    "titleTextMapHash": 883537597,
     "HGOJDPCKIKP": "Deceitful Domain: Sea of Wandering Souls",
     "ONGHNFLDHGH": [
       {
@@ -437,8 +437,8 @@
     "GKOPAJHFCND": 3031012
   },
   {
-    "PGKNKBKHCHM": 6,
-    "ODFPNBBMHLK": 1393522661,
+    "id": 6,
+    "titleTextMapHash": 1393522661,
     "HGOJDPCKIKP": "Deceitful Domain: Where Bloodhounds Gather",
     "ONGHNFLDHGH": [
       {
@@ -513,8 +513,8 @@
     "GKOPAJHFCND": 3031013
   },
   {
-    "PGKNKBKHCHM": 7,
-    "ODFPNBBMHLK": 218893437,
+    "id": 7,
+    "titleTextMapHash": 218893437,
     "HGOJDPCKIKP": "Deceitful Domain: Whirling Judgment",
     "ONGHNFLDHGH": [
       {

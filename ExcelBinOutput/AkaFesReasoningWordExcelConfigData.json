@@ -1,7 +1,7 @@
 [
   {
     "AEFEHBEBEON": 101,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 1,
     "HEKMOENAPBI": 2435280945,
@@ -9,7 +9,7 @@
   },
   {
     "AEFEHBEBEON": 102,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 2,
     "HEKMOENAPBI": 1570636577,
@@ -17,7 +17,7 @@
   },
   {
     "AEFEHBEBEON": 103,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 3,
     "HEKMOENAPBI": 2318981041,
@@ -25,7 +25,7 @@
   },
   {
     "AEFEHBEBEON": 104,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 4,
     "HEKMOENAPBI": 729090593,
@@ -33,7 +33,7 @@
   },
   {
     "AEFEHBEBEON": 105,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 5,
     "HEKMOENAPBI": 2505247513,
@@ -41,7 +41,7 @@
   },
   {
     "AEFEHBEBEON": 106,
-    "MGGPNIDOBGF": 1,
+    "levelId": 1,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 6,
     "HEKMOENAPBI": 2878402537,
@@ -49,7 +49,7 @@
   },
   {
     "AEFEHBEBEON": 201,
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 1,
     "HEKMOENAPBI": 449093513,
@@ -57,7 +57,7 @@
   },
   {
     "AEFEHBEBEON": 202,
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 2,
     "HEKMOENAPBI": 796195609,
@@ -65,7 +65,7 @@
   },
   {
     "AEFEHBEBEON": 203,
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 3,
     "HEKMOENAPBI": 790400689,
@@ -73,7 +73,7 @@
   },
   {
     "AEFEHBEBEON": 204,
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 4,
     "HEKMOENAPBI": 843463913,
@@ -81,7 +81,7 @@
   },
   {
     "AEFEHBEBEON": 205,
-    "MGGPNIDOBGF": 2,
+    "levelId": 2,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 5,
     "HEKMOENAPBI": 455024545,
@@ -89,7 +89,7 @@
   },
   {
     "AEFEHBEBEON": 301,
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 1,
     "HEKMOENAPBI": 1810929105,
@@ -97,7 +97,7 @@
   },
   {
     "AEFEHBEBEON": 302,
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 2,
     "HEKMOENAPBI": 2095368313,
@@ -105,7 +105,7 @@
   },
   {
     "AEFEHBEBEON": 303,
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "OMDAPNGCJPK": true,
     "MJJAMPFHCKM": 3,
     "HEKMOENAPBI": 3881958785,
@@ -113,7 +113,7 @@
   },
   {
     "AEFEHBEBEON": 304,
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 4,
     "HEKMOENAPBI": 428159497,
@@ -121,7 +121,7 @@
   },
   {
     "AEFEHBEBEON": 305,
-    "MGGPNIDOBGF": 3,
+    "levelId": 3,
     "OMDAPNGCJPK": false,
     "MJJAMPFHCKM": 5,
     "HEKMOENAPBI": 1825083473,

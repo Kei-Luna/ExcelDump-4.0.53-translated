@@ -1,7 +1,7 @@
 [
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "CINPAMKMFGH": 300,
     "IKIJCPEGOAP": 4201001,
     "DDDJBFDJFBB": 3914086631,
@@ -10,7 +10,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "CINPAMKMFGH": 750,
     "IKIJCPEGOAP": 4201002,
     "DDDJBFDJFBB": 2735802343,
@@ -19,7 +19,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "CINPAMKMFGH": 950,
     "IKIJCPEGOAP": 4201003,
     "DDDJBFDJFBB": 1296084911,
@@ -28,7 +28,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "CINPAMKMFGH": 1300,
     "IKIJCPEGOAP": 4201004,
     "DDDJBFDJFBB": 836176847,
@@ -37,7 +37,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "CINPAMKMFGH": 1450,
     "IKIJCPEGOAP": 4201005,
     "DDDJBFDJFBB": 3365223879,
@@ -46,7 +46,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "CINPAMKMFGH": 1600,
     "IKIJCPEGOAP": 4201006,
     "DDDJBFDJFBB": 1500200703,
@@ -55,7 +55,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "CINPAMKMFGH": 1750,
     "IKIJCPEGOAP": 4201007,
     "DDDJBFDJFBB": 3328171463,
@@ -64,7 +64,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "CINPAMKMFGH": 1900,
     "IKIJCPEGOAP": 4201008,
     "DDDJBFDJFBB": 2891890815,
@@ -73,7 +73,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "CINPAMKMFGH": 2450,
     "IKIJCPEGOAP": 4201009,
     "DDDJBFDJFBB": 2394290951,
@@ -82,7 +82,7 @@
   },
   {
     "DEOEKKFBOPH": true,
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "CINPAMKMFGH": 0,
     "IKIJCPEGOAP": 4201010,
     "DDDJBFDJFBB": 1539790335,

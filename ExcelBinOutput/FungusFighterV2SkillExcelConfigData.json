@@ -1,7 +1,7 @@
 [
   {
     "KMCCILDHOKJ": 1,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -25,7 +25,7 @@
   },
   {
     "KMCCILDHOKJ": 2,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -49,7 +49,7 @@
   },
   {
     "KMCCILDHOKJ": 3,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Gamma_Water",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Gamma_Water",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -73,7 +73,7 @@
   },
   {
     "KMCCILDHOKJ": 4,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -97,7 +97,7 @@
   },
   {
     "KMCCILDHOKJ": 5,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -121,7 +121,7 @@
   },
   {
     "KMCCILDHOKJ": 6,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Grass",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Grass",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 2,
@@ -145,7 +145,7 @@
   },
   {
     "KMCCILDHOKJ": 7,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -169,7 +169,7 @@
   },
   {
     "KMCCILDHOKJ": 8,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -193,7 +193,7 @@
   },
   {
     "KMCCILDHOKJ": 9,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Wind",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Un_Delta_Wind",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 2,
@@ -217,7 +217,7 @@
   },
   {
     "KMCCILDHOKJ": 10,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -241,7 +241,7 @@
   },
   {
     "KMCCILDHOKJ": 11,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -265,7 +265,7 @@
   },
   {
     "KMCCILDHOKJ": 12,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Epsilon_Electric",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Epsilon_Electric",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -289,7 +289,7 @@
   },
   {
     "KMCCILDHOKJ": 13,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -313,7 +313,7 @@
   },
   {
     "KMCCILDHOKJ": 14,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -337,7 +337,7 @@
   },
   {
     "KMCCILDHOKJ": 15,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Alpha_Ice",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Alpha_Ice",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -361,7 +361,7 @@
   },
   {
     "KMCCILDHOKJ": 16,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -385,7 +385,7 @@
   },
   {
     "KMCCILDHOKJ": 17,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -409,7 +409,7 @@
   },
   {
     "KMCCILDHOKJ": 18,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Gamma_Fire",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Trois_Gamma_Fire",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -433,7 +433,7 @@
   },
   {
     "KMCCILDHOKJ": 19,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -457,7 +457,7 @@
   },
   {
     "KMCCILDHOKJ": 20,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -481,7 +481,7 @@
   },
   {
     "KMCCILDHOKJ": 21,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Alpha_Fire",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Alpha_Fire",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 2,
@@ -505,7 +505,7 @@
   },
   {
     "KMCCILDHOKJ": 22,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -529,7 +529,7 @@
   },
   {
     "KMCCILDHOKJ": 23,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -553,7 +553,7 @@
   },
   {
     "KMCCILDHOKJ": 24,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Epsilon_Wind",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Epsilon_Wind",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -577,7 +577,7 @@
   },
   {
     "KMCCILDHOKJ": 25,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -601,7 +601,7 @@
   },
   {
     "KMCCILDHOKJ": 26,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -625,7 +625,7 @@
   },
   {
     "KMCCILDHOKJ": 27,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Beta_Rock",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Beta_Rock",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -649,7 +649,7 @@
   },
   {
     "KMCCILDHOKJ": 28,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -673,7 +673,7 @@
   },
   {
     "KMCCILDHOKJ": 29,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -697,7 +697,7 @@
   },
   {
     "KMCCILDHOKJ": 30,
-    "HHKNLMAHBAO": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Delta_Electric",
+    "iconPath": "ART/UI/Atlas/Activity/FungusFighterV2/UI_Icon_FungusFighterV2_Skill_Partner_Deux_Delta_Electric",
     "JMENAKMIMJI": 5,
     "CGKJHJAGGJD": 3,
     "IJDIIBNCGLD": 1,
@@ -721,7 +721,7 @@
   },
   {
     "KMCCILDHOKJ": 31,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -745,7 +745,7 @@
   },
   {
     "KMCCILDHOKJ": 32,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -769,7 +769,7 @@
   },
   {
     "KMCCILDHOKJ": 33,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -793,7 +793,7 @@
   },
   {
     "KMCCILDHOKJ": 34,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -817,7 +817,7 @@
   },
   {
     "KMCCILDHOKJ": 35,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -841,7 +841,7 @@
   },
   {
     "KMCCILDHOKJ": 36,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -865,7 +865,7 @@
   },
   {
     "KMCCILDHOKJ": 37,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -889,7 +889,7 @@
   },
   {
     "KMCCILDHOKJ": 38,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -913,7 +913,7 @@
   },
   {
     "KMCCILDHOKJ": 39,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -937,7 +937,7 @@
   },
   {
     "KMCCILDHOKJ": 40,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -961,7 +961,7 @@
   },
   {
     "KMCCILDHOKJ": 41,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -985,7 +985,7 @@
   },
   {
     "KMCCILDHOKJ": 42,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -1009,7 +1009,7 @@
   },
   {
     "KMCCILDHOKJ": 43,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -1033,7 +1033,7 @@
   },
   {
     "KMCCILDHOKJ": 44,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -1057,7 +1057,7 @@
   },
   {
     "KMCCILDHOKJ": 45,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -1081,7 +1081,7 @@
   },
   {
     "KMCCILDHOKJ": 46,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,
@@ -1105,7 +1105,7 @@
   },
   {
     "KMCCILDHOKJ": 47,
-    "HHKNLMAHBAO": "",
+    "iconPath": "",
     "JMENAKMIMJI": 0,
     "CGKJHJAGGJD": 0,
     "IJDIIBNCGLD": 0,

@@ -1,9 +1,9 @@
 [
   {
     "DCKCMKGGIKM": 1,
-    "BCJEBPNJNLN": 17001,
+    "galleryId": 17001,
     "MMFNKAEHDGA": "UI/open_activity_Irodori_master_cutscene_1",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012201
       },
@@ -20,9 +20,9 @@
   },
   {
     "DCKCMKGGIKM": 2,
-    "BCJEBPNJNLN": 17002,
+    "galleryId": 17002,
     "MMFNKAEHDGA": "UI/open_activity_Irodori_master_cutscene_2",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012205
       },
@@ -39,9 +39,9 @@
   },
   {
     "DCKCMKGGIKM": 3,
-    "BCJEBPNJNLN": 17003,
+    "galleryId": 17003,
     "MMFNKAEHDGA": "UI/open_activity_Irodori_master_cutscene_3",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012209
       },
@@ -58,9 +58,9 @@
   },
   {
     "DCKCMKGGIKM": 4,
-    "BCJEBPNJNLN": 17004,
+    "galleryId": 17004,
     "MMFNKAEHDGA": "UI/open_activity_Irodori_master_cutscene_4",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12012213
       },

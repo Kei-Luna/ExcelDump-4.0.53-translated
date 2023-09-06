@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "KJNIJNGLHDJ": 643725559,
+    "levelTitleTextMapHash": 643725559,
     "KGGEJLPHNKC": "Thunderstrike",
     "KLKEJMPJFPH": 3739025256,
     "LPBNCDMLEFA": "",
-    "BIMBKCLBCMD": 0,
+    "pushTipsId": 0,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 16
@@ -28,11 +28,11 @@
   },
   {
     "id": 2,
-    "KJNIJNGLHDJ": 2842510191,
+    "levelTitleTextMapHash": 2842510191,
     "KGGEJLPHNKC": "Mallet the Smasher",
     "KLKEJMPJFPH": 4031651944,
     "LPBNCDMLEFA": "· Considerable combat strength at medium and close ranges\\n· Attacks consecutively\\n· Medium movement speed",
-    "BIMBKCLBCMD": 6102,
+    "pushTipsId": 6102,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 1
@@ -53,7 +53,7 @@
     "JFJGIKMKGGO": "UI_AvatarIcon_PlayerBoy",
     "DBCBBHENGKL": "UI_AvatarIcon_PlayerGirl",
     "OCGAMLKDFIG": "UI_NPC_Inazuma_Kairiki",
-    "BCOCAAFBJOD": 1,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
     "DHPKCEPPHCO": 3107491080,
     "DBONCAAJCLL": "Huh!? It even blocked the strike that could smash a big rock? Unbelievable!",
     "EIMJCBKKPBC": 1299284003,
@@ -61,11 +61,11 @@
   },
   {
     "id": 3,
-    "KJNIJNGLHDJ": 2914834487,
+    "levelTitleTextMapHash": 2914834487,
     "KGGEJLPHNKC": "Triple-Strike Gunblade Mage",
     "KLKEJMPJFPH": 2800650672,
     "LPBNCDMLEFA": "· Considerable long-distance combat strength\\n· Attacks with thunderstrikes\\n· Very agile",
-    "BIMBKCLBCMD": 6103,
+    "pushTipsId": 6103,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 4
@@ -86,7 +86,7 @@
     "JFJGIKMKGGO": "UI_AvatarIcon_PlayerBoy",
     "DBCBBHENGKL": "UI_AvatarIcon_PlayerGirl",
     "OCGAMLKDFIG": "UI_NPC_Inazuma_Kijutsu",
-    "BCOCAAFBJOD": 1,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
     "DHPKCEPPHCO": 2494661720,
     "DBONCAAJCLL": "This is not right! No, I can't accept this! You got lucky, that's all!",
     "EIMJCBKKPBC": 1924789979,
@@ -94,11 +94,11 @@
   },
   {
     "id": 4,
-    "KJNIJNGLHDJ": 1299630471,
+    "levelTitleTextMapHash": 1299630471,
     "KGGEJLPHNKC": "Super-Heavy Defensive Formation",
     "KLKEJMPJFPH": 436176272,
     "LPBNCDMLEFA": "· Impressive melee combat strength\\n· Attacks with quakes\\n· Enhanced resistance to interruption",
-    "BIMBKCLBCMD": 6104,
+    "pushTipsId": 6104,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 7
@@ -119,7 +119,7 @@
     "JFJGIKMKGGO": "UI_AvatarIcon_Paimon",
     "DBCBBHENGKL": "UI_AvatarIcon_Paimon",
     "OCGAMLKDFIG": "UI_NPC_Inazuma_Kagodukurishi",
-    "BCOCAAFBJOD": 1,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
     "DHPKCEPPHCO": 1545813432,
     "DBONCAAJCLL": "Ah, what a miscalculation of mine! I never knew you were so good!",
     "EIMJCBKKPBC": 2091212443,
@@ -127,11 +127,11 @@
   },
   {
     "id": 5,
-    "KJNIJNGLHDJ": 2691678831,
+    "levelTitleTextMapHash": 2691678831,
     "KGGEJLPHNKC": "Whirling Wrecker-Wheel",
     "KLKEJMPJFPH": 14180704,
     "LPBNCDMLEFA": "· Impressive long-distance combat strength\\n· Attacks with various Electro strikes\\n· Extremely agile",
-    "BIMBKCLBCMD": 6105,
+    "pushTipsId": 6105,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 10
@@ -152,7 +152,7 @@
     "JFJGIKMKGGO": "UI_AvatarIcon_Itto",
     "DBCBBHENGKL": "UI_AvatarIcon_Itto",
     "OCGAMLKDFIG": "UI_NPC_Inazuma_Daihisha",
-    "BCOCAAFBJOD": 1,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
     "DHPKCEPPHCO": 2213884032,
     "DBONCAAJCLL": "Tsk, this is awkward... I can't back down yet!",
     "EIMJCBKKPBC": 3302850947,
@@ -160,11 +160,11 @@
   },
   {
     "id": 6,
-    "KJNIJNGLHDJ": 1607467807,
+    "levelTitleTextMapHash": 1607467807,
     "KGGEJLPHNKC": "Ironclad Beetle King",
     "KLKEJMPJFPH": 617130024,
     "LPBNCDMLEFA": "· An Onikabuto with an all-round development\\n· Extremely powerful in combats of all ranges\\n· Can attack with consecutive earthquakes\\n· Can attack with consecutive thunderstrikes\\n· Continuous and enhanced resistance to interruption\\n· Medium movement speed\\n· Has a mysterious hidden power",
-    "BIMBKCLBCMD": 6106,
+    "pushTipsId": 6106,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 13
@@ -185,7 +185,7 @@
     "JFJGIKMKGGO": "UI_AvatarIcon_Itto",
     "DBCBBHENGKL": "UI_AvatarIcon_Itto",
     "OCGAMLKDFIG": "UI_NPC_Inazuma_Gyokushou",
-    "BCOCAAFBJOD": 1,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
     "DHPKCEPPHCO": 3882826632,
     "DBONCAAJCLL": "I'm impressed! Your tactics are beyond my expectation, but I still have a few extra moves!",
     "EIMJCBKKPBC": 3113977515,

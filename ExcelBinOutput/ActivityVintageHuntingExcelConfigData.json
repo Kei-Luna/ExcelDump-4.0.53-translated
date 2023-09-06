@@ -1,10 +1,10 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "OKIBDGALMJD": 1,
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "NHLPPKOBBPH": 73677,
-    "BCJEBPNJNLN": 27001,
+    "galleryId": 27001,
     "GMIOCILJOJG": [
       {
         "CDOIPGMKDFF": 12016006
@@ -26,11 +26,11 @@
     "AJOPBHGIMAH": "Attack the Forest Boars in the area to drive them out"
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "OKIBDGALMJD": 2,
-    "LOGBHLAFFJA": 4,
+    "openDay": 4,
     "NHLPPKOBBPH": 73678,
-    "BCJEBPNJNLN": 27002,
+    "galleryId": 27002,
     "GMIOCILJOJG": [
       {
         "CDOIPGMKDFF": 12016009
@@ -52,11 +52,11 @@
     "AJOPBHGIMAH": "Use Hunting Nets to capture the animals in the area"
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "OKIBDGALMJD": 3,
-    "LOGBHLAFFJA": 7,
+    "openDay": 7,
     "NHLPPKOBBPH": 73679,
-    "BCJEBPNJNLN": 27003,
+    "galleryId": 27003,
     "GMIOCILJOJG": [
       {
         "CDOIPGMKDFF": 12016012

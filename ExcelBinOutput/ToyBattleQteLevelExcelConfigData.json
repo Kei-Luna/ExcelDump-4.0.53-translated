@@ -1,6 +1,6 @@
 [
   {
-    "BIMBKCLBCMD": 13113,
+    "pushTipsId": 13113,
     "BNPIFMEAIDI": 0,
     "MAHGFMBGCFB": 7,
     "CMKEBKGCODJ": 10,
@@ -27,7 +27,7 @@
       }
     ],
     "DLLGFDKHOIG": [],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024401
       },
@@ -38,7 +38,7 @@
         "CDOIPGMKDFF": 12024403
       }
     ],
-    "LOGBHLAFFJA": 1,
+    "openDay": 1,
     "PCCEHNBNJBD": [
       2
     ],
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "BIMBKCLBCMD": 13114,
+    "pushTipsId": 13114,
     "BNPIFMEAIDI": 1513,
     "MAHGFMBGCFB": 7,
     "CMKEBKGCODJ": 10,
@@ -85,7 +85,7 @@
         "CDOIPGMKDFF": 1
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024411
       },
@@ -96,7 +96,7 @@
         "CDOIPGMKDFF": 12024413
       }
     ],
-    "LOGBHLAFFJA": 3,
+    "openDay": 3,
     "PCCEHNBNJBD": [
       2
     ],
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "BIMBKCLBCMD": 13115,
+    "pushTipsId": 13115,
     "BNPIFMEAIDI": 1514,
     "MAHGFMBGCFB": 7,
     "CMKEBKGCODJ": 10,
@@ -149,7 +149,7 @@
         "CDOIPGMKDFF": 2
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12024421
       },
@@ -160,7 +160,7 @@
         "CDOIPGMKDFF": 12024423
       }
     ],
-    "LOGBHLAFFJA": 5,
+    "openDay": 5,
     "PCCEHNBNJBD": [
       2
     ],

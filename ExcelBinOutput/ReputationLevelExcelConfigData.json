@@ -1,8 +1,8 @@
 [
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 1735527832,
+    "levelNameTextMapHash": 1735527832,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>1</color>",
     "IIBLCDHMGDL": 400,
     "IKIJCPEGOAP": 2010001,
@@ -10,9 +10,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 3229737920,
+    "levelNameTextMapHash": 3229737920,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>2</color>",
     "IIBLCDHMGDL": 420,
     "IKIJCPEGOAP": 2010002,
@@ -20,9 +20,9 @@
     "CILOPCIOIJI": 1001
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 3514218928,
+    "levelNameTextMapHash": 3514218928,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>3</color>",
     "IIBLCDHMGDL": 440,
     "IKIJCPEGOAP": 2010003,
@@ -30,9 +30,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 634825840,
+    "levelNameTextMapHash": 634825840,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>4</color>",
     "IIBLCDHMGDL": 460,
     "IKIJCPEGOAP": 2010004,
@@ -40,9 +40,9 @@
     "CILOPCIOIJI": 1002
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 2872418288,
+    "levelNameTextMapHash": 2872418288,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>5</color>",
     "IIBLCDHMGDL": 480,
     "IKIJCPEGOAP": 2010005,
@@ -50,9 +50,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 1204136224,
+    "levelNameTextMapHash": 1204136224,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>6</color>",
     "IIBLCDHMGDL": 500,
     "IKIJCPEGOAP": 2010006,
@@ -60,9 +60,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 247844040,
+    "levelNameTextMapHash": 247844040,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>7</color>",
     "IIBLCDHMGDL": 520,
     "IKIJCPEGOAP": 2010007,
@@ -70,9 +70,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GMIOIMOFKNK": 1,
-    "GLIALHMPJCP": 3770101088,
+    "levelNameTextMapHash": 3770101088,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>8</color>",
     "IIBLCDHMGDL": 0,
     "IKIJCPEGOAP": 2010008,
@@ -80,9 +80,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 3730000584,
+    "levelNameTextMapHash": 3730000584,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>1</color>",
     "IIBLCDHMGDL": 400,
     "IKIJCPEGOAP": 2020001,
@@ -90,9 +90,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 430766456,
+    "levelNameTextMapHash": 430766456,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>2</color>",
     "IIBLCDHMGDL": 420,
     "IKIJCPEGOAP": 2020002,
@@ -100,9 +100,9 @@
     "CILOPCIOIJI": 2001
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 1363417240,
+    "levelNameTextMapHash": 1363417240,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>3</color>",
     "IIBLCDHMGDL": 440,
     "IKIJCPEGOAP": 2020003,
@@ -110,9 +110,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 436504744,
+    "levelNameTextMapHash": 436504744,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>4</color>",
     "IIBLCDHMGDL": 460,
     "IKIJCPEGOAP": 2020004,
@@ -120,9 +120,9 @@
     "CILOPCIOIJI": 2002
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 1845435216,
+    "levelNameTextMapHash": 1845435216,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>5</color>",
     "IIBLCDHMGDL": 480,
     "IKIJCPEGOAP": 2020005,
@@ -130,9 +130,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 2588205624,
+    "levelNameTextMapHash": 2588205624,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>6</color>",
     "IIBLCDHMGDL": 500,
     "IKIJCPEGOAP": 2020006,
@@ -140,9 +140,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 3104161416,
+    "levelNameTextMapHash": 3104161416,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>7</color>",
     "IIBLCDHMGDL": 520,
     "IKIJCPEGOAP": 2020007,
@@ -150,9 +150,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GMIOIMOFKNK": 2,
-    "GLIALHMPJCP": 514848984,
+    "levelNameTextMapHash": 514848984,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>8</color>",
     "IIBLCDHMGDL": 0,
     "IKIJCPEGOAP": 2020008,
@@ -160,9 +160,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 2268439288,
+    "levelNameTextMapHash": 2268439288,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>1</color>",
     "IIBLCDHMGDL": 450,
     "IKIJCPEGOAP": 2030001,
@@ -170,9 +170,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 2078413760,
+    "levelNameTextMapHash": 2078413760,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>2</color>",
     "IIBLCDHMGDL": 500,
     "IKIJCPEGOAP": 2030002,
@@ -180,9 +180,9 @@
     "CILOPCIOIJI": 3001
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 3514218232,
+    "levelNameTextMapHash": 3514218232,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>3</color>",
     "IIBLCDHMGDL": 550,
     "IKIJCPEGOAP": 2030003,
@@ -190,9 +190,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 1743618688,
+    "levelNameTextMapHash": 1743618688,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>4</color>",
     "IIBLCDHMGDL": 600,
     "IKIJCPEGOAP": 2030004,
@@ -200,9 +200,9 @@
     "CILOPCIOIJI": 3002
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 1862253168,
+    "levelNameTextMapHash": 1862253168,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>5</color>",
     "IIBLCDHMGDL": 650,
     "IKIJCPEGOAP": 2030005,
@@ -210,9 +210,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 1487135616,
+    "levelNameTextMapHash": 1487135616,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>6</color>",
     "IIBLCDHMGDL": 700,
     "IKIJCPEGOAP": 2030006,
@@ -220,9 +220,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 2170280960,
+    "levelNameTextMapHash": 2170280960,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>7</color>",
     "IIBLCDHMGDL": 750,
     "IKIJCPEGOAP": 2030007,
@@ -230,9 +230,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 1164706696,
+    "levelNameTextMapHash": 1164706696,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>8</color>",
     "IIBLCDHMGDL": 800,
     "IKIJCPEGOAP": 2030008,
@@ -240,9 +240,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 497409224,
+    "levelNameTextMapHash": 497409224,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>9</color>",
     "IIBLCDHMGDL": 850,
     "IKIJCPEGOAP": 2030009,
@@ -250,9 +250,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "GMIOIMOFKNK": 3,
-    "GLIALHMPJCP": 2384405760,
+    "levelNameTextMapHash": 2384405760,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>10</color>",
     "IIBLCDHMGDL": 0,
     "IKIJCPEGOAP": 2030010,
@@ -260,9 +260,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 993049592,
+    "levelNameTextMapHash": 993049592,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>1</color>",
     "IIBLCDHMGDL": 450,
     "IKIJCPEGOAP": 2040001,
@@ -270,9 +270,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 27641512,
+    "levelNameTextMapHash": 27641512,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>2</color>",
     "IIBLCDHMGDL": 500,
     "IKIJCPEGOAP": 2040002,
@@ -280,9 +280,9 @@
     "CILOPCIOIJI": 4001
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 187570024,
+    "levelNameTextMapHash": 187570024,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>3</color>",
     "IIBLCDHMGDL": 550,
     "IKIJCPEGOAP": 2040003,
@@ -290,9 +290,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 3161738152,
+    "levelNameTextMapHash": 3161738152,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>4</color>",
     "IIBLCDHMGDL": 600,
     "IKIJCPEGOAP": 2040004,
@@ -300,9 +300,9 @@
     "CILOPCIOIJI": 4002
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 2065696680,
+    "levelNameTextMapHash": 2065696680,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>5</color>",
     "IIBLCDHMGDL": 650,
     "IKIJCPEGOAP": 2040005,
@@ -310,9 +310,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 1170434776,
+    "levelNameTextMapHash": 1170434776,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>6</color>",
     "IIBLCDHMGDL": 700,
     "IKIJCPEGOAP": 2040006,
@@ -320,9 +320,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 3537870424,
+    "levelNameTextMapHash": 3537870424,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>7</color>",
     "IIBLCDHMGDL": 750,
     "IKIJCPEGOAP": 2040007,
@@ -330,9 +330,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 1778931760,
+    "levelNameTextMapHash": 1778931760,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>8</color>",
     "IIBLCDHMGDL": 800,
     "IKIJCPEGOAP": 2040008,
@@ -340,9 +340,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 1248705512,
+    "levelNameTextMapHash": 1248705512,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>9</color>",
     "IIBLCDHMGDL": 850,
     "IKIJCPEGOAP": 2040009,
@@ -350,9 +350,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "GMIOIMOFKNK": 4,
-    "GLIALHMPJCP": 1845833352,
+    "levelNameTextMapHash": 1845833352,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>10</color>",
     "IIBLCDHMGDL": 0,
     "IKIJCPEGOAP": 2040010,
@@ -360,9 +360,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 551538544,
+    "levelNameTextMapHash": 551538544,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>1</color>",
     "IIBLCDHMGDL": 450,
     "IKIJCPEGOAP": 2050001,
@@ -370,9 +370,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 1569296424,
+    "levelNameTextMapHash": 1569296424,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>2</color>",
     "IIBLCDHMGDL": 500,
     "IKIJCPEGOAP": 2050002,
@@ -380,9 +380,9 @@
     "CILOPCIOIJI": 5001
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 1773739168,
+    "levelNameTextMapHash": 1773739168,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>3</color>",
     "IIBLCDHMGDL": 550,
     "IKIJCPEGOAP": 2050003,
@@ -390,9 +390,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 2615312504,
+    "levelNameTextMapHash": 2615312504,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>4</color>",
     "IIBLCDHMGDL": 600,
     "IKIJCPEGOAP": 2050004,
@@ -400,9 +400,9 @@
     "CILOPCIOIJI": 5002
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 1181888896,
+    "levelNameTextMapHash": 1181888896,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>5</color>",
     "IIBLCDHMGDL": 650,
     "IKIJCPEGOAP": 2050005,
@@ -410,9 +410,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 1125363328,
+    "levelNameTextMapHash": 1125363328,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>6</color>",
     "IIBLCDHMGDL": 700,
     "IKIJCPEGOAP": 2050006,
@@ -420,9 +420,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 3099897304,
+    "levelNameTextMapHash": 3099897304,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>7</color>",
     "IIBLCDHMGDL": 750,
     "IKIJCPEGOAP": 2050007,
@@ -430,9 +430,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 2577402368,
+    "levelNameTextMapHash": 2577402368,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>8</color>",
     "IIBLCDHMGDL": 800,
     "IKIJCPEGOAP": 2050008,
@@ -440,9 +440,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 2089030064,
+    "levelNameTextMapHash": 2089030064,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>9</color>",
     "IIBLCDHMGDL": 850,
     "IKIJCPEGOAP": 2050009,
@@ -450,9 +450,9 @@
     "CILOPCIOIJI": 0
   },
   {
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "GMIOIMOFKNK": 5,
-    "GLIALHMPJCP": 693580736,
+    "levelNameTextMapHash": 693580736,
     "JDNCJPOGDKN": "Reputation Level: <color=#FFCC33>10</color>",
     "IIBLCDHMGDL": 0,
     "IKIJCPEGOAP": 2050010,

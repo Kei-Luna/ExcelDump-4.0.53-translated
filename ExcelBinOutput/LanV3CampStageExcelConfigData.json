@@ -1,6 +1,6 @@
 [
   {
-    "AODPMHOCMJN": 1,
+    "stageId": 1,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 1
@@ -12,7 +12,7 @@
         "CDOIPGMKDFF": 3
       }
     ],
-    "AANALLLBMJC": 2829677252,
+    "stageNameTextMapHash": 2829677252,
     "PFOENKJGKLG": "Behind the Scenes: Digging Dirt",
     "AGFHAGKOJEP": [
       {
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "AODPMHOCMJN": 2,
+    "stageId": 2,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 4
@@ -39,7 +39,7 @@
         "CDOIPGMKDFF": 6
       }
     ],
-    "AANALLLBMJC": 768297812,
+    "stageNameTextMapHash": 768297812,
     "PFOENKJGKLG": "Behind the Scenes: Dusting Dregs",
     "AGFHAGKOJEP": [
       {
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "AODPMHOCMJN": 3,
+    "stageId": 3,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 7
@@ -66,7 +66,7 @@
         "CDOIPGMKDFF": 9
       }
     ],
-    "AANALLLBMJC": 995171860,
+    "stageNameTextMapHash": 995171860,
     "PFOENKJGKLG": "Behind the Scenes: Denying Decay",
     "AGFHAGKOJEP": [
       {
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "AODPMHOCMJN": 4,
+    "stageId": 4,
     "NIOLGMGIAJO": [
       {
         "CDOIPGMKDFF": 10
@@ -93,7 +93,7 @@
         "CDOIPGMKDFF": 12
       }
     ],
-    "AANALLLBMJC": 2958119396,
+    "stageNameTextMapHash": 2958119396,
     "PFOENKJGKLG": "Behind the Scenes: Dispelling Disaster",
     "AGFHAGKOJEP": [
       {

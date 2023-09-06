@@ -1,110 +1,110 @@
 [
   {
-    "PGKNKBKHCHM": 17,
-    "PDHFANIOLKO": 7223,
-    "AODPMHOCMJN": 5,
-    "NEHBNAOAPAI": 1,
+    "id": 17,
+    "dungeonId": 7223,
+    "stageId": 5,
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 1,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 1,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 18,
-    "PDHFANIOLKO": 7226,
-    "AODPMHOCMJN": 5,
-    "NEHBNAOAPAI": 2,
+    "id": 18,
+    "dungeonId": 7226,
+    "stageId": 5,
+    "difficulty": "DUEL_HEART_DIFFICULTY_HARD",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 2,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 2,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 19,
-    "PDHFANIOLKO": 7229,
-    "AODPMHOCMJN": 5,
-    "NEHBNAOAPAI": 3,
+    "id": 19,
+    "dungeonId": 7229,
+    "stageId": 5,
+    "difficulty": "DUEL_HEART_DIFFICULTY_MASTER",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 3,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 3,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 20,
-    "PDHFANIOLKO": 7232,
-    "AODPMHOCMJN": 5,
-    "NEHBNAOAPAI": 4,
+    "id": 20,
+    "dungeonId": 7232,
+    "stageId": 5,
+    "difficulty": 4,
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 5,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 5,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 21,
-    "PDHFANIOLKO": 7222,
-    "AODPMHOCMJN": 6,
-    "NEHBNAOAPAI": 1,
+    "id": 21,
+    "dungeonId": 7222,
+    "stageId": 6,
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 1,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 1,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 22,
-    "PDHFANIOLKO": 7225,
-    "AODPMHOCMJN": 6,
-    "NEHBNAOAPAI": 2,
+    "id": 22,
+    "dungeonId": 7225,
+    "stageId": 6,
+    "difficulty": "DUEL_HEART_DIFFICULTY_HARD",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 2,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 2,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 23,
-    "PDHFANIOLKO": 7228,
-    "AODPMHOCMJN": 6,
-    "NEHBNAOAPAI": 3,
+    "id": 23,
+    "dungeonId": 7228,
+    "stageId": 6,
+    "difficulty": "DUEL_HEART_DIFFICULTY_MASTER",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 3,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 3,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 24,
-    "PDHFANIOLKO": 7231,
-    "AODPMHOCMJN": 6,
-    "NEHBNAOAPAI": 4,
+    "id": 24,
+    "dungeonId": 7231,
+    "stageId": 6,
+    "difficulty": 4,
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 5,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 5,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 25,
-    "PDHFANIOLKO": 7221,
-    "AODPMHOCMJN": 7,
-    "NEHBNAOAPAI": 1,
+    "id": 25,
+    "dungeonId": 7221,
+    "stageId": 7,
+    "difficulty": "DUEL_HEART_DIFFICULTY_NORAML",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 1,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 1,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 26,
-    "PDHFANIOLKO": 7224,
-    "AODPMHOCMJN": 7,
-    "NEHBNAOAPAI": 2,
+    "id": 26,
+    "dungeonId": 7224,
+    "stageId": 7,
+    "difficulty": "DUEL_HEART_DIFFICULTY_HARD",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 2,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 2,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 27,
-    "PDHFANIOLKO": 7227,
-    "AODPMHOCMJN": 7,
-    "NEHBNAOAPAI": 3,
+    "id": 27,
+    "dungeonId": 7227,
+    "stageId": 7,
+    "difficulty": "DUEL_HEART_DIFFICULTY_MASTER",
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 3,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 3,
+    "baseScore": 300
   },
   {
-    "PGKNKBKHCHM": 28,
-    "PDHFANIOLKO": 7230,
-    "AODPMHOCMJN": 7,
-    "NEHBNAOAPAI": 4,
+    "id": 28,
+    "dungeonId": 7230,
+    "stageId": 7,
+    "difficulty": 4,
     "BBGPPJICOMP": 0,
-    "DCAHIFHODPP": 5,
-    "IHJMCPNGOAL": 300
+    "scoreRatio": 5,
+    "baseScore": 300
   }
 ]

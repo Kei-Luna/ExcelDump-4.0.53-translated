@@ -1,10 +1,10 @@
 [
   {
-    "PGKNKBKHCHM": 0,
+    "id": 0,
     "EEGIOPGGOHJ": 339500,
     "nameTextMapHash": 384357012,
     "PMPMKOPBJHA": "Mondstadt",
-    "OCHCPNIBIPF": 3962735882,
+    "descTextMapHash": 3962735882,
     "AJGMCFNDKEG": "The ceaseless whisper of the breeze plays upon the strings, creating a lovely music.\\nThe passionate talk of the wind and flowers is blown away, falling into the heart of the clear spring.",
     "EIPEGNALLED": 1908811578,
     "MNKHFDAIFDD": "Obtain for the first time",
@@ -28,11 +28,11 @@
     "FBKLJPHHFAK": "State_CardGame_MengDe"
   },
   {
-    "PGKNKBKHCHM": 101,
+    "id": 101,
     "EEGIOPGGOHJ": 339501,
     "nameTextMapHash": 45426028,
     "PMPMKOPBJHA": "Liyue",
-    "OCHCPNIBIPF": 2275741714,
+    "descTextMapHash": 2275741714,
     "AJGMCFNDKEG": "As eternal as the moon, as long-lasting as the rising sun.\\nBy earth and hill and bedrock shall all things prosper.",
     "EIPEGNALLED": 363252498,
     "MNKHFDAIFDD": "Reward for reaching Player Level 3",
@@ -56,11 +56,11 @@
     "FBKLJPHHFAK": "State_CardGame_LiYue"
   },
   {
-    "PGKNKBKHCHM": 102,
+    "id": 102,
     "EEGIOPGGOHJ": 339502,
     "nameTextMapHash": 2761138860,
     "PMPMKOPBJHA": "Inazuma",
-    "OCHCPNIBIPF": 1856930906,
+    "descTextMapHash": 1856930906,
     "AJGMCFNDKEG": "Lightning flashes, then passes, illuminating the solitude of thunder.\\nDreams of madness come and go — all things are impermanent.",
     "EIPEGNALLED": 3847898434,
     "MNKHFDAIFDD": "Reward for reaching Player Level 5",
@@ -84,11 +84,11 @@
     "FBKLJPHHFAK": "State_CardGame_DaoQi"
   },
   {
-    "PGKNKBKHCHM": 103,
+    "id": 103,
     "EEGIOPGGOHJ": 339503,
     "nameTextMapHash": 2172568444,
     "PMPMKOPBJHA": "Sumeru",
-    "OCHCPNIBIPF": 2150118914,
+    "descTextMapHash": 2150118914,
     "AJGMCFNDKEG": "Oh grass of wisdom, weep not!\\nEven the travail through searing winds must end.\\nThe blessed rains will fall, and the flowers shall bloom...\\nHearken! The song of the verdant garden is sung once more.",
     "EIPEGNALLED": 3393081682,
     "MNKHFDAIFDD": "Reward for reaching Player Level 7",

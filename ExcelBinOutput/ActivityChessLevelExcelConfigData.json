@@ -1,6 +1,6 @@
 [
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "GLPOKNJNKAE": 500,
     "CKNGGEFOLNF": 20,
     "MDPBILECMOH": 3500,
@@ -12,7 +12,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "GLPOKNJNKAE": 500,
     "CKNGGEFOLNF": 20,
     "MDPBILECMOH": 3750,
@@ -24,7 +24,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 20,
     "MDPBILECMOH": 4000,
@@ -36,7 +36,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 20,
     "MDPBILECMOH": 4250,
@@ -48,7 +48,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 20,
     "MDPBILECMOH": 4500,
@@ -60,7 +60,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 6,
+    "level": 6,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 25,
     "MDPBILECMOH": 4750,
@@ -72,7 +72,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 7,
+    "level": 7,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 25,
     "MDPBILECMOH": 5000,
@@ -84,7 +84,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 8,
+    "level": 8,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 25,
     "MDPBILECMOH": 5000,
@@ -96,7 +96,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 9,
+    "level": 9,
     "GLPOKNJNKAE": 1000,
     "CKNGGEFOLNF": 30,
     "MDPBILECMOH": 5000,
@@ -108,7 +108,7 @@
     "GHMABFOFLKM": true
   },
   {
-    "GEGLKKJIIOG": 10,
+    "level": 10,
     "GLPOKNJNKAE": 0,
     "CKNGGEFOLNF": 30,
     "MDPBILECMOH": 5000,

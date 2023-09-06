@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "NNBGEKPHEEA": 73686,
+    "id": 1,
+    "questId": 73686,
     "CPNFBJCOMDF": 1,
     "CKADNKCGEIE": 0,
     "AIKOKFEABEK": 967886785,
@@ -12,8 +12,8 @@
     "ALFKNAFDCIK": 5117001
   },
   {
-    "PGKNKBKHCHM": 2,
-    "NNBGEKPHEEA": 73687,
+    "id": 2,
+    "questId": 73687,
     "CPNFBJCOMDF": 3,
     "CKADNKCGEIE": 2,
     "AIKOKFEABEK": 1112690089,
@@ -24,8 +24,8 @@
     "ALFKNAFDCIK": 5117002
   },
   {
-    "PGKNKBKHCHM": 3,
-    "NNBGEKPHEEA": 73688,
+    "id": 3,
+    "questId": 73688,
     "CPNFBJCOMDF": 5,
     "CKADNKCGEIE": 5,
     "AIKOKFEABEK": 1939917137,

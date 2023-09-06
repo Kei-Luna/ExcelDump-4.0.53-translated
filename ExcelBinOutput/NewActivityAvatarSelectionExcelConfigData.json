@@ -1,8 +1,8 @@
 [
   {
-    "HHCCDHCMELE": 2002001,
+    "scheduleId": 2002001,
     "LIAOPAGJEKE": 2002164,
-    "LHHDPELMHLH": [],
+    "watcherIdList": [],
     "FIKDDKBLDFI": [
       {
         "CDOIPGMKDFF": 3008001
@@ -24,7 +24,7 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 4093489151,
+    "descTextMapHash": 4093489151,
     "AJGMCFNDKEG": "Reach the <color=#FFCC33>\"Glow of a Thousand Lanterns\"</color> level of Festive Fever for an opportunity to spend <color=#FFCC33>{0}</color> {1} and invite a character to join your Party.",
     "AGFCFLGFNIJ": [
       {
@@ -39,16 +39,16 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2004001,
+    "scheduleId": 2004001,
     "LIAOPAGJEKE": 2004014,
-    "LHHDPELMHLH": [],
+    "watcherIdList": [],
     "FIKDDKBLDFI": [
       {
         "CDOIPGMKDFF": 3015401
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 4209415871,
+    "descTextMapHash": 4209415871,
     "AJGMCFNDKEG": "You have an opportunity to spend <color=#FFCC33>{0}</color> {1} to invite Diona to your Party.",
     "AGFCFLGFNIJ": [
       {
@@ -63,16 +63,16 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2006001,
+    "scheduleId": 2006001,
     "LIAOPAGJEKE": 2006111,
-    "LHHDPELMHLH": [],
+    "watcherIdList": [],
     "FIKDDKBLDFI": [
       {
         "CDOIPGMKDFF": 3020001
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 2565587871,
+    "descTextMapHash": 2565587871,
     "AJGMCFNDKEG": "???",
     "AGFCFLGFNIJ": [
       {
@@ -93,9 +93,9 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2008001,
+    "scheduleId": 2008001,
     "LIAOPAGJEKE": 2008009,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 2008018
       }
@@ -106,7 +106,7 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 3129338567,
+    "descTextMapHash": 3129338567,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [
       {
@@ -121,9 +121,9 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2010001,
+    "scheduleId": 2010001,
     "LIAOPAGJEKE": 2010007,
-    "LHHDPELMHLH": [],
+    "watcherIdList": [],
     "FIKDDKBLDFI": [
       {
         "CDOIPGMKDFF": 3035001
@@ -151,7 +151,7 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 1068450767,
+    "descTextMapHash": 1068450767,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [
       {
@@ -172,9 +172,9 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2012001,
+    "scheduleId": 2012001,
     "LIAOPAGJEKE": 2012120,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 12012103
       },
@@ -194,16 +194,16 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 1443525671,
+    "descTextMapHash": 1443525671,
     "AJGMCFNDKEG": "Complete the following to invite",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2014001,
+    "scheduleId": 2014001,
     "LIAOPAGJEKE": 2014002,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 12014501
       }
@@ -214,23 +214,23 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 2555517879,
+    "descTextMapHash": 2555517879,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2017001,
+    "scheduleId": 2017001,
     "LIAOPAGJEKE": 2017502,
-    "LHHDPELMHLH": [],
+    "watcherIdList": [],
     "FIKDDKBLDFI": [
       {
         "CDOIPGMKDFF": 3058001
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 1254380255,
+    "descTextMapHash": 1254380255,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [
       {
@@ -251,9 +251,9 @@
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2019001,
+    "scheduleId": 2019001,
     "LIAOPAGJEKE": 2019001,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 1201904
       }
@@ -288,16 +288,16 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 522775383,
+    "descTextMapHash": 522775383,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2021001,
+    "scheduleId": 2021001,
     "LIAOPAGJEKE": 2021007,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 12021001
       }
@@ -308,16 +308,16 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 1791666775,
+    "descTextMapHash": 1791666775,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2023001,
+    "scheduleId": 2023001,
     "LIAOPAGJEKE": 2023001,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 12023004
       }
@@ -328,16 +328,16 @@
       }
     ],
     "DCNODHAFHAH": [],
-    "OCHCPNIBIPF": 953870831,
+    "descTextMapHash": 953870831,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],
     "OKFCCKEFCPA": false
   },
   {
-    "HHCCDHCMELE": 2024001,
+    "scheduleId": 2024001,
     "LIAOPAGJEKE": 2024013,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 12024201
       }
@@ -352,7 +352,7 @@
         "CDOIPGMKDFF": 6046
       }
     ],
-    "OCHCPNIBIPF": 1121427567,
+    "descTextMapHash": 1121427567,
     "AJGMCFNDKEG": "",
     "AGFCFLGFNIJ": [],
     "FEBGIDLHNBG": [],

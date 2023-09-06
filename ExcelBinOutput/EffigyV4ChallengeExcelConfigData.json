@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "POFOHNFCPFF": 1,
     "FNCKJPJCGEI": [
       "UI_EffigyChallengeV4_Monster_Raijin",
@@ -9,7 +9,7 @@
       ""
     ],
     "MBBKIAAFMDJ": "UI_MonsterIcon_Raijin",
-    "ODFPNBBMHLK": 3347469401,
+    "titleTextMapHash": 3347469401,
     "HGOJDPCKIKP": "Descaling: Thundering Grief",
     "IPJBKHBOCFN": 3419806477,
     "monsterName": "Crackling Thunder Manifestation",
@@ -137,8 +137,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 3,
+    "id": 2,
+    "openDay": 3,
     "POFOHNFCPFF": 1,
     "FNCKJPJCGEI": [
       "UI_EffigyChallengeV4_Monster_Gargoyle",
@@ -146,7 +146,7 @@
       ""
     ],
     "MBBKIAAFMDJ": "UI_MonsterIcon_Gargoyle_Fafnir",
-    "ODFPNBBMHLK": 3479942193,
+    "titleTextMapHash": 3479942193,
     "HGOJDPCKIKP": "Piety: Calamity of Blazing Steel",
     "IPJBKHBOCFN": 3475757037,
     "monsterName": "Aeonblight Drake (Heavy Assault Pack)",
@@ -274,8 +274,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 5,
+    "id": 3,
+    "openDay": 5,
     "POFOHNFCPFF": 1,
     "FNCKJPJCGEI": [
       "UI_EffigyChallengeV4_Monster_Drake_Deepsea_TwinBossFight",
@@ -283,7 +283,7 @@
       ""
     ],
     "MBBKIAAFMDJ": "UI_MonsterIcon_Drake_Deepsea_TwinBossFight",
-    "ODFPNBBMHLK": 1476728073,
+    "titleTextMapHash": 1476728073,
     "HGOJDPCKIKP": "Shadow: Twined Dragonheirs",
     "IPJBKHBOCFN": 4228155909,
     "monsterName": "Booming Bathysmal Vishap Herd",
@@ -411,8 +411,8 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 7,
+    "id": 4,
+    "openDay": 7,
     "POFOHNFCPFF": 2,
     "FNCKJPJCGEI": [
       "UI_EffigyChallengeV4_Monster_Raijin",
@@ -420,7 +420,7 @@
       "UI_EffigyChallengeV4_Monster_Drake_Deepsea_TwinBossFight"
     ],
     "MBBKIAAFMDJ": "",
-    "ODFPNBBMHLK": 408175433,
+    "titleTextMapHash": 408175433,
     "HGOJDPCKIKP": "Three-Realm Banquet of Stillness",
     "IPJBKHBOCFN": 3776579493,
     "monsterName": "",

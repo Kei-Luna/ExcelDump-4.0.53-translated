@@ -1,10 +1,10 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 48,
     "type": 4,
-    "OCHCPNIBIPF": 1612886129,
+    "descTextMapHash": 1612886129,
     "AJGMCFNDKEG": "With the fall of the ancient lost civilization, the once prosperous and magnificent Sommernachtgarten was also buried underground, leaving only its ancient trees and stones to remember its past glory.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -30,11 +30,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 50,
     "type": 2,
-    "OCHCPNIBIPF": 3914992809,
+    "descTextMapHash": 3914992809,
     "AJGMCFNDKEG": "The Cecilia flowers that only grow on high cliffs once bloomed in the greenhouses here. The ancient civilization that once enjoyed the scent of the Cecilia was lost, and so too was the sea of white flowers.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -136,11 +136,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 135,
     "type": 2,
-    "OCHCPNIBIPF": 1293176289,
+    "descTextMapHash": 1293176289,
     "AJGMCFNDKEG": "The operation of the Lianshan Formula created endless thunderstorms within the bowels of the mountain. It is said that the rumbling sounds of thunder that one hears outside the domain's gates call out to curious souls.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -242,11 +242,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 117,
     "type": 7,
-    "OCHCPNIBIPF": 77310385,
+    "descTextMapHash": 77310385,
     "AJGMCFNDKEG": "Though it may seem like a clear pond, the amount of treasures hidden below is enough to drive a person mad. Unfortunately, few who can decipher its secrets remain.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -272,11 +272,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 42,
     "type": 4,
-    "OCHCPNIBIPF": 2667941777,
+    "descTextMapHash": 2667941777,
     "AJGMCFNDKEG": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -302,11 +302,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 137,
     "type": 4,
-    "OCHCPNIBIPF": 767933225,
+    "descTextMapHash": 767933225,
     "AJGMCFNDKEG": "Delusions and disappointments of an ancient ambition to lead humanity are gathered here. It refuses to give up on its lofty ambitions, though it is for now consigned to fester in the cavernous depths of Guyun.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -332,11 +332,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 107,
     "type": 4,
-    "OCHCPNIBIPF": 692041689,
+    "descTextMapHash": 692041689,
     "AJGMCFNDKEG": "There is a secret ritual that can conceal one gate out of eight, cutting off the route for evil to escape. This ritual was performed here long ago, sealing demons within this labyrinth. Rumor has it that the Method to fit Pillars with Zhou Formula presently seals an evil Chi.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -362,11 +362,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 139,
     "type": 4,
-    "OCHCPNIBIPF": 142290817,
+    "descTextMapHash": 142290817,
     "AJGMCFNDKEG": "Mt. Aocang is a place of secret wonders. What at first merely seems like beautiful scenery in fact conceals a stone cave that connects to the heavens and breathes out clouds. Nonetheless, this is not how the saying \"where the clouds emerge\" was derived.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -392,11 +392,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 44,
     "type": 3,
-    "OCHCPNIBIPF": 2905358345,
+    "descTextMapHash": 2905358345,
     "AJGMCFNDKEG": "It is said that in ancient times, people would venture into the valley to seek out the ancient tree on the altar. They would whisper their secrets into the tree hollow, relieving themselves of the burden of keeping the secrets to themselves. The Forsaken Rift is filled with such long-forgotten secrets.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -480,11 +480,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 131,
     "type": 3,
-    "OCHCPNIBIPF": 2189301337,
+    "descTextMapHash": 2189301337,
     "AJGMCFNDKEG": "Once, people who sought the path of the adepti had to pass the trials of heaven and earth. Taishan Mansion served as the trial of \"earth.\" Now that the adepti have long departed from this realm, Taishan Mansion has also turned into a common treasure trove.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -568,11 +568,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 221,
     "type": 4,
-    "OCHCPNIBIPF": 4215300953,
+    "descTextMapHash": 4215300953,
     "AJGMCFNDKEG": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -598,11 +598,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 282,
     "type": 4,
-    "OCHCPNIBIPF": 407495801,
+    "descTextMapHash": 407495801,
     "AJGMCFNDKEG": "Standing proudly over the start of the ridge, these ancient city ruins overlook both north and south, both mountain and river, like a boundary marker. Legend has it that its gates and blessings are only open to those whose hearts are lit with an eternal blaze.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -628,11 +628,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 368,
     "type": 2,
-    "OCHCPNIBIPF": 3563711113,
+    "descTextMapHash": 3563711113,
     "AJGMCFNDKEG": "They say that in antediluvian times now lost to history, there was once a foolish ruler who dreamed of building a high garden in honor of the white sacred tree over the primordial sands. Now, dead silence fills the kingdom built on sand, but the obsessions of the past remain.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -734,11 +734,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 15,
+    "id": 15,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 310,
     "type": 3,
-    "OCHCPNIBIPF": 1335742113,
+    "descTextMapHash": 1335742113,
     "AJGMCFNDKEG": "Sometime in the ancient past, the mountains rose higher than the skies, and the earth was larger than heaven's dome. But one day, the mirror shattered, and the oceans arose. In these legends, this caused the court of the primeval sakura to become sundered from the other islands.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -822,11 +822,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 16,
+    "id": 16,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 361,
     "type": 4,
-    "OCHCPNIBIPF": 2252726481,
+    "descTextMapHash": 2252726481,
     "AJGMCFNDKEG": "This court is ever a silent scene of falling red leaves. Perhaps lost causes and unforgettable loves may follow the veins of the earth and coalesce into the fruits of the court's white tree.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -852,11 +852,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 17,
+    "id": 17,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 433,
     "type": 4,
-    "OCHCPNIBIPF": 831946953,
+    "descTextMapHash": 831946953,
     "AJGMCFNDKEG": "This great hall stood when Seirai Island neither had the name it has now, nor had it yet been stained with the color of thunder. The scenery within will probably never change, either.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -882,11 +882,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 18,
+    "id": 18,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 516,
     "type": 4,
-    "OCHCPNIBIPF": 2021257257,
+    "descTextMapHash": 2021257257,
     "AJGMCFNDKEG": "The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -912,11 +912,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 19,
+    "id": 19,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 505,
     "type": 3,
-    "OCHCPNIBIPF": 3613595857,
+    "descTextMapHash": 3613595857,
     "AJGMCFNDKEG": "In the ancient past, man-made towers that could touch the skies were built all across the land. Though human hearts flowed downward, their souls aspired toward the high heavens. These towers would always fall, or collapse under their own weight and plummet into the depths.\\nHowever, if one were to look at things at a grander scale, the heavens and earth are as one — no direction is truly different from another.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -1000,11 +1000,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 20,
+    "id": 20,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 507,
     "type": 4,
-    "OCHCPNIBIPF": 3394002473,
+    "descTextMapHash": 3394002473,
     "AJGMCFNDKEG": "In ancient times, this was a great and beautiful place, seemingly made to bless the children of humanity. But the arrow of heaven would descend, making mountains out of flat land and burying the ancient capitol beneath the hills.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1030,11 +1030,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 21,
+    "id": 21,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 509,
     "type": 2,
-    "OCHCPNIBIPF": 1711971481,
+    "descTextMapHash": 1711971481,
     "AJGMCFNDKEG": "It is said that the deserts were once home to three sage-kings, one of whom remained lovely and wise till the very end. They parted ways eventually for the sake of the paradise they sought in their hearts.\\nThis place is called a \"tower,\" but in truth was the temporary residence of one of these people when they were building that earthly paradise. If one stretches the past back even further, it was once a small shrine built to avoid the wind and the sand.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -1136,11 +1136,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 22,
+    "id": 22,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 758,
     "type": 4,
-    "OCHCPNIBIPF": 3121112609,
+    "descTextMapHash": 3121112609,
     "AJGMCFNDKEG": "This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1166,11 +1166,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 23,
+    "id": 23,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 803,
     "type": 4,
-    "OCHCPNIBIPF": 2902665865,
+    "descTextMapHash": 2902665865,
     "AJGMCFNDKEG": "Legend has it that the territory of the red desert was marked by an ancient barrier of iron and bronze. The Lord of the Blazing Sun used to set out from here on his chariot to drive away the evil spirits wandering among the grim mountains. However, the gilded nations later sank into the sand and towering parapets of iron and bronze thus faded into oblivion along with their parent nations, leaving only unrecognizable ruins.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1196,11 +1196,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 24,
+    "id": 24,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 865,
     "type": 3,
-    "OCHCPNIBIPF": 4245884321,
+    "descTextMapHash": 4245884321,
     "AJGMCFNDKEG": "In the past, the great white armada that traversed the seas was Fontaine's supreme pride and glory, for the Mistress of Rivers and Oceans blessed her people with the authority and wish to conquer all the waters of the world. However, this lofty ambition was insufficient to overcome the laws of fate.\\nTo this day, on the brass masts are inscribed the words: \"I have conquered the waves of the four seas.\"",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -1284,11 +1284,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 25,
+    "id": 25,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 859,
     "type": 2,
-    "OCHCPNIBIPF": 2142072001,
+    "descTextMapHash": 2142072001,
     "AJGMCFNDKEG": "Legend speaks of a time in the distant past, when the Sovereign of the Waters had not yet returned from confinement, there was another God King who dreamed of building a prosperous empire out of harmonious music atop the waves. But the great ambition of building a utopia failed to come to fruition, and the arrogance of humanity sunk into their depths along with their pride. The golden melodies long silent, only the cold music of the tides still echoes upon the remains of their grand altars.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": true,
@@ -1390,11 +1390,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 26,
+    "id": 26,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 982,
     "type": 4,
-    "OCHCPNIBIPF": 716421649,
+    "descTextMapHash": 716421649,
     "AJGMCFNDKEG": "Legends say that the first Lochknight concealed themselves in the remote wilderness with the Lochfolk, intending to use self-exile and rigorous training in an attempt to repay a sin fated to be beyond redemption. Now the land has long returned to deathly silence, with the long, chill winds still blowing through the deserted valley.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1420,11 +1420,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1001,
+    "id": 1001,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 45,
     "type": 6,
-    "OCHCPNIBIPF": 2708589641,
+    "descTextMapHash": 2708589641,
     "AJGMCFNDKEG": "Rumor has it that people who've ascended to Celestia have also witnessed the same helix-shaped divine ladder that can be seen within Visions. Venturing out into the universe and down into the abyss are the same in that both are braving the dark unknown.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1450,11 +1450,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1002,
+    "id": 1002,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 1,
     "type": 7,
-    "OCHCPNIBIPF": 3239234745,
+    "descTextMapHash": 3239234745,
     "AJGMCFNDKEG": "This was once a temple devoted to the Wolf of the North. Now, the priests are gone, and the temple has been seized by monsters. However, they say that the spirit of the Wolf still watches over the endless fields of Mondstadt from someplace else.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1480,11 +1480,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1003,
+    "id": 1003,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 20,
     "type": 7,
-    "OCHCPNIBIPF": 1162985985,
+    "descTextMapHash": 1162985985,
     "AJGMCFNDKEG": "This ruin used to be a temple devoted to the benevolent Falcon of the West. The Temple of the Falcon has watched over Windrise for thousands of years. Perhaps the winds of the past still linger within its halls.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1510,11 +1510,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1004,
+    "id": 1004,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 22,
     "type": 7,
-    "OCHCPNIBIPF": 3920998985,
+    "descTextMapHash": 3920998985,
     "AJGMCFNDKEG": "This used to be a temple devoted to the Lion of the South, but it has long been abandoned. Folklore tells that the dandelions commonly seen riding on the winds across Mondstadt symbolize the blessings of the Lion of the South.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1540,11 +1540,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1005,
+    "id": 1005,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 40,
     "type": 7,
-    "OCHCPNIBIPF": 1972150497,
+    "descTextMapHash": 1972150497,
     "AJGMCFNDKEG": "Both the prideful eagles and noble souls favor transcendent heights apart from the secular world. In days past, those who despised mortal squabbles as the eagles do could find peace of mind in this place.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1570,11 +1570,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1006,
+    "id": 1006,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 38,
     "type": 8,
-    "OCHCPNIBIPF": 792448241,
+    "descTextMapHash": 792448241,
     "AJGMCFNDKEG": "The towering but broken spire tells of its tragic story silently. Its chambers and halls are filled with memories and longing, as well as howling winds.",
     "FOCKGFGAPAE": [
       {
@@ -1619,11 +1619,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1007,
+    "id": 1007,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 52,
     "type": 7,
-    "OCHCPNIBIPF": 3246634345,
+    "descTextMapHash": 3246634345,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1649,11 +1649,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1008,
+    "id": 1008,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 113,
     "type": 7,
-    "OCHCPNIBIPF": 332916601,
+    "descTextMapHash": 332916601,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1679,11 +1679,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1009,
+    "id": 1009,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 102,
     "type": 7,
-    "OCHCPNIBIPF": 1575215929,
+    "descTextMapHash": 1575215929,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1709,11 +1709,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1010,
+    "id": 1010,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 89,
     "type": 7,
-    "OCHCPNIBIPF": 2484444193,
+    "descTextMapHash": 2484444193,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1739,11 +1739,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1011,
+    "id": 1011,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 119,
     "type": 7,
-    "OCHCPNIBIPF": 4121744817,
+    "descTextMapHash": 4121744817,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1769,11 +1769,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1012,
+    "id": 1012,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 125,
     "type": 7,
-    "OCHCPNIBIPF": 692976025,
+    "descTextMapHash": 692976025,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1799,11 +1799,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1013,
+    "id": 1013,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 129,
     "type": 7,
-    "OCHCPNIBIPF": 2511450889,
+    "descTextMapHash": 2511450889,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1829,11 +1829,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1014,
+    "id": 1014,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 146,
     "type": 7,
-    "OCHCPNIBIPF": 3994909113,
+    "descTextMapHash": 3994909113,
     "AJGMCFNDKEG": "Although Treasure Hoarders have long heard of treasures hidden here, they have yet to discover its location. In this world, the more one clings to delusions, the more quickly they slip through one's fingers. Only when the heart's desires are finally cast aside can the narrow path to peace be found.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1859,11 +1859,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1015,
+    "id": 1015,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 133,
     "type": 7,
-    "OCHCPNIBIPF": 3007793081,
+    "descTextMapHash": 3007793081,
     "AJGMCFNDKEG": "Many of those who come here now do so solely to search for nearby treasure. Just as crowds naturally leave a theater after the curtain falls, this once thriving colony has now been reduced to all but empty remains.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1889,11 +1889,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1016,
+    "id": 1016,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 218,
     "type": 8,
-    "OCHCPNIBIPF": 1047671777,
+    "descTextMapHash": 1047671777,
     "AJGMCFNDKEG": "The storm clouds gathering over Liyue have finally parted, and the schemes that once gripped this land have been shattered by the combined efforts of the Qixing, the adepti, and yourself.\\nStill, the memories of your duel with Childe of the Fatui in the depths of the Golden House remain fresh in your mind.\\nRelive this duel, and you may yet learn something new...",
     "FOCKGFGAPAE": [
       {
@@ -1932,11 +1932,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1017,
+    "id": 1017,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 223,
     "type": 9,
-    "OCHCPNIBIPF": 2923105409,
+    "descTextMapHash": 2923105409,
     "AJGMCFNDKEG": "Pure Elemental Hypostases lie dormant within the depths of the world. Draw your blade, and join the sound of ringing steel to the chorus of wind, thunder, and earth.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -1962,11 +1962,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1018,
+    "id": 1018,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 265,
     "type": 10,
-    "OCHCPNIBIPF": 3303313457,
+    "descTextMapHash": 3303313457,
     "AJGMCFNDKEG": "The entrance to the Peculiar Wonderland only opens at specific times, and they who enter shall face three random challenges in which they will stand the test of powerful opponents.\\nThe origin of this Domain can no longer be known, but no matter whence it comes, its peculiar pleasures are praised by all.",
     "FOCKGFGAPAE": [
       {
@@ -1996,11 +1996,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1019,
+    "id": 1019,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 274,
     "type": 12,
-    "OCHCPNIBIPF": 2262718049,
+    "descTextMapHash": 2262718049,
     "AJGMCFNDKEG": "In this Domain, the agitation of the Irminsul Fruit's energies has resulted in a Plasma Field that constantly encroaches upon the challenge area. Those who walk within the Plasma Field shall be subject to the assault of lightning.",
     "FOCKGFGAPAE": [
       {
@@ -2030,11 +2030,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1020,
+    "id": 1020,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 276,
     "type": 12,
-    "OCHCPNIBIPF": 2797072865,
+    "descTextMapHash": 2797072865,
     "AJGMCFNDKEG": "A Frostarm Lawachurl and the creatures under its command dwell within this Domain. These sniveling supplicants, the Attendants, will likely do everything in their power to defend their lord.",
     "FOCKGFGAPAE": [
       {
@@ -2064,11 +2064,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1021,
+    "id": 1021,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 278,
     "type": 12,
-    "OCHCPNIBIPF": 2491644225,
+    "descTextMapHash": 2491644225,
     "AJGMCFNDKEG": "A group of vishaps that have consumed an Irminsul Fruit fragment have dominion over this Domain. When defeated, the digested fragments will manifest themselves as volatile High-Energy Crystal Cores...",
     "FOCKGFGAPAE": [
       {
@@ -2098,11 +2098,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1022,
+    "id": 1022,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 280,
     "type": 11,
-    "OCHCPNIBIPF": 350839273,
+    "descTextMapHash": 350839273,
     "AJGMCFNDKEG": "The power of the Irminsul Fruit Fragments have twisted this Domain, creating bizarre traps and constantly attracting powerful enemies to dwell within. If you wish to plumb its depths, you too must possess the power of the Irminsul Fruit...",
     "FOCKGFGAPAE": [
       {
@@ -2132,11 +2132,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1023,
+    "id": 1023,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 271,
     "type": 8,
-    "OCHCPNIBIPF": 3790866161,
+    "descTextMapHash": 3790866161,
     "AJGMCFNDKEG": "Across the long years, this bed of rock, carved into the very heart of the world, has imprisoned Azhdaha like a coffin.",
     "FOCKGFGAPAE": [
       {
@@ -2211,11 +2211,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1024,
+    "id": 1024,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 294,
     "type": 9,
-    "OCHCPNIBIPF": 3135140769,
+    "descTextMapHash": 3135140769,
     "AJGMCFNDKEG": "Immensely powerful foes await within the depths of this domain. Approach them without fear with a drawn sword and a heart ready to do battle.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2241,11 +2241,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1025,
+    "id": 1025,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 334,
     "type": 13,
-    "OCHCPNIBIPF": 3528534825,
+    "descTextMapHash": 3528534825,
     "AJGMCFNDKEG": "The traces of the elemental anomalies point to the final Domain. The Ruin machines of unprecedented power that linger within seem to have resonated with ancient devices! Each time the Perpetual Mechanical Array splits, a random number of Thunder Dwellings and Nimbus Gems will appear throughout the Domain, creating waves of change and chance!\\nUse these additional factors within the Domain to your advantage and defeat your foes in one fell swoop!",
     "FOCKGFGAPAE": [
       {
@@ -2275,11 +2275,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1026,
+    "id": 1026,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 357,
     "type": 14,
-    "OCHCPNIBIPF": 1657396761,
+    "descTextMapHash": 1657396761,
     "AJGMCFNDKEG": "It is said that mysterious door near Inazuma City leads to a mysterious guild hall.\\nHere, mortals and monsters who enjoy battle are all welcome to take part in this free-for-all fighting tournament — also known as the Hyakunin Ikki.",
     "FOCKGFGAPAE": [
       {
@@ -2309,11 +2309,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1027,
+    "id": 1027,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 350,
     "type": 7,
-    "OCHCPNIBIPF": 268653081,
+    "descTextMapHash": 268653081,
     "AJGMCFNDKEG": "This tengu annex dwelling that floats upon the sea like a lonesome boat once played host to the somewhat famous \"Yougou Three,\" and this would later become the cage in which they, having despaired, spent the rest of their days.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2339,11 +2339,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1028,
+    "id": 1028,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 308,
     "type": 7,
-    "OCHCPNIBIPF": 2309605713,
+    "descTextMapHash": 2309605713,
     "AJGMCFNDKEG": "This magnificent mansion was built by an ancient ascetic warrior in the depths of the earth using scenery borrowed from the outside world. At some point during the many years that followed, it was sealed for reasons unknown.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2369,11 +2369,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1029,
+    "id": 1029,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 359,
     "type": 7,
-    "OCHCPNIBIPF": 2262274449,
+    "descTextMapHash": 2262274449,
     "AJGMCFNDKEG": "This estate once belonged to a lieutenant of Orobashi no Mikoto, until he, the body of his god, and the sky alike were rent open by a flash of lightning.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2399,11 +2399,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1030,
+    "id": 1030,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 396,
     "type": 8,
-    "OCHCPNIBIPF": 1251280409,
+    "descTextMapHash": 1251280409,
     "AJGMCFNDKEG": "This is the dwelling of the Raiden Shogun, who rules over Inazuma.\\nIt is also the perfect place for a \"duel before the throne.\"",
     "FOCKGFGAPAE": [
       {
@@ -2442,11 +2442,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1031,
+    "id": 1031,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 351,
     "type": 7,
-    "OCHCPNIBIPF": 2428969633,
+    "descTextMapHash": 2428969633,
     "AJGMCFNDKEG": "They say that long ago, seawater had yet to fill this pool. The moonlight was brighter back then, and it filled the pool instead, flowing freely like quicksilver.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2472,11 +2472,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1032,
+    "id": 1032,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 417,
     "type": 15,
-    "OCHCPNIBIPF": 3512394897,
+    "descTextMapHash": 3512394897,
     "AJGMCFNDKEG": "The great gates of the bizarre and unpredictable Mystic Onmyou Chamber have swung open. The monsters imprisoned within are fierce indeed, but for those who seek truth and wish to temper their martial might, this Domain is a valuable place to challenge themselves...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2502,11 +2502,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1033,
+    "id": 1033,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 426,
     "type": 16,
-    "OCHCPNIBIPF": 746465721,
+    "descTextMapHash": 746465721,
     "AJGMCFNDKEG": "Following Kageroumaru, you come across a dwelling.\\nUnexpectedly, Kageroumaru ran into the house, catching everyone unawares and leaving the trail cold.\\nYou'll have to follow him in if you wish to continue this investigation...",
     "FOCKGFGAPAE": [
       {
@@ -2536,11 +2536,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1034,
+    "id": 1034,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 424,
     "type": 7,
-    "OCHCPNIBIPF": 2323875993,
+    "descTextMapHash": 2323875993,
     "AJGMCFNDKEG": "A mansion that was set up somewhere outside the Sea of Fog. No one knows who built this place, but it seems clear that it is now nothing but a den of ravenous wolves.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2566,11 +2566,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1035,
+    "id": 1035,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 436,
     "type": 11,
-    "OCHCPNIBIPF": 76103177,
+    "descTextMapHash": 76103177,
     "AJGMCFNDKEG": "The entrance to this strange domain only sometimes appears on land. To brave warriors, this is the best training ground possible. As such, it is also the best place to gather data using the Energy Amplifier.",
     "FOCKGFGAPAE": [
       {
@@ -2600,11 +2600,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1036,
+    "id": 1036,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 447,
     "type": 15,
-    "OCHCPNIBIPF": 433396889,
+    "descTextMapHash": 433396889,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [
       {
@@ -2634,11 +2634,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1037,
+    "id": 1037,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 449,
     "type": 15,
-    "OCHCPNIBIPF": 512326977,
+    "descTextMapHash": 512326977,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [
       {
@@ -2668,11 +2668,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1038,
+    "id": 1038,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 451,
     "type": 15,
-    "OCHCPNIBIPF": 3872861745,
+    "descTextMapHash": 3872861745,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [
       {
@@ -2702,11 +2702,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1039,
+    "id": 1039,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 457,
     "type": 15,
-    "OCHCPNIBIPF": 474765937,
+    "descTextMapHash": 474765937,
     "AJGMCFNDKEG": "In a place that the opulent festivities do not reach, a strange monster named Beisht is on the move. Lying in wait in the waters under Guyun Stone Forest, Beisht is preparing a massive offensive. Step into her hiding place and defeat her preemptively to eliminate this nascent threat and defend the festive Liyue Harbor.",
     "FOCKGFGAPAE": [
       {
@@ -2736,11 +2736,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1040,
+    "id": 1040,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 469,
     "type": 14,
-    "OCHCPNIBIPF": 916511777,
+    "descTextMapHash": 916511777,
     "AJGMCFNDKEG": "Hyakunin Ikki",
     "FOCKGFGAPAE": [
       {
@@ -2770,11 +2770,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1041,
+    "id": 1041,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 512,
     "type": 15,
-    "OCHCPNIBIPF": 1872280993,
+    "descTextMapHash": 1872280993,
     "AJGMCFNDKEG": "The Adventurers' Guild has discovered a strange Domain in the outskirts of Liyue. This Domain seems to change based on the will of the people within it.\\nAt their request, you enter this Domain to begin investigating...",
     "FOCKGFGAPAE": [
       {
@@ -2816,11 +2816,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1042,
+    "id": 1042,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 520,
     "type": 15,
-    "OCHCPNIBIPF": 3392902889,
+    "descTextMapHash": 3392902889,
     "AJGMCFNDKEG": "A domain that is situated on the outer rim of The Chasm. Vibro-Crystals are positioned on either side of the platform, to be used while testing their harmonics.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2846,11 +2846,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1043,
+    "id": 1043,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 503,
     "type": 8,
-    "OCHCPNIBIPF": 1825844521,
+    "descTextMapHash": 1825844521,
     "AJGMCFNDKEG": "Countless dreams once blew about here like petals in the wind, never to be fulfilled. This is the origin of Eternity, and it is also \"her\" end.",
     "FOCKGFGAPAE": [
       {
@@ -2889,11 +2889,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1045,
+    "id": 1045,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 9,
     "type": 15,
-    "OCHCPNIBIPF": 1672606017,
+    "descTextMapHash": 1672606017,
     "AJGMCFNDKEG": "You discover a mysterious space while exploring the now-slightly-different Golden Apple Archipelago. This place seems intimately related to the quaint old bonsai that the Kaedehara Clan kept...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2919,11 +2919,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1046,
+    "id": 1046,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 48,
     "type": 15,
-    "OCHCPNIBIPF": 2432468609,
+    "descTextMapHash": 2432468609,
     "AJGMCFNDKEG": "You discover a mysterious space while exploring the now-slightly-different Golden Apple Archipelago. This place seems intimately related to the quaint old bonsai that the Kaedehara Clan kept...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2949,11 +2949,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1047,
+    "id": 1047,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 50,
     "type": 15,
-    "OCHCPNIBIPF": 3819188313,
+    "descTextMapHash": 3819188313,
     "AJGMCFNDKEG": "A mysterious realm that only Fischl's text, the \"Hymn of the Holy Land,\" is able to unlock the path to. An austere and sacred aura surrounds this place, and the borders of common sense begin to blur here.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -2979,11 +2979,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1048,
+    "id": 1048,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 52,
     "type": 15,
-    "OCHCPNIBIPF": 3815529809,
+    "descTextMapHash": 3815529809,
     "AJGMCFNDKEG": "This domain looms large as you visit another island shrouded in illusion. The strange plants around this domain resemble instruments. Perhaps this might prove the ideal stage for a certain resident rocker to show her stuff?",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3009,11 +3009,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1049,
+    "id": 1049,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 54,
     "type": 15,
-    "OCHCPNIBIPF": 1635795273,
+    "descTextMapHash": 1635795273,
     "AJGMCFNDKEG": "You find this strange realm under Mona's guidance. The way of entering this place is quite unique indeed. You reckon it must have quite the deep association with the genius astrologer...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3039,11 +3039,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1050,
+    "id": 1050,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 11,
     "type": 15,
-    "OCHCPNIBIPF": 4117405465,
+    "descTextMapHash": 4117405465,
     "AJGMCFNDKEG": "You discover a mysterious space while exploring the now-slightly-different Golden Apple Archipelago. This place seems intimately related to the quaint old bonsai that the Kaedehara Clan kept...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3069,11 +3069,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1051,
+    "id": 1051,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 13,
     "type": 15,
-    "OCHCPNIBIPF": 3793477353,
+    "descTextMapHash": 3793477353,
     "AJGMCFNDKEG": "You discover a mysterious space while exploring the now-slightly-different Golden Apple Archipelago. This place seems intimately related to the quaint old bonsai that the Kaedehara Clan kept...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3099,11 +3099,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1052,
+    "id": 1052,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 15,
     "type": 15,
-    "OCHCPNIBIPF": 1581179913,
+    "descTextMapHash": 1581179913,
     "AJGMCFNDKEG": "A mysterious realm that only Fischl's text, the \"Hymn of the Holy Land,\" is able to unlock the path to. An austere and sacred aura surrounds this place, and the borders of common sense begin to blur here.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3129,11 +3129,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1053,
+    "id": 1053,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 17,
     "type": 15,
-    "OCHCPNIBIPF": 3136096641,
+    "descTextMapHash": 3136096641,
     "AJGMCFNDKEG": "A mysterious realm that only Fischl's text, the \"Hymn of the Holy Land,\" is able to unlock the path to. An austere and sacred aura surrounds this place, and the borders of common sense begin to blur here.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3159,11 +3159,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1054,
+    "id": 1054,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 19,
     "type": 15,
-    "OCHCPNIBIPF": 2666163025,
+    "descTextMapHash": 2666163025,
     "AJGMCFNDKEG": "A mysterious realm that only Fischl's text, the \"Hymn of the Holy Land,\" is able to unlock the path to. An austere and sacred aura surrounds this place, and the borders of common sense begin to blur here.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3189,11 +3189,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1055,
+    "id": 1055,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 27,
     "type": 15,
-    "OCHCPNIBIPF": 3840739633,
+    "descTextMapHash": 3840739633,
     "AJGMCFNDKEG": "This domain looms large as you visit another island shrouded in illusion. The strange plants around this domain resemble instruments. Perhaps this might prove the ideal stage for a certain resident rocker to show her stuff?",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3219,11 +3219,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1056,
+    "id": 1056,
     "AABACKCPCLJ": 9,
     "HPCCDGAKONI": 29,
     "type": 15,
-    "OCHCPNIBIPF": 1305580185,
+    "descTextMapHash": 1305580185,
     "AJGMCFNDKEG": "You find this strange realm under Mona's guidance. The way of entering this place is quite unique indeed. You reckon it must have quite the deep association with the genius astrologer...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3249,11 +3249,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1057,
+    "id": 1057,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 613,
     "type": 15,
-    "OCHCPNIBIPF": 705732569,
+    "descTextMapHash": 705732569,
     "AJGMCFNDKEG": "Hajanad discovered this Domain during her expedition. There are enemies of varying strength lurking within it. Their specific emergence patterns are suitable for studying the effects of her \"Remelting Tablets\"...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3279,11 +3279,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1058,
+    "id": 1058,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 620,
     "type": 15,
-    "OCHCPNIBIPF": 2408826137,
+    "descTextMapHash": 2408826137,
     "AJGMCFNDKEG": "A research facility located on the border between Sumeru and Liyue. Monsters from both sides can be lured here, serving as involuntary research subjects.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3309,11 +3309,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1059,
+    "id": 1059,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 627,
     "type": 14,
-    "OCHCPNIBIPF": 4193037505,
+    "descTextMapHash": 4193037505,
     "AJGMCFNDKEG": "It is said that a mysterious door near Inazuma City leads to a mysterious guild hall.\\nHere, mortals and monsters who enjoy battle are all welcome to take part in this free-for-all fighting tournament — also known as the Hyakunin Ikki.",
     "FOCKGFGAPAE": [
       {
@@ -3343,11 +3343,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1060,
+    "id": 1060,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 656,
     "type": 15,
-    "OCHCPNIBIPF": 2811700257,
+    "descTextMapHash": 2811700257,
     "AJGMCFNDKEG": "A mysterious Domain that is said to be filled with wind currents...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3373,11 +3373,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1061,
+    "id": 1061,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 607,
     "type": 7,
-    "OCHCPNIBIPF": 2522783185,
+    "descTextMapHash": 2522783185,
     "AJGMCFNDKEG": "This was once a dreamland paradise of a child of the forest, constructed based on how other children would describe the woods.\\nIn their memories, the forest was incredibly vast, much like the world itself. The forest was also immensely deep, just like fate itself.\\nAlthough the dimensions of the world and the true depth of destiny would ultimately disappoint, the fantasy of them endures deep within this nursery.",
     "FOCKGFGAPAE": [
       {
@@ -3407,11 +3407,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1062,
+    "id": 1062,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 646,
     "type": 7,
-    "OCHCPNIBIPF": 2603966985,
+    "descTextMapHash": 2603966985,
     "AJGMCFNDKEG": "According to the legends, the goddess who had command over plants would summon forth a spirit of timely rains, whose name was Varuna, or \"water and sky.\"\\nThese same legends say that the now-deceased forest king used hedges and streams, and the children of the pomegranate used dreams and illusions to create a labyrinth as deep and intricate as the very roots of trees themselves, to defend the secret of sun and rain.",
     "FOCKGFGAPAE": [
       {
@@ -3441,11 +3441,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1063,
+    "id": 1063,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 618,
     "type": 7,
-    "OCHCPNIBIPF": 1453158609,
+    "descTextMapHash": 1453158609,
     "AJGMCFNDKEG": "The poets have it that spores, like trees, are connected to each other, and that all fungal beings in the world share a single dream. At the end of that dream, the spores would take on the forms of all things, and that all things would return to the beginning — return to being one — and that there would never again be boundaries.\\nBut the evolution of Fungi into sentient, locomotive beings was not something that happened in such primordial times. Regardless, this place has become fertile soil for Fungi to thrive.",
     "FOCKGFGAPAE": [
       {
@@ -3475,11 +3475,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1064,
+    "id": 1064,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 600,
     "type": 7,
-    "OCHCPNIBIPF": 1399948745,
+    "descTextMapHash": 1399948745,
     "AJGMCFNDKEG": "Legend has it that the moon once had a face.\\nUnder the fierce moon's face, like a white bow, the paths through the forest labyrinth would bring lost people to jade and amber dreams. This forest labyrinth has ceased to exist for hundreds of years — and yet even a hundred thousand winters must seem like a day in the garden of dreams.",
     "FOCKGFGAPAE": [
       {
@@ -3509,11 +3509,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1065,
+    "id": 1065,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 699,
     "type": 9,
-    "OCHCPNIBIPF": 3456698345,
+    "descTextMapHash": 3456698345,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3539,11 +3539,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1066,
+    "id": 1066,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 704,
     "type": 15,
-    "OCHCPNIBIPF": 2936190593,
+    "descTextMapHash": 2936190593,
     "AJGMCFNDKEG": "These special training grounds in the mountains west of Port Ormos have been reserved for the Nilotpala Cup Beast Tamers Tournament. You can learn how to conduct Coordinated Assaults and Zone Defense here to strengthen your bonds with your Fungi.\\nIt is said that these training grounds were once a Domain infested by monsters and outlaws that was declared a \"suitable venue for special training\" by the organizer after many surveys. \"Actual combat can quickly improve your skills,\" so they say, and not falsely, but there are some foes in here that are still very concerning indeed...",
     "FOCKGFGAPAE": [
       {
@@ -3600,11 +3600,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1067,
+    "id": 1067,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 675,
     "type": 7,
-    "OCHCPNIBIPF": 4192782753,
+    "descTextMapHash": 4192782753,
     "AJGMCFNDKEG": "This palatial place was once dominated by many thousands of giant pillars, and priests and the powerful alike once walked beneath their bower unrestrained.\\nBut all that is left of the mighty and proud city of sapphire now is wrack and ruin.",
     "FOCKGFGAPAE": [
       {
@@ -3634,11 +3634,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1068,
+    "id": 1068,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 671,
     "type": 7,
-    "OCHCPNIBIPF": 199077425,
+    "descTextMapHash": 199077425,
     "AJGMCFNDKEG": "The Jinn once used this place as a free theater and a paradise without sorrow or care. The people of the desert wastes also once used this place as a ritual site to remember the ages long past...\\nBut all these joys and sorrows, like a false mirage, would disappear amidst the flow of the Ley Lines.",
     "FOCKGFGAPAE": [
       {
@@ -3668,11 +3668,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1069,
+    "id": 1069,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 674,
     "type": 7,
-    "OCHCPNIBIPF": 4154774401,
+    "descTextMapHash": 4154774401,
     "AJGMCFNDKEG": "Legend has it that there was once a prince who was exiled by his father and imprisoned in this jail.\\nThe bronze revelation first emerged here in this lonely, forgotten place where there is neither day nor night.",
     "FOCKGFGAPAE": [
       {
@@ -3702,11 +3702,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1070,
+    "id": 1070,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 682,
     "type": 15,
-    "OCHCPNIBIPF": 1236255169,
+    "descTextMapHash": 1236255169,
     "AJGMCFNDKEG": "These tournament grounds in Port Ormos have been reserved for the Nilotpala Cup Beast Tamers Tournament. You can view match progress and access the main arena via a secret passage near the match noticeboard to duke it out with your next opponent.\\nIt is said that upon hearing that this location attracts the largest crowds, the organizers of the Nilotpala Cup put much effort into developing an abandoned Domain nearby and renovating it into the main tournament arena...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3732,11 +3732,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1071,
+    "id": 1071,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 724,
     "type": 15,
-    "OCHCPNIBIPF": 1858100521,
+    "descTextMapHash": 1858100521,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [
       {
@@ -3772,11 +3772,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1072,
+    "id": 1072,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 731,
     "type": 8,
-    "OCHCPNIBIPF": 2682450177,
+    "descTextMapHash": 2682450177,
     "AJGMCFNDKEG": "The secret workshop hidden in the forest cavern revealed its entrance upon being struck with immense force. The seeds of \"surpassing\" are sprouting within, and are about to burst forth from the earth...",
     "FOCKGFGAPAE": [
       {
@@ -3815,11 +3815,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1073,
+    "id": 1073,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 742,
     "type": 15,
-    "OCHCPNIBIPF": 3088276025,
+    "descTextMapHash": 3088276025,
     "AJGMCFNDKEG": "Intangible life gathered into a stream, passing through the minute gaps left by intertwined plants in the deep underground. The wisdom that researchers desire to seize may just be contained in this endless, pulsating surge...",
     "FOCKGFGAPAE": [
       {
@@ -3861,11 +3861,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1074,
+    "id": 1074,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 727,
     "type": 7,
-    "OCHCPNIBIPF": 2031023649,
+    "descTextMapHash": 2031023649,
     "AJGMCFNDKEG": "The then-lords of Gurabad regarded death as the only path to the desert's sacred destination. In order to prevent the wretched from defiling this pilgrimage, they buried the unnamed tomb deep underground...\\nBut now, this place has become nothing but a paradise for Wenut and Fungi.",
     "FOCKGFGAPAE": [
       {
@@ -3895,11 +3895,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1075,
+    "id": 1075,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 729,
     "type": 7,
-    "OCHCPNIBIPF": 409366177,
+    "descTextMapHash": 409366177,
     "AJGMCFNDKEG": "The significance of oases lies in the embrace of the desert. The oasis dwellers have never been oblivious to this. Thus did the ancestors in Gurabad build the hermitage for the Lord of Desert.\\nThrough the sandstorm-shrouded past and present, this hermitage has become an asylum for countless desert dwellers, among whom are some bandits as well...",
     "FOCKGFGAPAE": [
       {
@@ -3929,11 +3929,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1076,
+    "id": 1076,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 774,
     "type": 15,
-    "OCHCPNIBIPF": 2569448665,
+    "descTextMapHash": 2569448665,
     "AJGMCFNDKEG": "A domain that is situated on the outer rim of The Chasm. Vibro-Crystals are positioned on either side of the platform to be used while testing their harmonics.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3959,11 +3959,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1077,
+    "id": 1077,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 812,
     "type": 15,
-    "OCHCPNIBIPF": 72245937,
+    "descTextMapHash": 72245937,
     "AJGMCFNDKEG": "The bizarre domain Bahador mentioned. Be extra careful while exploring it...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -3989,11 +3989,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1078,
+    "id": 1078,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 838,
     "type": 15,
-    "OCHCPNIBIPF": 46761281,
+    "descTextMapHash": 46761281,
     "AJGMCFNDKEG": "While conducting her research, Hajanad has discovered a new Domain with all sorts of opponents wandering within. This Domain provides all the research material she needs to test her Shock-Boiled Brews...",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -4019,11 +4019,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1079,
+    "id": 1079,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 848,
     "type": 8,
-    "OCHCPNIBIPF": 2021755697,
+    "descTextMapHash": 2021755697,
     "AJGMCFNDKEG": "The Dragon of Verdure once drew up a dreamlike blueprint of life for its people, until the grass turned into sand and the apocalypse came. Then, dreams had to be burned to fuel life. At the end of those \"crossroads,\" their proud forms had been mutilated. In contrast, the new masters of Teyvat who stepped into this land were so beautiful and dazzling...",
     "FOCKGFGAPAE": [
       {
@@ -4062,11 +4062,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1080,
+    "id": 1080,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 807,
     "type": 7,
-    "OCHCPNIBIPF": 485860713,
+    "descTextMapHash": 485860713,
     "AJGMCFNDKEG": "The fragrant sea underneath the desert is still as luxuriant today as it has always been. Nobody knows when the marvelous sentient Fungi moved in and became part of the ecology of the underground ocean.",
     "FOCKGFGAPAE": [
       {
@@ -4096,11 +4096,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1081,
+    "id": 1081,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 805,
     "type": 7,
-    "OCHCPNIBIPF": 1049040513,
+    "descTextMapHash": 1049040513,
     "AJGMCFNDKEG": "A water body said to be able to wash off all filth and connect to the sea within the earth. Perhaps because of the many similar scents and memories, it is still inhabited by monsters that devoured the remains of greater life forms.",
     "FOCKGFGAPAE": [
       {
@@ -4130,11 +4130,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1082,
+    "id": 1082,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 890,
     "type": 9,
-    "OCHCPNIBIPF": 1465640785,
+    "descTextMapHash": 1465640785,
     "AJGMCFNDKEG": "The mysterious Domain has opened its doors, and beyond its threshold are treacherous and dangerous adversaries on the prowl, waiting for their moment to strike.\\nOnly someone free of worries can defeat such powerful foes and tread a path toward wonderful and pure metamorphosis.",
     "FOCKGFGAPAE": [
       {
@@ -4173,11 +4173,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1083,
+    "id": 1083,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 907,
     "type": 15,
-    "OCHCPNIBIPF": 2840833649,
+    "descTextMapHash": 2840833649,
     "AJGMCFNDKEG": "",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -4203,11 +4203,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1084,
+    "id": 1084,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 913,
     "type": 15,
-    "OCHCPNIBIPF": 1520167441,
+    "descTextMapHash": 1520167441,
     "AJGMCFNDKEG": "Honglang has once again come across that strange Domain on the outskirts of Mondstadt. This Domain seems to change based on the will of the people within it.",
     "FOCKGFGAPAE": [
       {
@@ -4240,11 +4240,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1085,
+    "id": 1085,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 969,
     "type": 15,
-    "OCHCPNIBIPF": 535868601,
+    "descTextMapHash": 535868601,
     "AJGMCFNDKEG": "It is a place beyond ordinary exploration, a valley concealed behind complex terrain, a deserted dead end. No one knows what lies within or what dangers forebode. However, in order to prevent others from accidentally wandering in here, mapping this place out is an act of considerable value.",
     "FOCKGFGAPAE": [],
     "JOADIDOFIIL": false,
@@ -4270,11 +4270,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1086,
+    "id": 1086,
     "AABACKCPCLJ": 10,
     "HPCCDGAKONI": 16,
     "type": 15,
-    "OCHCPNIBIPF": 2426576353,
+    "descTextMapHash": 2426576353,
     "AJGMCFNDKEG": "The park's stage and lights are gathered for you. Step up and dance beautifully. Defeat all foes in your path with your excellent skills!",
     "FOCKGFGAPAE": [
       {
@@ -4313,11 +4313,11 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 1087,
+    "id": 1087,
     "AABACKCPCLJ": 3,
     "HPCCDGAKONI": 1033,
     "type": 15,
-    "OCHCPNIBIPF": 2976062273,
+    "descTextMapHash": 2976062273,
     "AJGMCFNDKEG": "The hidden secret place Macadell found in the wilderness of Fontaine. Various enemies with distinctive features are lingering inside, covering all requirements of the test of Pressurized Impactor. It is an ideal test site...",
     "FOCKGFGAPAE": [
       {

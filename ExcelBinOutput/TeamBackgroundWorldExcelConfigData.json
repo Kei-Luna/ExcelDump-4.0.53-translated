@@ -4,7 +4,7 @@
     "HNJPEKINNIO": "ART/UI/InLevelUI/TeamInterfaceUI/TeamInterfaceUI_XK_01/TeamInterfaceUI_XK_01_Group",
     "AMDPIKOCAIM": [],
     "type": 0,
-    "ICGBLOEECIB": []
+    "paramList": []
   },
   {
     "id": 11,
@@ -33,7 +33,7 @@
       }
     ],
     "type": 1,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 1
       }
@@ -66,7 +66,7 @@
       }
     ],
     "type": 1,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 2
       }
@@ -93,7 +93,7 @@
       }
     ],
     "type": 1,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 3
       }
@@ -123,7 +123,7 @@
       }
     ],
     "type": 2,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 20
       },
@@ -156,7 +156,7 @@
       }
     ],
     "type": 2,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 26
       },
@@ -198,7 +198,7 @@
       }
     ],
     "type": 1,
-    "ICGBLOEECIB": [
+    "paramList": [
       {
         "CDOIPGMKDFF": 5
       }

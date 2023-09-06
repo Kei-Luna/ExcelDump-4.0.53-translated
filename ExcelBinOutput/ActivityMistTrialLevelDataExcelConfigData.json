@@ -1,11 +1,11 @@
 [
   {
     "DCKCMKGGIKM": 1,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 1,
-    "KJNIJNGLHDJ": 2984850657,
+    "scheduleId": 5022001,
+    "levelId": 1,
+    "levelTitleTextMapHash": 2984850657,
     "KGGEJLPHNKC": "Plunging Trial",
-    "FFBHECLIMOH": 3022324269,
+    "levelDescTextMapHash": 3022324269,
     "OGHIHPCCIHM": "Mechanisms that are difficult to traverse have been laid all across the ground here. Since you've already leaped from high heights, why not use a few more <color=#FFCC33>Plunging Attacks</color>?",
     "HIHMKNAMDEL": [
       {
@@ -137,7 +137,7 @@
     ],
     "DIKIGFAGKAK": 1154283087462170000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7100,
+    "dungeonId": 7100,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_01"
@@ -147,11 +147,11 @@
   },
   {
     "DCKCMKGGIKM": 2,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 2,
-    "KJNIJNGLHDJ": 2217002449,
+    "scheduleId": 5022001,
+    "levelId": 2,
+    "levelTitleTextMapHash": 2217002449,
     "KGGEJLPHNKC": "Healing Trial",
-    "FFBHECLIMOH": 1638977717,
+    "levelDescTextMapHash": 1638977717,
     "OGHIHPCCIHM": "Injuries that are hard to avoid will accumulate here. Place characters with <color=#FFCC33>healing abilities</color> into the team to make the fight go easier.",
     "HIHMKNAMDEL": [
       {
@@ -223,7 +223,7 @@
     ],
     "DIKIGFAGKAK": 2673527372376393000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7102,
+    "dungeonId": 7102,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_02"
@@ -233,11 +233,11 @@
   },
   {
     "DCKCMKGGIKM": 3,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 3,
-    "KJNIJNGLHDJ": 601190569,
+    "scheduleId": 5022001,
+    "levelId": 3,
+    "levelTitleTextMapHash": 601190569,
     "KGGEJLPHNKC": "Melee Trial",
-    "FFBHECLIMOH": 3116976805,
+    "levelDescTextMapHash": 3116976805,
     "OGHIHPCCIHM": "Melee attacks are enhanced here. Bring characters of this kind and beat your foes in <color=#FFCC33>glorious hand-to-hand combat</color>!",
     "HIHMKNAMDEL": [
       {
@@ -315,7 +315,7 @@
     ],
     "DIKIGFAGKAK": 842523150555123800,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7104,
+    "dungeonId": 7104,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_03"
@@ -325,11 +325,11 @@
   },
   {
     "DCKCMKGGIKM": 4,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 4,
-    "KJNIJNGLHDJ": 639670097,
+    "scheduleId": 5022001,
+    "levelId": 4,
+    "levelTitleTextMapHash": 639670097,
     "KGGEJLPHNKC": "Ranged Trial",
-    "FFBHECLIMOH": 1620717117,
+    "levelDescTextMapHash": 1620717117,
     "OGHIHPCCIHM": "If your opponents get too close, your characters will lose their enhancements here. Bring <color=#FFCC33>ranged characters</color> and stop them before they can close the gap.",
     "HIHMKNAMDEL": [
       {
@@ -395,7 +395,7 @@
     ],
     "DIKIGFAGKAK": 4279746094333652500,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7105,
+    "dungeonId": 7105,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_04"
@@ -405,11 +405,11 @@
   },
   {
     "DCKCMKGGIKM": 5,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 5,
-    "KJNIJNGLHDJ": 4004505345,
+    "scheduleId": 5022001,
+    "levelId": 5,
+    "levelTitleTextMapHash": 4004505345,
     "KGGEJLPHNKC": "Shield Trial",
-    "FFBHECLIMOH": 1283668853,
+    "levelDescTextMapHash": 1283668853,
     "OGHIHPCCIHM": "Injuries that cause interruption will be hard to avoid here. Use <color=#FFCC33>shields</color> to protect yourself and help combat go more smoothly.",
     "HIHMKNAMDEL": [
       {
@@ -469,7 +469,7 @@
     ],
     "DIKIGFAGKAK": 15433837874376344000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7101,
+    "dungeonId": 7101,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_05"
@@ -479,11 +479,11 @@
   },
   {
     "DCKCMKGGIKM": 6,
-    "HHCCDHCMELE": 5022001,
-    "MGGPNIDOBGF": 6,
-    "KJNIJNGLHDJ": 3386646953,
+    "scheduleId": 5022001,
+    "levelId": 6,
+    "levelTitleTextMapHash": 3386646953,
     "KGGEJLPHNKC": "Elemental Trial",
-    "FFBHECLIMOH": 3422832677,
+    "levelDescTextMapHash": 3422832677,
     "OGHIHPCCIHM": "The effects of <color=#FFCC33>Elemental Reactions</color> are incredibly powerful here, so trigger them as much as possible!",
     "HIHMKNAMDEL": [
       {
@@ -543,7 +543,7 @@
     ],
     "DIKIGFAGKAK": 14403538018200734000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7103,
+    "dungeonId": 7103,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_06"
@@ -553,11 +553,11 @@
   },
   {
     "DCKCMKGGIKM": 7,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 1,
-    "KJNIJNGLHDJ": 2883131465,
+    "scheduleId": 5054001,
+    "levelId": 1,
+    "levelTitleTextMapHash": 2883131465,
     "KGGEJLPHNKC": "Thundershock Trial",
-    "FFBHECLIMOH": 2646481221,
+    "levelDescTextMapHash": 2646481221,
     "OGHIHPCCIHM": "Here, <color=#FFCC33>Electro-Charged</color> not only receives a DMG Bonus, but will also increase the rate at which your Elemental Bursts can be used.",
     "HIHMKNAMDEL": [
       {
@@ -633,7 +633,7 @@
     ],
     "DIKIGFAGKAK": 13405999791953023000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7107,
+    "dungeonId": 7107,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_08"
@@ -672,11 +672,11 @@
   },
   {
     "DCKCMKGGIKM": 8,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 2,
-    "KJNIJNGLHDJ": 2946964385,
+    "scheduleId": 5054001,
+    "levelId": 2,
+    "levelTitleTextMapHash": 2946964385,
     "KGGEJLPHNKC": "Freezing Trial",
-    "FFBHECLIMOH": 2702548909,
+    "levelDescTextMapHash": 2702548909,
     "OGHIHPCCIHM": "When opponents that have been imprisoned in the ice are attacked, their internal organs will resonate with the icy shells, which will cause them to take DMG. Cause your foes to become <color=#FFCC33>Frozen</color> and vanquish them with ease.",
     "HIHMKNAMDEL": [
       {
@@ -788,7 +788,7 @@
     ],
     "DIKIGFAGKAK": 15806249469176252000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7106,
+    "dungeonId": 7106,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_07"
@@ -821,11 +821,11 @@
   },
   {
     "DCKCMKGGIKM": 9,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 3,
-    "KJNIJNGLHDJ": 2065458249,
+    "scheduleId": 5054001,
+    "levelId": 3,
+    "levelTitleTextMapHash": 2065458249,
     "KGGEJLPHNKC": "Windswept Trial",
-    "FFBHECLIMOH": 3619318909,
+    "levelDescTextMapHash": 3619318909,
     "OGHIHPCCIHM": "All party members will receive a buff when <color=#FFCC33>Swirl</color> occurs. Use Anemo characters to complete the trial more easily.",
     "HIHMKNAMDEL": [
       {
@@ -937,7 +937,7 @@
     ],
     "DIKIGFAGKAK": 18049128977186894000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7111,
+    "dungeonId": 7111,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_12"
@@ -970,11 +970,11 @@
   },
   {
     "DCKCMKGGIKM": 10,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 4,
-    "KJNIJNGLHDJ": 1323773489,
+    "scheduleId": 5054001,
+    "levelId": 4,
+    "levelTitleTextMapHash": 1323773489,
     "KGGEJLPHNKC": "Desirous Trial",
-    "FFBHECLIMOH": 619211901,
+    "levelDescTextMapHash": 619211901,
     "OGHIHPCCIHM": "All party members will receive a buff when <color=#FFCC33>Elemental Bursts</color> are used, in accordance with their greatest wishes. Use Elemental Bursts as much as possible in this trial.",
     "HIHMKNAMDEL": [
       {
@@ -1062,7 +1062,7 @@
     ],
     "DIKIGFAGKAK": 16705773734067069000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7110,
+    "dungeonId": 7110,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_11"
@@ -1098,11 +1098,11 @@
   },
   {
     "DCKCMKGGIKM": 11,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 5,
-    "KJNIJNGLHDJ": 3106329505,
+    "scheduleId": 5054001,
+    "levelId": 5,
+    "levelTitleTextMapHash": 3106329505,
     "KGGEJLPHNKC": "Amplifying Trial",
-    "FFBHECLIMOH": 4205946493,
+    "levelDescTextMapHash": 4205946493,
     "OGHIHPCCIHM": "Shockwaves will occur when <color=#FFCC33>Melt</color> and <color=#FFCC33>Vaporize</color> are triggered. Use this ability to finish your battles quickly.",
     "HIHMKNAMDEL": [
       {
@@ -1226,7 +1226,7 @@
     ],
     "DIKIGFAGKAK": 5239026899455727000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7108,
+    "dungeonId": 7108,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_09"
@@ -1262,11 +1262,11 @@
   },
   {
     "DCKCMKGGIKM": 12,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 6,
-    "KJNIJNGLHDJ": 1644123921,
+    "scheduleId": 5054001,
+    "levelId": 6,
+    "levelTitleTextMapHash": 1644123921,
     "KGGEJLPHNKC": "Transformative Trial",
-    "FFBHECLIMOH": 1129139237,
+    "levelDescTextMapHash": 1129139237,
     "OGHIHPCCIHM": "All party members will receive a buff when <color=#FFCC33>Superconduct</color>, <color=#FFCC33>Overloaded</color>, <color=#FFCC33>Swirl</color>, and<color=#FFCC33>Crystallize</color> are triggered. Accumulate these advantages to break through this trial!",
     "HIHMKNAMDEL": [
       {
@@ -1348,7 +1348,7 @@
     ],
     "DIKIGFAGKAK": 1107919358408781300,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7109,
+    "dungeonId": 7109,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_10"
@@ -1384,11 +1384,11 @@
   },
   {
     "DCKCMKGGIKM": 13,
-    "HHCCDHCMELE": 5054001,
-    "MGGPNIDOBGF": 7,
-    "KJNIJNGLHDJ": 2687835825,
+    "scheduleId": 5054001,
+    "levelId": 7,
+    "levelTitleTextMapHash": 2687835825,
     "KGGEJLPHNKC": "Lightbringer Trial",
-    "FFBHECLIMOH": 35181797,
+    "levelDescTextMapHash": 35181797,
     "OGHIHPCCIHM": "This is last of the trials you shall face. No tricks here. Just beat it straight-up.",
     "HIHMKNAMDEL": [
       {
@@ -1524,7 +1524,7 @@
     ],
     "DIKIGFAGKAK": 12227310247251161000,
     "FLGFHABNHEO": 0,
-    "PDHFANIOLKO": 7112,
+    "dungeonId": 7112,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_00",
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_13"
@@ -1608,11 +1608,11 @@
   },
   {
     "DCKCMKGGIKM": 14,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 1,
-    "KJNIJNGLHDJ": 1182335409,
+    "scheduleId": 5114001,
+    "levelId": 1,
+    "levelTitleTextMapHash": 1182335409,
     "KGGEJLPHNKC": "Howling Trial",
-    "FFBHECLIMOH": 3960640101,
+    "levelDescTextMapHash": 3960640101,
     "OGHIHPCCIHM": "The dust heeds the call of the howling winds. When the <color=#FFCC33>Swirl</color> reaction is triggered, all party members will be buffed. Let the power of Anemo guide you to this trial's smooth completion.",
     "HIHMKNAMDEL": [
       {
@@ -1796,7 +1796,7 @@
     ],
     "DIKIGFAGKAK": 16067714606868890000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8301,
+    "dungeonId": 8301,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_18"
     ],
@@ -1828,11 +1828,11 @@
   },
   {
     "DCKCMKGGIKM": 15,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 2,
-    "KJNIJNGLHDJ": 2005295961,
+    "scheduleId": 5114001,
+    "levelId": 2,
+    "levelTitleTextMapHash": 2005295961,
     "KGGEJLPHNKC": "Stormwood Trial",
-    "FFBHECLIMOH": 3368540581,
+    "levelDescTextMapHash": 3368540581,
     "OGHIHPCCIHM": "There is strong resonance between the flora and the lightning in this place. When attacking opponents affected by the <color=#FFCC33>Quicken</color> reaction, the CRIT Rate and CRIT DMG of your characters will both increase. Wield the power of Dendro and unleash your team's damage potential!",
     "HIHMKNAMDEL": [
       {
@@ -1926,7 +1926,7 @@
     ],
     "DIKIGFAGKAK": 12323304483822211000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8302,
+    "dungeonId": 8302,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_14"
     ],
@@ -1958,11 +1958,11 @@
   },
   {
     "DCKCMKGGIKM": 16,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 3,
-    "KJNIJNGLHDJ": 3589574657,
+    "scheduleId": 5114001,
+    "levelId": 3,
+    "levelTitleTextMapHash": 3589574657,
     "KGGEJLPHNKC": "Attrition Trial",
-    "FFBHECLIMOH": 2348130533,
+    "levelDescTextMapHash": 2348130533,
     "OGHIHPCCIHM": "The opponents here lack the endurance to sustain a long battle. When characters take damage, the <color=#FFCC33>Elemental Mastery</color> of all party members will increase. When the effect reaches its maximum potential, all characters' <color=#FFCC33>HP</color> will increase additionally. Keep an eye on the statuses of your characters and outlast your opponents!",
     "HIHMKNAMDEL": [
       {
@@ -2062,7 +2062,7 @@
     ],
     "DIKIGFAGKAK": 17170853784729405000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8303,
+    "dungeonId": 8303,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_16"
     ],
@@ -2097,11 +2097,11 @@
   },
   {
     "DCKCMKGGIKM": 17,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 4,
-    "KJNIJNGLHDJ": 3149835049,
+    "scheduleId": 5114001,
+    "levelId": 4,
+    "levelTitleTextMapHash": 3149835049,
     "KGGEJLPHNKC": "Mist Trial",
-    "FFBHECLIMOH": 2711445013,
+    "levelDescTextMapHash": 2711445013,
     "OGHIHPCCIHM": "Mixing fire and water will allow you to soften your opponents' defenses. When the <color=#FFCC33>Vaporize</color> reaction is triggered, a shockwave will be unleashed, dealing AoE DMG to opponents. Use this opening to crush your foes!",
     "HIHMKNAMDEL": [
       {
@@ -2219,7 +2219,7 @@
     ],
     "DIKIGFAGKAK": 4839061422531921000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8304,
+    "dungeonId": 8304,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_15"
     ],
@@ -2251,11 +2251,11 @@
   },
   {
     "DCKCMKGGIKM": 18,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 5,
-    "KJNIJNGLHDJ": 1885649305,
+    "scheduleId": 5114001,
+    "levelId": 5,
+    "levelTitleTextMapHash": 1885649305,
     "KGGEJLPHNKC": "Sprouting Trial",
-    "FFBHECLIMOH": 449861581,
+    "levelDescTextMapHash": 449861581,
     "OGHIHPCCIHM": "These spreading weeds are sturdy yet sensitive. When the <color=#FFCC33>Quicken</color>, <color=#FFCC33>Aggravate</color>, <color=#FFCC33>Spread</color>, <color=#FFCC33>Bloom</color>, or <color=#FFCC33>Hyperbloom</color> reaction is triggered, all party members will be buffed. Use this to your advantage and punch through your opponents' defenses!",
     "HIHMKNAMDEL": [
       {
@@ -2379,7 +2379,7 @@
     ],
     "DIKIGFAGKAK": 9986115909421574000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8305,
+    "dungeonId": 8305,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_17"
     ],
@@ -2411,11 +2411,11 @@
   },
   {
     "DCKCMKGGIKM": 19,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 6,
-    "KJNIJNGLHDJ": 2066993073,
+    "scheduleId": 5114001,
+    "levelId": 6,
+    "levelTitleTextMapHash": 2066993073,
     "KGGEJLPHNKC": "Might Trial",
-    "FFBHECLIMOH": 2993868613,
+    "levelDescTextMapHash": 2993868613,
     "OGHIHPCCIHM": "Overwhelming power is what will win you the day here. When a character's <color=#FFCC33>Charged Attack</color> hits an opponent, a shockwave will be unleashed, dealing DMG to nearby opponents. Unleash your might and decimate this trial!",
     "HIHMKNAMDEL": [
       {
@@ -2491,7 +2491,7 @@
     ],
     "DIKIGFAGKAK": 13833189844748536000,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8306,
+    "dungeonId": 8306,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_19"
     ],
@@ -2523,11 +2523,11 @@
   },
   {
     "DCKCMKGGIKM": 20,
-    "HHCCDHCMELE": 5114001,
-    "MGGPNIDOBGF": 7,
-    "KJNIJNGLHDJ": 1592851857,
+    "scheduleId": 5114001,
+    "levelId": 7,
+    "levelTitleTextMapHash": 1592851857,
     "KGGEJLPHNKC": "Determination Trial",
-    "FFBHECLIMOH": 116042181,
+    "levelDescTextMapHash": 116042181,
     "OGHIHPCCIHM": "This is the last trial you shall face. Steel your will to strike down your opponents and finish the trial with flair.",
     "HIHMKNAMDEL": [
       {
@@ -2687,7 +2687,7 @@
     ],
     "DIKIGFAGKAK": 3650240783795471400,
     "FLGFHABNHEO": 9167560313598412000,
-    "PDHFANIOLKO": 8307,
+    "dungeonId": 8307,
     "ACNEFIBOAON": [
       "UI_ACTIVITY_MISTTRIAL_FAIL_TIPS_20"
     ],

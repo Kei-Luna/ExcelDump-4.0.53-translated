@@ -1,131 +1,131 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "CMCLFNNNLNL": 1,
     "icon": "UI_EmotionTagIcon_01"
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "CMCLFNNNLNL": 2,
     "icon": "UI_EmotionTagIcon_02"
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "CMCLFNNNLNL": 3,
     "icon": "UI_EmotionTagIcon_03"
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "CMCLFNNNLNL": 4,
     "icon": "UI_EmotionTagIcon_04"
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "CMCLFNNNLNL": 5,
     "icon": "UI_EmotionTagIcon_05"
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "CMCLFNNNLNL": 6,
     "icon": "UI_EmotionTagIcon_06"
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "CMCLFNNNLNL": 7,
     "icon": "UI_EmotionTagIcon_07"
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "CMCLFNNNLNL": 8,
     "icon": "UI_EmotionTagIcon_08"
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "CMCLFNNNLNL": 9,
     "icon": "UI_EmotionTagIcon_09"
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "CMCLFNNNLNL": 10,
     "icon": "UI_EmotionTagIcon_10"
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "CMCLFNNNLNL": 11,
     "icon": "UI_EmotionTagIcon_11"
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "CMCLFNNNLNL": 12,
     "icon": "UI_EmotionTagIcon_12"
   },
   {
-    "PGKNKBKHCHM": 13,
+    "id": 13,
     "CMCLFNNNLNL": 13,
     "icon": "UI_EmotionTagIcon_13"
   },
   {
-    "PGKNKBKHCHM": 14,
+    "id": 14,
     "CMCLFNNNLNL": 14,
     "icon": "UI_EmotionTagIcon_14"
   },
   {
-    "PGKNKBKHCHM": 15,
+    "id": 15,
     "CMCLFNNNLNL": 15,
     "icon": "UI_EmotionTagIcon_15"
   },
   {
-    "PGKNKBKHCHM": 16,
+    "id": 16,
     "CMCLFNNNLNL": 16,
     "icon": "UI_EmotionTagIcon_16"
   },
   {
-    "PGKNKBKHCHM": 17,
+    "id": 17,
     "CMCLFNNNLNL": 17,
     "icon": "UI_EmotionTagIcon_17"
   },
   {
-    "PGKNKBKHCHM": 18,
+    "id": 18,
     "CMCLFNNNLNL": 18,
     "icon": "UI_EmotionTagIcon_18"
   },
   {
-    "PGKNKBKHCHM": 19,
+    "id": 19,
     "CMCLFNNNLNL": 19,
     "icon": "UI_EmotionTagIcon_19"
   },
   {
-    "PGKNKBKHCHM": 20,
+    "id": 20,
     "CMCLFNNNLNL": 20,
     "icon": "UI_EmotionTagIcon_20"
   },
   {
-    "PGKNKBKHCHM": 21,
+    "id": 21,
     "CMCLFNNNLNL": 21,
     "icon": "UI_EmotionTagIcon_21"
   },
   {
-    "PGKNKBKHCHM": 22,
+    "id": 22,
     "CMCLFNNNLNL": 22,
     "icon": "UI_EmotionTagIcon_22"
   },
   {
-    "PGKNKBKHCHM": 23,
+    "id": 23,
     "CMCLFNNNLNL": 23,
     "icon": "UI_EmotionTagIcon_23"
   },
   {
-    "PGKNKBKHCHM": 24,
+    "id": 24,
     "CMCLFNNNLNL": 24,
     "icon": "UI_EmotionTagIcon_24"
   },
   {
-    "PGKNKBKHCHM": 25,
+    "id": 25,
     "CMCLFNNNLNL": 25,
     "icon": "UI_EmotionTagIcon_25"
   },
   {
-    "PGKNKBKHCHM": 26,
+    "id": 26,
     "CMCLFNNNLNL": 26,
     "icon": "UI_EmotionTagIcon_26"
   }

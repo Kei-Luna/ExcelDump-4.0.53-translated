@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "AANALLLBMJC": 2012204561,
+    "stageId": 1,
+    "stageNameTextMapHash": 2012204561,
     "PFOENKJGKLG": "The Valiant Bearded Hero: Homecoming",
     "DHJDOFAIGJE": [
       {
@@ -16,8 +16,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 2,
-    "AANALLLBMJC": 1788582681,
+    "stageId": 2,
+    "stageNameTextMapHash": 1788582681,
     "PFOENKJGKLG": "The Valiant Bearded Hero: Across Mountains",
     "DHJDOFAIGJE": [
       {
@@ -32,8 +32,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 3,
-    "AANALLLBMJC": 4104217369,
+    "stageId": 3,
+    "stageNameTextMapHash": 4104217369,
     "PFOENKJGKLG": "The Valiant Bearded Hero: Over Peaks",
     "DHJDOFAIGJE": [
       {
@@ -48,8 +48,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 4,
-    "AANALLLBMJC": 2868429553,
+    "stageId": 4,
+    "stageNameTextMapHash": 2868429553,
     "PFOENKJGKLG": "The Valiant Bearded Hero: Adeptus Ex",
     "DHJDOFAIGJE": [
       {

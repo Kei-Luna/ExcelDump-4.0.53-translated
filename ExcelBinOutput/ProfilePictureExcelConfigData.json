@@ -2,7 +2,7 @@
   {
     "LCELIMKLJNH": "kumadayo",
     "id": 1,
-    "HHKNLMAHBAO": "UI_AvatarIcon_PlayerBoy_Circle",
+    "iconPath": "UI_AvatarIcon_PlayerBoy_Circle",
     "GDJGHFOCONI": 1,
     "nameTextMapHash": 3604285884,
     "PMPMKOPBJHA": "Traveler",
@@ -12,7 +12,7 @@
   {
     "LCELIMKLJNH": "kumadayo",
     "id": 2,
-    "HHKNLMAHBAO": "UI_AvatarIcon_PlayerGirl_Circle",
+    "iconPath": "UI_AvatarIcon_PlayerGirl_Circle",
     "GDJGHFOCONI": 2,
     "nameTextMapHash": 271219620,
     "PMPMKOPBJHA": "Traveler",
@@ -22,7 +22,7 @@
   {
     "LCELIMKLJNH": "Amber",
     "id": 100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ambor_Circle",
+    "iconPath": "UI_AvatarIcon_Ambor_Circle",
     "GDJGHFOCONI": 100,
     "nameTextMapHash": 4129650764,
     "PMPMKOPBJHA": "Amber",
@@ -32,7 +32,7 @@
   {
     "LCELIMKLJNH": "Amber: 100% Outrider",
     "id": 101,
-    "HHKNLMAHBAO": "UI_AvatarIcon_AmborCostumeWic_Circle",
+    "iconPath": "UI_AvatarIcon_AmborCostumeWic_Circle",
     "GDJGHFOCONI": 101,
     "nameTextMapHash": 4011886236,
     "PMPMKOPBJHA": "Amber: 100% Outrider",
@@ -42,7 +42,7 @@
   {
     "LCELIMKLJNH": "Kaeya",
     "id": 200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Kaeya_Circle",
+    "iconPath": "UI_AvatarIcon_Kaeya_Circle",
     "GDJGHFOCONI": 200,
     "nameTextMapHash": 4198292852,
     "PMPMKOPBJHA": "Kaeya",
@@ -52,7 +52,7 @@
   {
     "LCELIMKLJNH": "Kaeya: Sailwind Shadow",
     "id": 201,
-    "HHKNLMAHBAO": "UI_AvatarIcon_KaeyaCostumeDancer_Circle",
+    "iconPath": "UI_AvatarIcon_KaeyaCostumeDancer_Circle",
     "GDJGHFOCONI": 201,
     "nameTextMapHash": 2326024484,
     "PMPMKOPBJHA": "Kaeya: Sailwind Shadow",
@@ -62,7 +62,7 @@
   {
     "LCELIMKLJNH": "Lisa",
     "id": 300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Lisa_Circle",
+    "iconPath": "UI_AvatarIcon_Lisa_Circle",
     "GDJGHFOCONI": 300,
     "nameTextMapHash": 1430880228,
     "PMPMKOPBJHA": "Lisa",
@@ -72,7 +72,7 @@
   {
     "LCELIMKLJNH": "Lisa: A Sobriquet Under Shade",
     "id": 301,
-    "HHKNLMAHBAO": "UI_AvatarIcon_LisaCostumeStudentin_Circle",
+    "iconPath": "UI_AvatarIcon_LisaCostumeStudentin_Circle",
     "GDJGHFOCONI": 301,
     "nameTextMapHash": 1999891572,
     "PMPMKOPBJHA": "Lisa: A Sobriquet Under Shade",
@@ -82,7 +82,7 @@
   {
     "LCELIMKLJNH": "Barbara",
     "id": 400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Barbara_Circle",
+    "iconPath": "UI_AvatarIcon_Barbara_Circle",
     "GDJGHFOCONI": 400,
     "nameTextMapHash": 1760985308,
     "PMPMKOPBJHA": "Barbara",
@@ -92,7 +92,7 @@
   {
     "LCELIMKLJNH": "Barbara: Summertime Sparkle",
     "id": 401,
-    "HHKNLMAHBAO": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle",
+    "iconPath": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle",
     "GDJGHFOCONI": 401,
     "nameTextMapHash": 2943208916,
     "PMPMKOPBJHA": "Barbara: Summertime Sparkle",
@@ -102,7 +102,7 @@
   {
     "LCELIMKLJNH": "Razor",
     "id": 500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Razor_Circle",
+    "iconPath": "UI_AvatarIcon_Razor_Circle",
     "GDJGHFOCONI": 500,
     "nameTextMapHash": 1324426164,
     "PMPMKOPBJHA": "Razor",
@@ -112,7 +112,7 @@
   {
     "LCELIMKLJNH": "Xiangling",
     "id": 600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Xiangling_Circle",
+    "iconPath": "UI_AvatarIcon_Xiangling_Circle",
     "GDJGHFOCONI": 600,
     "nameTextMapHash": 2206393084,
     "PMPMKOPBJHA": "Xiangling",
@@ -122,7 +122,7 @@
   {
     "LCELIMKLJNH": "Beidou",
     "id": 700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Beidou_Circle",
+    "iconPath": "UI_AvatarIcon_Beidou_Circle",
     "GDJGHFOCONI": 700,
     "nameTextMapHash": 2755210500,
     "PMPMKOPBJHA": "Beidou",
@@ -132,7 +132,7 @@
   {
     "LCELIMKLJNH": "Xingqiu",
     "id": 800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Xingqiu_Circle",
+    "iconPath": "UI_AvatarIcon_Xingqiu_Circle",
     "GDJGHFOCONI": 800,
     "nameTextMapHash": 2904405116,
     "PMPMKOPBJHA": "Xingqiu",
@@ -142,7 +142,7 @@
   {
     "LCELIMKLJNH": "Ningguang",
     "id": 900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ningguang_Circle",
+    "iconPath": "UI_AvatarIcon_Ningguang_Circle",
     "GDJGHFOCONI": 900,
     "nameTextMapHash": 3467578556,
     "PMPMKOPBJHA": "Ningguang",
@@ -152,7 +152,7 @@
   {
     "LCELIMKLJNH": "Ningguang: Orchid's Evening Gown",
     "id": 901,
-    "HHKNLMAHBAO": "UI_AvatarIcon_NingguangCostumeFloral_Circle",
+    "iconPath": "UI_AvatarIcon_NingguangCostumeFloral_Circle",
     "GDJGHFOCONI": 901,
     "nameTextMapHash": 3049375396,
     "PMPMKOPBJHA": "Ningguang: Orchid's Evening Gown",
@@ -162,7 +162,7 @@
   {
     "LCELIMKLJNH": "Fischl",
     "id": 1000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Fischl_Circle",
+    "iconPath": "UI_AvatarIcon_Fischl_Circle",
     "GDJGHFOCONI": 1000,
     "nameTextMapHash": 2448248284,
     "PMPMKOPBJHA": "Fischl",
@@ -172,7 +172,7 @@
   {
     "LCELIMKLJNH": "Fischl: Ein Immernachtstraum",
     "id": 1001,
-    "HHKNLMAHBAO": "UI_AvatarIcon_FischlCostumeHighness_Circle",
+    "iconPath": "UI_AvatarIcon_FischlCostumeHighness_Circle",
     "GDJGHFOCONI": 1001,
     "nameTextMapHash": 1161026004,
     "PMPMKOPBJHA": "Fischl: Ein Immernachtstraum",
@@ -182,7 +182,7 @@
   {
     "LCELIMKLJNH": "Bennett",
     "id": 1100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Bennett_Circle",
+    "iconPath": "UI_AvatarIcon_Bennett_Circle",
     "GDJGHFOCONI": 1100,
     "nameTextMapHash": 3881895660,
     "PMPMKOPBJHA": "Bennett",
@@ -192,7 +192,7 @@
   {
     "LCELIMKLJNH": "Noelle",
     "id": 1200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Noel_Circle",
+    "iconPath": "UI_AvatarIcon_Noel_Circle",
     "GDJGHFOCONI": 1200,
     "nameTextMapHash": 2140800276,
     "PMPMKOPBJHA": "Noelle",
@@ -202,7 +202,7 @@
   {
     "LCELIMKLJNH": "Chongyun",
     "id": 1300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Chongyun_Circle",
+    "iconPath": "UI_AvatarIcon_Chongyun_Circle",
     "GDJGHFOCONI": 1300,
     "nameTextMapHash": 1589080740,
     "PMPMKOPBJHA": "Chongyun",
@@ -212,7 +212,7 @@
   {
     "LCELIMKLJNH": "Sucrose",
     "id": 1400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Sucrose_Circle",
+    "iconPath": "UI_AvatarIcon_Sucrose_Circle",
     "GDJGHFOCONI": 1400,
     "nameTextMapHash": 3451600692,
     "PMPMKOPBJHA": "Sucrose",
@@ -222,7 +222,7 @@
   {
     "LCELIMKLJNH": "Jean",
     "id": 1500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Qin_Circle",
+    "iconPath": "UI_AvatarIcon_Qin_Circle",
     "GDJGHFOCONI": 1500,
     "nameTextMapHash": 3076704084,
     "PMPMKOPBJHA": "Jean",
@@ -232,7 +232,7 @@
   {
     "LCELIMKLJNH": "Jean: Gunnhildr's Legacy",
     "id": 1501,
-    "HHKNLMAHBAO": "UI_AvatarIcon_QinCostumeWic_Circle",
+    "iconPath": "UI_AvatarIcon_QinCostumeWic_Circle",
     "GDJGHFOCONI": 1501,
     "nameTextMapHash": 1385160708,
     "PMPMKOPBJHA": "Jean: Gunnhildr's Legacy",
@@ -242,7 +242,7 @@
   {
     "LCELIMKLJNH": "Jean: Sea Breeze Dandelion",
     "id": 1502,
-    "HHKNLMAHBAO": "UI_AvatarIcon_QinCostumeSea_Circle",
+    "iconPath": "UI_AvatarIcon_QinCostumeSea_Circle",
     "GDJGHFOCONI": 1502,
     "nameTextMapHash": 106642220,
     "PMPMKOPBJHA": "Jean: Sea Breeze Dandelion",
@@ -252,7 +252,7 @@
   {
     "LCELIMKLJNH": "Diluc",
     "id": 1600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Diluc_Circle",
+    "iconPath": "UI_AvatarIcon_Diluc_Circle",
     "GDJGHFOCONI": 1600,
     "nameTextMapHash": 2487288620,
     "PMPMKOPBJHA": "Diluc",
@@ -262,7 +262,7 @@
   {
     "LCELIMKLJNH": "Diluc: Red Dead of Night",
     "id": 1601,
-    "HHKNLMAHBAO": "UI_AvatarIcon_DilucCostumeFlamme_Circle",
+    "iconPath": "UI_AvatarIcon_DilucCostumeFlamme_Circle",
     "GDJGHFOCONI": 1601,
     "nameTextMapHash": 2579470204,
     "PMPMKOPBJHA": "Diluc: Red Dead of Night",
@@ -272,7 +272,7 @@
   {
     "LCELIMKLJNH": "Qiqi",
     "id": 1700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Qiqi_Circle",
+    "iconPath": "UI_AvatarIcon_Qiqi_Circle",
     "GDJGHFOCONI": 1700,
     "nameTextMapHash": 1651684028,
     "PMPMKOPBJHA": "Qiqi",
@@ -282,7 +282,7 @@
   {
     "LCELIMKLJNH": "Mona",
     "id": 1800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Mona_Circle",
+    "iconPath": "UI_AvatarIcon_Mona_Circle",
     "GDJGHFOCONI": 1800,
     "nameTextMapHash": 580553172,
     "PMPMKOPBJHA": "Mona",
@@ -292,7 +292,7 @@
   {
     "LCELIMKLJNH": "Mona: Pact of Stars and Moon",
     "id": 1801,
-    "HHKNLMAHBAO": "UI_AvatarIcon_MonaCostumeWic_Circle",
+    "iconPath": "UI_AvatarIcon_MonaCostumeWic_Circle",
     "GDJGHFOCONI": 1801,
     "nameTextMapHash": 1859247892,
     "PMPMKOPBJHA": "Mona: Pact of Stars and Moon",
@@ -302,7 +302,7 @@
   {
     "LCELIMKLJNH": "Keqing",
     "id": 1900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Keqing_Circle",
+    "iconPath": "UI_AvatarIcon_Keqing_Circle",
     "GDJGHFOCONI": 1900,
     "nameTextMapHash": 2904482116,
     "PMPMKOPBJHA": "Keqing",
@@ -312,7 +312,7 @@
   {
     "LCELIMKLJNH": "Keqing: Opulent Splendor",
     "id": 1901,
-    "HHKNLMAHBAO": "UI_AvatarIcon_KeqingCostumeFeather_Circle",
+    "iconPath": "UI_AvatarIcon_KeqingCostumeFeather_Circle",
     "GDJGHFOCONI": 1901,
     "nameTextMapHash": 2350549260,
     "PMPMKOPBJHA": "Keqing: Opulent Splendor",
@@ -322,7 +322,7 @@
   {
     "LCELIMKLJNH": "Venti",
     "id": 2000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Venti_Circle",
+    "iconPath": "UI_AvatarIcon_Venti_Circle",
     "GDJGHFOCONI": 2000,
     "nameTextMapHash": 2636283300,
     "PMPMKOPBJHA": "Venti",
@@ -332,7 +332,7 @@
   {
     "LCELIMKLJNH": "Klee",
     "id": 2100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Klee_Circle",
+    "iconPath": "UI_AvatarIcon_Klee_Circle",
     "GDJGHFOCONI": 2100,
     "nameTextMapHash": 2278572156,
     "PMPMKOPBJHA": "Klee",
@@ -342,7 +342,7 @@
   {
     "LCELIMKLJNH": "Klee: Blossoming Starlight",
     "id": 2101,
-    "HHKNLMAHBAO": "UI_AvatarIcon_KleeCostumeWitch_Circle",
+    "iconPath": "UI_AvatarIcon_KleeCostumeWitch_Circle",
     "GDJGHFOCONI": 2101,
     "nameTextMapHash": 3797120244,
     "PMPMKOPBJHA": "Klee: Blossoming Starlight",
@@ -352,7 +352,7 @@
   {
     "LCELIMKLJNH": "Diona",
     "id": 2200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Diona_Circle",
+    "iconPath": "UI_AvatarIcon_Diona_Circle",
     "GDJGHFOCONI": 2200,
     "nameTextMapHash": 3452475956,
     "PMPMKOPBJHA": "Diona",
@@ -362,7 +362,7 @@
   {
     "LCELIMKLJNH": "Tartaglia",
     "id": 2300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Tartaglia_Circle",
+    "iconPath": "UI_AvatarIcon_Tartaglia_Circle",
     "GDJGHFOCONI": 2300,
     "nameTextMapHash": 66233604,
     "PMPMKOPBJHA": "Tartaglia",
@@ -372,7 +372,7 @@
   {
     "LCELIMKLJNH": "Xinyan",
     "id": 2400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Xinyan_Circle",
+    "iconPath": "UI_AvatarIcon_Xinyan_Circle",
     "GDJGHFOCONI": 2400,
     "nameTextMapHash": 2352103668,
     "PMPMKOPBJHA": "Xinyan",
@@ -382,7 +382,7 @@
   {
     "LCELIMKLJNH": "Zhongli",
     "id": 2500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Zhongli_Circle",
+    "iconPath": "UI_AvatarIcon_Zhongli_Circle",
     "GDJGHFOCONI": 2500,
     "nameTextMapHash": 945047940,
     "PMPMKOPBJHA": "Zhongli",
@@ -392,7 +392,7 @@
   {
     "LCELIMKLJNH": "Albedo",
     "id": 2600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Albedo_Circle",
+    "iconPath": "UI_AvatarIcon_Albedo_Circle",
     "GDJGHFOCONI": 2600,
     "nameTextMapHash": 4037900132,
     "PMPMKOPBJHA": "Albedo",
@@ -402,7 +402,7 @@
   {
     "LCELIMKLJNH": "Ganyu",
     "id": 2700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ganyu_Circle",
+    "iconPath": "UI_AvatarIcon_Ganyu_Circle",
     "GDJGHFOCONI": 2700,
     "nameTextMapHash": 1049883700,
     "PMPMKOPBJHA": "Ganyu",
@@ -412,7 +412,7 @@
   {
     "LCELIMKLJNH": "Xiao",
     "id": 2800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Xiao_Circle",
+    "iconPath": "UI_AvatarIcon_Xiao_Circle",
     "GDJGHFOCONI": 2800,
     "nameTextMapHash": 2799653588,
     "PMPMKOPBJHA": "Xiao",
@@ -422,7 +422,7 @@
   {
     "LCELIMKLJNH": "Hu Tao",
     "id": 2900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Hutao_Circle",
+    "iconPath": "UI_AvatarIcon_Hutao_Circle",
     "GDJGHFOCONI": 2900,
     "nameTextMapHash": 678944044,
     "PMPMKOPBJHA": "Hu Tao",
@@ -432,7 +432,7 @@
   {
     "LCELIMKLJNH": "Rosaria",
     "id": 3000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Rosaria_Circle",
+    "iconPath": "UI_AvatarIcon_Rosaria_Circle",
     "GDJGHFOCONI": 3000,
     "nameTextMapHash": 2851323220,
     "PMPMKOPBJHA": "Rosaria",
@@ -442,7 +442,7 @@
   {
     "LCELIMKLJNH": "Rosaria: To the Church's Free Spirit",
     "id": 3001,
-    "HHKNLMAHBAO": "UI_AvatarIcon_RosariaCostumeWic_Circle",
+    "iconPath": "UI_AvatarIcon_RosariaCostumeWic_Circle",
     "GDJGHFOCONI": 3001,
     "nameTextMapHash": 300481684,
     "PMPMKOPBJHA": "Rosaria: To the Church's Free Spirit",
@@ -452,7 +452,7 @@
   {
     "LCELIMKLJNH": "Yanfei",
     "id": 3100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Feiyan_Circle",
+    "iconPath": "UI_AvatarIcon_Feiyan_Circle",
     "GDJGHFOCONI": 3100,
     "nameTextMapHash": 2418667468,
     "PMPMKOPBJHA": "Yanfei",
@@ -462,7 +462,7 @@
   {
     "LCELIMKLJNH": "Eula",
     "id": 3200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Eula_Circle",
+    "iconPath": "UI_AvatarIcon_Eula_Circle",
     "GDJGHFOCONI": 3200,
     "nameTextMapHash": 3544158164,
     "PMPMKOPBJHA": "Eula",
@@ -472,7 +472,7 @@
   {
     "LCELIMKLJNH": "Kaedehara Kazuha",
     "id": 3300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Kazuha_Circle",
+    "iconPath": "UI_AvatarIcon_Kazuha_Circle",
     "GDJGHFOCONI": 3300,
     "nameTextMapHash": 3249781436,
     "PMPMKOPBJHA": "Kaedehara Kazuha",
@@ -482,7 +482,7 @@
   {
     "LCELIMKLJNH": "Kamisato Ayaka",
     "id": 3400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ayaka_Circle",
+    "iconPath": "UI_AvatarIcon_Ayaka_Circle",
     "GDJGHFOCONI": 3400,
     "nameTextMapHash": 3187703364,
     "PMPMKOPBJHA": "Kamisato Ayaka",
@@ -492,7 +492,7 @@
   {
     "LCELIMKLJNH": "Kamisato Ayaka: Springbloom Missive",
     "id": 3401,
-    "HHKNLMAHBAO": "UI_AvatarIcon_AyakaCostumeFruhling_Circle",
+    "iconPath": "UI_AvatarIcon_AyakaCostumeFruhling_Circle",
     "GDJGHFOCONI": 3401,
     "nameTextMapHash": 376817380,
     "PMPMKOPBJHA": "Kamisato Ayaka: Springbloom Missive",
@@ -502,7 +502,7 @@
   {
     "LCELIMKLJNH": "Sayu",
     "id": 3500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Sayu_Circle",
+    "iconPath": "UI_AvatarIcon_Sayu_Circle",
     "GDJGHFOCONI": 3500,
     "nameTextMapHash": 4082960244,
     "PMPMKOPBJHA": "Sayu",
@@ -512,7 +512,7 @@
   {
     "LCELIMKLJNH": "Yoimiya",
     "id": 3600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Yoimiya_Circle",
+    "iconPath": "UI_AvatarIcon_Yoimiya_Circle",
     "GDJGHFOCONI": 3600,
     "nameTextMapHash": 2552836988,
     "PMPMKOPBJHA": "Yoimiya",
@@ -522,7 +522,7 @@
   {
     "LCELIMKLJNH": "Aloy",
     "id": 3700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Aloy_Circle",
+    "iconPath": "UI_AvatarIcon_Aloy_Circle",
     "GDJGHFOCONI": 3700,
     "nameTextMapHash": 762807356,
     "PMPMKOPBJHA": "Aloy",
@@ -532,7 +532,7 @@
   {
     "LCELIMKLJNH": "Kujou Sara",
     "id": 3800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Sara_Circle",
+    "iconPath": "UI_AvatarIcon_Sara_Circle",
     "GDJGHFOCONI": 3800,
     "nameTextMapHash": 3988675588,
     "PMPMKOPBJHA": "Kujou Sara",
@@ -542,7 +542,7 @@
   {
     "LCELIMKLJNH": "Raiden Shogun",
     "id": 3900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Shougun_Circle",
+    "iconPath": "UI_AvatarIcon_Shougun_Circle",
     "GDJGHFOCONI": 3900,
     "nameTextMapHash": 1384773420,
     "PMPMKOPBJHA": "Raiden Shogun",
@@ -552,7 +552,7 @@
   {
     "LCELIMKLJNH": "Sangonomiya Kokomi",
     "id": 4000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Kokomi_Circle",
+    "iconPath": "UI_AvatarIcon_Kokomi_Circle",
     "GDJGHFOCONI": 4000,
     "nameTextMapHash": 412156284,
     "PMPMKOPBJHA": "Sangonomiya Kokomi",
@@ -562,7 +562,7 @@
   {
     "LCELIMKLJNH": "Thoma",
     "id": 4100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Tohma_Circle",
+    "iconPath": "UI_AvatarIcon_Tohma_Circle",
     "GDJGHFOCONI": 4100,
     "nameTextMapHash": 4259359556,
     "PMPMKOPBJHA": "Thoma",
@@ -572,7 +572,7 @@
   {
     "LCELIMKLJNH": "Gorou",
     "id": 4200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Gorou_Circle",
+    "iconPath": "UI_AvatarIcon_Gorou_Circle",
     "GDJGHFOCONI": 4200,
     "nameTextMapHash": 2590272292,
     "PMPMKOPBJHA": "Gorou",
@@ -582,7 +582,7 @@
   {
     "LCELIMKLJNH": "Arataki Itto",
     "id": 4300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Itto_Circle",
+    "iconPath": "UI_AvatarIcon_Itto_Circle",
     "GDJGHFOCONI": 4300,
     "nameTextMapHash": 1439449756,
     "PMPMKOPBJHA": "Arataki Itto",
@@ -592,7 +592,7 @@
   {
     "LCELIMKLJNH": "Yun Jin",
     "id": 4400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Yunjin_Circle",
+    "iconPath": "UI_AvatarIcon_Yunjin_Circle",
     "GDJGHFOCONI": 4400,
     "nameTextMapHash": 1748326324,
     "PMPMKOPBJHA": "Yun Jin",
@@ -602,7 +602,7 @@
   {
     "LCELIMKLJNH": "Shenhe",
     "id": 4500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Shenhe_Circle",
+    "iconPath": "UI_AvatarIcon_Shenhe_Circle",
     "GDJGHFOCONI": 4500,
     "nameTextMapHash": 1379338044,
     "PMPMKOPBJHA": "Shenhe",
@@ -612,7 +612,7 @@
   {
     "LCELIMKLJNH": "Yae Miko",
     "id": 4600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Yae_Circle",
+    "iconPath": "UI_AvatarIcon_Yae_Circle",
     "GDJGHFOCONI": 4600,
     "nameTextMapHash": 45847804,
     "PMPMKOPBJHA": "Yae Miko",
@@ -622,7 +622,7 @@
   {
     "LCELIMKLJNH": "Kamisato Ayato",
     "id": 4700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ayato_Circle",
+    "iconPath": "UI_AvatarIcon_Ayato_Circle",
     "GDJGHFOCONI": 4700,
     "nameTextMapHash": 2898090420,
     "PMPMKOPBJHA": "Kamisato Ayato",
@@ -632,7 +632,7 @@
   {
     "LCELIMKLJNH": "Yelan",
     "id": 4800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Yelan_Circle",
+    "iconPath": "UI_AvatarIcon_Yelan_Circle",
     "GDJGHFOCONI": 4800,
     "nameTextMapHash": 1139213860,
     "PMPMKOPBJHA": "Yelan",
@@ -642,7 +642,7 @@
   {
     "LCELIMKLJNH": "Kuki Shinobu",
     "id": 4900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Shinobu_Circle",
+    "iconPath": "UI_AvatarIcon_Shinobu_Circle",
     "GDJGHFOCONI": 4900,
     "nameTextMapHash": 3488543924,
     "PMPMKOPBJHA": "Kuki Shinobu",
@@ -652,7 +652,7 @@
   {
     "LCELIMKLJNH": "Shikanoin Heizou",
     "id": 5000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Heizo_Circle",
+    "iconPath": "UI_AvatarIcon_Heizo_Circle",
     "GDJGHFOCONI": 5000,
     "nameTextMapHash": 2814342260,
     "PMPMKOPBJHA": "Shikanoin Heizou",
@@ -662,7 +662,7 @@
   {
     "LCELIMKLJNH": "Collei",
     "id": 5100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Collei_Circle",
+    "iconPath": "UI_AvatarIcon_Collei_Circle",
     "GDJGHFOCONI": 5100,
     "nameTextMapHash": 1985782300,
     "PMPMKOPBJHA": "Collei",
@@ -672,7 +672,7 @@
   {
     "LCELIMKLJNH": "Tighnari",
     "id": 5200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Tighnari_Circle",
+    "iconPath": "UI_AvatarIcon_Tighnari_Circle",
     "GDJGHFOCONI": 5200,
     "nameTextMapHash": 2369699668,
     "PMPMKOPBJHA": "Tighnari",
@@ -682,7 +682,7 @@
   {
     "LCELIMKLJNH": "Dori",
     "id": 5300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Dori_Circle",
+    "iconPath": "UI_AvatarIcon_Dori_Circle",
     "GDJGHFOCONI": 5300,
     "nameTextMapHash": 3746931452,
     "PMPMKOPBJHA": "Dori",
@@ -692,7 +692,7 @@
   {
     "LCELIMKLJNH": "Candace",
     "id": 5400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Candace_Circle",
+    "iconPath": "UI_AvatarIcon_Candace_Circle",
     "GDJGHFOCONI": 5400,
     "nameTextMapHash": 3874523500,
     "PMPMKOPBJHA": "Candace",
@@ -702,7 +702,7 @@
   {
     "LCELIMKLJNH": "Cyno",
     "id": 5500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Cyno_Circle",
+    "iconPath": "UI_AvatarIcon_Cyno_Circle",
     "GDJGHFOCONI": 5500,
     "nameTextMapHash": 4170326540,
     "PMPMKOPBJHA": "Cyno",
@@ -712,7 +712,7 @@
   {
     "LCELIMKLJNH": "Nilou",
     "id": 5600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Nilou_Circle",
+    "iconPath": "UI_AvatarIcon_Nilou_Circle",
     "GDJGHFOCONI": 5600,
     "nameTextMapHash": 1598209428,
     "PMPMKOPBJHA": "Nilou",
@@ -722,7 +722,7 @@
   {
     "LCELIMKLJNH": "Nahida",
     "id": 5700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Nahida_Circle",
+    "iconPath": "UI_AvatarIcon_Nahida_Circle",
     "GDJGHFOCONI": 5700,
     "nameTextMapHash": 533361044,
     "PMPMKOPBJHA": "Nahida",
@@ -732,7 +732,7 @@
   {
     "LCELIMKLJNH": "Layla",
     "id": 5800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Layla_Circle",
+    "iconPath": "UI_AvatarIcon_Layla_Circle",
     "GDJGHFOCONI": 5800,
     "nameTextMapHash": 1540669524,
     "PMPMKOPBJHA": "Layla",
@@ -742,7 +742,7 @@
   {
     "LCELIMKLJNH": "Faruzan",
     "id": 5900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Faruzan_Circle",
+    "iconPath": "UI_AvatarIcon_Faruzan_Circle",
     "GDJGHFOCONI": 5900,
     "nameTextMapHash": 1171845828,
     "PMPMKOPBJHA": "Faruzan",
@@ -752,7 +752,7 @@
   {
     "LCELIMKLJNH": "Wanderer",
     "id": 6000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Wanderer_Circle",
+    "iconPath": "UI_AvatarIcon_Wanderer_Circle",
     "GDJGHFOCONI": 6000,
     "nameTextMapHash": 3210918732,
     "PMPMKOPBJHA": "Wanderer",
@@ -762,7 +762,7 @@
   {
     "LCELIMKLJNH": "Yaoyao",
     "id": 6100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Yaoyao_Circle",
+    "iconPath": "UI_AvatarIcon_Yaoyao_Circle",
     "GDJGHFOCONI": 6100,
     "nameTextMapHash": 196788628,
     "PMPMKOPBJHA": "Yaoyao",
@@ -772,7 +772,7 @@
   {
     "LCELIMKLJNH": "Alhaitham",
     "id": 6200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Alhatham_Circle",
+    "iconPath": "UI_AvatarIcon_Alhatham_Circle",
     "GDJGHFOCONI": 6200,
     "nameTextMapHash": 984331444,
     "PMPMKOPBJHA": "Alhaitham",
@@ -782,7 +782,7 @@
   {
     "LCELIMKLJNH": "Dehya",
     "id": 6300,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Dehya_Circle",
+    "iconPath": "UI_AvatarIcon_Dehya_Circle",
     "GDJGHFOCONI": 6300,
     "nameTextMapHash": 1497016220,
     "PMPMKOPBJHA": "Dehya",
@@ -792,7 +792,7 @@
   {
     "LCELIMKLJNH": "Mika",
     "id": 6400,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Mika_Circle",
+    "iconPath": "UI_AvatarIcon_Mika_Circle",
     "GDJGHFOCONI": 6400,
     "nameTextMapHash": 2186517540,
     "PMPMKOPBJHA": "Mika",
@@ -802,7 +802,7 @@
   {
     "LCELIMKLJNH": "Kaveh",
     "id": 6500,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Kaveh_Circle",
+    "iconPath": "UI_AvatarIcon_Kaveh_Circle",
     "GDJGHFOCONI": 6500,
     "nameTextMapHash": 1467637604,
     "PMPMKOPBJHA": "Kaveh",
@@ -812,7 +812,7 @@
   {
     "LCELIMKLJNH": "Baizhu",
     "id": 6600,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Baizhuer_Circle",
+    "iconPath": "UI_AvatarIcon_Baizhuer_Circle",
     "GDJGHFOCONI": 6600,
     "nameTextMapHash": 420768780,
     "PMPMKOPBJHA": "Baizhu",
@@ -822,7 +822,7 @@
   {
     "LCELIMKLJNH": "Kirara",
     "id": 6700,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Momoka_Circle",
+    "iconPath": "UI_AvatarIcon_Momoka_Circle",
     "GDJGHFOCONI": 6700,
     "nameTextMapHash": 1129094484,
     "PMPMKOPBJHA": "Kirara",
@@ -832,7 +832,7 @@
   {
     "LCELIMKLJNH": "Lynette",
     "id": 6800,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Linette_Circle",
+    "iconPath": "UI_AvatarIcon_Linette_Circle",
     "GDJGHFOCONI": 6800,
     "nameTextMapHash": 1586137212,
     "PMPMKOPBJHA": "Lynette",
@@ -842,7 +842,7 @@
   {
     "LCELIMKLJNH": "Lyney",
     "id": 6900,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Liney_Circle",
+    "iconPath": "UI_AvatarIcon_Liney_Circle",
     "GDJGHFOCONI": 6900,
     "nameTextMapHash": 907368204,
     "PMPMKOPBJHA": "Lyney",
@@ -852,7 +852,7 @@
   {
     "LCELIMKLJNH": "Freminet",
     "id": 7000,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Freminet_Circle",
+    "iconPath": "UI_AvatarIcon_Freminet_Circle",
     "GDJGHFOCONI": 7000,
     "nameTextMapHash": 1821673276,
     "PMPMKOPBJHA": "Freminet",
@@ -862,7 +862,7 @@
   {
     "LCELIMKLJNH": "Neuvillette",
     "id": 7100,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Neuvillette_Circle",
+    "iconPath": "UI_AvatarIcon_Neuvillette_Circle",
     "GDJGHFOCONI": 7100,
     "nameTextMapHash": 3752117636,
     "PMPMKOPBJHA": "Neuvillette",
@@ -872,7 +872,7 @@
   {
     "LCELIMKLJNH": "Wriothesley",
     "id": 7200,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Wriothesley_Circle",
+    "iconPath": "UI_AvatarIcon_Wriothesley_Circle",
     "GDJGHFOCONI": 7200,
     "nameTextMapHash": 2892052,
     "PMPMKOPBJHA": "Wriothesley",
@@ -882,7 +882,7 @@
   {
     "LCELIMKLJNH": "",
     "id": 99999,
-    "HHKNLMAHBAO": "UI_AvatarIcon_Ambor_Circle",
+    "iconPath": "UI_AvatarIcon_Ambor_Circle",
     "GDJGHFOCONI": 99999,
     "nameTextMapHash": 3995351756,
     "PMPMKOPBJHA": "",

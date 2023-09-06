@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "PDHFANIOLKO": 9401,
+    "stageId": 1,
+    "dungeonId": 9401,
     "GIMCGACGMFI": [
       {
         "CDOIPGMKDFF": 1
@@ -38,8 +38,8 @@
     ],
     "KLCINHFFANE": 1,
     "HGFDOPHPHCK": 2,
-    "PNAKJFCALEO": 13155,
-    "GOMNCDKNDLG": [
+    "pushTipsID": 13155,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15159101
       },
@@ -53,14 +53,14 @@
         "CDOIPGMKDFF": 15159104
       }
     ],
-    "KJNIJNGLHDJ": 397009401,
+    "levelTitleTextMapHash": 397009401,
     "KGGEJLPHNKC": "Frenetic Explosive Shockwave",
     "EBEEIGCIBJL": 1399405786,
     "IFFDHOICLNK": "With flames and fury, the blade becomes extremely sharp and the \"high-pressure shockwave\" will further enhance its destructive power. Fully experimenting with the beneficial effects of shockwaves in combat is the focus of this test."
   },
   {
-    "AODPMHOCMJN": 2,
-    "PDHFANIOLKO": 9402,
+    "stageId": 2,
+    "dungeonId": 9402,
     "GIMCGACGMFI": [
       {
         "CDOIPGMKDFF": 9
@@ -97,8 +97,8 @@
     ],
     "KLCINHFFANE": 1,
     "HGFDOPHPHCK": 3,
-    "PNAKJFCALEO": 13155,
-    "GOMNCDKNDLG": [
+    "pushTipsID": 13155,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15159201
       },
@@ -112,14 +112,14 @@
         "CDOIPGMKDFF": 15159204
       }
     ],
-    "KJNIJNGLHDJ": 1024358857,
+    "levelTitleTextMapHash": 1024358857,
     "KGGEJLPHNKC": "Resonating Aggravated Verdance",
     "EBEEIGCIBJL": 3723969514,
     "IFFDHOICLNK": "With the aggravation of Electro, the active Dendro exhibits yet more activity. Use the \"high-pressure shockwave\" to test this reaction, and there may yet be unexpected gains..."
   },
   {
-    "AODPMHOCMJN": 3,
-    "PDHFANIOLKO": 9403,
+    "stageId": 3,
+    "dungeonId": 9403,
     "GIMCGACGMFI": [
       {
         "CDOIPGMKDFF": 1
@@ -156,8 +156,8 @@
     ],
     "KLCINHFFANE": 1,
     "HGFDOPHPHCK": 4,
-    "PNAKJFCALEO": 13155,
-    "GOMNCDKNDLG": [
+    "pushTipsID": 13155,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15159301
       },
@@ -171,14 +171,14 @@
         "CDOIPGMKDFF": 15159304
       }
     ],
-    "KJNIJNGLHDJ": 259925065,
+    "levelTitleTextMapHash": 259925065,
     "KGGEJLPHNKC": "Blazing Battle Spirit",
     "EBEEIGCIBJL": 2487033946,
     "IFFDHOICLNK": "The raging flames ignited in the \"high-pressure shockwave\" can inspire the spirit and facilitate yet greater strength. Utilizing such a property to launch an onslaught will definitely help earn valuable first-hand-data for this test..."
   },
   {
-    "AODPMHOCMJN": 4,
-    "PDHFANIOLKO": 9404,
+    "stageId": 4,
+    "dungeonId": 9404,
     "GIMCGACGMFI": [
       {
         "CDOIPGMKDFF": 23
@@ -215,8 +215,8 @@
     ],
     "KLCINHFFANE": 1,
     "HGFDOPHPHCK": 5,
-    "PNAKJFCALEO": 13155,
-    "GOMNCDKNDLG": [
+    "pushTipsID": 13155,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15159401
       },
@@ -230,14 +230,14 @@
         "CDOIPGMKDFF": 15159404
       }
     ],
-    "KJNIJNGLHDJ": 1136298945,
+    "levelTitleTextMapHash": 1136298945,
     "KGGEJLPHNKC": "Destructive High-Enthalpy Torrent",
     "EBEEIGCIBJL": 3496001714,
     "IFFDHOICLNK": "The seemingly calm water has huge, undiscovered potential. With Electro, the resultant surge of water can both destroy opposing defenses easily and enhance our strength. The test objective is to use the \"high-pressure shockwave\" to amplify this property..."
   },
   {
-    "AODPMHOCMJN": 5,
-    "PDHFANIOLKO": 9405,
+    "stageId": 5,
+    "dungeonId": 9405,
     "GIMCGACGMFI": [
       {
         "CDOIPGMKDFF": 29
@@ -274,8 +274,8 @@
     ],
     "KLCINHFFANE": 1,
     "HGFDOPHPHCK": 6,
-    "PNAKJFCALEO": 13155,
-    "GOMNCDKNDLG": [
+    "pushTipsID": 13155,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15159501
       },
@@ -289,7 +289,7 @@
         "CDOIPGMKDFF": 15159504
       }
     ],
-    "KJNIJNGLHDJ": 698551705,
+    "levelTitleTextMapHash": 698551705,
     "KGGEJLPHNKC": "Merciless Glacial Ray",
     "EBEEIGCIBJL": 3233342610,
     "IFFDHOICLNK": "With the power of Cryo, the \"high-pressure shockwave\" sharpens the blade to be as merciless as the sheer cold. Take advantage of this effect and pierce your opponent's armor in a test drive until the end of the fight!"

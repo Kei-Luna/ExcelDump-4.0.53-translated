@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "BBCCMGKPICI": 26090191,
     "KOBPPHINEHC": 36090190,
     "CDNLMIDOINA": 10,
@@ -50,7 +50,7 @@
     "MKOEEHGPFDE": "Huh... Didn't we meet this sort of Fungus a long while back? Well, let's make sure to give it a nice name!"
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "BBCCMGKPICI": 26090291,
     "KOBPPHINEHC": 36090290,
     "CDNLMIDOINA": 0,
@@ -100,7 +100,7 @@
     "MKOEEHGPFDE": "Now this is a pretty ordinary-looking Fungus, but let's give it a nice name all the same!"
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "BBCCMGKPICI": 26090391,
     "KOBPPHINEHC": 36090390,
     "CDNLMIDOINA": 0,
@@ -150,7 +150,7 @@
     "MKOEEHGPFDE": "Ooh, this one's just like Twirly-Whirly! Paimon's got a new idea coming on..."
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "BBCCMGKPICI": 26090491,
     "KOBPPHINEHC": 36090490,
     "CDNLMIDOINA": 0,
@@ -200,7 +200,7 @@
     "MKOEEHGPFDE": "This Fungus is really dangerous. It even leaves Electro behind when it runs off. What should we call it..."
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "BBCCMGKPICI": 26090591,
     "KOBPPHINEHC": 36090590,
     "CDNLMIDOINA": 0,
@@ -250,7 +250,7 @@
     "MKOEEHGPFDE": "This sort's pretty hard to catch, huh? Let's figure out what to call it, shall we?"
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "BBCCMGKPICI": 26090691,
     "KOBPPHINEHC": 36090690,
     "CDNLMIDOINA": 0,
@@ -300,7 +300,7 @@
     "MKOEEHGPFDE": "Huh, isn't this guy pretty similar to Haniyyah's Pyro-1? Let's be sure to give it a cool-sounding name!"
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "BBCCMGKPICI": 26090791,
     "KOBPPHINEHC": 36090790,
     "CDNLMIDOINA": 0,
@@ -350,7 +350,7 @@
     "MKOEEHGPFDE": "This is also a Pyro Fungus, but it's super long. Let Paimon think..."
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "BBCCMGKPICI": 26090891,
     "KOBPPHINEHC": 36090890,
     "CDNLMIDOINA": 0,
@@ -400,7 +400,7 @@
     "MKOEEHGPFDE": "A jumpy Fungus that uses Anemo... Feels kinda familiar, don't you think?"
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "BBCCMGKPICI": 26090991,
     "KOBPPHINEHC": 36090990,
     "CDNLMIDOINA": 0,
@@ -450,7 +450,7 @@
     "MKOEEHGPFDE": "This Fungus has such a big head, but it's more agile than it looks! Let's give it a unique name, shall we?"
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "BBCCMGKPICI": 26091091,
     "KOBPPHINEHC": 36091090,
     "CDNLMIDOINA": 0,

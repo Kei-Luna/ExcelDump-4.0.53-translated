@@ -2,8 +2,8 @@
   {
     "DCKCMKGGIKM": 1,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3038,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3038,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509401
       },
@@ -99,9 +99,9 @@
       }
     ],
     "CINMJGPLJKF": [],
-    "ODFPNBBMHLK": 1235606098,
+    "titleTextMapHash": 1235606098,
     "HGOJDPCKIKP": "Mora Web Castle",
-    "OCHCPNIBIPF": 2648182989,
+    "descTextMapHash": 2648182989,
     "AJGMCFNDKEG": "Oh, my! Looks like we have some bandits in the mix, attracted here by the legend of the tengu-kin. Whatever the case, the glory of the Golden Tornado shall not be dimmed by this cowardly ilk!",
     "OGDGEKMJOLF": [
       {
@@ -187,8 +187,8 @@
   {
     "DCKCMKGGIKM": 2,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3033,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3033,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509404
       },
@@ -294,9 +294,9 @@
         "CDOIPGMKDFF": 43
       }
     ],
-    "ODFPNBBMHLK": 4169217754,
+    "titleTextMapHash": 4169217754,
     "HGOJDPCKIKP": "Proof of the Man",
-    "OCHCPNIBIPF": 3652011853,
+    "descTextMapHash": 3652011853,
     "AJGMCFNDKEG": "The hilichurls making a mess inside the arena seem displeased with the constant victories won by the golden-haired warrior. They are here to prove that they are the real humans! Now then, what's the difference between human and hilichurl? We shall let the fires of battle decide!",
     "OGDGEKMJOLF": [
       {
@@ -376,8 +376,8 @@
   {
     "DCKCMKGGIKM": 3,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3034,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3034,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509407
       },
@@ -489,9 +489,9 @@
         "CDOIPGMKDFF": 48
       }
     ],
-    "ODFPNBBMHLK": 3838861770,
+    "titleTextMapHash": 3838861770,
     "HGOJDPCKIKP": "Machines' Afternoon",
-    "OCHCPNIBIPF": 1282174429,
+    "descTextMapHash": 1282174429,
     "AJGMCFNDKEG": "And in the middle of the ring we have... ancient machine relics! Amidst the hail of bullets, the beam weapons, and the high-capacity weaponry, can anything but the toughest of dojos survive? My, my, tengu-kin craftsmanship sure is impressive, huh?",
     "OGDGEKMJOLF": [
       {
@@ -562,8 +562,8 @@
   {
     "DCKCMKGGIKM": 4,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3035,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3035,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509410
       },
@@ -666,9 +666,9 @@
         "CDOIPGMKDFF": 45
       }
     ],
-    "ODFPNBBMHLK": 2931760538,
+    "titleTextMapHash": 2931760538,
     "HGOJDPCKIKP": "The Red Handkerchief",
-    "OCHCPNIBIPF": 1444664637,
+    "descTextMapHash": 1444664637,
     "AJGMCFNDKEG": "The famous (or infamous, depending on your view) desert mercenaries have somehow found their way to Inazuma, to a place where the eyes of the authorities do not reach! Um, this should count as running contraband of some kind, right? But regardless, you did cross a sea of fury...",
     "OGDGEKMJOLF": [
       {
@@ -748,8 +748,8 @@
   {
     "DCKCMKGGIKM": 5,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3036,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3036,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509413
       },
@@ -855,9 +855,9 @@
         "CDOIPGMKDFF": 22
       }
     ],
-    "ODFPNBBMHLK": 599963970,
+    "titleTextMapHash": 599963970,
     "HGOJDPCKIKP": "Dream of the Stray Dog and the Bad",
-    "OCHCPNIBIPF": 3755208093,
+    "descTextMapHash": 3755208093,
     "AJGMCFNDKEG": "Crossing the boundaries of space and time, the dark Riftwolves and the Eremites from a distant land have arrived at the Hyakunin Ikki arena! What's the meaning of this strange alliance? Well, only the heart-pounding battle sure to follow can say!",
     "OGDGEKMJOLF": [
       {
@@ -937,8 +937,8 @@
   {
     "DCKCMKGGIKM": 6,
     "CJDNKACGEHH": 5094001,
-    "PDHFANIOLKO": 3037,
-    "GOMNCDKNDLG": [
+    "dungeonId": 3037,
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1509416
       },
@@ -1047,9 +1047,9 @@
         "CDOIPGMKDFF": 23
       }
     ],
-    "ODFPNBBMHLK": 2737808074,
+    "titleTextMapHash": 2737808074,
     "HGOJDPCKIKP": "Blade of the Immortal Tengu-Kin",
-    "OCHCPNIBIPF": 2685479925,
+    "descTextMapHash": 2685479925,
     "AJGMCFNDKEG": "It is tengu-kin tradition for its members to engage in combat with one another upon locking eyes! But if you can't lock eyes, per se, locking souls will just have to do!",
     "OGDGEKMJOLF": [
       {

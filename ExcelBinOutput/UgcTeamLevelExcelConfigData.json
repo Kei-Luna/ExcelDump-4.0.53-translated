@@ -1,6 +1,6 @@
 [
   {
-    "GEGLKKJIIOG": 1,
+    "level": 1,
     "LEBCENBBCHB": 70,
     "JMEJHADAECP": [
       {
@@ -20,7 +20,7 @@
     "KPGKKJJIFFN": 0
   },
   {
-    "GEGLKKJIIOG": 2,
+    "level": 2,
     "LEBCENBBCHB": 75,
     "JMEJHADAECP": [
       {
@@ -40,7 +40,7 @@
     "KPGKKJJIFFN": 10
   },
   {
-    "GEGLKKJIIOG": 3,
+    "level": 3,
     "LEBCENBBCHB": 80,
     "JMEJHADAECP": [
       {
@@ -60,7 +60,7 @@
     "KPGKKJJIFFN": 20
   },
   {
-    "GEGLKKJIIOG": 4,
+    "level": 4,
     "LEBCENBBCHB": 85,
     "JMEJHADAECP": [
       {
@@ -80,7 +80,7 @@
     "KPGKKJJIFFN": 30
   },
   {
-    "GEGLKKJIIOG": 5,
+    "level": 5,
     "LEBCENBBCHB": 90,
     "JMEJHADAECP": [
       {

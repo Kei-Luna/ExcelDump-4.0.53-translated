@@ -2,7 +2,7 @@
   {
     "NKLFLJDJJBK": 1,
     "IMOKBFOCFOP": 97,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 1
       },
@@ -22,7 +22,7 @@
     "KLACPIPIEFP": 3660162380,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072001,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072001
       },
@@ -40,7 +40,7 @@
   {
     "NKLFLJDJJBK": 2,
     "IMOKBFOCFOP": 89,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 4
       },
@@ -60,7 +60,7 @@
     "KLACPIPIEFP": 2139440820,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072002,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072004
       },
@@ -78,7 +78,7 @@
   {
     "NKLFLJDJJBK": 3,
     "IMOKBFOCFOP": 88,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 7
       },
@@ -98,7 +98,7 @@
     "KLACPIPIEFP": 1713615188,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072003,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072007
       },
@@ -116,7 +116,7 @@
   {
     "NKLFLJDJJBK": 4,
     "IMOKBFOCFOP": 63,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 10
       },
@@ -136,7 +136,7 @@
     "KLACPIPIEFP": 3908364,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072004,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072010
       },
@@ -154,7 +154,7 @@
   {
     "NKLFLJDJJBK": 5,
     "IMOKBFOCFOP": 88,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 13
       },
@@ -174,7 +174,7 @@
     "KLACPIPIEFP": 1476137020,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072005,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072013
       },
@@ -192,7 +192,7 @@
   {
     "NKLFLJDJJBK": 6,
     "IMOKBFOCFOP": 91,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 16
       },
@@ -212,7 +212,7 @@
     "KLACPIPIEFP": 3044237172,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072006,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072016
       },
@@ -230,7 +230,7 @@
   {
     "NKLFLJDJJBK": 7,
     "IMOKBFOCFOP": 83,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 19
       },
@@ -250,7 +250,7 @@
     "KLACPIPIEFP": 3453372556,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 5072007,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15072019
       },
@@ -268,7 +268,7 @@
   {
     "NKLFLJDJJBK": 8,
     "IMOKBFOCFOP": 85,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 22
       },
@@ -288,7 +288,7 @@
     "KLACPIPIEFP": 1601178196,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020201,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020101
       },
@@ -306,7 +306,7 @@
   {
     "NKLFLJDJJBK": 9,
     "IMOKBFOCFOP": 107,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 25
       },
@@ -326,7 +326,7 @@
     "KLACPIPIEFP": 2388245092,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020202,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020104
       },
@@ -344,7 +344,7 @@
   {
     "NKLFLJDJJBK": 10,
     "IMOKBFOCFOP": 108,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 28
       },
@@ -364,7 +364,7 @@
     "KLACPIPIEFP": 1203555620,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020203,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020107
       },
@@ -382,7 +382,7 @@
   {
     "NKLFLJDJJBK": 11,
     "IMOKBFOCFOP": 124,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 31
       },
@@ -402,7 +402,7 @@
     "KLACPIPIEFP": 2900580084,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020204,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020110
       },
@@ -420,7 +420,7 @@
   {
     "NKLFLJDJJBK": 12,
     "IMOKBFOCFOP": 71,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 34
       },
@@ -440,7 +440,7 @@
     "KLACPIPIEFP": 1956175396,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020205,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020113
       },
@@ -458,7 +458,7 @@
   {
     "NKLFLJDJJBK": 13,
     "IMOKBFOCFOP": 120,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 37
       },
@@ -478,7 +478,7 @@
     "KLACPIPIEFP": 2017411820,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020206,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020116
       },
@@ -496,7 +496,7 @@
   {
     "NKLFLJDJJBK": 14,
     "IMOKBFOCFOP": 105,
-    "MGGPNIDOBGF": [
+    "levelId": [
       {
         "CDOIPGMKDFF": 40
       },
@@ -516,7 +516,7 @@
     "KLACPIPIEFP": 150621420,
     "PJJEFCJPIGH": "",
     "GIOMHFAPLMK": 2020207,
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 12020119
       },

@@ -1,6 +1,6 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 1342129575,
     "BMIOAFDIIJG": "Condensed Phlogiston",
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 4291359591,
     "BMIOAFDIIJG": "Aggressive Deflection",
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 2826437151,
     "BMIOAFDIIJG": "Energetic Medium",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 2446367207,
     "BMIOAFDIIJG": "Focusing Swirl",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 5,
+    "id": 5,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 104417447,
     "BMIOAFDIIJG": "Sturdy Morale",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 6,
+    "id": 6,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 2029771335,
     "BMIOAFDIIJG": "Robust Rebuilding",
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 7,
+    "id": 7,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 1995020087,
     "BMIOAFDIIJG": "Defensive Counterattack",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 8,
+    "id": 8,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 1703871951,
     "BMIOAFDIIJG": "Thriving Vitality",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 9,
+    "id": 9,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 3772300271,
     "BMIOAFDIIJG": "Pressurizing Vortex",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 10,
+    "id": 10,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 2637046159,
     "BMIOAFDIIJG": "Lone Warrior",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 11,
+    "id": 11,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 1863682959,
     "BMIOAFDIIJG": "Major Strike",
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 12,
+    "id": 12,
     "GAENBPHLPIK": 1,
     "DEIOBNCDBHK": 1298223927,
     "BMIOAFDIIJG": "Inexorable Barrage",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 101,
+    "id": 101,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 4282415831,
     "BMIOAFDIIJG": "Enter the Supremo",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 102,
+    "id": 102,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 608903895,
     "BMIOAFDIIJG": "Tough Defense",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 103,
+    "id": 103,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 3706433831,
     "BMIOAFDIIJG": "Spherical Iceberg",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 104,
+    "id": 104,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 4274891527,
     "BMIOAFDIIJG": "Bitter Cold",
@@ -240,7 +240,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 105,
+    "id": 105,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 3856761639,
     "BMIOAFDIIJG": "Organized Offense",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 106,
+    "id": 106,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 1504369015,
     "BMIOAFDIIJG": "Rapid Raid",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 107,
+    "id": 107,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 1484155639,
     "BMIOAFDIIJG": "All-Round Assault",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 108,
+    "id": 108,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 4136490447,
     "BMIOAFDIIJG": "Clinging Combustion",
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 109,
+    "id": 109,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 1257824775,
     "BMIOAFDIIJG": "Stern Hostility",
@@ -315,7 +315,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 110,
+    "id": 110,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 3497302119,
     "BMIOAFDIIJG": "Sustained Aggression",
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 111,
+    "id": 111,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 4086571575,
     "BMIOAFDIIJG": "Rolling Reinforcements",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 112,
+    "id": 112,
     "GAENBPHLPIK": 2,
     "DEIOBNCDBHK": 4169488175,
     "BMIOAFDIIJG": "Terrain Constraints",

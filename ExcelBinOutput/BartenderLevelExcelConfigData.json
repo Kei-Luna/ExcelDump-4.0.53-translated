@@ -1,11 +1,11 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "GLIALHMPJCP": 224439824,
+    "id": 1,
+    "levelNameTextMapHash": 224439824,
     "JDNCJPOGDKN": "10/10 Would Drink Again",
     "CPNFBJCOMDF": 4,
     "LOHAAONPIKI": 20,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15062011
       },
@@ -20,12 +20,12 @@
     "IFFDHOICLNK": "Some customers eager to try the Angel's Share popular brews have arrived at the tavern..."
   },
   {
-    "PGKNKBKHCHM": 2,
-    "GLIALHMPJCP": 1120699320,
+    "id": 2,
+    "levelNameTextMapHash": 1120699320,
     "JDNCJPOGDKN": "The Pinnacle of Etiquette",
     "CPNFBJCOMDF": 4,
     "LOHAAONPIKI": 20,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15062021
       },
@@ -40,12 +40,12 @@
     "IFFDHOICLNK": "\"Ugh, there are so many orders today. Why don't we tell the customers that we're all out of ingredients?\"\\n\"Sure. But if we're all out, that means no drinking for you either, Paimon.\"\\n\"Eh!? Why!?\""
   },
   {
-    "PGKNKBKHCHM": 3,
-    "GLIALHMPJCP": 1265087192,
+    "id": 3,
+    "levelNameTextMapHash": 1265087192,
     "JDNCJPOGDKN": "First-Class Service",
     "CPNFBJCOMDF": 5,
     "LOHAAONPIKI": 20,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15062031
       },
@@ -60,12 +60,12 @@
     "IFFDHOICLNK": "More customers arrive at the Angel's Share. Their preferences can be quite... tricky."
   },
   {
-    "PGKNKBKHCHM": 4,
-    "GLIALHMPJCP": 1644740232,
+    "id": 4,
+    "levelNameTextMapHash": 1644740232,
     "JDNCJPOGDKN": "The Perfect Bartender",
     "CPNFBJCOMDF": 5,
     "LOHAAONPIKI": 20,
-    "LHHDPELMHLH": [
+    "watcherIdList": [
       {
         "CDOIPGMKDFF": 15062041
       },

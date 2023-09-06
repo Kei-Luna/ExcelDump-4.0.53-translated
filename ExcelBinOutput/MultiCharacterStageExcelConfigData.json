@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "LOGBHLAFFJA": 1,
+    "stageId": 1,
+    "openDay": 1,
     "IEMMAEDPAGB": [
       {
         "dungeonId": 3086
@@ -16,7 +16,7 @@
         "dungeonId": 3089
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15140101
       },
@@ -219,8 +219,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 2,
-    "LOGBHLAFFJA": 2,
+    "stageId": 2,
+    "openDay": 2,
     "IEMMAEDPAGB": [
       {
         "dungeonId": 3078
@@ -235,7 +235,7 @@
         "dungeonId": 3081
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15140201
       },
@@ -438,8 +438,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 3,
-    "LOGBHLAFFJA": 3,
+    "stageId": 3,
+    "openDay": 3,
     "IEMMAEDPAGB": [
       {
         "dungeonId": 3082
@@ -454,7 +454,7 @@
         "dungeonId": 3085
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15140301
       },
@@ -657,8 +657,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 4,
-    "LOGBHLAFFJA": 4,
+    "stageId": 4,
+    "openDay": 4,
     "IEMMAEDPAGB": [
       {
         "dungeonId": 3074
@@ -673,7 +673,7 @@
         "dungeonId": 3077
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15140401
       },
@@ -876,8 +876,8 @@
     ]
   },
   {
-    "AODPMHOCMJN": 5,
-    "LOGBHLAFFJA": 5,
+    "stageId": 5,
+    "openDay": 5,
     "IEMMAEDPAGB": [
       {
         "dungeonId": 3090
@@ -892,7 +892,7 @@
         "dungeonId": 3093
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15140501
       },

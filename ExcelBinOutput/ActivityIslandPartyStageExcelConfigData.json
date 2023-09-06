@@ -1,20 +1,20 @@
 [
   {
-    "PGKNKBKHCHM": 1,
+    "id": 1,
     "BCOCAAFBJOD": 3,
-    "BCJEBPNJNLN": 21300,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5005,
+    "galleryId": 21300,
+    "matchId": 1003,
+    "draftId": 5005,
     "CPNFBJCOMDF": 1,
-    "ODFPNBBMHLK": 3795947694,
+    "titleTextMapHash": 3795947694,
     "HGOJDPCKIKP": "Descent: Dual Pressures",
-    "OCHCPNIBIPF": 1004451691,
+    "descTextMapHash": 1004451691,
     "AJGMCFNDKEG": "Adventurers who have mastered their wind gliders are able to channel the force of their plunges and gain the advantage in battle.\\nUse Plunging Attacks to quickly defeat opponents on the floating platforms. Plunge your way through to the sea surface below you!",
     "AGLGBCBALCH": 3446929201,
     "GIECKJGEMHF": "Defeat all opponents on the floating platforms below",
     "OGHPBCEMJNA": 758522088,
     "PBAAFNKMOLC": "Use the Aegis of Descent buff to fight more efficiently",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083001
       },
@@ -57,24 +57,24 @@
         "CDOIPGMKDFF": 74
       }
     ],
-    "PNAKJFCALEO": 6066
+    "pushTipsID": 6066
   },
   {
-    "PGKNKBKHCHM": 2,
+    "id": 2,
     "BCOCAAFBJOD": 3,
-    "BCJEBPNJNLN": 21301,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5006,
+    "galleryId": 21301,
+    "matchId": 1003,
+    "draftId": 5006,
     "CPNFBJCOMDF": 2,
-    "ODFPNBBMHLK": 2736104230,
+    "titleTextMapHash": 2736104230,
     "HGOJDPCKIKP": "Descent: High-Pressure Lightning Strike",
-    "OCHCPNIBIPF": 3852244179,
+    "descTextMapHash": 3852244179,
     "AJGMCFNDKEG": "Guarding against attacks from above has always been a challenging affair. Plan your attack routes wisely and you shall be able to defeat a great number of opponents within a short period of time.\\nUse Plunging Attacks to quickly defeat opponents on the floating platforms. Time to plunge your way through to the sea surface below you!",
     "AGLGBCBALCH": 3491836313,
     "GIECKJGEMHF": "Defeat all opponents on the floating platforms below",
     "OGHPBCEMJNA": 2539321984,
     "PBAAFNKMOLC": "Use the Aegis of Descent buff to fight more efficiently",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083004
       },
@@ -117,24 +117,24 @@
         "CDOIPGMKDFF": 102
       }
     ],
-    "PNAKJFCALEO": 6066
+    "pushTipsID": 6066
   },
   {
-    "PGKNKBKHCHM": 3,
+    "id": 3,
     "BCOCAAFBJOD": 2,
-    "BCJEBPNJNLN": 21200,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5003,
+    "galleryId": 21200,
+    "matchId": 1003,
+    "draftId": 5003,
     "CPNFBJCOMDF": 3,
-    "ODFPNBBMHLK": 159373094,
+    "titleTextMapHash": 159373094,
     "HGOJDPCKIKP": "Raid: Swift Assault",
-    "OCHCPNIBIPF": 2776744779,
+    "descTextMapHash": 2776744779,
     "AJGMCFNDKEG": "Attack with surprise to catch your opponents off guard. Make use of the Waverider's high speed and your opponents may find themselves too slow to react...\\nSail the Waverider to the Mooring Points, board the floating platforms using wind currents, and defeat the opponents quickly to complete challenges.",
     "AGLGBCBALCH": 25690529,
     "GIECKJGEMHF": "Navigate your Waverider to your destination and defeat all opponents on the floating platforms",
     "OGHPBCEMJNA": 2295843584,
     "PBAAFNKMOLC": "Work in a team and activate wind currents quickly to shorten challenge time",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083007
       },
@@ -174,24 +174,24 @@
         "CDOIPGMKDFF": 64
       }
     ],
-    "PNAKJFCALEO": 6065
+    "pushTipsID": 6065
   },
   {
-    "PGKNKBKHCHM": 4,
+    "id": 4,
     "BCOCAAFBJOD": 2,
-    "BCJEBPNJNLN": 21201,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5004,
+    "galleryId": 21201,
+    "matchId": 1003,
+    "draftId": 5004,
     "CPNFBJCOMDF": 4,
-    "ODFPNBBMHLK": 2413789134,
+    "titleTextMapHash": 2413789134,
     "HGOJDPCKIKP": "Raid: Joined Forces",
-    "OCHCPNIBIPF": 555528315,
+    "descTextMapHash": 555528315,
     "AJGMCFNDKEG": "To defeat scattered opponents efficiently, it is crucial to assign a target to each team member appropriately.\\nSail the Waverider to the Mooring Points, board the floating platforms with wind currents, and defeat the opponents quickly to complete challenges.",
     "AGLGBCBALCH": 2320296633,
     "GIECKJGEMHF": "Navigate your Waverider to your destination and defeat all opponents on the floating platforms",
     "OGHPBCEMJNA": 2720991504,
     "PBAAFNKMOLC": "Work in a team and activate wind currents quickly to shorten challenge time",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083010
       },
@@ -231,24 +231,24 @@
         "CDOIPGMKDFF": 92
       }
     ],
-    "PNAKJFCALEO": 6065
+    "pushTipsID": 6065
   },
   {
-    "PGKNKBKHCHM": 5,
-    "BCOCAAFBJOD": 1,
-    "BCJEBPNJNLN": 21101,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5002,
+    "id": 5,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
+    "galleryId": 21101,
+    "matchId": 1003,
+    "draftId": 5002,
     "CPNFBJCOMDF": 5,
-    "ODFPNBBMHLK": 1488609238,
+    "titleTextMapHash": 1488609238,
     "HGOJDPCKIKP": "Convoy: Breakout Operation",
-    "OCHCPNIBIPF": 3126764835,
+    "descTextMapHash": 3126764835,
     "AJGMCFNDKEG": "To break out of the heavy hostile encirclement safely, adventurers must collaborate closely to organize flexible offensives and defenses.\\nDuring the challenge, the Driftstone Raft will continuously consume Drift Energy as it sails towards its destination. Protect the raft and prevent opponents from destroying it.",
     "AGLGBCBALCH": 61245105,
     "GIECKJGEMHF": "Escort the Driftstone Raft to its destination",
     "OGHPBCEMJNA": 1895793616,
     "PBAAFNKMOLC": "Pay attention to the HP of Driftstone Raft and replenish Drift Energy in time",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083013
       },
@@ -288,24 +288,24 @@
         "CDOIPGMKDFF": 83
       }
     ],
-    "PNAKJFCALEO": 6064
+    "pushTipsID": 6064
   },
   {
-    "PGKNKBKHCHM": 6,
-    "BCOCAAFBJOD": 1,
-    "BCJEBPNJNLN": 21100,
-    "IFIPBOACMBI": 1003,
-    "KJEIIDAPBOO": 5001,
+    "id": 6,
+    "CNAMGFLGNPF": "STAGE_TYPE_NORMAL",
+    "galleryId": 21100,
+    "matchId": 1003,
+    "draftId": 5001,
     "CPNFBJCOMDF": 6,
-    "ODFPNBBMHLK": 3233767438,
+    "titleTextMapHash": 3233767438,
     "HGOJDPCKIKP": "Convoy: Steady Progress",
-    "OCHCPNIBIPF": 3509846667,
+    "descTextMapHash": 3509846667,
     "AJGMCFNDKEG": "For adventurers, being able to conduct quick raids over a long distance using a certain method of transportation has always been an indispensable skill.\\nDuring the challenge, the Driftstone Raft will continuously consume Drift Energy as it sails towards the destination. Protect the raft and prevent the opponents from destroying it!",
     "AGLGBCBALCH": 1534851665,
     "GIECKJGEMHF": "Escort the Driftstone Raft to its destination",
     "OGHPBCEMJNA": 981613112,
     "PBAAFNKMOLC": "Pay attention to the HP of Driftstone Raft and replenish Drift Energy in time",
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 15083016
       },
@@ -345,6 +345,6 @@
         "CDOIPGMKDFF": 55
       }
     ],
-    "PNAKJFCALEO": 6064
+    "pushTipsID": 6064
   }
 ]

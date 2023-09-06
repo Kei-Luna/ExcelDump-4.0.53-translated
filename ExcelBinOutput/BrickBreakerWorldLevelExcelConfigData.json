@@ -1,8 +1,8 @@
 [
   {
-    "PGKNKBKHCHM": 100101,
+    "id": 100101,
     "KAEJCCKHPIN": 1001,
-    "KJEIIDAPBOO": 7001,
+    "draftId": 7001,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -23,12 +23,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30001,
-    "KJNIJNGLHDJ": 766891929,
+    "galleryId": 30001,
+    "levelTitleTextMapHash": 766891929,
     "KGGEJLPHNKC": "Crunchy Sakura Mochi",
     "ONDHPPCMPFB": 4169195275,
     "LNMFCELDALO": "Crunchy Sakura Mochi",
-    "FFBHECLIMOH": 2397756878,
+    "levelDescTextMapHash": 2397756878,
     "OGHIHPCCIHM": "An Electro brick-themed Akitsu Yuugei challenge. The spread of purple bricks makes the layout resemble neatly-sliced Sakura Mochi. From the crackling sound when you shatter the bricks, you can just imagine this to be one tasty pastry!",
     "COAABDENEMD": 12953459913399673000,
     "KFPBKGKLODA": [
@@ -66,9 +66,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 100102,
+    "id": 100102,
     "KAEJCCKHPIN": 1002,
-    "KJEIIDAPBOO": 7003,
+    "draftId": 7003,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -89,12 +89,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30002,
-    "KJNIJNGLHDJ": 3685856641,
+    "galleryId": 30002,
+    "levelTitleTextMapHash": 3685856641,
     "KGGEJLPHNKC": "Men-Mayhem",
     "ONDHPPCMPFB": 45687763,
     "LNMFCELDALO": "Men-Mayhem",
-    "FFBHECLIMOH": 2859635414,
+    "levelDescTextMapHash": 2859635414,
     "OGHIHPCCIHM": "A Hydro brick-themed Akitsu Yuugei challenge. The brick arrangement looks like stretched noodles. Its designer might've even taken direct inspiration from the ramen they were eating!",
     "COAABDENEMD": 15553870734872668000,
     "KFPBKGKLODA": [
@@ -135,9 +135,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 100201,
+    "id": 100201,
     "KAEJCCKHPIN": 1001,
-    "KJEIIDAPBOO": 7002,
+    "draftId": 7002,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -158,12 +158,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30007,
-    "KJNIJNGLHDJ": 2321720489,
+    "galleryId": 30007,
+    "levelTitleTextMapHash": 2321720489,
     "KGGEJLPHNKC": "Crunchy Sakura Mochi",
     "ONDHPPCMPFB": 2321713523,
     "LNMFCELDALO": "Crunchy Sakura Mochi",
-    "FFBHECLIMOH": 3003308622,
+    "levelDescTextMapHash": 3003308622,
     "OGHIHPCCIHM": "An Electro brick-themed Akitsu Yuugei challenge. The spread of purple bricks makes the layout resemble neatly-sliced Sakura Mochi. From the crackling sound when you shatter the bricks, you can just imagine this to be one tasty pastry!",
     "COAABDENEMD": 473375181348640800,
     "KFPBKGKLODA": [
@@ -201,9 +201,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 100202,
+    "id": 100202,
     "KAEJCCKHPIN": 1002,
-    "KJEIIDAPBOO": 7004,
+    "draftId": 7004,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -224,12 +224,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30008,
-    "KJNIJNGLHDJ": 2899546609,
+    "galleryId": 30008,
+    "levelTitleTextMapHash": 2899546609,
     "KGGEJLPHNKC": "Men-Mayhem",
     "ONDHPPCMPFB": 478107163,
     "LNMFCELDALO": "Men-Mayhem",
-    "FFBHECLIMOH": 1766285718,
+    "levelDescTextMapHash": 1766285718,
     "OGHIHPCCIHM": "A Hydro brick-themed Akitsu Yuugei challenge. The brick arrangement looks like stretched noodles. Its designer might've even taken direct inspiration from the ramen they were eating!",
     "COAABDENEMD": 1072175895281979000,
     "KFPBKGKLODA": [
@@ -270,9 +270,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 200101,
+    "id": 200101,
     "KAEJCCKHPIN": 2001,
-    "KJEIIDAPBOO": 7005,
+    "draftId": 7005,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -293,12 +293,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30003,
-    "KJNIJNGLHDJ": 3065120033,
+    "galleryId": 30003,
+    "levelTitleTextMapHash": 3065120033,
     "KGGEJLPHNKC": "Incandescent Tempura",
     "ONDHPPCMPFB": 2170062459,
     "LNMFCELDALO": "Incandescent Tempura",
-    "FFBHECLIMOH": 1781051814,
+    "levelDescTextMapHash": 1781051814,
     "OGHIHPCCIHM": "A Pyro brick-themed Akitsu Yuugei challenge. The bricks, at first glance, look like multiple sticks of incense, while also resembling a dish of tempura with both its ends dipped in red jam. To some extent, these visuals do share a common sense of satisfaction...",
     "COAABDENEMD": 17045752301280756000,
     "KFPBKGKLODA": [
@@ -336,9 +336,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 200102,
+    "id": 200102,
     "KAEJCCKHPIN": 2002,
-    "KJEIIDAPBOO": 7007,
+    "draftId": 7007,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -359,12 +359,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30004,
-    "KJNIJNGLHDJ": 3256905721,
+    "galleryId": 30004,
+    "levelTitleTextMapHash": 3256905721,
     "KGGEJLPHNKC": "Ice in the Miso",
     "ONDHPPCMPFB": 438226115,
     "LNMFCELDALO": "Ice in the Miso",
-    "FFBHECLIMOH": 3742008518,
+    "levelDescTextMapHash": 3742008518,
     "OGHIHPCCIHM": "A Cryo brick-themed Akitsu Yuugei challenge. The layout of the board here resembles an ever spinning bowl of miso soup with floating icebergs dotting its expanse. The taste must be heavenly...",
     "COAABDENEMD": 14972775923336446000,
     "KFPBKGKLODA": [
@@ -405,9 +405,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 200201,
+    "id": 200201,
     "KAEJCCKHPIN": 2001,
-    "KJEIIDAPBOO": 7006,
+    "draftId": 7006,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -428,12 +428,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30009,
-    "KJNIJNGLHDJ": 3589244857,
+    "galleryId": 30009,
+    "levelTitleTextMapHash": 3589244857,
     "KGGEJLPHNKC": "Incandescent Tempura",
     "ONDHPPCMPFB": 2220546923,
     "LNMFCELDALO": "Incandescent Tempura",
-    "FFBHECLIMOH": 2858049758,
+    "levelDescTextMapHash": 2858049758,
     "OGHIHPCCIHM": "A Pyro brick-themed Akitsu Yuugei challenge. The bricks, at first glance, look like multiple sticks of incense, while also resembling a dish of tempura with both its ends dipped in red jam. To some extent, these visuals do share a common sense of satisfaction...",
     "COAABDENEMD": 6407446603906336000,
     "KFPBKGKLODA": [
@@ -474,9 +474,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 200202,
+    "id": 200202,
     "KAEJCCKHPIN": 2002,
-    "KJEIIDAPBOO": 7008,
+    "draftId": 7008,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -497,12 +497,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30010,
-    "KJNIJNGLHDJ": 2948598441,
+    "galleryId": 30010,
+    "levelTitleTextMapHash": 2948598441,
     "KGGEJLPHNKC": "Ice in the Miso",
     "ONDHPPCMPFB": 2030084219,
     "LNMFCELDALO": "Ice in the Miso",
-    "FFBHECLIMOH": 539595478,
+    "levelDescTextMapHash": 539595478,
     "OGHIHPCCIHM": "A Cryo brick-themed Akitsu Yuugei challenge. The layout of the board here resembles an ever spinning bowl of miso soup with floating icebergs dotting its expanse. The taste must be heavenly...",
     "COAABDENEMD": 11375284086861804000,
     "KFPBKGKLODA": [
@@ -543,9 +543,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 200401,
+    "id": 200401,
     "KAEJCCKHPIN": 0,
-    "KJEIIDAPBOO": 0,
+    "draftId": 0,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": true,
     "AHGKNOEFHLP": 600,
@@ -566,12 +566,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30023,
-    "KJNIJNGLHDJ": 3374005529,
+    "galleryId": 30023,
+    "levelTitleTextMapHash": 3374005529,
     "KGGEJLPHNKC": "Akitsu Yuugei",
     "ONDHPPCMPFB": 566239667,
     "LNMFCELDALO": "Akitsu Yuugei",
-    "FFBHECLIMOH": 4247452726,
+    "levelDescTextMapHash": 4247452726,
     "OGHIHPCCIHM": "",
     "COAABDENEMD": 11614790325332558000,
     "KFPBKGKLODA": [
@@ -612,9 +612,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 300101,
+    "id": 300101,
     "KAEJCCKHPIN": 3001,
-    "KJEIIDAPBOO": 7009,
+    "draftId": 7009,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -635,12 +635,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30005,
-    "KJNIJNGLHDJ": 3256387265,
+    "galleryId": 30005,
+    "levelTitleTextMapHash": 3256387265,
     "KGGEJLPHNKC": "Tricolor Dango Sweetness",
     "ONDHPPCMPFB": 427709075,
     "LNMFCELDALO": "Tricolor Dango Sweetness",
-    "FFBHECLIMOH": 4241368966,
+    "levelDescTextMapHash": 4241368966,
     "OGHIHPCCIHM": "An Akitsu Yuugei challenge that instills a great many Elemental effects into the bricks, making the environment of the board look akin to a yet-skewered tricolor dango mixed in with a few pieces of candy. The experience is guaranteed to be as sweet as it looks!",
     "COAABDENEMD": 15120140429738779000,
     "KFPBKGKLODA": [
@@ -687,9 +687,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 300102,
+    "id": 300102,
     "KAEJCCKHPIN": 3002,
-    "KJEIIDAPBOO": 7011,
+    "draftId": 7011,
     "KHNBLAEEHDE": false,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 600,
@@ -710,12 +710,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30006,
-    "KJNIJNGLHDJ": 1306027361,
+    "galleryId": 30006,
+    "levelTitleTextMapHash": 1306027361,
     "KGGEJLPHNKC": "Elemental Jumbo",
     "ONDHPPCMPFB": 1531510555,
     "LNMFCELDALO": "Elemental Jumbo",
-    "FFBHECLIMOH": 3149372710,
+    "levelDescTextMapHash": 3149372710,
     "OGHIHPCCIHM": "An Akitsu Yuugei challenge that instills a great many Elemental effects into the bricks and threatens to overwhelm the senses in a kaleidoscope of colors. When your Skill-Ball strikes a target, a wondrous chain reaction is sure to occur...",
     "COAABDENEMD": 2015859845744003000,
     "KFPBKGKLODA": [
@@ -762,9 +762,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 300201,
+    "id": 300201,
     "KAEJCCKHPIN": 3001,
-    "KJEIIDAPBOO": 7010,
+    "draftId": 7010,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -785,12 +785,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30011,
-    "KJNIJNGLHDJ": 2711257489,
+    "galleryId": 30011,
+    "levelTitleTextMapHash": 2711257489,
     "KGGEJLPHNKC": "Tricolor Dango Sweetness",
     "ONDHPPCMPFB": 2004345243,
     "LNMFCELDALO": "Tricolor Dango Sweetness",
-    "FFBHECLIMOH": 1370166134,
+    "levelDescTextMapHash": 1370166134,
     "OGHIHPCCIHM": "An Akitsu Yuugei challenge that instills a great many Elemental effects into the bricks, making the environment of the board look akin to a yet-skewered tricolor dango mixed in with a few pieces of candy. The experience is guaranteed to be as sweet as it looks!",
     "COAABDENEMD": 7883326806201054000,
     "KFPBKGKLODA": [
@@ -840,9 +840,9 @@
     ]
   },
   {
-    "PGKNKBKHCHM": 300202,
+    "id": 300202,
     "KAEJCCKHPIN": 3002,
-    "KJEIIDAPBOO": 7012,
+    "draftId": 7012,
     "KHNBLAEEHDE": true,
     "HGJHJOKAGAH": false,
     "AHGKNOEFHLP": 150,
@@ -863,12 +863,12 @@
         "CDOIPGMKDFF": 10
       }
     ],
-    "BCJEBPNJNLN": 30012,
-    "KJNIJNGLHDJ": 848295953,
+    "galleryId": 30012,
+    "levelTitleTextMapHash": 848295953,
     "KGGEJLPHNKC": "Elemental Jumbo",
     "ONDHPPCMPFB": 2671373731,
     "LNMFCELDALO": "Elemental Jumbo",
-    "FFBHECLIMOH": 264739918,
+    "levelDescTextMapHash": 264739918,
     "OGHIHPCCIHM": "An Akitsu Yuugei challenge that instills a great many Elemental effects into the bricks and threatens to overwhelm the senses in a kaleidoscope of colors. When your Skill-Ball strikes a target, a wondrous chain reaction is sure to occur...",
     "COAABDENEMD": 10898916837785276000,
     "KFPBKGKLODA": [

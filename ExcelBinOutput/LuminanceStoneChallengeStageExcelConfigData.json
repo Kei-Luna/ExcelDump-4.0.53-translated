@@ -1,7 +1,7 @@
 [
   {
-    "AODPMHOCMJN": 1,
-    "ELNMEKONEEN": 1,
+    "stageId": 1,
+    "dayIndex": 1,
     "BOFCOLHFDPC": 726495150,
     "HPEDKPFPEKN": "Transportation Test",
     "OLNBBCBCINB": 3131143440,
@@ -24,7 +24,7 @@
         "CDOIPGMKDFF": 5079029
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1507901
       }
@@ -38,11 +38,11 @@
       }
     ],
     "GNGDDPKDDDK": 50790101,
-    "PNAKJFCALEO": 11054
+    "pushTipsID": 11054
   },
   {
-    "AODPMHOCMJN": 2,
-    "ELNMEKONEEN": 2,
+    "stageId": 2,
+    "dayIndex": 2,
     "BOFCOLHFDPC": 2959184374,
     "HPEDKPFPEKN": "Automated Charging",
     "OLNBBCBCINB": 1955363912,
@@ -65,7 +65,7 @@
         "CDOIPGMKDFF": 5079030
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1507902
       }
@@ -79,11 +79,11 @@
       }
     ],
     "GNGDDPKDDDK": 50790102,
-    "PNAKJFCALEO": 11055
+    "pushTipsID": 11055
   },
   {
-    "AODPMHOCMJN": 3,
-    "ELNMEKONEEN": 3,
+    "stageId": 3,
+    "dayIndex": 3,
     "BOFCOLHFDPC": 1673221838,
     "HPEDKPFPEKN": "Circulation Theory",
     "OLNBBCBCINB": 4038672088,
@@ -106,7 +106,7 @@
         "CDOIPGMKDFF": 5079031
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1507903
       }
@@ -120,11 +120,11 @@
       }
     ],
     "GNGDDPKDDDK": 50790103,
-    "PNAKJFCALEO": 11056
+    "pushTipsID": 11056
   },
   {
-    "AODPMHOCMJN": 4,
-    "ELNMEKONEEN": 4,
+    "stageId": 4,
+    "dayIndex": 4,
     "BOFCOLHFDPC": 990204454,
     "HPEDKPFPEKN": "Emergency Escort",
     "OLNBBCBCINB": 1219300432,
@@ -147,7 +147,7 @@
         "CDOIPGMKDFF": 5079032
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1507904
       }
@@ -161,11 +161,11 @@
       }
     ],
     "GNGDDPKDDDK": 50790104,
-    "PNAKJFCALEO": 11057
+    "pushTipsID": 11057
   },
   {
-    "AODPMHOCMJN": 5,
-    "ELNMEKONEEN": 5,
+    "stageId": 5,
+    "dayIndex": 5,
     "BOFCOLHFDPC": 3801696622,
     "HPEDKPFPEKN": "Continued Cleanup",
     "OLNBBCBCINB": 3694070072,
@@ -188,7 +188,7 @@
         "CDOIPGMKDFF": 5079033
       }
     ],
-    "GOMNCDKNDLG": [
+    "watcherList": [
       {
         "CDOIPGMKDFF": 1507905
       },
@@ -208,6 +208,6 @@
       }
     ],
     "GNGDDPKDDDK": 50790105,
-    "PNAKJFCALEO": 11058
+    "pushTipsID": 11058
   }
 ]

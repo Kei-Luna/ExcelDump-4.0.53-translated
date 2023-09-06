@@ -10,8 +10,8 @@
       "20",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_01",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_01",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   },
   {
@@ -25,8 +25,8 @@
       "",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_02",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_02",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   },
   {
@@ -40,8 +40,8 @@
       "",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_03",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_03",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   },
   {
@@ -55,8 +55,8 @@
       "",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_04",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_04",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   },
   {
@@ -70,8 +70,8 @@
       "",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_05",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_05",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   },
   {
@@ -85,8 +85,8 @@
       "20",
       ""
     ],
-    "HHKNLMAHBAO": "UI_Activity_MichiaeMatsuri_Buff_06",
-    "ECDEIIONFFL": 101693,
+    "iconPath": "UI_Activity_MichiaeMatsuri_Buff_06",
+    "materialId": 101693,
     "DLFMGLGGJKB": 1
   }
 ]

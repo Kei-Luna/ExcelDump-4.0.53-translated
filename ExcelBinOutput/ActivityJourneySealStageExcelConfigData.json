@@ -1,7 +1,7 @@
 [
   {
-    "PGKNKBKHCHM": 1,
-    "LOGBHLAFFJA": 1,
+    "id": 1,
+    "openDay": 1,
     "DHGFIEJOMGD": 1,
     "BILABGBIIOB": 2015040,
     "OLLGNPHOGKM": 12022101,
@@ -13,8 +13,8 @@
     "KMIPFBAGLPK": "Complete Scenic Tour: Dawn Winery"
   },
   {
-    "PGKNKBKHCHM": 2,
-    "LOGBHLAFFJA": 3,
+    "id": 2,
+    "openDay": 3,
     "DHGFIEJOMGD": 2,
     "BILABGBIIOB": 2015042,
     "OLLGNPHOGKM": 12022102,
@@ -26,8 +26,8 @@
     "KMIPFBAGLPK": "Complete Security Tour: Stonehide Encounter"
   },
   {
-    "PGKNKBKHCHM": 3,
-    "LOGBHLAFFJA": 5,
+    "id": 3,
+    "openDay": 5,
     "DHGFIEJOMGD": 3,
     "BILABGBIIOB": 2015041,
     "OLLGNPHOGKM": 12022103,
@@ -39,8 +39,8 @@
     "KMIPFBAGLPK": "Complete Scenic Tour: Grand Narukami Shrine"
   },
   {
-    "PGKNKBKHCHM": 4,
-    "LOGBHLAFFJA": 7,
+    "id": 4,
+    "openDay": 7,
     "DHGFIEJOMGD": 4,
     "BILABGBIIOB": 2015043,
     "OLLGNPHOGKM": 12022104,
